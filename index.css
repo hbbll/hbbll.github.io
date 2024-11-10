@@ -1,5 +1,18 @@
 * {
+	margin: 0;
 	padding: 0;
-	margin: auto;
-	text-align: center;
+	box-sizing: border-box;
+}
+
+body {
+	display: flex;
+	justify-content: center; /* Centers content horizontally */
+	align-items: center; /* Centers content vertically */
+	min-height: 100vh; /* Full viewport height */
+	text-align: center; /* Centers text */
+	margin: 0; /* Removes default body margin */
+}
+
+h1, b, p {
+	margin-bottom: 1rem; /* Adds some space between elements */
 }

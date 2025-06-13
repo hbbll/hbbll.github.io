@@ -1,0 +1,198 @@
+bu shakllanayotgan tranzaktsiyalar bloklaridan iborat ma'lum qoidalarga muvofiq qurilgan zanjirdir
+barcha ma’lumotlar ketma-ket qayd qilinadigan va bloklar bo‘yicha joylashtiriladigan taqsimlangan ma’lumotlar reestri, bunda har bir yangi blok oldingi blokka kriptografik imzo orqali bog‘lanadi;
+Ma'lumotlarni tarqalishiga ko’ra ularni saqlash xavfsizligi ; Moliyaviy va vaqt xarajatlarining kamayishi; Masofaviy va mustaqil manbalardan olingan ma'lumotlarning haqiqiyligi; Tarmoq ishtirokchilarining Tranzaktsiyalar to'g'risidagi ma'lumotlarning ochiqligi va ma'lumotlarning shaxsga bog’liqsizligi (ishtirokisiz) maxfiyligi
+Blokcheyn bo'yicha tranzaktsiyalar me’yoriy-huquqiy baza bilan tartibga solinmaydi; Blockchain bozori shakllanish bosqichida turibdi, savdo maydonchalarini buzish holatlarining sodir bo’lishi; Tizim foydalanuvchilari tomonidan tasdiqlanganidan keyin tranzaktsiyalarni bekor qilish mumkin emas.
+3 ta
+bu valyutalar (kripto-valyutalar moliyaviy tranzaktsiyalar bilan bog'liq turli xil dasturlarda, masalan, pul o’tkazish tizimlarida va raqamli to'lovlarda qo'llaniladi);
+bu shartnomalar (har xil turdagi vositalar - aktsiyalar, obligatsiyalar, fyucherslar, ipoteka, aktivlar va shartnomalar bilan ishlaydigan iqtisodiyot, bozorlar va moliya sohasidagi dasturlar);
+faoliyat doirasi moliyaviy operatsiyalar va bozorlardan (hukumat, sog'liqni saqlash, fan, ta'lim va boshqalarga tegishli) tashqarida bo’lgan dasturlar.
+ma'lumotlar ko'p marta takrorlangan bo'lib, barcha qatnashchilar tomonidan yaratilgan va qo'llab-quvvatlanadigan taqsimot tarmog'ida saqlanadi, bu esa uni buzib kirishni amalda imkonsiz qilib qo'yadi, xar bir axbopot o'z tarixiga ega bo'lib, bu axborotning kelib chiqishi va uning haqiqiyligini tekshirishga imkon bepadi; ma'lumotlar to'plamini tuzish xysysiyatlari uni xakerlar hujumlariga yoki g'ayriqonuniy hapakatlarga nisbatan chidamli qilib qo'yadi.
+15-20
+R3 guruhi
+2017-yil noyabrda
+6
+SWIFT
+Mahsulotlar va xom ashyolar bilan operatsiyalar: Real Asset Company;
+Buyuk Britaniya, Isroil, Yangi Zelandiya, Janubiy Koreya, Estoniya
+Satoshi Nakamoto
+2008 yil 31 oktyabrda
+faqat virtual sohalarda foydalanish uchun xizmat qiladigan va rasman Fiat valyutasiga almashtirib bo'lmaydigan konvertatsiya qilinmaydigan valyutalar.
+Bitcoin, E-Gold, Liberty Rezerve va boshqalar
+markazlashtirilgan va markazlashtirilmagan
+butun tizimni boshqaradigan yagona emitentga (E-Gold, Liberty Reserve, Perfect Money) ega. Emitent valyutani chiqaradi, undan foydalanish qoidalarini tanishtiradi, operatsiyalar reyestrini yuritadi va saqlaydi va valyutani muomaladan chiqarishi mumkin
+bitta administratorga ega bo'lmagan va markazlashtirilgan nazoratga ega bo'lmagan valyutalar. Mulk huquqini o'tkazish to'g'risidagi ma'lumotlar tarmoq orqali qisqa vaqtdan so'ng tranzaktsiyalarni tasdiqlash, qiymatni o'tkazish xavfsizligi va yaxlitligini ta'minlaydigan tarzda uzatiladi.
+E-Gold, Liberty Reserve, Perfect Money
+598
+828.5
+2018 yil 21 noyabrdagi
+2019 yil 21 yanvardagi 16-son
+Google hamyon, PayPal, Amazon to’lovlari, Dvolla, 
+2004-yil 24-sentabr
+2018 yil 19 sentabrda 
+information va tranzaksion
+bu kompyuter orqali amalga oshiriladigan tizim
+bu mijozlarning depozit hisobvaraqlarini, jumladan bank kartalariga ochilgan hisobvaraqlarini, internet orqali boshqarish huquqini beruvchi tizimdir
+bu bank mijozlarga ularning depozit hisobvaraqlaridagi hamda bank kartalariga ochilgan hisobvaraqlaridagi operatsiyalar haqida SMS ko‘rinishdagi ma’lumotlarni olish tizimidir.
+informatikaningalohida sohasibo‘lib,odatdainson ongi bilanbog‘liqimkoniyatlar:tilnitushunish,o‘rgatish, muhokamaqilish,masalani yechish, tarjima va shu kabi imkoniyatlarga ega kompyuter tizimlarini yaratish bilan shug‘ullanadi.
+bu ayrim mavzu sohalarida bilimlarni to‘plash va qo‘llash uyushtirish usullari hamda vositalari majmuidir
+1956-yilda
+3 trln 
+Ish robotlari
+O'z-o'zidan diagnoz qo'yadigan robot terapevt 
+sun'iy intellekt va aqlli o'zaro bog'liq mashinalar 
+inson ehtiyojlarini individuallashtirish pasayishi bilan 
+elektron tarmoqlar foydalanish yordamidaxo’jalikfaoliyatni amalga oshirish
+kassa apparati
+sanab o'tilgan barchasi 
+XX asrning 80-yillari oxirida 
+qiyosiy tadqiqotlar uchun 
+elektron agregatorlarni
+huquqiy munosabatlarning ishtirokchisi boʻlgan alohida fuqaro (chet el fuqarolari yoki fuqaroligi boʻlmagan shaxslar)ni ifodalovchi tushuncha
+324
+yuridik shaxs tashkil etmagan holda jismoniy shaxs (yakka tartibdagi tadbirkor) tomonidan tadbirkorlik faoliyatining amalga oshirilishi.
+litsenziyalovchi organ tomonidan yuridik yoki jismoniy shaxsga berilgan, litsenziya talablari va shartlariga so'zsiz rioya etilgani holda faoliyatning litsenziyalanayotgan turini amalga oshirish uchun ruxsatnoma (huquq);
+O'zbekiston Respublikasi hududida amalga oshirilishi uchun litsenziya olish talab qilinadigan faoliyat turi;
+faoliyatning litsenziyalanayotgan turini amalga oshirayotganda litsenziat tomonidan bajarilishi majburiy bo'lgan, qonun hujjatlarida belgilangan talablar va shartlarning majmui;
+qonun hujjatlariga muvofiq litsenziyalashni amalga oshiruvchi maxsus vakolatli organlar
+namunaviy (oddiy) va yakka tartibdagi
+cheklanmagan doiradagi yuridik va jismoniy shaxslarga beriladigan litsenziyalar kiradi
+fuqarolik huquq va majburiyatlarining subʼyektlari hisoblanuvchi korxona, muassasa, tashkilotlar.
+Tijoratchi tashkilotlar va tijorchi bo’magan tashkilotlar
+real vaqt rejimida lekin 30 mindan oshmagan holda
+yopiq kalitini qo‘llagan holda axborotning kriptografik o‘zgarishi natijasida olingan va imzoning shakllanish vaqtidan boshlab elektron hujjatdagi axborotda xatolik yo‘qligini aniqlovchi hamda imzo kaliti sertifikatini imzo egasiga taalluqligini tekshiruvchi elektron hujjatning rekviziti hisoblanadi
+elektron raqamli imzo kalit vositalaridan foydalangan holda hosil qilingan, faqat imzo qo‘yuvchi shaxsning o‘ziga ma’lum bo‘lgan va elektron hujjatda elektron raqamli imzo yaratish uchun mo‘ljallangan belgilar ketma-ketligi
+elektron raqamli imzo kalit vositalaridan foydalangan holda hosil qilingan, elektron raqamli imzo yopiq kalitiga mos keluvchi, axborot tizimining har qanday foydalanuvchisi foydalana oladigan va elektron hujjatdagi elektron raqamli imzo kalit haqiqiyligini tasdiqlash uchun mo‘ljallangan belgilar ketma-ketligi;
+elektron raqamli imzoning ochiq kaliti elektron raqamli imzoning yopiq kalitiga mosligini tasdiqlaydigan va elektron raqamli imzo yopiq kalitining egasiga vakolatli organ tomonidan berilgan elektron yoki qog‘oz shaklidagi hujjat;
+elektron raqamli imzoning yopiq kalitidan ruxsatsiz tarzda foydalanishdan himoya qilish uchun mo‘ljallangan shartli belgilar ketma-ketligi.
+elektron raqamli imzo kalitini yaratgan (elektron hujjatga imzo qo‘ygan) va vakolatli organ tomonidan uning nomiga elektron raqamli imzo kaliti sertifikati berilgan jismoniy shaxs
+elektron raqamli imzo kalitining sertifikati amal qilishini to‘xtatib turish yoki qayta tiklash yoxud uni bekor qilish.
+ro‘yxatga olingan vaqtdan boshlab 24 oy
+40 daqiqa
+eng kam oylik ish haqqining 7% miqdorida
+eng kam oylik ish haqqining 10% miqdorida
+bu xo'jalik faoliyatini yuritish bo'lib, bunda ishlab chiqarish va xizmat ko'rsatishdagi asosiy omil raqamlar ko'rinshidagi ma'lumotlar bo'lib, katta hajmdagi axborotlarni qayta ishlash va shu qayta ishlash natijasini analiz qilish yordamida har xil turdagi ishlab chiqarish, xizmat ko'rsatish, texnologiyalar, qurilmalar, saqlash, mahsulotlarni yetkazib berishda oldingi tizimdan samaraliroq yechimlar tadbiq qilishdir.
+vositachilarsiz global resurslardan foydalana olish imkoniyati; turli xildagi resurslarni ijaraga berish imkoniyati; ko‘ngillilik (volonterlik) modelini ishlata olish (open source model); global ekosistema orqali savdo-sotiq qila olish imkoniyati.
+hisoblash-kommunikatsion infratuzilma mavjudligi; turli xildagi raqamli texnologiyalarning ishlashi; tezkor Internet borligi; raqamli texnologiyalar sohasida tayyorgarlik ko‘rgan inson resurslari mavjudligi; turli xildagi biznes moellar keng miqyosda ishlatilishi;
+51%
+Barselona
+O'z-o'zidan diagnoz qo'yadigan robot terapevt
+quantum teleportation technologies
+IP-manzil
+on-line
+bannner
+magistrant@yandex.ru
+kvantli teleportatsiya texnologiyalari
+istalgan Internet-serverning har qanday web-sahifasiga
+web-sahifalarni ko'rish uchun dastur
+POP3
+oddiy qog'oz pullarning funktsiyalarini bajaradigan raqamli kodlar
+mijozga bankdan raqamli pullarni bank tomonidan berilgan summalar bilan bog'lashning iloji bo'lmaydigan tarzda olish imkonini beradigan texnologiya
+davlat kompaniyalari
+o'yin ilovalari uchun dastur
+SaaS, PaaS, IaaS
+Amazon S3
+raqamli shaklda hujjat muallifining imzosi
+qo’yilgan maqsadni egallash uchun axborotni saqlash, qayta ishlash va ko’rsatishda qaratilgan o’zaro aloqador jamoa, vosita va usullar to’plamidir;
+Axborotlashtirish sohasidagi munosabatlarni tartibga solish.
+axborotning mazmundorligi (mazmuniy) hajmi.
+interfaollik, boshqa dastur maxsulotlar bilan integrallashuvi
+axborot ishlovi jarayonini yuqori darajada bosqichlar, amallar va harakatlarga ajratishni ta’minlashi, maqsadga erishishning barcha elementlar majmuasidan tashkil topishi, doimiy tavsifga ega bo’lishi
+yunoncha (techne) san’at, mahorat, bilish degan ma’nolarni anglatadi, bu esa jarayonlar demakdir;
+berilganlar bazasi
+Birini inkor qiluvchi True (rost) «1» yoki False (yolg’on) «0» qiymatlarni qabul qiluvchi ma’lumotlar*
+Biror ob’ekt yoki ob’ektlar tizimining obrazi yoki namunasidir*
+Dasturiy uzilishlar;
+axborot resursi
+davlat organlarining jismoniy va yuridik shaxslarga axborot-kommunikatsiya texnologiyalarini qo‘llash yo‘li bilan davlat xizmatlari ko‘rsatishga doir faoliyatini, shuningdek idoralararo elektron hamkorlik qilishni ta’minlashga qaratilgan tashkiliy-huquqiy chora-tadbirlar va texnik vositalar tizimi;
+ariza beruvchilarning so‘rovlariga ko‘ra amalga oshiriladigan, davlat organlarining vazifalarini bajarish bo‘yicha ular tomonidan ko‘rsatiladigan xizmat. Agar qonun hujjatlariga muvofiq davlat xizmatlari ko‘rsatish funksiyalari boshqa tashkilotlar zimmasiga yuklatilgan bo‘lsa, ular ham davlat xizmatini ko‘rsatishlari mumkin;
+3 trln 
+Sanoat termoyadroviy 
+Yaponiya 
+sun'iy intellekt va aqlli o'zaro bog'liq mashinalar
+tarmoqli axborot iqtisodiyotining rivojlanishi bilan
+ish kuchi raqamli kapital va sun'iy aql  bilan chiqariladi 
+tez tushadi 
+elektron tarmoqlar foydalanish yordamida xo’jalik faoliyatni amalga oshirish 
+quantum teleportation technologies 
+kassa apparati 
+intellekt va aqlli o'zaro bog'liq mashinalar 
+tarmoqli axborot iqtisodiyotining rivojlanishi bilan 
+ish kuchi raqamli kapital va sun'iy aql bilan chiqariladi 
+funktsiyalar va xizmatlar taqdim etadigan raqamli muhit iste'molchilar va ishlab chiqaruvchilarning ehtiyojlari, shuningdek ular o'rtasida to'g'ridan-to'g'ri ta'sir o'tkazish imkoniyatlarini anglab etish 
+Elektron biznes 
+AQShda 
+taxminan 5% 
+qiyosiy tadqiqotlar uchun 
+yetkazib beruvchi va iste'molchining axborot echimlarini birlashtirish fazoviy ma'lumotlar bazalari bilan tezkor ishlarni tashkil etish
+elektron agregatorlarni 
+mijozga bankdan raqamli pullarni bank tomonidan berilgan summalar bilan bog'lashning iloji bo'lmaydigan tarzda olish imkonini beradigan texnologiya 
+xususiy va ommaviy 
+quyida keltirilgan barcha variantlar 
+Internet tarmog’ida ma'lumotlarni saqlash ombori 
+kompyuter mavjudligi va Internetga kirish imkoniyati 
+raqamli kapitalizm 
+AQShda qabul qilingan, Eronda taqiqlangan 
+bu kompyuter algoritmi yoki tomonlarga aktivlarni almashish imkonini beradigan shart 
+SEB 
+tarqatilgan axborot omborlaridagi reklamani 
+kriptografik kalitlar va sertifikatlarni hosil qiladi va saqlaydi ega 
+elektron raqamli imzo kalitini yaratgan (elektron hujjatga imzo qo‘ygan) va vakolatli organ tomonidan uning nomiga elektron raqamli imzo kaliti sertifikati berilgan jismoniy shaxs
+elektron raqamli imzo kalitining sertifikati amal qilishini to‘xtatib turish yoki qayta tiklash yoxud uni bekor qilish.
+ro‘yxatga olingan vaqtdan boshlab 24 oy
+40 daqiqa
+eng kam oylik ish haqqining 7% miqdorida
+eng kam oylik ish haqqining 10% miqdorida
+bu xo'jalik faoliyatini yuritish bo'lib, bunda ishlab chiqarish va xizmat ko'rsatishdagi asosiy omil raqamlar ko'rinshidagi ma'lumotlar bo'lib, katta hajmdagi axborotlarni qayta ishlash va shu qayta ishlash natijasini analiz qilish yordamida har xil turdagi ishlab chiqarish, xizmat ko'rsatish, texnologiyalar, qurilmalar, saqlash, mahsulotlarni yetkazib berishda oldingi tizimdan samaraliroq yechimlar tadbiq qilishdir.
+vositachilarsiz global resurslardan foydalana olish imkoniyati; turli xildagi resurslarni ijaraga berish imkoniyati; ko‘ngillilik (volonterlik) modelini ishlata olish (open source model); global ekosistema orqali savdo-sotiq qila olish imkoniyati.
+hisoblash-kommunikatsion infratuzilma mavjudligi; turli xildagi raqamli texnologiyalarning ishlashi; tezkor Internet borligi; raqamli texnologiyalar sohasida tayyorgarlik ko‘rgan inson resurslari mavjudligi; turli xildagi biznes moellar keng miqyosda ishlatilishi;
+bu ayrim mavzu sohalarida bilimlarni to‘plash va qo‘llash uyushtirish usullari hamda vositalari majmuidir
+3 ta
+faoliyat doirasi moliyaviy operatsiyalar va bozorlardan (hukumat, sog'liqni saqlash, fan, ta'lim va boshqalarga tegishli) tashqarida bo’lgan dasturlar.
+15-20
+6
+SWIFT
+R3 guruhi
+Satoshi Nakamoto
+Bitcoin, E-Gold, Liberty Rezerve va boshqalar
+598
+markazlashtirilgan va markazlashtirilmagan
+Masofaviy o`qitish yangi reproduktiv ta’lim shaklidir.
+Yangiliklar, xabarlar
+San’at, hunar, soha
+Bit
+Modem
+2
+Sistemali
+Yacheyka 
+Axborot
+Bit, bayt, kilobayt, megabayt, gigabayt
+Amaliy
+Word, Excel, PowerPoint
+Axborotni qog`ozga chop etish
+axborot texnologiyasi*
+yuqoridagilarni hammasi
+1872
+to’plash, qayta ishlash, uzatish;
+uzlukli, uzluksiz;
+diskretlilik, tushunarlilik, aniqlik, ommaviylik,
+598
+828.5
+2018 yil 21 noyabrdagi
+2019 yil 21 yanvardagi 16-son
+Google hamyon, PayPal, Amazon to’lovlari, Dvolla, 
+2004-yil 24-sentabr
+2018 yil 19 sentabrda 
+information va tranzaksion
+bu mijozlarning depozit hisobvaraqlarini, jumladan bank kartalariga ochilgan hisobvaraqlarini, internet orqali boshqarish huquqini beruvchi tizimdir
+bu bank mijozlarga ularning depozit hisobvaraqlaridagi hamda bank kartalariga ochilgan hisobvaraqlaridagi operatsiyalar haqida SMS ko‘rinishdagi ma’lumotlarni olish tizimidir.
+informatikaningalohida sohasibo‘lib,odatdainson ongi bilanbog‘liqimkoniyatlar:tilnitushunish,o‘rgatish, muhokamaqilish,masalani yechish, tarjima va shu kabi imkoniyatlarga ega kompyuter tizimlarini yaratish bilan shug‘ullanadi.
+3 trln 
+O'z-o'zidan diagnoz qo'yadigan robot terapevt 
+inson ehtiyojlarini individuallashtirish pasayishi bilan 
+elektron tarmoqlar foydalanish yordamidaxo’jalikfaoliyatni amalga oshirish
+davlat organlarining jismoniy va yuridik shaxslarga axborot-kommunikatsiya texnologiyalarini qo‘llash yo‘li bilan davlat xizmatlari ko‘rsatishga doir faoliyatini, shuningdek idoralararo elektron hamkorlik qilishni ta’minlashga qaratilgan tashkiliy-huquqiy chora-tadbirlar va texnik vositalar tizimi;
+ariza beruvchilarning so‘rovlariga ko‘ra amalga oshiriladigan, davlat organlarining vazifalarini bajarish bo‘yicha ular tomonidan ko‘rsatiladigan xizmat. Agar qonun hujjatlariga muvofiq davlat xizmatlari ko‘rsatish funksiyalari boshqa tashkilotlar zimmasiga yuklatilgan bo‘lsa, ular ham davlat xizmatini ko‘rsatishlari mumkin;
+bu xo'jalik faoliyatini yuritish bo'lib, bunda ishlab chiqarish va xizmat ko'rsatishdagi asosiy omil raqamlar ko'rinshidagi ma'lumotlar bo'lib, katta hajmdagi axborotlarni qayta ishlash va shu qayta ishlash natijasini analiz qilish yordamida har xil turdagi ishlab chiqarish, xizmat ko'rsatish, texnologiyalar, qurilmalar, saqlash, mahsulotlarni yetkazib berishda oldingi tizimdan samaraliroq yechimlar tadbiq qilishdir.
+vositachilarsiz global resurslardan foydalana olish imkoniyati; turli xildagi resurslarni ijaraga berish imkoniyati; ko‘ngillilik (volonterlik) modelini ishlata olish (open source model); global ekosistema orqali savdo-sotiq qila olish imkoniyati.
+hisoblash-kommunikatsion infratuzilma mavjudligi; turli xildagi raqamli texnologiyalarning ishlashi; tezkor Internet borligi; raqamli texnologiyalar sohasida tayyorgarlik ko‘rgan inson resurslari mavjudligi; turli xildagi biznes moellar keng miqyosda ishlatilishi;
+51%

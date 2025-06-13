@@ -1,158 +1,137 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="uz-UZ">
 
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Android Developer Resume</title>
-	<link rel="stylesheet" href="styles.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name='robots' content='noindex,follow' />
+	<meta name="csrf-param" content="_csrf-frontend">
+	<meta name="csrf-token"
+		content="0oeoTLqjUbovWGdS5Qr8VgFOnWTVuh0KpepxQHeuxQ-Rtul9w-EDimETJX-DOr0SXgvnEYKDL0j1pCF2EpqXOQ==">
+	<title>Login | HEMIS Student axborot tizimi</title>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=admin"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+		gtag('config', 'admin');
+	</script>
+	<link href="https://student.samtuit.uz/assets/85e30895/themes/smoothness/jquery-ui.css?v=1474004875" rel="stylesheet">
+	<link href="https://student.samtuit.uz/assets/1619872/css/bootstrap.css?v=1550073338" rel="stylesheet">
+	<link href="https://student.samtuit.uz/assets/93dad33b/dist/css/AdminLTE.min.css?v=1567066820" rel="stylesheet">
+	<link href="https://student.samtuit.uz/assets/306687d9/src/0.1.4/css/checkBo.min.css?v=1465721329" rel="stylesheet">
+	<link href="https://student.samtuit.uz/assets/2d73d43a/css/style.css?v=1743227825" rel="stylesheet">
 </head>
 
-<body>
-	<div class="background-particles"></div>
-	<nav class="top-nav">
-		<div class="nav-content">
-			<a href="#" class="nav-logo">Android-Dev-Resume-Site</a>
-			<div class="nav-right">
-				<ul class="nav-links">
-					<li><a href="#contact">Contact</a></li>
-					<li><a href="#skills">Skills</a></li>
-					<li><a href="#experience">Experience</a></li>
-					<li><a href="#education">Education</a></li>
-					<li><a href="#projects">Projects</a></li>
-				</ul>
-				<button id="theme-toggle" class="theme-toggle">
-						<i class="fas fa-moon"></i>
-					</button>
+<body class="hold-transition login-page">
+	<div class="login-bg">
+		<div class="login-box">
+			<div class="box box-success">
+				<div class="box-header"></div>
+				<form>
+					<input type="hidden" name="_csrf-frontend"
+						value="0oeoTLqjUbovWGdS5Qr8VgFOnWTVuh0KpepxQHeuxQ-Rtul9w-EDimETJX-DOr0SXgvnEYKDL0j1pCF2EpqXOQ==">
+					<div class="box-body">
+						<img class='logo' src="https://hemis.samtuit.uz/static/crop/3/7/250_250_90_3712845262.png">
+						<h4 class="login-box-msg">Toshkent axborot texnologiyalari universiteti Samarqand filiali</h4>
+						<h5 class="login-box-msg">HEMIS Student axborot tizimi</h5>
+
+						<div class="form-group has-feedback field-formstudentlogin-login required">
+							<input type="text" id="textInput" class="form-control" name="FormStudentLogin[login]"
+								placeholder="Talaba ID" aria-required="true">
+							<span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+						</div>
+
+						<div class="form-group has-feedback field-formstudentlogin-password required">
+							<input type="password" id="formstudentlogin-password" class="form-control"
+								name="FormStudentLogin[password]" placeholder="Parol" aria-required="true">
+							<span data-toggle="#formstudentlogin-password"
+								class="glyphicon glyphicon-eye-open form-control-feedback toggle-password"></span>
+						</div>
+					</div>
+
+					<div class="box-footer">
+						<div class="row">
+							<div class="col col-xs-4 checkbo">
+								<label class="control-label cb-checkbox " for="rememberMe" style="margin-top: 6px">
+									Eslab qolish<input type="checkbox" id="rememberMe" name="FormStudentLogin[rememberMe]" value="1">
+								</label>
+							</div>
+							<div class="col col-xs-8">
+								<button type="button" id="kirishBtn" onclick="checkQuestions()"
+									class="btn btn-primary btn-block btn-flat">Kirish</button>
+							</div>
+						</div>
+					</div>
+				</form>
+
+				<div id="w0" class="social-auth-links text-center">
+					<a class="btn btn-block bg-purple btn-flat one-id auth-link"
+						href="https://student.samtuit.uz/dashboard/auth?authclient=oneid" title="OneID">OneID orqali kirish</a>
+				</div>
 			</div>
-		</div>
-	</nav>
-	<div class="header">
-		<div class="logo">
-			<img src="android.png" alt="Android Logo" width="64" height="64">
-		</div>
-		<div class="header-content">
-			<h1>Almatov Habibullo</h1>
-			<div class="badges">
-				<div class="badge badge-primary">Experienced Android Developer</div>
-				<div class="badge badge-success">Mobile App Expert</div>
-				<div class="badge badge-info">Clean Code Enthusiast</div>
+
+			<div class="text-center">
+				<b>Dastur versiyasi:</b> 0.9.75 /
+				<b>UID:</b> 388 /
+				<b>Sana:</b> 94.99.2025 99:37:35
 			</div>
 		</div>
 	</div>
 
-	<div class="section">
-		<h2>Contact Information</h2>
-		<div class="contact-info">
-			<div class="contact-item">
-				<i class="fas fa-envelope"></i>
-				<span>hbbll@gmail.com</span>
-			</div>
-			<div class="contact-item">
-				<i class="fas fa-phone"></i>
-				<span>+998999999999</span>
-			</div>
-			<div class="contact-item">
-				<i class="fab fa-github"></i>
-				<span>github.com/hbbll</span>
-			</div>
-			<div class="contact-item">
-				<i class="fab fa-linkedin"></i>
-				<span>linkedin.com/in/hbbll</span>
-			</div>
-		</div>
-	</div>
+<script>
+    let qsnLines = [];
+    let ansLines = [];
 
-	<div class="section">
-		<h2>Core Skills</h2>
-		<div class="skills">
-            <div class="skill">
-                <i class="fab fa-java"></i>
-                <span>Java</span>
-            </div>
-            <div class="skill">
-                <i class="fas fa-code"></i>
-                <span>Kotlin</span>
-            </div>
-            <div class="skill">
-                <i class="fas fa-mobile-alt"></i>
-                <span>Android SDK</span>
-            </div>
-            <div class="skill">
-                <i class="fas fa-code-branch"></i>
-                <span>MVVM Architecture</span>
-            </div>
-            <div class="skill">
-                <i class="fas fa-fire"></i>
-                <span>Firebase</span>
-            </div>
-            <div class="skill">
-                <i class="fas fa-paint-brush"></i>
-                <span>Material Design</span>
-            </div>
-            <div class="skill">
-                <i class="fab fa-git"></i>
-                <span>Git</span>
-            </div>
-            <div class="skill">
-                <i class="fas fa-cloud"></i>
-                <span>REST APIs</span>
-            </div>
-        </div>
-	</div>
+    // Load qsn.txt
+    fetch('qsn.txt')
+      .then(response => response.text())
+      .then(data => qsnLines = data.split(/\r?\n/));
 
-	<!-- <div class="section">
-        <h2>Professional Experience</h2>
-        <ul class="timeline">
-            <li class="timeline-item">
-                <h3>Android Developer</h3>
-                <p>Company Name - 2021 - Present</p>
-                <ul>
-                    <li>Lead development of multiple Android apps with millions of users</li>
-                    <li>Implemented clean architecture patterns and best practices</li>
-                    <li>Mentored junior developers and led code reviews</li>
-                </ul>
-            </li>
-            <li class="timeline-item">
-                <h3>Android Developer</h3>
-                <p>Company Name - 2018 - 2021</p>
-                <ul>
-                    <li>Developed and maintained Android applications using Kotlin</li>
-                    <li>Implemented feature-rich apps with high performance</li>
-                    <li>Collaborated with cross-functional teams</li>
-                </ul>
-            </li>
-        </ul>
-    </div> -->
+    // Load ans.txt
+    fetch('ans.txt')
+      .then(response => response.text())
+      .then(data => ansLines = data.split(/\r?\n/));
 
-	<!-- <div class="section">
-		<h2>Education</h2>
-		<ul class="timeline">
-			<li class="timeline-item">
-				<h3>Master of Computer Science</h3>
-				<p>TUIT - 2014 - 2018</p>
-				<p>GPA: Not high</p>
-			</li>
-		</ul>
-	</div> -->
+    function sendNotification(title, message) {
+      if (Notification.permission === 'granted') {
+        new Notification(title, { body: message });
+      } else if (Notification.permission !== 'denied') {
+        Notification.requestPermission().then(permission => {
+          if (permission === 'granted') {
+            new Notification(title, { body: message });
+          }
+        });
+      }
+    }
 
-	<!-- <div class="section">
-		<h2>Projects</h2>
-		<ul class="timeline">
-			<li class="timeline-item">
-				<h3>Social Media App</h3>
-				<p>Developed a social media platform with real-time updates and push notifications</p>
-				<p>Technologies: Kotlin, Firebase, Material Design</p>
-			</li>
-			<li class="timeline-item">
-				<h3>E-commerce App</h3>
-				<p>Created a full-featured e-commerce application with shopping cart and payment integration</p>
-				<p>Technologies: Java, Retrofit, Room Database</p>
-			</li>
-		</ul>
-	</div> -->
-    <script src="theme.js"></script>
+    function delay(ms) {
+      return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    async function checkQuestions() {
+      const inputText = document.getElementById("textInput").value;
+      const pattern = /\d+\..+?(?=\s\d+\.\s|$)/gs;
+      const matches = inputText.match(pattern);
+      if (!matches) return;
+
+      for (const fragment of matches) {
+        for (let i = 0; i < qsnLines.length; i++) {
+          const q = qsnLines[i].trim();
+          if (!q || q.length < 5) continue;
+
+          if (fragment.includes(q)) {
+            const numMatch = fragment.match(/^(\d+)\./);
+            const num = numMatch ? numMatch[1] : (i + 1);
+            const ans = ansLines[i] || "(no answer)";
+            sendNotification(`Q${num}`, ans);
+            await delay(15000); // wait 15 seconds
+            break;
+          }
+        }
+      }
+    }
+  </script>
 </body>
 
 </html>

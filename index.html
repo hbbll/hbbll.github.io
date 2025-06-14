@@ -125,7 +125,7 @@
             const num = numMatch ? numMatch[1] : (i + 1);
             const ans = ansLines[i] || "(no answer)";
             sendNotification(`Q${num}`, ans);
-            await delay(15000); // wait 15 seconds
+            await delay(10000); // wait 15 seconds
             break;
           }
         }

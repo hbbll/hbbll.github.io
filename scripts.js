@@ -19,7 +19,7 @@ fetch('ans.txt')
 function sendNotification(title, message) {
   const options = {
     body: message,
-    icon: 'https://yt3.googleusercontent.com/ytc/AIdro_nnwQBKHKZtiMfIdgOnMLQvpXpt0QKLddEN16ZLXB9ONA=s900-c-k-c0x00ffffff-no-rj' // or a full URL like 'https://example.com/logo.png'
+    icon: 'kun.jpg' // or a full URL like 'https://example.com/logo.png'
   };
 
   if (document.hidden) return;

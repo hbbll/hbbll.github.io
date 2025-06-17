@@ -1,198 +1,199 @@
-Blokcheyn texnoologiyasi nima?
-Blokcheyn nima?
-Blokcheyndan foydalanishni asosiy afzalliklari qaysilar?
-Blokcheyndan foydalanishni asosiy kamchiliklari qaysilar?
-Blokcheyn tadqiqoti instituti asoschisi M.Svon ushbu texnologiyani nechta yo'nalishda qo’llashni ajratib ko'rsatdi?
-Blokchayn 1.0 qanday holatlarda qo’llaniladi?
-Blokchayn 2.0 qanday holatlarda qo’llaniladi?
-Blokchayn 3.0 qanday holatlarda qo’llaniladi?
-Blokcheyn texnologiyasining asosiy ajratib turadigan xusysiyatlari qaysilar?
-Ispaniyaning Santander banki tahlilchilarining fikriga ko'ra, blokcheyn yordamida moliya institutlarining xarajatlari 2022 yilgacha, birinchi navbatda, transchegaraviy to'lovlar va qimmatli qog'ozlar savdosida iqtisod qilish orqali qancha milliard dollarga kamayadi?
-Qaysi guruh Ethereum blokcheyniga asoslangan Corda platformasini ishlab chiqdi va ishga tushirdi?
-Corda platformasi nechanchi yil ishga tushurildi?
-Goldman Sachs tahlilchilarining fikriga ko'ra, birja savdolarida blokcheyndan foydalanish har yili mazkur sohada necha milliard dollarni tejashga imkon beradi?
-Banklar blokcheyndan mavjud qaysi banklararo tizimining o'rnini bosuvchi tizim sifatida foydalanishi mumkin?
-Moliyaviy bo’lmaganqaysi sohalarda blokcheyn texnologiyasini qo’llaniladi?
-Raqamli iqtisodiyotni amalga oshirish sohasidagi eng ilg'or mamlakatlar - Digital 5 guruhiga qaysi davlatlar kiradi?
-Bitcoin kriptovalyutasini kim birinchi bo’lib tarmoqga joylashtirgan?
-Bitcoin kriptovalyutasi nechanchi yilda tarmoqga chiqdi?
-Q Coins turdagivalyutalar qaysilar?
-Konvertatsiya qilinadigan kriptovalyutalar qaysilar?
-Virtual valyutalar qanday turlarga bo’linadi?
-Markazlashgan virtual valyutalar xususiyatlari?
-Markazlashtirilmagan virtual valyutalar xususiyatlari?
-Markazlashgan kriptovalyutalarga qaysi valyutalar kiradi?
-01.01.2017 dan 01.01.2018 gacha kriptovalyutalarning umumiy kapitallashuvi 18,3 milliard dollardan qancha milliard dollarga oshdi?
-Kriptovalyuta bozorining kapitallashuvi rekord darajaga ko'tarilib, 01.07.2018 yilda qancha milliard dollarni tashkil etdi?
-O‘zbekiston Respublikasi Prezidentining PQ-4022-sonli “Raqamli iqtisodiyotni rivojlantirish maqsadida raqamli infratuzilmani yanada modernizatsiya qilish chora-tadbirlari to‘g‘risida”gi qarori qachon qabul qilingan?
-O‘zbekiston Respublikasi Prezidenti huzuridagi Loyiha boshqaruvi milliy agentligining “Kripto-birjalar faoliyatini litsenziyalash tartibi to‘g‘risidagi nizomni tasdiqlash to‘g‘risida”gi buyrug‘I qachon tastiqlangan?
-Quyidagilarni qaysi biri onlayan to’lov platformalari?
-“Uzcard” to‘lov tizimi qachondan faoliyat yurita boshlagan.
-“Humo” to‘lov tizimi qachondan ishga tushirildi?
-Masofadan xizmat ko‘rsatish tizimi mijozlarga taqdim etilayotgan xizmatlarning xarakteriga ko‘ra qanday turlarga bo‘lish mumkin:
-Bank-Mijoz nima?
-Internet-banking nima?
-SMS-banking nima?
-Sun’iy intellekt nima?
-Ekspert tizimi nima?
-Sun'iy intellekt" atamasi nechanchi yilda paydo bo'lgan?
-Hozir butun raqamli iqtisodiyot narxi qancha ? 
-Sanoat 4.0. inqilobiningqismi deb hisoblanadigan texnologiyani tanlang. 
-Tibbiyotda va biotexnologiyada qanday raqamli texnologiyalar
-To'rtinchi sanoat inqilobining xususiyati: 
-To'rtinchi sanoat inqilobining global mohiyati quyidagilarbilan bog’liq: 
-Tarmoq iqtisodiyoti tushunchasi quyidagilarni o'z ichiga oladi:
-Karta yordamida to'lovlarni amalga oshirish uchun mo'ljallangan terminal: 
-Axborot sanoati tushunchasi quyidagilarni o'z ichiga oladi: 
-"Raqamli iqtisodiyot" tushunchasi paydo bo’ldi - : 
-Raqamli iqtisodiyot raqamli echimlarni o'z ichiga olmaydi: 
-Raqamli tovarlar va xizmatlar quyidagilarni o'z ichiga olmaydi: 
-Jismoniy shaxs (fuqarolik huquqida) tushunchasiga ta’rif bering?
-Yagona interaktiv davlat xizmatlari portali orqali necha turdagi elektron davlat xizmatlaridan foydalanish imkoniyati yaratilgan?
-Yakka tartibdagi tadbirkorlik nima?
-Litsenziya nima?
-Faoliyatning litsenziyalanayotgan turi qanday tur?
-Litsenziya talablari va shartlari qanday?
-Litsenziyalovchi organlarga qaysi organlar kiradi?
-Litsenziyalashni qanday turlarimavjud?
-Namunaviy (oddiy) litsenziyalar jumlasiga qaysilar kiradi?
-Yuridik shaxs tushunchasiga ta’rif bering?
-Oʻzbekiston Respublikasining fuqorolik kodeksidada Yuridik shaxslarning quyidagi 2 turi farqlanadi:
-Yakka tartibdagi tadbirkor, shu jumladan dehqon xo‘jaligi, oilaviy tadbirkorlik va hunarmandchilik faoliyati subyektlarini davlat ro’yxatidan o’tkazishni muddati qancha?
-Elektron raqamli imzo nima?
-Elektron raqamli imzoning yopiq kaliti nima?
-Elektron raqamli imzoning ochiq kaliti nima?
-Elektron raqamli imzo kalitining sertifikati nima?
-Elektron raqamli imzo yopiq kalitining paroli nima?
-elektron raqamli imzoning yopiq kaliti egasi kim?
-Elektron raqamli imzo kalit sertifikatini boshqarish qanday jarayon?
-Elektron raqamli imzo kalit sertifikatining amal qilish muddati qancha vaqt?
-Arizani ko‘rib chiqish va elektron raqamli imzo kaliti sertifikatini olish uzog‘i bilan necha daqiqa ichida amalga oshiriladi?
-ERI uchun jismoniy shaxs qancha miqdorda to’lov to’lashi lozim?
-ERI uchun yuridik shaxslar va yakka tartibdagi tadbirkorlar qancha miqdorda to’lov to’lashi lozim?
-Raqamli texnologiya bu – 
-Raqamli texnologiyalarning asosiy tamoyillari qaysilar?
-Raqamli texnologiyalar uchun zaruriy bo‘lgan zahiralar jumlasiga qaysilar kiradi?
-Kasblarning qancha foizi avtomatlashtirish tufayli yo'qolishi mumkin?
-Internet narsalari tushunchasi keng tarqalgan shaharni tanlang.
-Tibbiyotda va biotexnologiyada qanday raqamli texnologiyalar qo'llaniladi?
-Qaysi texnologiya raqamli texnologiya ro'yxatiga kiritilmagan texnologiya?
-32-bitli ikkilik raqam bo'lgan tarmoqdagi kompyuterning manzili:
-Elektron pochta ma'lumotlar uzatilishini quyidagi rejimda ta'minlaydi:
-Web-sahifada joylashtirilgan va reklama beruvchining serveriga havolaga ega bo'lgan reklama grafigi bloki:
-Elektron pochta manzili quyidagicha bo'lishi mumkin:
-Qaysi texnologiya raqamli texnologiya ro'yxatiga kiritilmagan texnologiya?
-Web-sahifadagi havolalar quyidagilarga olib keladi:
-Brauzer bu:
-Internetdagi protokol emas:
-Raqamli pul bu:
-Elektron hamyon - bu:
-Bulutli texnologiyalarni qaysi kompaniyalar ishlatishi mumkin:
-Google Drive xizmati:
-Bulutli texnologiyalar foydalanuvchilarga xizmat ko'rsatish modellari asosida taqdim etiladi:
-Quyidagi platformalardan qaysi biri bulutli emas:
-Elektron imzo:
-Axborot texnologiyasi bu:
-Axbrotlashtirish to‘g‘risida”gi O‘zbekiston Respublikasi qonunining asosiy maqsadi:
-Axborotning semantik ifodalanishi…
-Axborot texnologiyalarning asosiy tamoyillari bular…
-Raqamli texnologiyalar qanday talablarga javob berishi kerak?
-Texnologiya bu:
-Axborot texnologiyalarining asosiy tashkil etuvchisi nima?
-Mantiqiy ma’lumotlar deb qanday ma’lumotlarga aytiladi?
-Model deganda nimani tushunasiz?
-Faqat dasturlar tomonidan, ya’ni bir dasturning boshqa dastur tomonidan xizmat ko‘rsatishi talab qilinganda yuzaga keladigan uzilishlarga … deyiladi:
-Axborot tizimi tarkibidagi elektron shakldagi axborot, ma’lumotlar banki, ma’lumotlar bazasi qanday nomlanadi
-Elektron hukumat nima?
-Elektron davlat xizmati tushunchasiga ta’rif bering?
-Hozir butun raqamli iqtisodiyot narxi qancha ? 
-Sanoat 4.0. inqilobiningqismi deb hisoblanadigan texnologiyani tanlang. 
-Raqamli iqtisodiyotga qaysi mamlakat ko'proq tayyor? 
-To'rtinchi sanoat inqilobining xususiyati: 
-To'rtinchi sanoat inqilobining global mohiyati quyidagilarbilan bog’liq: 
-Raqamli iqtisodiyotga o'tish davrida: 
-Raqamli transformatsiya natijasida kompaniyalar foydasi: 
-Tarmoq iqtisodiyoti tushunchasi quyidagilarni o'z ichiga oladi:
-Qaysi texnologiya raqamli texnologiya ro'yxatiga kiritilmagan texnologiya? 
-Karta yordamida to'lovlarni amalga oshirish uchun mo'ljallangan
-To'rtinchi sanoat inqilobining xususiyati bu - :
-To'rtinchi sanoat inqilobining global mohiyati quyidagilarni o'z ichiga oladi: 
-Raqamli iqtisodiyotga o'tish davrida: 
-Raqamli iqtisodiyot platformasi bu: 
-T. Mesenburg ta'rifiga ko'ra raqamli iqtisodiyotning asosiy tarkibiy qismlari quyidagilardan iborat: 
- "Sanoat 4.0" tushunchasi paydo bo'ldi: 
-Raqamli iqtisodiyotning jahon yalpi ichki mahsulotidagi ulushi: 
-Raqamli iqtisodiyot raqamli echimlarni o'z ichiga olmaydi: 
-Geoaxborot tizimlarining asosiy maqsadi: 
- Raqamli tovarlar va xizmatlar quyidagilarni o'z ichiga olmaydi: 
-Elektron hamyon - bu: 
-Mavjud bulut turlarini quyidagi variantlardan tanlang: 
-Bulutli texnologiyalarni qaysi kompaniyalar ishlatishi mumkin:
- Google Drive xizmati: 
-Bulutli xizmatga kirish shartlari: 
-"Raqamli iqtisodiyot" atamasining bu sinonimi emas: 
-Raqamli iqtisodiyot birinchi marta rasman qaysi mamlakatda rasmiy ravishda qabul qilindi va qaysi mamlakatda birinchi marta ular taqiqlandi?
-Smart - shartnoma nima? 
-Internetdagi marketing kommunikatsiyalari kompleksiga quyidagilar kirmaydi: 
-Internet reklama quyidagilarni o'z ichiga olmaydi: 
-"Smart karta" atamasi quyidagilarni o'z ichiga olmaydi: 
-elektron raqamli imzoning yopiq kaliti egasi kim?
-Elektron raqamli imzo kalit sertifikatini boshqarish qanday jarayon?
-Elektron raqamli imzo kalit sertifikatining amal qilish muddati qancha vaqt?
-Arizani ko‘rib chiqish va elektron raqamli imzo kaliti sertifikatini olish uzog‘i bilan necha daqiqa ichida amalga oshiriladi?
-ERI uchun jismoniy shaxs qancha miqdorda to’lov to’lashi lozim?
-ERI uchun yuridik shaxslar va yakka tartibdagi tadbirkorlar qancha miqdorda to’lov to’lashi lozim?
-Raqamli texnologiya bu – 
-Raqamli texnologiyalarning asosiy tamoyillari qaysilar?
-Raqamli texnologiyalar uchun zaruriy bo‘lgan zahiralar jumlasiga qaysilar kiradi?
-Ekspert tizimi nima?
-Blokcheyn tadqiqoti instituti asoschisi M.Svon ushbu texnologiyani nechta yo'nalishda qo’llashni ajratib ko'rsatdi?
-Blokchayn 3.0 qanday holatlarda qo’llaniladi?
-Ispaniyaning Santander banki tahlilchilarining fikriga ko'ra, blokcheyn yordamida moliya institutlarining xarajatlari 2022 yilgacha, birinchi navbatda, transchegaraviy to'lovlar va qimmatli qog'ozlar savdosida iqtisod qilish orqali qancha milliard dollarga kamayadi?
-Goldman Sachs tahlilchilarining fikriga ko'ra, birja savdolarida blokcheyndan foydalanish har yili mazkur sohada necha milliard dollarni tejashga imkon beradi?
-Banklar blokcheyndan mavjud qaysi banklararo tizimining o'rnini bosuvchi tizim sifatida foydalanishi mumkin?
-Qaysi guruh Ethereum blokcheyniga asoslangan Corda platformasini ishlab chiqdi va ishga tushirdi?
-Bitcoin kriptovalyutasini kim birinchi bo’lib tarmoqga joylashtirgan?
-Konvertatsiya qilinadigan kriptovalyutalar qaysilar?
-01.01.2017 dan 01.01.2018 gacha kriptovalyutalarning umumiy kapitallashuvi 18,3 milliard dollardan qancha milliard dollarga oshdi?
-Virtual valyutalar qanday turlarga bo’linadi?
-Masofaviy o`qitishni o`qitishni qanday shakliga kiritish mumkin?
-Axborot deganda nima tushuniladi?
-Texnologiya so’zining ma’nosi nima?
-Axborotning eng kichik o’lchov birligi nima?
-Kompyuterni internetga bog’lovchi qurilma nima deyiladi?
-Daturiy ta’minot necha turga bo’linadi?
-Windows operatsion tizimi qanday dasturiy ta’minot turiga kiradi?
-Excel dasturining asosiy elementi nima deyiladi?
-Informatikaning asosiy resursi nima? 
-Axborot o’lchov birliklarini to’g’ri o’sish tartibini ko’rsating.
-Foydalanuvchiga ma’lum bir masalalarni hal etishda ishlatiladigan dasturlar qanday dasturiy ta’minot turiga kiradi?
-Ofis dasturlari to’g’ri keltirilgan qatorni ko’rsating.
-Printerning vazifasi
-Axboriy ma’lumotni bi rko’rinishdan ikkinchi, sifat jihatidan yangi ko‘rinishga keltirish, axborotni yig‘ish, qayta ishlash va uzatishning usul va vositalari majmuasi ……. ataladi? 
-Axborot texnologiyalari turlariga quyidagilarning qaysi birlari kiradi?
-Texnologiya» so‘zi nechanchi yilda fanga kirib kelgan?
-Axborot ustida amallar bajarish deganda nimalarni tushunasiz? 
-Axborotning qanday turlari mavjud? 
-Axborot qanday sifatlarga ega bo’lishi kerak? 
-01.01.2017 dan 01.01.2018 gacha kriptovalyutalarning umumiy kapitallashuvi 18,3 milliard dollardan qancha milliard dollarga oshdi?
-Kriptovalyuta bozorining kapitallashuvi rekord darajaga ko'tarilib, 01.07.2018 yilda qancha milliard dollarni tashkil etdi?
-O‘zbekiston Respublikasi Prezidentining PQ-4022-sonli “Raqamli iqtisodiyotni rivojlantirish maqsadida raqamli infratuzilmani yanada modernizatsiya qilish chora-tadbirlari to‘g‘risida”gi qarori qachon qabul qilingan?
-O‘zbekiston Respublikasi Prezidenti huzuridagi Loyiha boshqaruvi milliy agentligining “Kripto-birjalar faoliyatini litsenziyalash tartibi to‘g‘risidagi nizomni tasdiqlash to‘g‘risida”gi buyrug‘I qachon tastiqlangan?
-Quyidagilarni qaysi biri onlayan to’lov platformalari?
-“Uzcard” to‘lov tizimi qachondan faoliyat yurita boshlagan.
-“Humo” to‘lov tizimi qachondan ishga tushirildi?
-Masofadan xizmat ko‘rsatish tizimi mijozlarga taqdim etilayotgan xizmatlarning xarakteriga ko‘ra qanday turlarga bo‘lish mumkin:
-Internet-banking nima?
-SMS-banking nima?
-Sun’iy intellekt nima?
-1. Hozir butun raqamli iqtisodiyot narxi qancha ? 
-Tibbiyotda va biotexnologiyada qanday raqamli texnologiyalar qo'llaniladi? 
-To'rtinchi sanoat inqilobining global mohiyati quyidagilarbilan bog’liq: 
-Tarmoq iqtisodiyoti tushunchasi quyidagilarni o'z ichiga oladi:
-Elektron hukumat nima?
-Elektron davlat xizmati tushunchasiga ta’rif bering?
-Raqamli texnologiya bu – 
-Raqamli texnologiyalarning asosiy tamoyillari qaysilar?
-Raqamli texnologiyalar uchun zaruriy bo‘lgan zahiralar jumlasiga qaysilar kiradi?
-Kasblarning qancha foizi avtomatlashtirish tufayli yo'qolishi mumkin?
+WEB-sahifalarni ko'rish uchun nima mo'ljallangan?
+255.255.255.0  tarmoq maskasi(niqobi) qaysi klass(sinf)ga tegishli?
+255.255.255.128  maskali(niqobli) tarmoqda nechta IP manzil mavjud?
+Marshrutlashning nechta turi mavjud?
+Port security qaysi tarmoq qurilmalarida sozlanadi?
+Veb-sahifalar quyidagi formatga ega (kengaytma):
+Qaysi protokol servis protokollari va transport protokollari orasida zamonaviy kriptografiya yordamida ma'lumotlar himoyasini ta'minlaydi?
+Kompyuterning IP manzilini bilish uchun qanday buyruq ishlatiladi?
+IPv4da IP manzillar soni nechta?
+192.168.1.0 odatda nechilik maskada bo'ladi?
+OSI modelidagi qaysi sath IP manzillar bilan ishlaydi?
+TCP/IP protokollar stekini birinchi sathi keltirilgan variantni tanlang.
+IPSec ulanishda ishtirok etuvchi qurilmalar o'rtasida IP-paketlarni himoyalash va autentifikatsiya qilish uchun protokollar stekining qaysi qatlamida ishlaydi?
+Optik kabelda ma'lumot qanday ko'rinishda uzatiladi?
+Mijozlarning fayllarga kirishini boshqaruvchi server qanday nomlanadi?
+Qaysi dastur antivirus emas?
+Umumiy kompyuter resurslari, dasturiy ta'minot va ma'lumotlar foydalanuvchilarga Internet orqali xizmat
+MAC manzilining uzunligi necha baytga teng?
+IPv4 manzilining uzunligi necha bit?
+IPv6 manzili uzunligida nechta bit bor?
+IPv4 manzilining uzunligi necha baytga teng?
+TCP/IP protokoli stekining birinchi qatlamini ko'rsatadigan variantni tanlang.
+OSI modelining qaysi qatlamida ma'lumotlar freymlar sifatida ifodalanadi?
+Axborot xavfsizligi tushunchasi o'z ichiga qaysi uch tashkil etuvchilarni oladi?
+Mijoz so'ralgan serverga so'rov yuborib, ma'lumotni so'rab oladi, u so'rovga javoban mijoz qabul qilgan faylni yuboradi. Bu jarayon qaysi modelga xos?
+Har bir so'nggi qurilma (peer) server yoki mijoz sifatida ishlashi mumkin. Kompyuter bitta ulanish uchun server, boshqasi uchun mijoz vazifasini bajarishi mumkin.
+POP3 va IMAP4 ma'lumotni ishonchli yetkazib berish uchun transport darajasida qaysi protokolidan foydalanadilar?
+192.168.1.243 /24 ip manzillarining tarmoq manzili(nomi)ni aniqlang.
+192.168.1.243 /25 IP manzilining broadcast manzilini aniqlang.
+Qaysi sinf manzillari faqat tadqiqot maqsadlarida (faqat laboratoriyalarda) qo'llaniladi?
+Lokal IP manzilini global IP manziliga almashtiruvchi texnologiya qaysi?
+MAC manzil qaysi sanoq sistemasida ifodalanadi?
+IPv6 manzillarini nechta sinfi mavjud?
+Tarmoqdagi barcha kompyuterlar markaziy tugunga ulangan kompyuter tarmog'ining topologiyasi qanday nomlanadi?
+Switch OSI modelining qaysi sathida ishlaydi?
+Konsentrator (Hub) OSI modelining qaysi sathida ishlaydi?
+255.0.0.0  tarmoq maskasi(niqobi) qaysi klass(sinf)ga tegishli?
+Firewall butun tarmoq trafigini bloklab qo'yishi qaysi xavf-xatar turiga kiradi?
+Lokal kompyuter tarmog'i:
+.... tarmoq bo'ylab uzatilayotgan axborot oqimini aks ettiradi. Bu qaysi topologiya?
+... jismoniy topologiya doirasida signallarning harakatini aks ettiradi. Bu qaysi topologiya?
+Xakerlar tomonidan skanerlashning bunday turini kompaniyalar tomonidan skanerlashdan ajratib bo'lmaydi. Bu:
+Tarmoqqa kirish usullarini ko'rsating?
+Qaysi sath ikkita o'zaro ishlovchi hostlar o'rtasida aloqani o'rnatish, boshqarish va yakunlash vazifasini bajaradi?
+Qaysi sath ma'lumotlar patokidagi ma'lumotlarni segmentlash va qayta yig'ish vazifasini bajaradi?
+Qaysi sath paketning mantiqiy manzili asosida uning marshrutizatsiyasiga javob beradi?
+Hujumlarni aniqlaganda qanday faol harakatlarni amalga oshirish mumkin?
+Kriptografik algoritmlardagi zaifliklarni aniqlash va ulardan foydalanish uchun kriptotahlildan foydalanayotgan shaxs:.
+Oxirgi tizimlar o'rtasidagi fizik kanal orqali strukturalanmagan bitlar potokini uzatadi. Bu qaysi sathning vazifasi?
+ACL da "permit" komandasi nimani bildiradi?
+SSH protokolining vazifasini ko'rsating?
+Kompyuter orqali kommutatorga murojaat qilib, uni sozlashga imkon beruvchi kabel turini ko'rsating:
+Marshrutlash nima?:
+??? manzil berilgan qatorni ko`rsating ?
+ACL ro`yxati tarmoqning qaysi mezonlari bo`yicha trafiklarni filtrlaydi?
+ACL qanday maqsadlarda ishlatiladi?
+Syslog-serverning asosiy vazifasi nima?
+Marshrutizatsiya protokollari berilgan javobni toping?
+WAN tarmog'ini yaratish uchun marshrutizatorlarning minimal soni qancha?
+192.168.10.60 manzilining qaysi qismi standart pastki tarmoq niqobi qo'llangan bo'lsa, tarmoq identifikatori (manzili) hisoblanadi?
+Brauzer (masalan, Microsoft Internet Explorer) bu:
+Quyidagilardan qaysilari onlayn firibgarlik usuli emas?
+Tarmoqda ishlashning odob-axloq qoidalari berilgan qatorni toping?
+Kompyuter tarmog'ining umumlashtirilgan geometrik tavsifi....
+Kompyuter tarmog'i protokoli - ...
+Jahon miqyosidagi global kompyuter tarmog'i bu...
+Tarmoq ma'lumotlari almashinuvining asosiy (bo'linmas) birligi nima?
+DDoS hujumlari uchun qanday protokol ishlatiladi?
+Ikkilik sanoq tizimida 224 raqamining kiritilishini ifodalovchi variantni tanlang?
+Ikkilik sanoq tizimida 168 raqamining kiritilishini ifodalovchi variantni tanlang?
+Qaysi kabel odatdagi diametri 1 mm bo'lgan ikkita izolyatsiyalangan mis simlardan iborat?
+Axborotni uzatish jarayonida hujum qilish orqali, eshitish va o'zgartirish qaysi javobda keltirilgan?
+...tarmoq orqali uzatilayotgan axborotning sirliligini, ya'ni faqatgina yuboruvchi va qabulqiluvchiga tushunarli bo'lishini,
+... tizim yoki tarmoq xavfsizlik siyosatini buzib kirishga harakat qilingan usul yoki vositalar aniqlanadi.
+Elektron pochta sizga .... yuborish imkonini beradi.
+... - bu da'vo qilingan foydalanuvchi, jarayon yoki qurilmaning haqiqiyligini tekshirish tartibi.
+... - uning egasi haqiqiyligini aniqlash jarayonida tekshiruv axboroti sifatida ishlatiladigan belgilar ketma-ketligi.
+... - bu xavfsizlik protokollari hamda shifrlash algoritmlaridan foydalangan holda tarmoq orqali xavfsiz ma'lumot almashish imkonini beradi.
+Gipermatnni uzatish protokoli:
+TCP/IP steki nechta sathdan iborat?
+Elektron pochtalarni uzatuvchi-qabul qiluvchi server qanday nomlanadi?
+POP protokoli qaysi turdagi protokollarni o'z ichiga oladi?
+Xostlar o'rtasida fayl va ma'lumotlarni almashish uchun qanday protokol ishlatiladi?
+Tizim sozlanmalariga masofadn ulanish protokkollarini ko'rsating?
+Ish stoliga masofadan ruxsat olish protokoli qaysi javobda ko'rsatilgan?
+Quyidagilardan qaysi biri TACACS versiyasiga kirmaydi?
+SMTP protokolini kengaytmasi qaysi javobda to'g'ri keltirilgan?
+HTTP protokolini kengaytmasi qaysi javobda to'g'ri keltirilgan?
+ICMP protokolini kengaytmasi qaysi javobda to'g'ri keltirilgan?
+"Xizmat ko'rsatishdan voz kechish" hujumini toping?
+"O'rtada turgan odam hujumi" qaysi javobda keltirilgan?
+Agar sessiya identifikatori kodlanmagan bo'lsa, tajovuzkor seans identifikatorini sotib olishi va sessiyani o'g'irlashi mumkin" bu qaysi hujum turi?
+Hujumlarni aniqlashning asosiy mexanizmi:
+...- buzilish aniqlanganda interfeysni error-disabled holatiga o`tkazadi va o`chiradi.  Undan tashqari syslog, SNMP trap, violetion counter ka`bi jurnallashtiruvchilarga xabar jo`natiladi. Ushbu holatdan chiqarish uchun shutdown va no shutdown buyruqlaridan foydalaniladi.
+E-mail- bu:
+Fayl arxivlarini o'z ichiga olgan Internet-serverlar sizga quyidagilarga imkon beradi:
+Fayl uzatish protokoli ko'rsatilgan qatorni ko'rsating
+Internetdagi elektron pochta manzili belgilangan: user_name@tuit.uz. Yuqori darajadagi domen nomini toping?
+OSI modeli nechta sathdan iborat?
+Protokol nima ?
+IPv4 manzilida nechta oktet bor?
+HTTPS protokol portini aniqlang?
+DHCP ning asosiy vazifasi nima?
+Qaysi tarmoq topologiyasi mavjud emas?
+Elektron pochta protokoli portini belgilang.
+Elektron pochta protokollari berilgan qatorni belgilang?
+Amaliy sathda deyarli barcha xizmatlar qaysi sxema bo'yicha ishlaydi?
+Himoyalanayotgan resurs to'plami uchun beriladigan ruxsat qoidalari to'plami nima deyiladi?
+Foydalanuvchi autentifikatsiyasini, ruxsatsiz foydalanishdan ma'lumotlarni himoyalashni hamda tarmoq
+Amaliy sath protokollaridan axborotlarni olish va uni OSI modelidan foydalanuvchi barcha kompyuterlarga tushunarli formatga o'giruvchi sath nomi?
+Ochiq tizimlar munosabati OSI modeli qaysi tashkilotda ishlab chiqilgan?
+255.255.0.0  tarmoq maskasi(niqobi) qaysi klass(sinf)ga tegishli?
+Modem - bu:
+...- tarmoq tugunlarining aloqasi yoki joylashishini aks ettiradi.
+OSI modelining 1-sathida (ya'ni, fizik sathda) ishlaydigan, aloqa uchun tarmoqdagi qurilmalarni birlashtiruvchi tarmoq qurilmasi nima?
+...- tugunlar kommunikatsiyaning OSI modelidagi 2 qatlamda ishlovchi tarmoq qurilmalaridir.  "aqlli xab" deb ham yuritiladi.
+...- OSI modelining 3-qatlamida ishlovchi qurilma bo'lib, bir- biridan mustaqil bo'lgan 2 yoki undan ortiq tarmoqlar o'rtasidagi aloqani tashkil etadi.
+Mijozlarga fayllarni boshqarishni beruvchi server qanday nomlanadi?
+Global kompyuter tarmog'i:
+Tarmoq sathi protokollari qaysi qatorda keltirilgan?
+...- qoidalar axborotni faqat qonuniy foydalanuvchilar tomonidan "o'qilishini" ta'minlaydi.
+...-ruxsat etilmagan "bajarish" dan himoyalaydi.
+192.168.100.13 IP manzil turi va sinfini toping?
+Pochta xodimining xatlarni noqonuniy o'qishi qaysi xavf-xatar turiga kiradi?
+Zaifliklar uchun kriptografik algoritmlarni tahlil qilish san'ati:
+Qaysi xavfsizlik xizmati xizmatni rad etish hujumlaridan himoyalanish uchun mo'ljallangan?
+Foydalanishni rad etish hujumi quyidagilarga qaratilgan:
+Tinglash - bu:
+"Ulanishga asoslangan" protokollar oilasini toping?
+"Ulanishga asoslanmagan" protokollar oilasini toping?
+Kompyuter tarmoqlarining asosiy turlari...
+Quyidagi kompyuterlarni ulash sxemalaridan qaysi biri yopiq sxema hisoblanadi?
+Hujumlarni aniqlash tizimlari berilgan qatorni toping?
+Hujumlarni oldini olish tizimlari berilgan qatorni toping?
+SCP (secure copy) protokolini vazifasi nima?
+Kompyuter tarmog'ining umumiy geometrik tavsifi:
+Quyidagilardan qaysi biri ko'proq spam deb ataladi? 1 - ular ishtirok etmagan tanlovda g'olib chiqqanligi to'g'risidagi bildirishnomalar 2 - Do'stingizdan xabar 3 - qarz haqida bankdan xat 4 - jurnalni ular obuna bo'lgan nashrdan elektron pochta orqali tarqatish
+Marshrutizator qaysi obyektlar uchun marshrutni tanlaydi?
+Pog'onalarning qaysi tartibi to'g'ri hisoblanadi?
+Qaysi ikkilik sanoq tizimidagi son o'nlik 151 songa mos keladi?
+Ikki kompyuterni telefon liniyasi orqali ulash uchun sizda quyidagilar bo'lishi kerak:
+1 Gbit/s nimaga teng ?
+2 Gbit/s nimaga teng?
+OSI modelidagi qaysi sath MAC manzillari bilan ishlaydi?
+192.168.1.243 /24 uchun broadcast manzilini aniqlang.
+Lokal tarmoqdagi kompyuterlarni ulash uchun asosan qanday kabel ishlatiladi?
+192.168.10.51/24 manzilining qaysi qismi tarmoqning identifikatori (manzili) hisoblanadi?
+192.168.1.16/24 manzilining qaysi qismi tarmoq identifikatori (manzili) hisoblanadi?
+192.168.3.36 ning qaysi qismi standart pastki tarmoq niqobi ishlatilgan deb hisoblasak, tarmoq identifikatori (manzil) hisoblanadi?
+WAN tarmog'ini yaratish uchun marshrutizatorlarning minimal soni qancha?
+Kompyuterni server deb hisoblash mumkinmi?
+OSI modelida 7-sathni ko'rsating?
+OSI modelida 6-sathni ko'rsating?
+OSI modelida 5-sathni ko'rsating?
+OSI modelida 4-sathni ko'rsating?
+OSI modelida 3-sathni ko'rsating?
+OSI modelida 2-sathni ko'rsating?
+OSI modelida 1-sathni ko'rsating?
+END devicesga nimalar kiradi?
+IPv4 manzillarning nechta sinfi mavjud?
+Wi-Fi standartini toping?
+Asosiy maqsadi fayllarni bitta kompyuterdan boshqasiga o'tkazish yoki fayllarni serverlardan mijozlarga va
+Tarmoq sathida xabarlar nima deb nomaladi?
+Kompyuter internetga ulanishi uchun albatta ...... bo'lishi kerak? Nuqtalar o'rniga berilgan so'zni toping?
+IP manzillar oilasidagi birinchi manzilning nomi nima?
+Bir tarmoqdagi qurilmalardan boshqa tarmoqdagi qurilmalarga ma'lumot yuborishga nima imkon beradi?
+/27 maska qanday ko'rinishga ega?
+Internet tarmog'ida quyidagi pochta manzili derilgan:  networksecurity@tuit.uz. Pochta server nomini toping?
+Tarmoqning tarmoq ichida taqsimlanishi nima deb ataladi?
+Ma'lumotlarni  ishonchli yetkazib berilishini ta'minlaydigan transport qatlami protokoli qaysi?
+Hozirda qanday IP manzillar qo'llanilmoqda?
+Foydalanuvchilarni aloqa kanallari va kommutatsiya vositalarini qo'llagan holda o'zaro ma'lumot almashishlari,
+... - bir ofis, bino ichidagi aloqa tarmog'i.
+...... usulida testlovchi testlanadigan tarmoq infrastrukturasi haqida hech qanday dastlabki bilimlarga ega bo'lmaydi.
+Quyidagi protokollardan qaysi biri ilova sathining autentifikatsiya protokoli sifatida ishlatiladi?
+Tijorat saytlarida oylik zaiflik tekshiruvi qaysi sohalarda o'tkazilishi kerak?
+Xodimlarga qanday xizmatlar ko'rsatilishiga ruxsat berish kerak?
+Yong'in, toshqin yoki zilzila ma'lumotlarni yo'q qilishiga sabab bo'ladi. Bu qanday tahdid turi?
+Mahsulot ishlab chiqarish jadvalini o'g'rilash. Bu qanday tahdid turi?
+Xodim tashkilot noutebookini avtoturargohda to'satdan tushirib qo'yishi. Bu qanday tahdid turi?
+Virus, qurt yoki DOS hujumi dasturiy yoki apparat ta'minotni buzadi. Bu qanday tahdid turi?
+Xatolik dastur yuklanishiga to'sqinlik qiladi. Bu qanday tahdid turi?
+Dastur operatsion tizimning yangi versiyasi bilan ishlay olmaydi. Bu qanday tahdid turi?
+Xodim kompyuterining o'g'irlanishi. Bu qanday tahdid turi?
+Suqilib kirishni testlashni nechi xil usuli bor?
+Tarmoqlararo ekran(firewall) - bu:
+Cisco marshrutizatorlarida parolni olib tashlash uchun nimadan foydalaniladi?
+Rezervlash protokollari berilgan qatorni toping?
+Agregatsiyalash protokollari berilgan qatorni toping?
+Port securityni sozlashda qaysi parametrdan foydalaniladi?
+Dinamik marshrutlash protokollari berilgan qatorni toping?
+Manzillarni translatsiya qilish qaysi texnologiya asosida amalga oshiriladi?
+Troubleshooting nima uchun ishlatiladi?
+AAA serveri qaysi vazifalarni bajaradi?
+...- bu tarmoqning turli segmentlarida joylashgan oxirgi tizimlar o'rtasida ma'lumotlarini  uzatishga imkon beruvchi mexanizm hisoblanadi. Nuqtalar o'rniga to'g'ri javobni belgilang.
+DNS xizmatining maqsadi nima?
+WWW xizmatlaridan foydalanishning asosiy protokoli:
+Ochiq tizimlarning o'zaro ta'sirining 7 sathli modeli nomini ko'rsating
+Ma'lumotlarni eng kichik birligi nima?

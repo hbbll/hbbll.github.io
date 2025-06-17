@@ -65,7 +65,9 @@ tarmoq topologiyasi
 tarmoqdagi ma'lumotlarni qabul qilish va uzatishni, faollashtirishni tartibga soluvchi qoidalar
 WWW
 Paket
-ARP#11100000#10101000
+ARP
+11100000
+10101000
 O'ralgan juftlik
 Eavesdropping
 IPsec
@@ -134,7 +136,8 @@ Fayllarni xavfsiz nusxalash
 Tarmoq topologiyasi
 1
 Uchinchi pog'ona paketlari uchun
-1 - fizik, 2 - kanal, 3 - tarmoq, 4 - transport, 5 -seans, 6 -taqdimot, 7 - ilova #10010111
+1 - fizik, 2 - kanal, 3 - tarmoq, 4 - transport, 5 -seans, 6 -taqdimot, 7 - ilova 
+10010111
 Ikkita modem
 1024 Mbit/s
 2048 Mbit/s

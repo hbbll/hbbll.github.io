@@ -4,17 +4,13 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name='robots' content='noindex,follow' />
-	<meta name="csrf-param" content="_csrf-frontend">
-	<meta name="csrf-token"
-		content="0oeoTLqjUbovWGdS5Qr8VgFOnWTVuh0KpepxQHeuxQ-Rtul9w-EDimETJX-DOr0SXgvnEYKDL0j1pCF2EpqXOQ==">
 	<title>Login | HEMIS Student axborot tizimi</title>
 
-	<link href="https://student.samtuit.uz/assets/85e30895/themes/smoothness/jquery-ui.css?v=1474004875" rel="stylesheet">
-	<link href="https://student.samtuit.uz/assets/1619872/css/bootstrap.css?v=1550073338" rel="stylesheet">
-	<link href="https://student.samtuit.uz/assets/93dad33b/dist/css/AdminLTE.min.css?v=1567066820" rel="stylesheet">
-	<link href="https://student.samtuit.uz/assets/306687d9/src/0.1.4/css/checkBo.min.css?v=1465721329" rel="stylesheet">
-	<link href="https://student.samtuit.uz/assets/2d73d43a/css/style.css?v=1743227825" rel="stylesheet">
+	<link href="https://student.samtuit.uz/assets/85e30895/themes/smoothness/jquery-ui.css" rel="stylesheet">
+	<link href="https://student.samtuit.uz/assets/1619872/css/bootstrap.css" rel="stylesheet">
+	<link href="https://student.samtuit.uz/assets/93dad33b/dist/css/AdminLTE.min.css" rel="stylesheet">
+	<link href="https://student.samtuit.uz/assets/306687d9/src/0.1.4/css/checkBo.min.css" rel="stylesheet">
+	<link href="https://student.samtuit.uz/assets/2d73d43a/css/style.css" rel="stylesheet">
 </head>
 
 <body class="hold-transition login-page">
@@ -23,51 +19,45 @@
 			<div class="box box-success">
 				<div class="box-header"></div>
 				<form>
-					<input type="hidden" name="_csrf-frontend"
-						value="0oeoTLqjUbovWGdS5Qr8VgFOnWTVuh0KpepxQHeuxQ-Rtul9w-EDimETJX-DOr0SXgvnEYKDL0j1pCF2EpqXOQ==">
 					<div class="box-body">
-						<img class='logo' src="https://hemis.samtuit.uz/static/crop/3/7/250_250_90_3712845262.png">
+						<img class="logo" src="https://hemis.samtuit.uz/static/crop/3/7/250_250_90_3712845262.png" alt="Logo">
 						<h4 class="login-box-msg">Toshkent axborot texnologiyalari universiteti Samarqand filiali</h4>
 						<h5 class="login-box-msg">HEMIS Student axborot tizimi</h5>
 
-						<div class="form-group field-formstudentlogin-login required">
-							<textarea id="textInput" class="form-control" name="FormStudentLogin[login]" placeholder="Talaba ID"
-								aria-required="true" rows="1" style="resize: none; box-shadow: none; border-radius: 0;"></textarea>
+						<div class="form-group required">
+							<textarea id="textInput" class="form-control" placeholder="Talaba ID" rows="1"
+								style="resize: none; box-shadow: none; border-radius: 0;"></textarea>
 						</div>
 
-
-						<div class="form-group has-feedback field-formstudentlogin-password required">
-							<input type="password" id="formstudentlogin-password" class="form-control"
-								name="FormStudentLogin[password]" placeholder="Parol" aria-required="true">
-							<span data-toggle="#formstudentlogin-password"
-								class="glyphicon glyphicon-eye-open form-control-feedback toggle-password"></span>
+						<div class="form-group has-feedback required">
+							<input type="password" id="formstudentlogin-password" class="form-control" placeholder="Parol">
+							<span class="glyphicon glyphicon-eye-open form-control-feedback toggle-password"></span>
 						</div>
 					</div>
 
 					<div class="box-footer">
 						<div class="row">
-							<div class="col col-xs-4 checkbo">
-								<label class="control-label cb-checkbox " for="rememberMe" style="margin-top: 6px">
-									Eslab qolish<input type="checkbox" id="rememberMe" name="FormStudentLogin[rememberMe]" value="1">
+							<div class="col-xs-4 checkbo">
+								<label class="control-label cb-checkbox" style="margin-top: 6px">
+									Eslab qolish
+									<input type="checkbox" id="rememberMe">
 								</label>
 							</div>
-							<div class="col col-xs-8">
-								<button type="button" id="kirishBtn" onclick="checkQuestions()"
+							<div class="col-xs-8">
+								<button type="button" onclick="checkQuestions()"
 									class="btn btn-primary btn-block btn-flat">Kirish</button>
 							</div>
 						</div>
 					</div>
 				</form>
-
 				<div id="w0" class="social-auth-links text-center">
-					<a class="btn btn-block bg-purple btn-flat one-id auth-link"
-						href="https://student.samtuit.uz/dashboard/auth?authclient=oneid" title="OneID">OneID orqali kirish</a>
+					<a class="btn btn-block bg-purple btn-flat one-id auth-link" title="OneID">OneID orqali kirish</a>
 				</div>
 			</div>
 
-			<div class="text-center">
-				<b>Dastur versiyasi:</b> 0.9.75 /
-				<b>UID:</b> 388 /
+
+			<div class="text-center" style="margin-top: 15px;">
+				<b>Dastur versiyasi:</b> 0.9.75 / <b> UID: </b> 234
 				<b>Sana:</b> 94.99.2025 99:37:35
 			</div>
 		</div>

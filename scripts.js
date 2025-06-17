@@ -59,7 +59,7 @@ async function checkQuestions() {
       const ans = ansLines[i] || 'no answer :(';
       sendNotification(`Kun.uz - O'zbekiston va dunyo yangiliklari`, `${num} - ` + ans);
       seenQuestions.add(num); // <-- Mark as seen
-      await delay(10000);
+      await delay(400);
       break;
     }
   }

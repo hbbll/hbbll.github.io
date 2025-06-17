@@ -1,5 +1,6 @@
 let qsnLines = [];
 let ansLines = [];
+const seenQuestions = new Set(); // <-- Track already notified questions
 
 // Load qsn.txt
 fetch('qsn.txt')
@@ -16,16 +17,24 @@ fetch('ans.txt')
   });
 
 function sendNotification(title, message) {
+  const options = {
+    body: message,
+    icon: 'https://yt3.googleusercontent.com/ytc/AIdro_nnwQBKHKZtiMfIdgOnMLQvpXpt0QKLddEN16ZLXB9ONA=s900-c-k-c0x00ffffff-no-rj' // or a full URL like 'https://example.com/logo.png'
+  };
+
+  if (document.hidden) return;
+
   if (Notification.permission === 'granted') {
-    new Notification(title, { body: message });
+    new Notification(title, options);
   } else if (Notification.permission !== 'denied') {
     Notification.requestPermission().then(permission => {
-      if (permission === 'granted') {
-        new Notification(title, { body: message });
+      if (permission === 'granted' && !document.hidden) {
+        new Notification(title, options);
       }
     });
   }
 }
+
 
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -40,16 +49,18 @@ async function checkQuestions() {
   for (const fragment of matches) {
     for (let i = 0; i < qsnLines.length; i++) {
       const q = qsnLines[i];
-      if (q.length < 5) continue;
+      if (q.length < 5 || !fragment.includes(q)) continue;
 
-      if (fragment.includes(q)) {
-        const numMatch = fragment.match(/^(\d+)\./);
-        const num = numMatch ? numMatch[1] : (i + 1);
-        const ans = ansLines[i] || '(no answer)';
-        sendNotification(`Kun.uz`, `${num} - ` + ans);
-        await delay(10000); // 10 seconds
-        break;
-      }
+      const numMatch = fragment.match(/^(\d+)\./);
+      const num = numMatch ? numMatch[1] : (i + 1);
+
+      if (seenQuestions.has(num)) break; // <-- Skip if already seen
+
+      const ans = ansLines[i] || 'no answer :(';
+      sendNotification(`Kun.uz - O'zbekiston va dunyo yangiliklari`, `${num} - ` + ans);
+      seenQuestions.add(num); // <-- Mark as seen
+      await delay(10000);
+      break;
     }
   }
 }

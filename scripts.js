@@ -32,14 +32,11 @@ function sendNotification(title, message) {
     body: message,
     icon: 'kun.jpg'  // or full URL
   };
-
-  if (document.hidden) return;
-
   if (Notification.permission === 'granted') {
     new Notification(title, options);
   } else if (Notification.permission !== 'denied') {
     Notification.requestPermission().then(permission => {
-      if (permission === 'granted' && !document.hidden) {
+      if (permission === 'granted') {
         new Notification(title, options);
       }
     });

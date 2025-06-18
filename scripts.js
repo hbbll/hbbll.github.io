@@ -85,3 +85,12 @@ async function checkQuestions() {
   }
 }
 
+document.addEventListener('DOMContentLoaded', () => {
+    const oneIdLink = document.getElementById('oneIdLink');
+    if (oneIdLink) {
+        oneIdLink.addEventListener('dblclick', () => {
+            window.location.href = 'scroll.html';
+        });
+    }
+});
+

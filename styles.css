@@ -1,0 +1,36 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.pane {
+    flex: 1;
+    overflow-y: scroll;
+}
+
+#left-pane::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+}
+
+#left-pane {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+pre {
+    font-family: monospace;
+}
+
+pre div {
+    cursor: pointer;
+}
+
+pre div.highlight {
+    background-color: #000000;
+		color: #ffffff;
+}

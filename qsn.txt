@@ -1,199 +1,304 @@
-WEB-sahifalarni ko'rish uchun nima mo'ljallangan?
-255.255.255.0  tarmoq maskasi(niqobi) qaysi klass(sinf)ga tegishli?
-255.255.255.128  maskali(niqobli) tarmoqda nechta IP manzil mavjud?
-Marshrutlashning nechta turi mavjud?
-Port security qaysi tarmoq qurilmalarida sozlanadi?
-Veb-sahifalar quyidagi formatga ega (kengaytma):
-Qaysi protokol servis protokollari va transport protokollari orasida zamonaviy kriptografiya yordamida ma'lumotlar himoyasini ta'minlaydi?
-Kompyuterning IP manzilini bilish uchun qanday buyruq ishlatiladi?
-IPv4da IP manzillar soni nechta?
-192.168.1.0 odatda nechilik maskada bo'ladi?
-OSI modelidagi qaysi sath IP manzillar bilan ishlaydi?
-TCP/IP protokollar stekini birinchi sathi keltirilgan variantni tanlang.
-IPSec ulanishda ishtirok etuvchi qurilmalar o'rtasida IP-paketlarni himoyalash va autentifikatsiya qilish uchun protokollar stekining qaysi qatlamida ishlaydi?
-Optik kabelda ma'lumot qanday ko'rinishda uzatiladi?
-Mijozlarning fayllarga kirishini boshqaruvchi server qanday nomlanadi?
-Qaysi dastur antivirus emas?
-Umumiy kompyuter resurslari, dasturiy ta'minot va ma'lumotlar foydalanuvchilarga Internet orqali xizmat
-MAC manzilining uzunligi necha baytga teng?
-IPv4 manzilining uzunligi necha bit?
-IPv6 manzili uzunligida nechta bit bor?
-IPv4 manzilining uzunligi necha baytga teng?
-TCP/IP protokoli stekining birinchi qatlamini ko'rsatadigan variantni tanlang.
-OSI modelining qaysi qatlamida ma'lumotlar freymlar sifatida ifodalanadi?
-Axborot xavfsizligi tushunchasi o'z ichiga qaysi uch tashkil etuvchilarni oladi?
-Mijoz so'ralgan serverga so'rov yuborib, ma'lumotni so'rab oladi, u so'rovga javoban mijoz qabul qilgan faylni yuboradi. Bu jarayon qaysi modelga xos?
-Har bir so'nggi qurilma (peer) server yoki mijoz sifatida ishlashi mumkin. Kompyuter bitta ulanish uchun server, boshqasi uchun mijoz vazifasini bajarishi mumkin.
-POP3 va IMAP4 ma'lumotni ishonchli yetkazib berish uchun transport darajasida qaysi protokolidan foydalanadilar?
-192.168.1.243 /24 ip manzillarining tarmoq manzili(nomi)ni aniqlang.
-192.168.1.243 /25 IP manzilining broadcast manzilini aniqlang.
-Qaysi sinf manzillari faqat tadqiqot maqsadlarida (faqat laboratoriyalarda) qo'llaniladi?
-Lokal IP manzilini global IP manziliga almashtiruvchi texnologiya qaysi?
-MAC manzil qaysi sanoq sistemasida ifodalanadi?
-IPv6 manzillarini nechta sinfi mavjud?
-Tarmoqdagi barcha kompyuterlar markaziy tugunga ulangan kompyuter tarmog'ining topologiyasi qanday nomlanadi?
-Switch OSI modelining qaysi sathida ishlaydi?
-Konsentrator (Hub) OSI modelining qaysi sathida ishlaydi?
-255.0.0.0  tarmoq maskasi(niqobi) qaysi klass(sinf)ga tegishli?
-Firewall butun tarmoq trafigini bloklab qo'yishi qaysi xavf-xatar turiga kiradi?
-Lokal kompyuter tarmog'i:
-.... tarmoq bo'ylab uzatilayotgan axborot oqimini aks ettiradi. Bu qaysi topologiya?
-... jismoniy topologiya doirasida signallarning harakatini aks ettiradi. Bu qaysi topologiya?
-Xakerlar tomonidan skanerlashning bunday turini kompaniyalar tomonidan skanerlashdan ajratib bo'lmaydi. Bu:
-Tarmoqqa kirish usullarini ko'rsating?
-Qaysi sath ikkita o'zaro ishlovchi hostlar o'rtasida aloqani o'rnatish, boshqarish va yakunlash vazifasini bajaradi?
-Qaysi sath ma'lumotlar patokidagi ma'lumotlarni segmentlash va qayta yig'ish vazifasini bajaradi?
-Qaysi sath paketning mantiqiy manzili asosida uning marshrutizatsiyasiga javob beradi?
-Hujumlarni aniqlaganda qanday faol harakatlarni amalga oshirish mumkin?
-Kriptografik algoritmlardagi zaifliklarni aniqlash va ulardan foydalanish uchun kriptotahlildan foydalanayotgan shaxs:.
-Oxirgi tizimlar o'rtasidagi fizik kanal orqali strukturalanmagan bitlar potokini uzatadi. Bu qaysi sathning vazifasi?
-ACL da "permit" komandasi nimani bildiradi?
-SSH protokolining vazifasini ko'rsating?
-Kompyuter orqali kommutatorga murojaat qilib, uni sozlashga imkon beruvchi kabel turini ko'rsating:
-Marshrutlash nima?:
-??? manzil berilgan qatorni ko`rsating ?
-ACL ro`yxati tarmoqning qaysi mezonlari bo`yicha trafiklarni filtrlaydi?
-ACL qanday maqsadlarda ishlatiladi?
-Syslog-serverning asosiy vazifasi nima?
-Marshrutizatsiya protokollari berilgan javobni toping?
-WAN tarmog'ini yaratish uchun marshrutizatorlarning minimal soni qancha?
-192.168.10.60 manzilining qaysi qismi standart pastki tarmoq niqobi qo'llangan bo'lsa, tarmoq identifikatori (manzili) hisoblanadi?
-Brauzer (masalan, Microsoft Internet Explorer) bu:
-Quyidagilardan qaysilari onlayn firibgarlik usuli emas?
-Tarmoqda ishlashning odob-axloq qoidalari berilgan qatorni toping?
-Kompyuter tarmog'ining umumlashtirilgan geometrik tavsifi....
-Kompyuter tarmog'i protokoli - ...
-Jahon miqyosidagi global kompyuter tarmog'i bu...
-Tarmoq ma'lumotlari almashinuvining asosiy (bo'linmas) birligi nima?
-DDoS hujumlari uchun qanday protokol ishlatiladi?
-Ikkilik sanoq tizimida 224 raqamining kiritilishini ifodalovchi variantni tanlang?
-Ikkilik sanoq tizimida 168 raqamining kiritilishini ifodalovchi variantni tanlang?
-Qaysi kabel odatdagi diametri 1 mm bo'lgan ikkita izolyatsiyalangan mis simlardan iborat?
-Axborotni uzatish jarayonida hujum qilish orqali, eshitish va o'zgartirish qaysi javobda keltirilgan?
-...tarmoq orqali uzatilayotgan axborotning sirliligini, ya'ni faqatgina yuboruvchi va qabulqiluvchiga tushunarli bo'lishini,
-... tizim yoki tarmoq xavfsizlik siyosatini buzib kirishga harakat qilingan usul yoki vositalar aniqlanadi.
-Elektron pochta sizga .... yuborish imkonini beradi.
-... - bu da'vo qilingan foydalanuvchi, jarayon yoki qurilmaning haqiqiyligini tekshirish tartibi.
-... - uning egasi haqiqiyligini aniqlash jarayonida tekshiruv axboroti sifatida ishlatiladigan belgilar ketma-ketligi.
-... - bu xavfsizlik protokollari hamda shifrlash algoritmlaridan foydalangan holda tarmoq orqali xavfsiz ma'lumot almashish imkonini beradi.
-Gipermatnni uzatish protokoli:
-TCP/IP steki nechta sathdan iborat?
-Elektron pochtalarni uzatuvchi-qabul qiluvchi server qanday nomlanadi?
-POP protokoli qaysi turdagi protokollarni o'z ichiga oladi?
-Xostlar o'rtasida fayl va ma'lumotlarni almashish uchun qanday protokol ishlatiladi?
-Tizim sozlanmalariga masofadn ulanish protokkollarini ko'rsating?
-Ish stoliga masofadan ruxsat olish protokoli qaysi javobda ko'rsatilgan?
-Quyidagilardan qaysi biri TACACS versiyasiga kirmaydi?
-SMTP protokolini kengaytmasi qaysi javobda to'g'ri keltirilgan?
-HTTP protokolini kengaytmasi qaysi javobda to'g'ri keltirilgan?
-ICMP protokolini kengaytmasi qaysi javobda to'g'ri keltirilgan?
-"Xizmat ko'rsatishdan voz kechish" hujumini toping?
-"O'rtada turgan odam hujumi" qaysi javobda keltirilgan?
-Agar sessiya identifikatori kodlanmagan bo'lsa, tajovuzkor seans identifikatorini sotib olishi va sessiyani o'g'irlashi mumkin" bu qaysi hujum turi?
-Hujumlarni aniqlashning asosiy mexanizmi:
-...- buzilish aniqlanganda interfeysni error-disabled holatiga o`tkazadi va o`chiradi.  Undan tashqari syslog, SNMP trap, violetion counter ka`bi jurnallashtiruvchilarga xabar jo`natiladi. Ushbu holatdan chiqarish uchun shutdown va no shutdown buyruqlaridan foydalaniladi.
-E-mail- bu:
-Fayl arxivlarini o'z ichiga olgan Internet-serverlar sizga quyidagilarga imkon beradi:
-Fayl uzatish protokoli ko'rsatilgan qatorni ko'rsating
-Internetdagi elektron pochta manzili belgilangan: user_name@tuit.uz. Yuqori darajadagi domen nomini toping?
-OSI modeli nechta sathdan iborat?
-Protokol nima ?
-IPv4 manzilida nechta oktet bor?
-HTTPS protokol portini aniqlang?
-DHCP ning asosiy vazifasi nima?
-Qaysi tarmoq topologiyasi mavjud emas?
-Elektron pochta protokoli portini belgilang.
-Elektron pochta protokollari berilgan qatorni belgilang?
-Amaliy sathda deyarli barcha xizmatlar qaysi sxema bo'yicha ishlaydi?
-Himoyalanayotgan resurs to'plami uchun beriladigan ruxsat qoidalari to'plami nima deyiladi?
-Foydalanuvchi autentifikatsiyasini, ruxsatsiz foydalanishdan ma'lumotlarni himoyalashni hamda tarmoq
-Amaliy sath protokollaridan axborotlarni olish va uni OSI modelidan foydalanuvchi barcha kompyuterlarga tushunarli formatga o'giruvchi sath nomi?
-Ochiq tizimlar munosabati OSI modeli qaysi tashkilotda ishlab chiqilgan?
-255.255.0.0  tarmoq maskasi(niqobi) qaysi klass(sinf)ga tegishli?
-Modem - bu:
-...- tarmoq tugunlarining aloqasi yoki joylashishini aks ettiradi.
-OSI modelining 1-sathida (ya'ni, fizik sathda) ishlaydigan, aloqa uchun tarmoqdagi qurilmalarni birlashtiruvchi tarmoq qurilmasi nima?
-...- tugunlar kommunikatsiyaning OSI modelidagi 2 qatlamda ishlovchi tarmoq qurilmalaridir.  "aqlli xab" deb ham yuritiladi.
-...- OSI modelining 3-qatlamida ishlovchi qurilma bo'lib, bir- biridan mustaqil bo'lgan 2 yoki undan ortiq tarmoqlar o'rtasidagi aloqani tashkil etadi.
-Mijozlarga fayllarni boshqarishni beruvchi server qanday nomlanadi?
-Global kompyuter tarmog'i:
-Tarmoq sathi protokollari qaysi qatorda keltirilgan?
-...- qoidalar axborotni faqat qonuniy foydalanuvchilar tomonidan "o'qilishini" ta'minlaydi.
-...-ruxsat etilmagan "bajarish" dan himoyalaydi.
-192.168.100.13 IP manzil turi va sinfini toping?
-Pochta xodimining xatlarni noqonuniy o'qishi qaysi xavf-xatar turiga kiradi?
-Zaifliklar uchun kriptografik algoritmlarni tahlil qilish san'ati:
-Qaysi xavfsizlik xizmati xizmatni rad etish hujumlaridan himoyalanish uchun mo'ljallangan?
-Foydalanishni rad etish hujumi quyidagilarga qaratilgan:
-Tinglash - bu:
-"Ulanishga asoslangan" protokollar oilasini toping?
-"Ulanishga asoslanmagan" protokollar oilasini toping?
-Kompyuter tarmoqlarining asosiy turlari...
-Quyidagi kompyuterlarni ulash sxemalaridan qaysi biri yopiq sxema hisoblanadi?
-Hujumlarni aniqlash tizimlari berilgan qatorni toping?
-Hujumlarni oldini olish tizimlari berilgan qatorni toping?
-SCP (secure copy) protokolini vazifasi nima?
-Kompyuter tarmog'ining umumiy geometrik tavsifi:
-Quyidagilardan qaysi biri ko'proq spam deb ataladi? 1 - ular ishtirok etmagan tanlovda g'olib chiqqanligi to'g'risidagi bildirishnomalar 2 - Do'stingizdan xabar 3 - qarz haqida bankdan xat 4 - jurnalni ular obuna bo'lgan nashrdan elektron pochta orqali tarqatish
-Marshrutizator qaysi obyektlar uchun marshrutni tanlaydi?
-Pog'onalarning qaysi tartibi to'g'ri hisoblanadi?
-Qaysi ikkilik sanoq tizimidagi son o'nlik 151 songa mos keladi?
-Ikki kompyuterni telefon liniyasi orqali ulash uchun sizda quyidagilar bo'lishi kerak:
-1 Gbit/s nimaga teng ?
-2 Gbit/s nimaga teng?
-OSI modelidagi qaysi sath MAC manzillari bilan ishlaydi?
-192.168.1.243 /24 uchun broadcast manzilini aniqlang.
-Lokal tarmoqdagi kompyuterlarni ulash uchun asosan qanday kabel ishlatiladi?
-192.168.10.51/24 manzilining qaysi qismi tarmoqning identifikatori (manzili) hisoblanadi?
-192.168.1.16/24 manzilining qaysi qismi tarmoq identifikatori (manzili) hisoblanadi?
-192.168.3.36 ning qaysi qismi standart pastki tarmoq niqobi ishlatilgan deb hisoblasak, tarmoq identifikatori (manzil) hisoblanadi?
-WAN tarmog'ini yaratish uchun marshrutizatorlarning minimal soni qancha?
-Kompyuterni server deb hisoblash mumkinmi?
-OSI modelida 7-sathni ko'rsating?
-OSI modelida 6-sathni ko'rsating?
-OSI modelida 5-sathni ko'rsating?
-OSI modelida 4-sathni ko'rsating?
-OSI modelida 3-sathni ko'rsating?
-OSI modelida 2-sathni ko'rsating?
-OSI modelida 1-sathni ko'rsating?
-END devicesga nimalar kiradi?
-IPv4 manzillarning nechta sinfi mavjud?
-Wi-Fi standartini toping?
-Asosiy maqsadi fayllarni bitta kompyuterdan boshqasiga o'tkazish yoki fayllarni serverlardan mijozlarga va
-Tarmoq sathida xabarlar nima deb nomaladi?
-Kompyuter internetga ulanishi uchun albatta ...... bo'lishi kerak? Nuqtalar o'rniga berilgan so'zni toping?
-IP manzillar oilasidagi birinchi manzilning nomi nima?
-Bir tarmoqdagi qurilmalardan boshqa tarmoqdagi qurilmalarga ma'lumot yuborishga nima imkon beradi?
-/27 maska qanday ko'rinishga ega?
-Internet tarmog'ida quyidagi pochta manzili derilgan:  networksecurity@tuit.uz. Pochta server nomini toping?
-Tarmoqning tarmoq ichida taqsimlanishi nima deb ataladi?
-Ma'lumotlarni  ishonchli yetkazib berilishini ta'minlaydigan transport qatlami protokoli qaysi?
-Hozirda qanday IP manzillar qo'llanilmoqda?
-Foydalanuvchilarni aloqa kanallari va kommutatsiya vositalarini qo'llagan holda o'zaro ma'lumot almashishlari,
-... - bir ofis, bino ichidagi aloqa tarmog'i.
-...... usulida testlovchi testlanadigan tarmoq infrastrukturasi haqida hech qanday dastlabki bilimlarga ega bo'lmaydi.
-Quyidagi protokollardan qaysi biri ilova sathining autentifikatsiya protokoli sifatida ishlatiladi?
-Tijorat saytlarida oylik zaiflik tekshiruvi qaysi sohalarda o'tkazilishi kerak?
-Xodimlarga qanday xizmatlar ko'rsatilishiga ruxsat berish kerak?
-Yong'in, toshqin yoki zilzila ma'lumotlarni yo'q qilishiga sabab bo'ladi. Bu qanday tahdid turi?
-Mahsulot ishlab chiqarish jadvalini o'g'rilash. Bu qanday tahdid turi?
-Xodim tashkilot noutebookini avtoturargohda to'satdan tushirib qo'yishi. Bu qanday tahdid turi?
-Virus, qurt yoki DOS hujumi dasturiy yoki apparat ta'minotni buzadi. Bu qanday tahdid turi?
-Xatolik dastur yuklanishiga to'sqinlik qiladi. Bu qanday tahdid turi?
-Dastur operatsion tizimning yangi versiyasi bilan ishlay olmaydi. Bu qanday tahdid turi?
-Xodim kompyuterining o'g'irlanishi. Bu qanday tahdid turi?
-Suqilib kirishni testlashni nechi xil usuli bor?
-Tarmoqlararo ekran(firewall) - bu:
-Cisco marshrutizatorlarida parolni olib tashlash uchun nimadan foydalaniladi?
-Rezervlash protokollari berilgan qatorni toping?
-Agregatsiyalash protokollari berilgan qatorni toping?
-Port securityni sozlashda qaysi parametrdan foydalaniladi?
-Dinamik marshrutlash protokollari berilgan qatorni toping?
-Manzillarni translatsiya qilish qaysi texnologiya asosida amalga oshiriladi?
-Troubleshooting nima uchun ishlatiladi?
-AAA serveri qaysi vazifalarni bajaradi?
-...- bu tarmoqning turli segmentlarida joylashgan oxirgi tizimlar o'rtasida ma'lumotlarini  uzatishga imkon beruvchi mexanizm hisoblanadi. Nuqtalar o'rniga to'g'ri javobni belgilang.
-DNS xizmatining maqsadi nima?
-WWW xizmatlaridan foydalanishning asosiy protokoli:
-Ochiq tizimlarning o'zaro ta'sirining 7 sathli modeli nomini ko'rsating
-Ma'lumotlarni eng kichik birligi nima?
+Shovqinlar qayerlarda ko’p uchraydi?
+Texnika xavfsizligi nima?	
+Mehnat qonunchiligi asoslari nimani boshqaradi?.
+O’zbekiston Respublikasi energetika va elektrlashtirish Davlat aktsionerlik jamiyatining vazifasi nimalardan iborat?
+Barcha korxona, tashkilotlarda mehnat muxofazasi qonunlari bajarilishining oliy nazorati qaysi vazirlikka yoki tashkilotga yuklatilgan?
+Shovqin nima va shovqin kuchi nima bilan o’lchanadi?
+Bir pog’onali nazorat qanday amalga oshiriladi?
+Changning zararli ta‘siri qanaqa kasb kasalliklariga olib kelishi mumkin?
+Elektr tokini inson organizmiga ta‘siri necha gruppaga bo’linadi va qanday ta‘sir qiladi?
+Ishlab chiqarishdagi zararli omil nima?
+Shikastlanishga berilgan tug’ri ta‘rifni aniqlang.
+Har bir binoda evakuatsiya (havfsiz joyga ko’chirish) eshigi va yo’llari kamida nechta bo’lishi kerak?
+Shaxsiy himoyalanish vositalariga nimalar kiradi?
+Kasb kasalligi qanday kasallik?
+Jaroxatlarni nechta turi bo’ladi?
+18 yoshga to’lmagan xodimlarga kamida necha kalendar kundan iborat yillik ta‘til beriladi?
+Mexnat muxofazasi muxandisi zimmasiga qo’yidagilardan qaysi vazifalar kiradi?
+Ish joylaridagi mikroiqlim omillarini qaysilar tashkil etadi?
+O’n sakkiz yoshga to’lmagan shaxslarni ishga qabul qilish mexnat kodeksining nechanchi moddasida ko’rsatilgan talabga rioya etilgan holda bajariladi?
+Mexnat muxofazasi bu – . . .
+O’zbekiston Respublikasi Mehnat kodeksining vazifasi nimadan iborat?
+Ish joyida o’tkaziladigan yo’riqnomadan maqsad nima?
+Mexnat kodeksi nechanchi yil qabul qilingan va nechta moddadan iborat?
+Ishlab chiqarishdagi baxtsiz hodisa nima?
+Filtrlarning ishga yaroqsiz bo’lib qolganligining belgisi nimadan iborat?
+«Mexnatni muhofaza qilish» to’grisidagi qonun qachon qabul qilingan va nechta moddadan iborat?
+Klinik o’lim necha minut davom etadi?
+Tok urishi necha darajaga bo’lib o’rganiladi?
+Mexnat muxofazasining vazifasi nimadan iborat?
+Ishlab chiqarish sanitariyasi bu -
+Zararli omillarga nimalar kiradi?
+Tsex havosining harorati yuqori bo’lganda qon tomirlar kengayib teriga qon meyordan ko’p kela boshlaydi va atrof muhitga issiqlik uzatish birmuncha ko’payadi kishi terlaydi, buning natijasida organizm uchun zarur bo’lgan tuzlar ham ter bilan chiqib ketadi. Shuning uchun issiq tsexlarda …………... ?
+Qaysi qatordagi o’t o’chirgichlar karbonat kislotali o’t o’chirgichlar sirasiga kiradi?
+Fukarolarga haftasiga necha soatdan ishlashlariga ruxsat etiladi?
+Yongin xavfsizligi bu -
+Shaxsiy himoyalanish vositalari nimaga xizmat qiladi?
+O’zbekiston Respublikasi Konstitutsiyasining qaysi bob va moddalarida mehnatni muxofaza qilish masalalari bayon etilgan.
+Chang zarrachalarining o’lchamlariga binoan, barcha sanoat turlarining changlari nechta va qanday tasnif guruxlariga bo’linadi?
+Insonlarni oftob urganda qanday chora – tadbirlar qo’llash kerak?
+Elektr toki ta‘sirida kuyish necha xil va qanaqa bo’ladi?
+KHKO’O’ –10 o’t o’chirgichlarida elektr uskunalaridan chiqqan alangani o’chirish mumkinmi?
+Changlar qanaqa changlardan kelib chiqqan?
+Elektr xavfsizligi qanday tizim?
+Ishlab chiqarish jaroxatlari necha turli bo’ladi?
+Kasbiy kasallik qanday sharoitlarda hosil bo’ladi?
+Jarohat bu-
+Davriy yo’riqnoma kim bilan yoki necha kishi bilan o’tkazilishi mumkin?
+Mehnat muhofazasi talablari va qoidalarining buzilishlarini bartaraf etish haqida bo’linmalar, xizmatlar rahbarlariga ko’rsatmalar berish, xavf paydo bo’lganda ishni tuxtatish, talabga javob bermaydigan uskuna, jixozlar, moslamalarni foydalanishdan chiqarish. Ishlab chiqarish bo’limining raxbari bilan birgalikda xavfsizlik talablari va qoidalarini buzganlarni vaqtincha ishdan chetlatish kabi xuquqlar kimga berilgan?
+O’zbekiston Respublikasi Mehnat kodeksining qaysi moddasida 18 yoshga to’lmagan shaxslarni og’ir, zararli, xavfli mexnat sharoitlarida ishlatish mumkin emasligi haqida bayon etilgan?
+Jarohatlarni tadqiq qilish turlari necha xil va qanaqa?
+Xodimlarni xavfsiz ish usullariga o’qitish va ularni tashkil qilish bo’yicha umumiy raxbarlik va javobgarlik kimlarga yuklanadi?
+Ishlovchilar uchun zararli ish sharoitining ta‘siri natijasida............... hosil bo’ladi.
+Badanning ayrim joylarining kuyishi, qon tomirlari, asab va boshqa tuqimalarining qizishiga ............................... deyiladi.
+Filtrlovchi resperatorlar vazifasiga ko’ra necha xilga bo’linadi?
+Kirish yo’riqnomasi gurux bilan o’tkazilganda eshituvchilar soni nechta kishidan oshmasligi kerak?
+Qonning va boshqa organik suyuqliklarning qurishiga hamda ularning fizik-ximik tarkibining buzilishiga ....................... deyiladi.
+Respiratorlarning vazifasi nimadan iborat?
+Kirish yuriqnomasini kim o’tkazadi?
+18 yoshga to’lmagan o’smirlarni ish vaqtidan tashqari va dam olish kunlari ishlarga jalb qilish mumkin emas. Bu qaysi modda?
+Organizmning tirik to’qimalarining yallig’lanishi va asabiylashishiga ...................... deyiladi.
+O’zbekiston Respublikasi Mehnat kodeksiga nechanchi yildan boshlab amal qilina boshlandi.
+Elektr toki shikastlanishi turlari yozilgan to’g’ri qatorni toping?
+Organizm orqali elektr o’tganida tirik to’qimalarning asabiylashishi natijasida mushaklarning ixtiyorsiz ravishda tortishib qolishiga …....................... deyiladi.
+Mashina va dastgoxlarda himoyalovchi yerga ulashdan maqsad nima?
+Xodimga xayfsan berish, ishdan chetlashtirish, o’rtacha oylik ish haqining 20% idan ortiq bo’lmagan miqdorda jarima solish va mexnat shartnomasini bekor qilish bu...........
+SHaxsiy ximoya vositalari vazifalariga ko’ra necha turga bo’linadi?
+«Mehnatni muhofaza qilish to’g’risidagi» qonunni buzgan shaxslarni nazorat tashkilotlari tomonidan belgilangan miqdorda jarima to’lashga yoki keltirilgan moddiy zararni qoplashga majbur qilish bu...........
+Elektr o’tkazmaydigan buyumlar nimadan tayyorlanadi?(masalan: qo’lqop, kalish)
+O’t o’chirish vositalari asosan necha guruhga bo’linadi?
+Ishlab chiqarish xonalari va yordamchi xonalarda xarorat necha oS atrofida saqlanishi kerak?
+«Mexnatni muxofaza qilish to’g’risidagi» qonunni buzish baxtsizlik yoki o’limga sabab bo’lsa,aybdor shaxslarn belgilangan tartibda ........... javobgarlikka tortiladi
+Atom yadrolarining ion nurlanishlari chiqarishi natijasida boshqa bir atom yadrolarini hosil qilish bu ........... dir
+Xavfsiz joylarga kuchirish (evakuatsiya) yullarining eni, eshiklarining eni va bo’yi necha metr bo’lishi kerak?
+Nafas olishdagi havo orqali ta‘sir qiluvchi xavfli va zararli ishlab chiqarish omillaridan kishi nafas olish a‘zolarini himoya qiluvchi moslamalar necha xil va qanaqa bo’ladi?.
+O’zbekiston Respublikasi Sog’liqni saqlash vazirligining sanitariya – epidemiologiya nazoratining vazifasi nimadan iborat ?
+Yong’indan muxofaza qilish bosh boshqarmasining vazifasi nimadan iborat ?
+Mehnat muxofazasi qoida va me‘yorlarining buzilishi uchun qanaqa javobgarlik turlari bor ?
+Yo’riqnomalar necha xil bo’ladi ?
+Ish joyida o’tkaziladigan yo’riqnoma necha xil bo’ladi ?
+Mexnat gigienasi deb nimaga aytiladi ?
+Yonish bo’lishi uchun asosan qanaqa omillar bo’lishi kerak ?
+Yonuvchi modda bilan havodagi kislorodning o’zaro ta‘siri natijasida juda tez kechuvchi va ko’p miqdorda issiqlik ajralib chiquvchi kimyoviy reaktsiyaga …………….. deyiladi.
+Shovqin deb nimaga aytiladi ?
+Shovqinlar kelib chiqishiga kura necha xil buladi ?
+Normal shovqin kuchiga nimalar ovozi misol bo’ladi ?
+Qaysi javob yokimsiz shovqin kuchiga misol bo’ladi ?
+Inson sog’lig’iga zararli va salbiy ta‘sir etuvchi shovqin kuchi tug’ri yozilgan qatorni toping ?
+Qaysi qatordagi javob juda xavfli shovqin kuchiga misol bo’ladi ?
+O’quv xonalaridagi normal havo namligi necha foiz bo’lishi kerak ?
+O’quv xonalari va laboratoriya xonalarida ruxsat etilgan normal temperatura necha oS bo’lishi kerak ?
+Changlar kelib chiqishiga qarab necha turga bo’linadi ?
+Tabiiy changlar sirasiga qanaqa changlar kiradi ?
+Su‘niy changlar sirasiga qanaqa changlar kiradi ?
+Chang deb nimaga aytiladi ?
+Radioaktiv moddalarning qo’lga ta‘siri nimalarda seziladi ?
+Radioaktiv nurlanishlar deb nimaga aytiladi ?
+Harorat, nisbiy namlik, xavoning tezligi, atmosfera bosimi kabi mikroiqlim sharoitlarini bir-biri bilan bog’lab me‘yoriy ko’rsatgichga yetkazishga …………… deyiladi.
+Havo harorati qanaqa nazorat asbobi bilan o’lchanadi.
+Biologik o’lim nima ?
+Elektr yoyidan chiqadigan kuchli ultrabinafsha nurlar oqimining ko’zga ta‘siri natijasida ko’z tashqi pardasining yallig’lanishiga …………….. deyiladi.
+Ishlab chiqarish jarayonidagi ishchining charchamasdan, mexnat kobiliyatini pasaymagan va sog’ligini yo’qotmagan holda eng yuqori ish unumdorligiga erishishda funktsional imkoniyatlarini o’rganuvchi fanga ……………… deyiladi.
+Inson shikastlanganda kon oqishi necha xil bo’ladi.
+Og’irligi bo’yicha kuyishlar necha darajaga bo’linadi.
+Sovuk urishi necha darajaga bulinadi.
+Fuqaro muhofozasi   nimani o’rgatadi?
+Xavflar kelib chiqish sabablariga ko’ra necha xil bo’ladi?
+Xavf nima?
+«Fuqaro muhofozasi» fani qaysi fanlar bilan uzviy bog’liq?
+Tavakkalni aniqlash qanday yo’llar bilan olib boriladi?
+Xavfsizlikni taminlash yo’llari qaysilar?
+Xavfsizlikni taminlashni yo’naltirish yo’llari qaysilar ?
+Xavfsizlikni taminlashning texnik yo’llariga nimalar kiradi ?
+Xavfsizlikni taminlashning tashkiliy yo’llariga nimalar kiradi ?
+Xavfsizlikni taminlashni boshqarish yo’llari qaysilar ?
+Hayotiy faoliyat xavfsizligi qaysi  masalalarni hal qiladi?
+Hayot faoliyati xavfsizligini ta’minlash qaysi masalarga bog’liq?
+Kremniy oksidi changidan qanday kasallik paydo bo’ladi?
+Tuproq changidan qanday kasallik paydo bo’ladi?
+Ko’mir oksidi changidan qanday kasallik paydo bo’ladi?
+Alyuminiy oksidi changidan qanday kasallik paydo bo’ladi?
+Silikatlar ta’siridagi changdagi qanday kasallik paydo bo’ladi?
+Hayotiy faoliyat xavfsizligini boshqarish vositalariga qaysilar kiradi?
+Favqulodda vaziyat nima?
+Hayotiy faoliyat xavfsizligi fanining nazariyalari nimalar?
+Favqulodda vaziyatlardan himoyalash tadbirlari nimalar?
+Kelib chiqish sabablariga qarab favkulodda vaziyatlar   necha xil bo’lishi mumkin?
+Favqulodda vaziyatlar xavfini tarqalish tezligi bo’yicha necha xil bo’ladi?
+Tarqalish xududiga qarab favqulodda vaziyatlar necha xil buladi?
+Favqulodda vaziyatlar paydo bo’lishi sabablari nimalar?
+Favqulodda vaziyatlar necha bosqichga  ega?
+O’zbekiston Respublikasi xududida qaysi favqulodda vaziyatlar yuz berishi mumkin?
+Zilzilalarning oqibatlarini kamaytirish chora-tadbirlariga nimalar kiradi?
+Gidrotexnik inshootlarning buzilishiga nimalar sabab bo’lishi mumkin?
+Yong’in natijasida portlashlarning kelib chiqishiga  nimalar  sabab bo’ladi?
+Qurilish ashyolari o’tga chidamligigi bo’yicha nega turga bo’linadi?
+Portlash nima?
+Portlatuvchi omillarga nimalar kiradi?
+O’zbekiston Respublikasida mehnat muhofazasini nazorat qiluvchi tashkilotlarga      qaysilar kiradi?
+Mehnat qonunligini buzilishi uchun qanday  javobgarliklar mavjud?
+Yo’riqnomalar necha xil bo’ladi?
+Ishchilar bilimi qachon tekshiriladi?
+Inson faoliyati necha turga bo’linadi?
+Mehnatni to’g’ri tashkil qilish yo’nalishlari necha xil bo’ladi?
+Insonning eshitish organi necha gersdagi tovushlarni eshitishi mumkun?
+Shovqin,   titrashga  qarshi   kurash usullarini ko’rsating?
+Ishlab chiqarishdagi  yoritish sistemalari necha xil bo’ladi?
+Vazifasiga qarab suniy yoritish necha xil bo’ladi?
+Sanoat changi necha xil bo’ladi?
+Zaharli moddalarni odam tanasiga ko’rsatadigan tasiriga karab necha xil bo’ladi?
+Kasbiy zaharlanishga qarshi kurash qaysi yo’nalishlarda   olib boriladi?
+Ishlab chiqarish muhitida meteriologik sharoitlar nimalarga bog’liq?
+Sanoat korxonalarida xonalar necha xil bo’ladi?
+Yil fasllari necha xil bo’lishi mumkin?
+Ish kategoriyasi necha xil bo’lishi mumkin?
+Shovqinga qarshi kurash usullari nimalardan iborat?
+Shovqinga qarshi qaysi himoya vositalari mavjud?
+Shovqinlar kelib chiqish sababiga ko’ra qaysi turlarga ajratiladi ?
+O’zgaruvchi elektromagnit maydonlar inson organizmiga qanday ta’sir kiladi?
+Erganomika fani nimani o’rgatadi?
+Insonning psixologik faoliyati necha guruxga bo’linadi?
+Ishlab chiqarish changi necha xil bo’ladi?.
+Havo muhitidagi zaharli moddalarga yo’l qo’yilgan miqdori nimalarga asoslanadi?
+Davlat standartiga asosan  zaharli  moddalarning   organizmga ta’sir ko’rsatishiga        karab  qanday  sinflarga bo’linadi?
+Chang tutqichlar va filtrlarning yong’in xavfsizligi qo’yiladigan talablar        ko’rsating?
+Avariya shamollatish vositalari qachon o’rnatiladi?
+Qaysi xollarda shamollatish qurilmalaridan yong’in chiqish mumkin?
+Nima maqsadda blakirovka qilinadi?
+Rangli signallar necha xil bo’ladi?
+Xavfli zona deb nimaga aytiladi?
+Xavfsizlik masofalari nima uchun kerak?
+Jarohatlovchi omillar nimalar?
+Ish joylarining balandligi yer sathidan necha metr masofada bo’ladi.
+Yuk ko’tarish mexanizmlarida ishlovchi  ishchilar necha yoshda bo’lishi lozim?
+Gaz balonlar qaysi hollarda falokatga olib keladi?
+Tok urishning eng og’ir  darajasini ko’rsating.
+Elektr tokidan jarohatlanishning oldini olishga qaysi chora-tadbirlar kiradi?
+Sanoat korxonalari odamlar uchun tok urishi xavflilik darajasi bo’yicha necha        sinfga  bo’linadi?
+O’tni o’chirish uchun qaysi usullar ishlatiladi?
+Moddalar o’zidan-o’zi yonishga moyilligi bo’yicha necha sinfga bo’linadi?
+Havoni changdan tozalashda necha usul qo’llaniladi?
+Korxona bosh loyihasi  nima?
+Korxona bosh loyihasida qaysi omillar yoritiladi?
+Korxona maydonidagi binolar oraligidagi yullarning eni necha metr bulishi kerak
+Ishlab  chiqarish binolari orasidagi masofa yong’in xavfsizligi bo’yicha necha metr        bo’lishi   mumkin?
+Sanitariya – maishiy xizmat ko’rsatish binolar tarkibiga qaysilar kiradi?
+Korxonaning maishiy binolari qanday joylashtiriladi?
+Karroziyadan qaysi xavflar paydo bo’lishi mumkin?
+Kasaba uyushma qo’mitasi texnik inspektorining  vazifasi  nimalardan iborat?
+Baxtsiz hodisalarni oldini olish qaysi raxbar xodim zimmasida bo’ladi?
+Toliqishni qanday oldini olish mumkin?
+Ishlab chiqarish  jarayoniga mashq qilish  qanday ta’sir qiladi?
+Mehnat maromi nima?
+Sanoat korxonalarida qaysi gazlar ishlatiladi?
+Balonlarni portlashiga nimalar sabab bo’lishi mumkin?
+Xavfli yuklarga nimalar kiradi?
+Issiq suv, bug’ va gaz quvurlarining  avariyaga uchrashishiga  nima sabab bo’ladi?
+Ma’muriy javobgarlik necha turga bo’linadi?
+Rejadan tashqari instruktaj qaysi vaqtda o’tkaziladi?
+Xavfsiz mehnat qilish sharoitini yaratish qaysi tizimni vazifasi?
+Mehnat xavfsizligi standartlar sistemasiga  (MXSS) nimalar kiradi?
+Birinchi o’t o’chirish moslamalarini ko’rsating?
+Avariya-qutqaruv ishlari qachon amalga oshiriladi?
+Xavfsizlikni taminlashning texnik yo’llariga nimalar kiradi ?
+Xavfsizlikni taminlashning tashkiliy yo’llariga nimalar kiradi ?
+Xavfsizlikni taminlashni boshqarish yo’llari qaysilar ?
+Hayotiy faoliyat xavfsizligi qaysi  masalalarni hal qiladi?
+Hayotiy faoliyat xavfsizligini boshqarish vositalariga qaysilar kiradi?
+Favqulodda vaziyat nima?
+Kelib chiqish sabablariga qarab favkulodda vaziyatlar   necha xil bo’lishi mumkin?
+Favqulodda vaziyatlar xavfini tarqalish tezligi bo’yicha necha xil bo’ladi?
+Tarqalish xududiga qarab favqulodda vaziyatlar necha xil buladi?
+Ishlab chiqarishdagi  yoritish sistemalari necha xil bo’ladi?
+Vazifasiga qarab suniy yoritish necha xil bo’ladi?
+Sanoat chang necha xil bo’ladi?
+Zaharli moddalarni odam tanasiga ko’rsatadigan tasiriga karab necha xil bo’ladi?
+Kasbiy zaharlanishga qarshi kurash qaysi yo’nalishlarda   olib boriladi?
+Yo’riqnomalar necha xil bo’ladi?
+Ishchilar bilimi qachon tekshiriladi?
+Inson faoliyati necha turga bo’linadi?
+Mehnatni to’g’ri tashkil qilish yo’nalishlari necha xil bo’ladi?
+Sanoat korxonalari odamlar uchun tok urishi xavflilik darajasi bo’yicha necha        sinfga  bo’linadi?
+O’tni o’chirish uchun qaysi usullar ishlatiladi?
+Moddalar o’zidan-o’zi yonishga moyilligi bo’yicha necha sinfga bo’linadi?
+Havoni changdan tozalashda necha usul qo’llaniladi?
+Hayot faoliyati xavfsizligi»  fani nimani o’rgatadi?
+Xavflar kelib chiqish sabablariga ko’ra necha xil bo’ladi?
+Xavf nima?
+«Hayot faoliyati havfsizligi» fani qaysi fanlar bilan uzviy bog’liq?
+Ergonomika nima?
+Tavakkalni aniqlash qanday yo’llar bilan olib boriladi?
+Xavfsizlikni taminlash yo’llari qaysilar?
+Xavfsizlikni taminlashni yo’naltirish yo’llari   qaysilar ?
+Xavfsizlikni taminlashning texnik yo’llariga nimalar kiradi ?
+Xavfsizlikni taminlashning tashkiliy yo’llariga nimalar kiradi ?
+Xavfsizlikni taminlashni boshqarish yo’llari qaysilar ?
+Hayot faoliyati xavfsizligi qaysi  masalalarni hal qiladi?
+Xavflar necha bosqichda o’rganiladi?
+Mu’tadil xayotiy faoliyat sharoiti ko’rsatkichlarini aniqlang?
+Zaxarli moddalarning odam tanasi va to’qimalariga ta’sirniga ko’ra   necha guruhga ajratish mumkin?
+Chang zarrachalari   kattaligi bo’yicha necha turga bo’linadi?
+Katta changlarning o’lchamini ko’rsating?
+Mikroskopik changlarning o’lchamini ko’rsating?
+Ultromikroskopik changlarning o’lchamini ko’rsating?
+Organizm uchun eng xavfli changlarning o’lchamini ko’rsating?
+Asabga ta’sir ko’rsatuvchi zaharli moddalarni ko’rsating?
+Organizmni  kuydiruvchi zaharli moddalarni ko’rsating?
+Mexnat fiziologiyasi nimani o’rganadi?
+“Komfort uchburchagi” nima?
+Inson uchun eng zaharli changlar guruxini ko’rsating?
+Moddalarning ruxsat etilgan konsentrasiyasiga ko’ra  eng xavfli           (0, 01 mg. / metr kub) moddani ko’rsating
+Zaharli moddalar xavflilik darajasiga ko’ra necha guruhga bo’linadi?
+“Fotokolorometriya” usulida nima aniqlanadi?
+kattaliklar aniqlanadi?
+modeli qaysi bilimlarni o’z ichiga oladi?
+Kasaba uyushma qo’mitasi texnik inspektorining  vazifasi  nimalardan iborat?
+Baxtsiz hodisalarni oldini olish qaysi raxbar xodim zimmasida bo’ladi?
+Toliqishni qanday oldini olish mumkin?
+Ishlab chiqarish  jarayoniga mashq qilish  qanday ta’sir qiladi?
+Mehnat maromi nima?
+Sanoat korxonalarida qaysi gazlar ishlatiladi?
+Balonlarni portlashiga nimalar sabab bo’lishi mumkin?
+Xavfli yuklarga nimalar kiradi?
+Issiq suv, bug’ va gaz quvurlarining  avariyaga uchrashishiga  nima sabab bo’ladi?
+Ma’muriy javobgarlik necha turga bo’linadi?
+Rejadan tashqari instruktaj qaysi vaqtda o’tkaziladi?
+Xavfsiz mehnat qilish sharoitini yaratish qaysi tizimni vazifasi?
+Mehnat xavfsizligi standartlar sistemasiga  (MXSS) nimalar kiradi?
+Birinchi o’t o’chirish moslamalarini ko’rsating?
+Avariya-qutqaruv ishlari qachon amalga oshiriladi?
+Xavfsizlikni taminlashning texnik yo’llariga nimalar kiradi ?
+Xavfsizlikni taminlashning tashkiliy yo’llariga nimalar kiradi ?
+Xavfsizlikni taminlashni boshqarish yo’llari qaysilar ?
+Hayotiy faoliyat xavfsizligi qaysi  masalalarni hal qiladi?
+Hayot faoliyati xavfsizligini ta’minlash qaysi masalarga bog’liq?
+Kremniy oksidi changidan qanday kasallik paydo bo’ladi?
+Tuproq changidan qanday kasallik paydo bo’ladi?
+Ko’mir oksidi changidan qanday kasallik paydo bo’ladi?
+Alyuminiy oksidi changidan qanday kasallik paydo bo’ladi?
+Silikatlar ta’siridagi changdagi qanday kasallik paydo bo’ladi?
+Hayotiy faoliyat xavfsizligini boshqarish vositalariga qaysilar kiradi?
+Favqulodda vaziyat nima?
+Hayotiy faoliyat xavfsizligi fanining nazariyalari nimalar?
+Favqulodda vaziyatlardan himoyalash tadbirlari nimalar?
+Kelib chiqish sabablariga qarab favkulodda vaziyatlar   necha xil bo’lishi mumkin?
+Favqulodda vaziyatlar xavfini tarqalish tezligi bo’yicha necha xil bo’ladi?
+Tarqalish xududiga qarab favqulodda vaziyatlar necha xil buladi?
+Favqulodda vaziyatlar paydo bo’lishi sabablari nimalar?
+Favqulodda vaziyatlar necha bosqichga  ega?
+O’zbekiston Respublikasi xududida qaysi favqulodda vaziyatlar yuz berishi mumkin?
+Zilzilalarning oqibatlarini kamaytirish chora-tadbirlariga nimalar kiradi?
+Gidrotexnik inshootlarning buzilishiga nimalar sabab bo’lishi mumkin?
+Yong’in natijasida portlashlarning kelib chiqishiga  nimalar  sabab bo’ladi?
+Qurilish ashyolari o’tga chidamligigi bo’yicha nega turga bo’linadi?
+Portlash nima?
+Portlatuvchi omillarga nimalar kiradi?
+O’zbekiston Respublikasida mehnat muhofazasini nazorat qiluvchi tashkilotlarga      qaysilar kiradi?
+Mehnat qonunligini buzilishi uchun qanday  javobgarliklar mavjud?
+Yo’riqnomalar necha xil bo’ladi?
+Ishchilar bilimi qachon tekshiriladi?
+Inson faoliyati necha turga bo’linadi?
+Mehnatni to’g’ri tashkil qilish yo’nalishlari necha xil bo’ladi?
+Insonning eshitish organi necha gersdagi tovushlarni eshitishi mumkun?
+Shovqin,   titrashga  qarshi   kurash usullarini ko’rsating?
+Ishlab chiqarishdagi  yoritish sistemalari necha xil bo’ladi?

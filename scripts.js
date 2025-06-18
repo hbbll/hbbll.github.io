@@ -1,25 +1,36 @@
 let qsnLines = [];
 let ansLines = [];
-const seenQuestions = new Set(); // <-- Track already notified questions
+const seenQuestions = new Set();  // Track already notified questions
+let dataLoaded = false;           // Track if files loaded
 
-// Load qsn.txt
-fetch('qsn.txt')
-  .then(response => response.text())
-  .then(data => {
-    qsnLines = data.split(/\r?\n/).map(line => line.trim()).filter(Boolean);
-  });
+// Normalize function: lowercase, remove punctuation, collapse spaces, remove
+// repeated letters
+function normalize(text) {
+  return text.toLowerCase()
+      .replace(/[^\w\s]/g, '')    // remove punctuation
+      .replace(/\s+/g, ' ')       // collapse multiple spaces
+      .replace(/(\w)\1+/g, '$1')  // reduce repeated letters
+      .trim();
+}
 
-// Load ans.txt
-fetch('ans.txt')
-  .then(response => response.text())
-  .then(data => {
-    ansLines = data.split(/\r?\n/).map(line => line.trim());
-  });
+// Load both files and set dataLoaded when done
+Promise
+    .all([
+      fetch('qsn.txt').then(r => r.text()), fetch('ans.txt').then(r => r.text())
+    ])
+    .then(([qsnData, ansData]) => {
+      qsnLines = qsnData.split(/\r?\n/).map(line => normalize(line)).filter(Boolean);
+      ansLines = ansData.split(/\r?\n/).map(line => line.trim());
+      dataLoaded = true;
+    })
+    .catch(err => {
+      console.error('Error loading question or answer files:', err);
+    });
 
 function sendNotification(title, message) {
   const options = {
     body: message,
-    icon: 'kun.jpg' // or a full URL like 'https://example.com/logo.png'
+    icon: 'kun.jpg'  // or full URL
   };
 
   if (document.hidden) return;
@@ -35,31 +46,37 @@ function sendNotification(title, message) {
   }
 }
 
-
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 async function checkQuestions() {
+  if (!dataLoaded) {
+    console.warn('Data not loaded yet, please wait.');
+    return;
+  }
+
   const inputText = document.getElementById('textInput').value;
-  const pattern = /\d+\..+?(?=\s\d+\.\s|$)/gs;
+  const pattern = /\d+\..*?(?=\d+\.\s*|$)/gs;
   const matches = inputText.match(pattern);
   if (!matches) return;
 
-  for (const fragment of matches) {
+  for (const fragmentRaw of matches) {
+    const fragment = normalize(fragmentRaw.trim());
+
     for (let i = 0; i < qsnLines.length; i++) {
       const q = qsnLines[i];
       if (q.length < 5 || !fragment.includes(q)) continue;
 
-      const numMatch = fragment.match(/^(\d+)\./);
-      const num = numMatch ? numMatch[1] : (i + 1);
+      const numMatch = fragmentRaw.match(/^(\d+)\./);
+      const num = numMatch ? numMatch[1] : (i + 1).toString();
 
-      if (seenQuestions.has(num)) break; // <-- Skip if already seen
+      if (seenQuestions.has(num)) break;
 
       const ans = ansLines[i] || 'no answer :(';
-      sendNotification(`Kun.uz - O'zbekiston va dunyo yangiliklari`, `${num} - ` + ans);
-      seenQuestions.add(num); // <-- Mark as seen
-      await delay(400);
+      sendNotification( `Kun.uz - O'zbekiston va dunyo yangiliklari`, `${num} - ${ans}`);
+      seenQuestions.add(num);
+      await delay(5000); //5 sekund
       break;
     }
   }

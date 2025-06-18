@@ -1,199 +1,304 @@
-brauzerlar
-C
-128
-2
-Komutator
-.HTML
-SSL
-ipconfig
-4.2 mlrd
-24
-3
-Fizik
-Tarmoq sathida
-Nur
-Fayl serveri
-Defrag
-Bulutli texnologiyalar
-6
-32
-128
-4
-Fizik
-Kanal
-Konfidensiallik, foydalanuvchanlik, butunlilik
-mijoz-server
-peer-to-peer
-TCP
-192.168.1.0
-192.168.1.255
-D
-NAT
-16
-Sinf mavjud emas
-Yulduz
-2
-1
-A
-?pparat vositalarining buzilishi yoki ishlashidagi xatoliklar
-LAN
-Axborotli
-Mantiqiy
-Zaifliklarni skanerlash
-Ethernet, PPP, ADSL
-Seans sathi
-Transport sathi
-Tarmoq sathi
-Hech qanday harakat
-Kriptotahlilchi
-Fizik sath
-ruhsat berish
-Qurilmalarga masofadan bog'lanish
-Konsol kabel
-tarmoqning turli segmentlarida joylashgan oxirgi tizimlar o'rtasida ma'lumotlarini uzatishga imkon beruvchi mexanizm hisoblanadi
-000B.BE9B.EE4A
-barcha javoblar to`g`ri
-Trafiklarni filtrlaydi
-barcha tarmoq qurilmalaridan loglarni markazlashkan yig'ish
-RIP, BGP, OSPF
-2
-192.168.10
-veb-sahifani ko'ruvchi
-Texnik qo'llab-quvvatlash
-Noxush odam bilan muloqot qilishdan bosh tortish, uni "qora ro'yxatga" kiritish, uni "do'stlar" dan olib tashlash
-tarmoq topologiyasi
-tarmoqdagi ma'lumotlarni qabul qilish va uzatishni, faollashtirishni tartibga soluvchi qoidalar
-WWW
-Paket
-ARP
-11100000
-10101000
-O'ralgan juftlik
-Eavesdropping
-IPsec
-ruxsatsiz kirishni aniqlash tizimi yordamida
-Xabarlar va unga biriktirilgan fayllarni
-autentifikatsiya
-parol
-IPSec
-HTTP
-4
-Pochta serveri
-pochta protokollari
-FTP
-SSH, Telnet
-RDP
-TACACS#
-Simple Mail Transfer Protocol
-Hyper Text Transfer Protocol
-Internet Control Message Protocol
-DoS
-MiTM
-Session Hijacking
-Antivirus dasturi
-shutdown
-Kompyuter tarmoqlarida xat almashish (elektron pochta)
-kerakli fayllarni yuklab olish
-FTP
-.uz
-7
-kompyuter tarmog'i orqali ma'lumotlarni uzatish standarti
-4
-443
-Avtomatik ravishda IP manzillarni ajratadi
-Jurnal
-25
-SMTP, POP, IMAP
-Mijoz-server
-ACL
-Texnik
-Taqdimot
-Standartlashtirish xalqaro tashkiloti
-B
-Internetga ulanish uchun texnik qurilma
-jismoniy topologiya
-Hub
-Switch
-Router
-Fayl serveri
-WAN
-IP, ARP, IPSec, ICMP, OSPF
-Konfidensiallik
-Butunlik
-C sinf, kulrang
-Tovlamachilik
-Kriptotahlil
-Foydalanuvchanlik
-kompyuter tizimining ishlamay qolishi
-boshqa birovning suhbatidan ma'lumot olish
-TCP
-UDP
-lokal(mahalliy), global, mintaqaviy
-Halqa
-IDS
-IPS
-Fayllarni xavfsiz nusxalash
-Tarmoq topologiyasi
-1
-Uchinchi pog'ona paketlari uchun
-1 - fizik, 2 - kanal, 3 - tarmoq, 4 - transport, 5 -seans, 6 -taqdimot, 7 - ilova 
-10010111
-Ikkita modem
-1024 Mbit/s
-2048 Mbit/s
-1
-192.168.1.255
-O'ralgan juftlik (utp)
-192.168.10
-192.168.1
-192.168.3
-2
-ha
-Ilova sathi
-Taqdimot sathi
-Seans sathi
-Transport sathi
-Tarmoq sathi
-Kanal sathi
-Fizik sath
-P?, laptop, server
-5
-802.11n
-FTP
-paket
-IP manzil
-tarmoq manzili
-standart shlyuz (Default gateway)
-255.255.255.224
-tuit.uz
-Qism tarmoq(Subnet)
-TCP
-IPv4 va IPv6
-Kompyuter tarmog'i
-LAN
-Black box
-TACACS
-Tashkilotning ichki tarmog'ida
-Pochta, shifrlangan pochta, internet
-Tabiiy ofatlar
-Shpionaj
-Inson xatoliklari
-Dasturiy hujumlar
-Dasturning buzilishi yoki undagi xatoliklar
-Texnik talablar jihatidan eskirish
-O'g'rilik
-3
-avtorizatsiya qilingan ma'lumotlardan tashqari barcha trafikni blokirovka qilish uchun mo'ljallangan tarmoqqa kirishni boshqarish qurilmasi
-Configuration register
-STP, RSTP
-LACP, PAgP
-MAC-manzil
-RIP, EIGRP, OSPF, BGP
-NAT
-Tarmoq xatoliklarini topish uchun
-Authentication, Authorization, Accounting
-Marshrutlash
-tizim nomlarini aniqlash va ularni IP manzillarga aylantirish
-HTTP
-OSI
-bit
+Shaharlarda.
+Ishchilarning xavfli ishlab chiqarish omillari ta‘siridan asrab qolishga qaratilgan chora tadbirlardir.
+Huquqiy me‘yorlar majmuasi bo’lib, ishchi va xizmatchilarning mehnat munosabatlarini boshqaradi.
+Bu tashkilot korxonalardagi energiya tizimlarining texnik ekspluatatsiyasini va xavfsizlik qoidalariga rioya qilishni nazorat qiladilar.
+O’zbekiston Respublikasi energetika va elektrlashtirish Davlat aktsionerlik jamiyatining vazifasi nimalardan iborat?
+Bu tovushdir va ditsebil bilan.
+Har kuni usta jamoatchi nozir bilan tsexdagi ish joylarini aylanib chiqishadi, kamchiliklarni tuzatishadi.
+Pnevmakonioz (o’pka) va konyuktivit (ko’z) kasalligiga.
+3 gruppaga, biologik, elektrolitik, termik
+Ishchilarga ish vaqtida ta‘sir etib, kasallanishga yoki ish qobiliyatini pasayishiga olib keladigan omil.
+Ishlab chiqarishdagi zararli yoki xavfli omil natijasida inson a‘zolari yoki teri qoplami fiziologik bir butunligining buzilishi.
+2 ta.
+Ish kiyimi, poyafzal, gazniqob, shlem, qo’lqop, ko’zoynak va boshqalar.
+Kishi organizmiga ish sharoitlarining zararli tasiri natijasida kelib chiqqan kasallik.
+2 tur 1.ishlab chiqarish jaroxatlari. 2.maishiy jaroxatlar.
+30 kalendar kun
+Yo’riqnomalar tayyorlash, ishchilar ishini nazorat qilish, boshlang’ich yo’l yo’riqlar berish, buyruq farmoyishlar loyixalarini tayyorlash.
+4 xil. 1. harorat. 2.nisbiy namlik. 3.atmosfera bosimi. 4.hvoning tezligi.
+239 modda
+Ish jarayonida insonning mexnat kobiliyatini va xavfsizligini ta‘minlashga yo’naltirilgan qonunlar majmuasi,tashkiliy,texnik,gigienik va profilaktika tadbirlari hamda vositalaridir.
+Ishchi va xodimlarni mexnatga doir huquqlarini va mehnatga doir munosabatlarni himoya qilishni tartibga soladi.
+Xar bir ishchini tugri va xavfsiz ish usullariga urgatish.
+1995 yil 21 dekabr, №161-1, 294 moddadan
+Ish vaqtida yuz beradigan favqulotda xodisa.
+Nafas olishning qiyinlashishi. 
+1993yil 6 may, 29 moddadan
+4-6 minut.
+4 darajaga bo’lib o’rganiladi.
+Zararli va xavfli ishlab chiqarish omillarining ishlovchilarga tasirini eng kam darajaga keltirishga imkon beradigan chora tadbirlarni ko’rishdan iborat.
+Ishlab chiqarishdagi zararli omillar ta‘sirini oldini oladigan chora tadbirlar va texnika vositalari majmuasi
+Neft mahsulotlari, mineral ug’itlar, chang, shovqin, titrash, iqlim sharoiti va boshqalar.
+Sal shurlangan gaz suvlar beriladi.
+UO’O’-2; UO’O’-2A; UO’O’-5; UO’O’-8; UO’O’-2MM.
+41 soatdan. 
+Korxonada yong’in paydo bo’lishini oldini olish, insonning moddiy boyliklarini muxofaza qilish.
+Bir xodimni muxofaza qilishga xizmat qiladi.
+IX va X boblarining bir qancha moddalarida
+5ta I.-juda yirik chang;II.-yirik chang;III.-urta yiriklikdagi chang;IV.-mayda chang;V-juda mayda chang.
+Suv, muzdek ichimliklar ichirish, boshiga sovuq suvda namlangan doka qo’yish kerak.
+3 xil 1.engil kuyish.2.urtacha og’irlikdagi kuyish.3.og’ir kuyish.
+mumkin emas
+organik, meneral, aralashma changlardan. 
+Kishilarni elektr toki, elektr yoyi, elektromagnit maydonining xavfli xamda zararli ta‘siridan muxofaza qilishni ta‘minlaydigan tashkiliy va texnik chora tadbirlar tizimi.
+5 turli.1.mexanik.2.kimyoviy.3.issiqlik.4.elektrik.5.aralash jaroxatlar.
+Ishlovchi uchun ish sharoitlarining zararli ta‘siri natijasida hosil bo’ladi.
+Tana a‘zolarini va to’qimalarni kutilmagan holatda tashqi ta‘sir ostida shikastlanishidir.
+Yakka tartibda va gurux bilan.
+Mehnat muxofazasi muxandisiga.
+241 modda 
+4 xil 1.statistik turi.2.monografik turi.3.topografik turi. 4.iqtisodiy turi.
+Korxona raxbarlariga va boshqaruv tashkilotlariga
+Kasbiy kasalliklar
+Issiqlik ta‘siri
+3xilga. 1.changlardan ximoyalovchi. 2.gazlardan ximoyalovchi. 3.universal.
+10 kishidan
+Elektrolitik ta‘sir
+Nafas olish mumkin bo’lgan xavoni zararli aralashmalardan tozalaydi.
+Bosh muxandis
+245 modda.
+Biologik ta‘sir
+1996 yil 1 aprel.
+1.Elektr tokidan kuyish. 2. Elektr izlari. 3. Terining metallanishi. 4. Mexanik shikastlanishlar.
+Elektr toki urishi
+Ishchi bexosdan tegib ketganda qobiqqa o’tgan tok urishidan saqlanishdir.
+Ma‘muriy javobgarlik
+11 ta
+Moddiy javobgarlik.
+elektr o’tkazmaydigan maxsus rezinalardan
+3guruxga.1.yonishni tugatish usuli buyicha. 2.elektr toki o’tkazuvchanligi buyicha. 3.zaxarliligi bo’yicha.
+18-22 oS
+Jinoiy javobgarlik.
+Radioaktivlik
+Yo’lni eni 1,4 metr, eshik eni 0,8-2,4 metrgacha, bo’yi 2 metrdan kam bo’lmasligi
+4 xil 1 gazniqoblar. 2 resperatorlar.3.xavo shlemlari.4.xavo niqoblari.
+Havo, suv va tuproqni ifloslanishdan ogohlantirish tashkilot yoki binoning sanitariya xolatlariga javob berish yoki javob bermasligini tekshiradi.
+Yong’inga qarshi tadbirlarni, o’t o’chirish vositalarining holatini va yong’in haqida xabar berish vositalarining ishini nazorat qiladi.
+1. Moddiy javobgarlik. 2. Ma‘muriy javobgarlik. 3. Jinoiy javobgarlik.
+2 xil: 1. Kirish yo’riqnomasi. 2. Ish joyida o’tkaziladigan yo’riqnomasi.
+3 xil: 1. Dastlabki yo’riqnoma. 2. Davriy yo’riqnoma. 3. Navbatdan tashqari yo’riqnoma.
+Ish jarayonlarining va atrof muxitning inson organizmiga ta‘sirini o’rganadigan fanga aytiladi.
+Yonuvchi modda, yondiruvchi muhit, yondirish jarayoni.
+Yonish deyiladi.
+Turli balandlik va chastotadagi tovushlarning tartibsiz ravishda qo’shilib eshitilishiga aytiladi.
+3 xil: 1. Sanoat shovqinlari. 2. Transport shovqinlari. 3. Maishiy shovqinlar.
+Daraxtlarning shivirlashi, soatning yurishi va normal musiqa ovozi.
+Yengil sanoat korxonalari, ko’cha transporti shovkini, chang surgich va kir yuvish mashinalari ovozi.
+Baland musiqa ovozi, tuqimachilik va paxtachilik sanoatidagi stanoklar, avtomobillar, mototsikllar, tramvay va temir yo’l transporti.
+Portlash, reaktiv samolyot ovozi va xavo trevogasi.
+40-60 %
+16-20 oS
+Tabiiy va su‘niy.
+Tabiatda inson ta‘sirisiz hosil bo’ladigan changlar.
+Sanoat korxonalari va qurilishlarda insonning bevosita ta‘siri natijasida hosil bo’ladigan changlar.
+Kattiq moddaning havoda muallak holatda bo’la oladigan eng mayda zarrachalariga chang deyiladi.
+Qo’l qurushoq bo’lib qoladi, yoriladi va tirnoqlar tushib ketadi.
+Ionlovchi nurlanishlarga aytiladi
+«Komfort» sharoit deyiladi. 
+Assmanning aspiratsion psixrometri va Avgust psixrometri bilan.
+Bu qaytarib bo’lmaydigan hodisa bo’lib, bunda organizm xujayralari va tuqimalarida biologik jarayon tuxtaydi.
+Elektrooftalmiya deyiladi.
+Ergonomika deyiladi. 
+2 xil Tashki va ichqi.
+4 darajaga bo’linadi.
+4 darajaga bo’linadi.
+Inson faoliyati davomida ularning xavfsizligini taminlashni o’rgatadi
+Tabiiy, texnogen, ekologik
+Inson sog’ligiga bevosita yoki bilvosita  va boshqa yo’llar bilan zarar yetkazadigan  ko’ngilsiz hodisalar
+Ergonomika, texnik estetika, mehnat fiziologiyasi, mehnatni ilmiy asosda  tashkil etish  va  mehnat gigiyenasi
+Statistik, andozalash,  ekspert,  jamoatchilik yo’llari bilan
+Boshqaruv, yo’naltirish (aniqlash), texnik, tashkiliy yo’llar.
+Operatorni faolligi, iqtidorligi, operatorni almashtirish, xavflarni tasniflash,  tartiblash ,  xavflarni kamaytirish.
+Blakirovkalash, vakuumlash, to’siqlar orqali himoyalash, masofada himoyalash.
+Barchasi to’g’ri.
+Barchasi to’g’ri.
+Hammasi to’g’ri.
+Hammasi to’g’ri.
+Silikoz
+Silikoz
+Antrokoz
+Alyuminoz
+Silikatoz
+Barchasi to’g’ri.
+Bu ma’lum xududda halokat, falokat, tabiiy va ekologik ofat, epidemiya,           epizootiya,  epitotiyalar natijasida sodir bo’lgan vaziyat.
+Hammasi to’g’ri
+Barcha javoblar to’g’ri.
+Barcha javobdar  to’g’ri.
+To’rtta..
+Mahalliy,  regional,  milliy,  lokal, global.
+Barcha javoblar to’g’ri.
+To’rt bosqichga.
+Keltirilgan barcha javoblar to’g’ri
+Zilzilaning  geofizik, geologik xossalaini tahlil qilish, oldindan qayerda va   qachon zilzila bo’lish ehtimoli borligini aniqlash, ogohlantirish.
+Hammasi to’g’ri..
+Moddalarning yonuvchanligi, yuqori harorat, alanga.
+Yonmaydigan, og’ir yonadigan, yonuvchan, tutab yonadigan.
+Chegaralangan xududda , katta miqdordagi quvvatning   ajralib chiqishidir.
+Barchasi to’g’ri.
+Barchasi to’g’ri
+Ma’muriy, jinoiy, moddiy
+Kirish, ish joyidagi, davriy va navbatdan tashqari yo’riqnomalar.
+A va B javoblar to’g’ri.
+Aqliy  va jismoniy faoliyat
+Gigiyenik, fiziologik, psixologik, estetik
+16-20000 gs gacha
+B va V javoblar to’g’ri.
+Tabiiy, sun’iy va aralash.
+Avariya va maxsus yoritish.
+Tabiiy va suniy.
+Barcha javoblar to’g’ri
+Barcha javoblar to’g’ri.
+Havo tezligi, havo harorati, nisbiy namlik va  havo bosimiga.
+Oddiy, issiq
+Issiq
+Yengil, o’rtacha va og’ir.
+Barcha javoblar to’g’ri.
+Shlem va naushnik va boshqalar.
+Elektr magnit, mexanik, aerodinamik gidrodinamik shovqinlar.
+Barcha javoblar to’g’ri.
+Erganomika insonning mehnat faoliyati jarayonida qulay, xavfsiz sharoitlarini yaratish mehnat unumdorligini oshirishga bog’liq bo’lgan imkoniyatlarini o’rgatadi.
+Psixologik jarayonlar, xossalar, holatlar.
+Turli kattalikda organik va noorganik changlar.
+Fizik, kimyoviy va boshqa ma’lumotlarga.
+Yuqori, kam va o’rtacha xavfli.
+Texnik va konstruktiv jihozlar va moslamalar bilan ta’minlash.
+Doimo inson bo’ladigan, halokat yuz berganda yoki texnalogik jarayon buzilganda to’satdan  ko’p miqdorda zararli yoki zaharli  gaz va bug’lar paydo bo’lishi mumkin bo’lgan ishlab  chiqarish xonalariga o’rnatiladi.
+Uchqun chiqishi, havodagi kimyoviy reaksiya va  nosozlik natijalari.
+Barcha javoblar to’g’ri.
+Qizil (taqiqlash), sariq (ogohlantirish), yashil (xavfsizlik), ko’k (ko’rsatma).
+Inson hayotiga yoki sog’ligiga doimiy yoki vaqti-vaqti bilan xavf to’g’diruvchi joyga.
+Mehnat xavfsizlikni ta’minlash, tegishli asboblarni joylashtirish.
+Barcha javoblar to’g’ri.
+1,0 m.
+16-18 yoshda
+Tayyorlash, tashish va saqlash vaqtida xavfsizlik qoidalarining buzilishi.
+Muskullar keskin qisqarishi natijasida odam xushini yo’qotadi, nafas olish faoliyati ishlab turadi, hushini yo’qotib, nafas olish tizimi yoki yurak urishi to’xtab qoladi. Klinik o’lim holati yuz beradi bunda insonda hyech qanday hayot alomatlari ko’rinmaydi
+Barcha  javoblar to’g’ri.
+besh sinfga; xavfsiz,  xavfli,  o’ta xavfli,  yuqori xavfli,  yengil xavfli.
+Barcha javoblar tug’ri.
+To’rt sinfga tabiiy o’simliklar, torf va ko’mir, yog’ va moy, kimyoviy moddalar.
+Quruq va ho’l tozalash usullari
+Korxona bosh loyihasi mavjud bo’lgan va ko’riladigan barcha bino, inshootlar, asosiy yo’l va yo’laklar, ko’kalamzorlashtiriladigan maydon yuzini malum masshtabda ifodalangan chizmalari.
+Ishchi kuchi, elektr, xom-ashyo bilan taminlash, temir yo’l, transport aloqasi, havo oqimi tezligi, shovqindan himoya qilish.
+5 metr.
+9-12 metr.
+Uy va ish kiyimlarini saqlash, zararsizlantirish, tuzatish, yuvish, yuvinish va boshqalar.
+Alohida
+Asbob-uskuna,  kommunikasiyalarning buzilishi, sinishi,  avariya, portlash va yong’in sodir bo’lishi.
+Mehnatni muhofaza qilish qoidalari, baxtsiz hodisalarga uchraganlar hisobga  olish, og’ir yoki o’lim bilan tugagan hodisalarni tahlil qilish,  mehnatni muhofaza qilish qoida va me’yorlarni buzganlarni javobgarlikka tortish uchun tegishli organga ma’lumot berish.
+Ma’muriyat rahbariga
+Ko’p mehnat talab qiladigan ishlarni mexanizasiyalashtirish, yarim avtomat va         avtomatlashgan texnologiya jarayonlariga o’tish, yangi texnologiyalarni joriy  etish,
+Barcha javoblar to’g’ri.
+Bir maromda mehnat – smena, hafta, oy, yil maboynida bir tekisda bajariladigan  mehnatdir.
+Siqilgan, suyuqtirilgan, eritilgan.
+Noto’g’ri foydalanish, texnika xavfsizligi va ekspluatasiya talablariga rioya qilmaslik.
+Portlovchi moddalar, suyultirilgan, siqilgan, eritilgan gazlar, radiaktiv moddalar    va yengil alangalanuvchi suyuqliklar.
+Qurilish-montaj ishlarida loyihada ko’rsatilgan me’yorlardan chetga chiqish, quvurlardan foydalanishda texnologiya rejimlarini buzish, vaqtida sifatli ta’mirlash ishlarini olib bormaslik, gidravlik zarbalar, tekshirish asbob-uskunalari o’z vaqtida sifatli texnika ko’rigidan o’tkazmaslik.
+To’rt turga: mablag’ va pul undirish, ogohlantirish, qamoq  jazosi berish,  past lavozimga o’tkazish.
+Texnologik sharoit o’zgarsa, baxtsiz hodisa va boshqa hollarda.
+Mehnat muhofazasini boshqarish tizimi va korxona rahbari.
+Tashkiliy-uslubiy standartlar, xavfsizlik talablari uskunalari standartlari,                           ishchilarning himoya vositalariga bo’lgan talablar standartlari
+Yong’in krani, gidrant va щitlar.
+Tabiiy va texnogen turdagi favqulodda vaziyatlarda.
+Blakirovkalash, vakuumlash, to’siqlar orqali himoyalash, masofada himoyalash.
+Barchasi to’g’ri.
+Barchasi to’g’ri.
+Hammasi to’g’ri.
+Barchasi to’g’ri.
+Bu ma’lum xududda halokat, falokat, tabiiy va ekologik ofat, epidemiya,           epizootiya,  epitotiyalar natijasida sodir bo’lgan vaziyat.
+Barcha javobdar  to’g’ri.
+To’rtta..
+Mahalliy,  regional,  milliy,  lokal, global.
+Tabiiy, sun’iy va aralash.
+Avariya va maxsus yoritish.
+Tabiiy va suniy.
+Barcha javoblar to’g’ri
+Barcha javoblar to’g’ri.
+Kirish, ish joyidagi, davriy va navbatdan tashqari yo’riqnomalar.
+A va B javoblar to’g’ri.
+Aqliy  va jismoniy faoliyat
+Gigiyenik, fiziologik, psixologik, estetik
+besh sinfga; xavfsiz,  xavfli,  o’ta xavfli,  yuqori xavfli,  yengil xavfli.
+Barcha javoblar tug’ri.
+To’rt sinfga tabiiy o’simliklar, torf va ko’mir, yog’ va moy, kimyoviy moddalar.
+Quruq va ho’l tozalash usullari
+Inson faoliyati davomida ularning xavfsizligini taminlashni o’rgatadi.
+Tabiiy, texnogen, ekologik
+Inson sog’ligiga bevosita yoki bilvosita  va boshqa   yo’llar bilan zarar  yetkazadigan  ko’ngilsiz hodisalar
+Ergonomika, texnik estetika, mehnat fiziologiyasi,          mehnatni ilmiy asosda tashkil etish  va  mehnat gigiyenasi
+Qulay ish o’rnini tashkil etish;
+Statistik, andozalash,  ekspert,  jamoatchilik    yo’llari bilan
+Boshqaruv, yo’naltirish (aniqlash), texnik, tashkiliy   yo’llar.
+Operatorni faolligi, iqtidorligi, operatorni almashtirish, xavflarni tasniflash,  tartiblash ,  xavflarni kamaytirish
+Blakirovkalash, vakuumlash, to’siqlar orqali himoyalash, masofada himoyalash.
+Barchasi to’g’ri.
+Barchasi to’g’ri.
+Hammasi to’g’ri.
+3 bosqichda;
+18-20 gradus harorat, 30-60 foiz namlik va 760 mm.simob
+9 guruxga;
+4 turga;
+10 mk. dan katta;
+0,25- 1 mk.;
+0,25 mk dan kichik.
+4-5  mk.;
+Benzin, kerasin, spirt, amiak,  nikatin va boshqalar;
+Barcha turdagi kislatalar va ishqorlar;
+Inson ish faoliyatida tanada yuz beradigan o’zgarishlarni;
+Me’yoriy harorat, bosim va  namlik;
+Barcha kimyoviy changlar;
+Simob bug’i;
+4 guruhga;
+Zararli moddalarning havodagi miqdori;
+Zararli moddalarning havodagi miqdori;
+Umumiy, tibbiy –biologik, tabiiy sharoitlar bilan bog’liq  bilimlar va texnik-texnologik;
+Mehnatni muhofaza qilish qoidalari, baxtsiz hodisalarga uchraganlar hisobga  olish, og’ir yoki o’lim bilan tugagan hodisalarni tahlil qilish,  mehnatni muhofaza qilish qoida va me’yorlarni buzganlarni javobgarlikka tortish uchun tegishli organga ma’lumot berish.
+Ma’muriyat rahbariga
+Ko’p mehnat talab qiladigan ishlarni mexanizasiyalashtirish, yarim avtomat va         avtomatlashgan texnologiya jarayonlariga o’tish, yangi texnologiyalarni joriy  etish,
+Barcha javoblar to’g’ri.
+Bir maromda mehnat – smena, hafta, oy, yil maboynida bir tekisda bajariladigan  mehnatdir.
+Siqilgan, suyuqtirilgan, eritilgan.
+Noto’g’ri foydalanish, texnika xavfsizligi va ekspluatasiya talablariga rioya qilmaslik.
+Portlovchi moddalar, suyultirilgan, siqilgan, eritilgan gazlar, radiaktiv moddalar    va yengil alangalanuvchi suyuqliklar.
+Qurilish-montaj ishlarida loyihada ko’rsatilgan me’yorlardan chetga chiqish, quvurlardan foydalanishda texnologiya rejimlarini buzish, vaqtida sifatli ta’mirlash ishlarini olib bormaslik, gidravlik zarbalar, tekshirish asbob-uskunalari o’z vaqtida sifatli texnika ko’rigidan o’tkazmaslik.
+To’rt turga: mablag’ va pul undirish, ogohlantirish, qamoq  jazosi berish,  past lavozimga o’tkazish.
+Texnologik sharoit o’zgarsa, baxtsiz hodisa va boshqa hollarda.
+Mehnat muhofazasini boshqarish tizimi va korxona rahbari.
+Tashkiliy-uslubiy standartlar, xavfsizlik talablari uskunalari standartlari,                           ishchilarning himoya vositalariga bo’lgan talablar standartlari
+Yong’in krani, gidrant va щitlar.
+Tabiiy va texnogen turdagi favqulodda vaziyatlarda.
+Blakirovkalash, vakuumlash, to’siqlar orqali himoyalash, masofada himoyalash.
+Barchasi to’g’ri.
+Barchasi to’g’ri.
+Hammasi to’g’ri.
+Hammasi to’g’ri.
+Silikoz
+Silikoz
+Antrokoz
+Alyuminoz
+Silikatoz
+Barchasi to’g’ri.
+Bu ma’lum xududda halokat, falokat, tabiiy va ekologik ofat, epidemiya,           epizootiya,  epitotiyalar natijasida sodir bo’lgan vaziyat.
+Hammasi to’g’ri
+Barcha javoblar to’g’ri.
+Barcha javobdar  to’g’ri.
+To’rtta..
+Mahalliy,  regional,  milliy,  lokal, global.
+Barcha javoblar to’g’ri.
+To’rt bosqichga.
+Keltirilgan barcha javoblar to’g’ri
+Zilzilaning  geofizik, geologik xossalaini tahlil qilish, oldindan qayerda va   qachon zilzila bo’lish ehtimoli borligini aniqlash, ogohlantirish.
+Hammasi to’g’ri..
+Moddalarning yonuvchanligi, yuqori harorat, alanga.
+Yonmaydigan, og’ir yonadigan, yonuvchan, tutab yonadigan.
+Chegaralangan xududda , katta miqdordagi quvvatning   ajralib chiqishidir.
+Barchasi to’g’ri.
+Barchasi to’g’ri
+Ma’muriy, jinoiy, moddiy
+Kirish, ish joyidagi, davriy va navbatdan tashqari yo’riqnomalar.
+A va B javoblar to’g’ri.
+Aqliy  va jismoniy faoliyat
+Gigiyenik, fiziologik, psixologik, estetik
+16-20000 gs gacha
+B va V javoblar to’g’ri.
+Tabiiy, sun’iy va aralash.

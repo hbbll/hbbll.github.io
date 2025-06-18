@@ -19,7 +19,8 @@ Promise
       fetch('qsn.txt').then(r => r.text()), fetch('ans.txt').then(r => r.text())
     ])
     .then(([qsnData, ansData]) => {
-      qsnLines = qsnData.split(/\r?\n/).map(line => normalize(line)).filter(Boolean);
+      qsnLines =
+          qsnData.split(/\r?\n/).map(line => normalize(line)).filter(Boolean);
       ansLines = ansData.split(/\r?\n/).map(line => line.trim());
       dataLoaded = true;
     })
@@ -54,6 +55,10 @@ async function checkQuestions() {
   }
 
   const inputText = document.getElementById('textInput').value;
+  const delayInput = document.getElementById('delayInput').value.trim();
+  const userDelay = parseInt(delayInput, 10);
+  const delayTime = (Number.isInteger(userDelay) && userDelay > 0) ? userDelay : 5000;
+
   const pattern = /\d+\..*?(?=\d+\.\s*|$)/gs;
   const matches = inputText.match(pattern);
   if (!matches) return;
@@ -71,10 +76,12 @@ async function checkQuestions() {
       if (seenQuestions.has(num)) break;
 
       const ans = ansLines[i] || 'no answer :(';
-      sendNotification( `Kun.uz - O'zbekiston va dunyo yangiliklari`, `${num} - ${ans}`);
+      sendNotification(`Kun.uz - O'zbekiston va dunyo yangiliklari`, `${num} - ${ans}`);
       seenQuestions.add(num);
-      await delay(5000); //5 sekund
+
+      await delay(delayTime); // <-- Use dynamic delay
       break;
     }
   }
 }
+

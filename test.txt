@@ -1,0 +1,1414 @@
++++++
+ Biznes jarayoni deganda nimani tushunamiz?
+====# Tashkilot ichidagi faoliyatlar ketma-ketligi
+==== Bitta xodimning ish rejasi
+==== Faqat moliyaviy hisobot
+==== Faqat boshqaruv faoliyati
+
++++++
+ AT strategiyasining asosiy vazifasi nima?
+====# Texnologiyalarni korxona maqsadlariga moslashtirish
+==== Kompyuter sotib olish
+==== Internet tezligini oshirish
+==== Xodimlarni qisqartirish
+
++++++
+ Biznes jarayonlarni tahlil qilishda birinchi bosqich qaysi?
+====# Muammoni aniqlash
+==== Hisobot tayyorlash
+==== Dastur o‘rnatish
+==== Xodimlarni o‘qitish
+
++++++
+ AT strategiyasi necha yillik davrni qamrab oladi?
+====# 3–5 yil
+==== 10 yil
+==== 1 oy
+==== 20 yil
+
++++++
+ Biznes jarayonlarni optimallashtirishning asosiy maqsadi?
+====# Samaradorlikni oshirish
+==== Ishchilar sonini oshirish
+==== Xarajatlarni ko‘paytirish
+==== Huquqiy jarayonlarni murakkablashtirish
+
++++++
+ Raqamli transformatsiyaning mohiyati nima?
+====# Jarayonlarni raqamlashtirish orqali biznes samaradorligini oshirish
+==== Faqat kompyuterlar sotib olish
+==== Binoni ta’mirlash
+==== Hujjatlarni yo‘qotish
+
++++++
+ SWOT tahlilida “S” nimani anglatadi?
+====# Kuchli tomonlar
+==== Zaif tomonlar
+==== Imkoniyatlar
+==== Xavf-xatarlar
+
++++++
+ Biznes jarayonlarni modellashtirishda ko‘p ishlatiladigan standart?
+====# BPMN
+==== HTML
+==== PDF
+==== XML
+
++++++
+ AT infratuzilmasi nimadan iborat?
+====# Kompyuterlar, tarmoqlar va dasturiy ta’minot
+==== Faqat printerlar
+==== Faqat internet
+==== Faqat mobil telefonlar
+
+++++
+ ERP tizimi nima?
+====# Korxona resurslarini boshqarish tizimi
+==== Elektron pochta xizmati
+==== O‘yin dasturi
+==== Grafik muharriri
+
+++++
+ Biznes jarayonlarni qayta loyihalash nima?
+====# Jarayonlarni tubdan o‘zgartirish
+==== Xodim qo‘shish
+==== Foydani kamaytirish
+==== Hujjatlarni ko‘paytirish
+
+++++
+ Strategik rejalashtirishning asosiy maqsadi?
+====# Uzoq muddatli rivojlanishni ta’minlash
+==== Bir haftalik rejani tuzish
+==== Tasodifiy qaror qabul qilish
+==== Faqat texnik ishlarni bajarish
+
+++++
+ KPI nima?
+====# Asosiy samaradorlik ko‘rsatkichlari
+==== Elektron pochtani tekshirish tizimi
+==== Foyda solig‘i ko‘rsatkichi
+==== Kompyuter protokoli
+
+++++
+ Biznes jarayon xaritasi nima?
+====# Jarayonlar oqimini ko‘rsatadigan diagramma
+==== Geografik xarita
+==== Transport yo‘nalishi
+==== Moliyaviy prognoz
+
+++++
+ AT strategiyasi kim tomonidan tasdiqlanadi?
+====# Rahbariyat
+==== Texnik xodim
+==== Foydalanuvchi
+==== Muhandis
+
+++++
+ CRM tizimi nimaga xizmat qiladi?
+====# Mijozlar bilan munosabatlarni boshqarish
+==== Xodimlarni ro‘yxatdan o‘tkazish
+==== Ombor nazorati
+==== Hisobotlarni chop etish
+
+++++
+ Business Intelligence nima?
+====# Analitik ma’lumotlarni tahlil qilish texnologiyasi
+==== Hujjat bosish tizimi
+==== Kompyuter o‘yinlari
+==== Tarmoq qurilmasi
+
+++++
+ AT strategiyasi quyidagilardan qaysi birini o‘z ichiga oladi?
+====# Infratuzilma, xavfsizlik, dasturiy ta’minot
+==== Faqat server
+==== Faqat internet
+==== Faqat xodimlar
+
+++++
+ Outsourcing nima?
+====# Tashqi tashkilotdan xizmat olish
+==== Ichki bo‘limni kengaytirish
+==== Xodimlarni o‘qitish
+==== Yangi binolar qurish
+
+++++
+ IT governance nimani anglatadi?
+====# AT boshqaruv tizimi
+==== Internet reklama
+==== Televizion nazorat
+==== Grafik dizayn
+
+++++
+ CIO kim?
+====# Axborot texnologiyalari bo‘yicha direktor
+==== Buxgalter
+==== Marketing menejeri
+==== Operator
+
+++++
+ Risk managementning maqsadi?
+====# Xavflarni aniqlash va kamaytirish
+==== Foyda oshirish
+==== O‘yin yaratish
+==== Hisobot topshirish
+
+++++
+ Cloud Computing qanday texnologiya?
+====# Ma’lumotlarni masofaviy serverlarda saqlash
+==== Lokal printer bilan ishlash
+==== Modem sozlash
+==== Kompyuter o‘yinlari yaratish
+
+++++
+ KPI orqali nima o‘lchanadi?
+====# Samaradorlik
+==== Rang
+==== Tezlik
+==== Temperatur
+
+++++
+ AT strategiyasining asosiy yo‘nalishlaridan biri?
+====# Axborot xavfsizligi
+==== Binoni ta’mirlash
+==== Kadrlarni qisqartirish
+==== Printer sotib olish
+
+++++
+ Biznes jarayonlarni avtomatlashtirish nima beradi?
+====# Ish tezligi va aniqlikni oshiradi
+==== Xatolarni ko‘paytiradi
+==== Xarajatni oshiradi
+==== Ishni murakkablashtiradi
+
+++++
+ BPM tizimlari qaysi vazifa uchun?
+====# Jarayonlarni boshqarish
+==== Grafik dizayn
+==== Marketing reklamalari
+==== O‘yin ishlab chiqish
+
+++++
+ AT strategiyasi kompaniya missiyasiga qanday ta’sir qiladi?
+====# Uni qo‘llab-quvvatlaydi
+==== Bekor qiladi
+==== O‘zgartirmaydi
+==== Bloklaydi
+
+++++
+ Digital Twin nima?
+====# Jarayonlarning raqamli nusxasi
+==== Juft kompyuter
+==== Shaxsiy identifikator
+==== Xavfsizlik kodi
+
+++++
+ Lean Managementning maqsadi?
+====# Isrofgarchilikni kamaytirish
+==== Xarajat oshirish
+==== Xodim sonini ko‘paytirish
+==== Hujjat ko‘paytirish
+
+++++
+ Balanced Scorecard nima?
+====# Strategik boshqaruv tizimi
+==== Hisobot printeri
+==== Grafik karta
+==== Tarmoq protokoli
+
+++++
+ Agile metodologiyasi nimani anglatadi?
+====# Moslashuvchan boshqaruv
+==== Sekin ishlash
+==== Qattiq rejalashtirish
+==== Faqat hujjatlar
+
+++++
+ AT strategiyasida xavfsizlikning asosiy talabi?
+====# Ma’lumotni himoya qilish
+==== Rangni to‘g‘rilash
+==== Printer sozlash
+==== Klaviatura almashtirish
+
+++++
+ Tizim integratsiyasi nima?
+====# Turli tizimlarning o‘zaro bog‘lanishi
+==== Kompyuter o‘chirilishi
+==== Skanerlash
+==== Xato chiqarish
+
+++++
+ API nima?
+====# Dasturlar o‘zaro aloqa interfeysi
+==== Internet kodi
+==== Antivirus
+==== Printer haydovchisi
+
+++++
+ BPMN diagrammasida aylana nimani bildiradi?
+====# Hodisa
+==== Jarayon
+==== Ob’ekt
+==== Belgilanish
+
+++++
+ AT strategiyasi qachon yangilanadi?
+====# Odatda har 3 yilda
+==== Har kuni
+==== Har 10 daqiqada
+==== Umuman yangilanmaydi
+
+++++
+ Sifat menejmenti qaysi standart bilan bog‘liq?
+====# ISO 9001
+==== PDF
+==== USB
+==== HTML
+
+++++
+ PMO nima?
+====# Loyiha boshqaruv ofisi
+==== Marketing bo‘limi
+==== Ombor nazorati
+==== Xavfsizlik xizmati
+
+++++
+ Big Data qanday ma’lumotlar?
+====# Katta hajmdagi ma’lumotlar
+==== Faqat kichik fayllar
+==== Suratlar
+==== Video yig‘indisi
+
+++++
+ SCM tizimi nimani boshqaradi?
+====# Ta’minot zanjiri
+==== Raqamli kamera
+==== Grafik dizayn
+==== O‘yin serveri
+
+++++
+ Data Mining nima?
+====# Ma’lumotlardan bilim chiqarish
+==== Fayllarni o‘chirish
+==== Printerni sozlash
+==== Dasturiy xato
+
+++++
+ KPI ko‘rsatkichlari qaysi turga kiradi?
+====# O‘lchab bo‘ladigan ko‘rsatkichlar
+==== Ranglar
+==== Xatolik
+==== Kodlash
+
+++++
+ Raqamli strategiyaning asosiy elementi?
+====# Texnologik innovatsiyalar
+==== Binoni kengaytirish
+==== Qadoqlash
+==== Ta’mirlash
+
+++++
+ IoT nima?
+====# Internetga ulangan qurilmalar tarmog‘i
+==== Printerlar yig‘indisi
+==== O‘yin platformasi
+==== Grafik editor
+
+++++
+ AT xavfsizligidagi asosiy tamoyil?
+====# Maxfiylik, yaxlitlik, mavjudlik
+==== Rasm chizish
+==== Xat yozish
+==== Telefon qilish
+
+++++
+ Data Center nima?
+====# Ma’lumotlarni saqlash markazi
+==== Internet kafesi
+==== Xavfsizlik xonasi
+==== Ofis jihozi
+
+++++
+ KPI kim tomonidan belgilanadi?
+====# Rahbariyat
+==== Xodimlar
+==== Mijozlar
+==== Dasturchilar
+
+++++
+ RPA nima?
+====# Robotlashtirilgan jarayon avtomatizatsiyasi
+==== Kompyuter o‘yini
+==== Mobil ilova
+==== Tarmoq protokoli
+
+++++
+ Biznes jarayonlarni monitoring qilishning maqsadi?
+====# Jarayon samaradorligini nazorat qilish
+==== Kompyuterlarni bo‘yash
+==== Printer qog‘ozini almashtirish
+==== Hujjatlarni yo‘qotish
+
+++++
+ AT resurslari deganda nima tushuniladi?
+====# Dasturiy, apparat va inson resurslari majmui
+==== Faqat kompyuterlar
+==== Faqat Internet tezligi
+==== Faqat xodimlar soni
+
+++++
+ Biznes jarayonlar samaradorligi qanday baholanadi?
+====# Tezlik, sifat va xarajatlar orqali
+==== Xodimlar yoshi orqali
+==== Binoning kattaligi orqali
+==== Printerlar soni orqali
+
+++++
+ IT-strategiyaning asosiy tamoyillaridan biri?
+====# Moslashuvchanlik
+==== Tasodifiylik
+==== Cheklovlilik
+==== Qattiq rejalashtirish
+
+++++
+ IT-budjetlash nima?
+====# AT xarajatlarini rejalashtirish
+==== Mehnat ta’tilini belgilash
+==== Sifat nazorati
+==== Xodimlarni attestatsiyadan o‘tkazish
+
+++++
+ Benchmarking nima?
+====# Boshqa tashkilotlar bilan taqqoslash
+==== Xodimlarni ro‘yxatga olish
+==== Faqat jarimalarni hisoblash
+==== Elektr energiyasini tekshirish
+
+++++
+ Innovatsiya strategiyasi nima?
+====# Yangi texnologiyalarni joriy etish rejasi
+==== Hujjatlarni ko‘chirish
+==== Dasturlarni o‘chirish
+==== Xodimlar sonini kamaytirish
+
+++++
+ Business Process Outsourcing (BPO) nima?
+====# Biznes jarayonlarini tashqi tashkilotga topshirish
+==== Ichki jarayonlarni kengaytirish
+==== Xodim qo‘shish
+==== O‘yin yaratish
+
+++++
+ IT arxitektura nimalarni o‘z ichiga oladi?
+====# Ilovalar, ma’lumotlar va texnik infratuzilma
+==== Faqat Windows tizimi
+==== Faqat mobil ilovalar
+==== Faqat tarmoq qurilmalari
+
+++++
+ Strategik IT-rejada asosiy bo‘limlardan biri?
+====# Risk tahlili
+==== Rasmiy maktublar
+==== Xodimlarning oyligi
+==== Binoni jihozlash
+
+++++
+ AS-IS modeli nima?
+====# Jarayonning hozirgi holati
+==== Kelajakdagi holati
+==== Fantastik model
+==== Marketing rejasi
+
+++++
+ TO-BE modeli nima?
+====# Jarayonning kelajakdagi holati
+==== Mavjud holati
+==== Hisobot turi
+==== Buxgalteriya shakli
+
+++++
+ Biznesning raqamlashtirilishida asosiy omil?
+====# Ma’lumotlarning avtomatlashtirilishi
+==== Hujjatlarni ko‘paytirish
+==== Printer almashish
+==== Binoni kengaytirish
+
+++++
+ Strategik moslik (alignment) nimani anglatadi?
+====# AT strategiyasining biznes strategiyasiga mosligi
+==== Printer mosligi
+==== Raqamli ekran o‘lchami
+==== Klaviatura tili
+
+++++
+ AT xavfsizligining asosiy hujjati?
+====# Xavfsizlik siyosati
+==== Elektron pochta
+==== Murojaatnoma
+==== Reklama varaqasi
+
+++++
+ Reengineering (BPR) natijasida nima yuz beradi?
+====# Jarayon keskin takomillashadi
+==== Jarayon buziladi
+==== Xodimlar ishdan ketadi
+==== Tizim o‘chadi
+
+++++
+ KPI-lar nechta turga bo‘linadi?
+====# Strategik va operatsion
+==== Qizil va ko‘k
+==== Oson va qiyin
+==== Raqamli va qog‘oz
+
+++++
+ “Bottleneck” atamasi nimani bildiradi?
+====# Jarayon bo‘g‘inidagi sekinlashish
+==== Tezlikning ortishi
+==== Jarayon tugashi
+==== Xodimlarning tanqisligi
+
+++++
+ IoT qurilmalari qaysi tarmoqqa ulanadi?
+====# Internet
+==== Radio
+==== Telekom
+==== TV tarmog‘i
+
+++++
+ Raqamli madaniyat nimani anglatadi?
+====# Xodimlarning texnologiyalardan to‘g‘ri foydalanish qobiliyati
+==== Faqat kompyuter sotib olish
+==== Printerni almashtirish
+==== Antivirus o‘rnatish
+
+++++
+ BPMN’da “gateway” nima uchun?
+====# Shartli tanlovlarni ifodalash
+==== Ma’lumot kiritish
+==== Rasm yaratish
+==== Faylni arxivlash
+
+++++
+ IT-servislar sifati qaysi standart bilan boshqariladi?
+====# ITIL
+==== HTML
+==== USB
+==== JPG
+
+++++
+ Business Analyst (Ba) ning asosiy vazifasi?
+====# Talablarni yig‘ish va tahlil qilish
+==== Faqat dastur yozish
+==== Marketingga rahbarlik
+==== Mijozlarga xizmat ko‘rsatish
+
+++++
+ AT-portfolio nima?
+====# AT loyihalari ro‘yxati
+==== Moliya hujjati
+==== HR hujjati
+==== Grafik dizayn to‘plami
+
+++++
+ Enterprise Architecture (Ea) nima?
+====# Tashkilotning texnologik arxitektura modeli
+==== Uy-joy loyihasi
+==== Grafik dizayn
+==== Tarmoq o‘yinlari tizimi
+
+++++
+ IT strategiyasi nechta bosqichda tuziladi?
+====# Odatiy 4–5 bosqichda
+==== 1 bosqichda
+==== 10 bosqichda
+==== 20 bosqichda
+
+++++
+ Data Governance nima?
+====# Ma’lumotlarni boshqarish siyosati
+==== Elektron pochta xizmatlari
+==== Internet tezligi
+==== Kompyuter ta’miri
+
+++++
+ CRM tizimi qaysi bo‘limga ko‘proq yordam beradi?
+====# Marketing va savdo
+==== Sport bo‘limi
+==== Omborxona
+==== Texnik qo‘llab-quvvatlash
+
+++++
+ IT Monitoring nima?
+====# Tizimlar ishini kuzatish
+==== Tizimni o‘chirish
+==== Printerga qog‘oz qo‘yish
+==== Fayllarni arxivlash
+
+++++
+ Strategik tahlilning eng mashhur vositalaridan biri?
+====# SWOT
+==== PNG
+==== CSS
+==== UX
+
+++++
+ AT-xodimlarining asosiy mas’uliyatlaridan biri?
+====# Tizimlar uzluksiz ishlashini ta’minlash
+==== Faqat kompyuter o‘chirish
+==== Reklama joylashtirish
+==== Printerni bo‘yash
+
+++++
+ Digital Transformation qaysi sohalarga ta’sir qiladi?
+====# Barcha sohalarga
+==== Faqat ta’limga
+==== Faqat savdoga
+==== Faqat tarmoqqa
+
+++++
+ API integratsiyasining afzalligi?
+====# Tizimlar o‘rtasida tezkor aloqa
+==== Xavfsizlikni pasaytiradi
+==== Jarayonni sekinlashtiradi
+==== Xatolar sonini oshiradi
+
+++++
+ KPI qayerda qo‘llanadi?
+====# Barcha bo‘limlarda
+==== Faqat IT bo‘limida
+==== Faqat HR bo‘limida
+==== Faqat buxgalteriyada
+
+++++
+ Zero Paper strategiyasi nimani anglatadi?
+====# Qog‘ozsiz ish yuritish
+==== Qog‘ozni ko‘paytirish
+==== Qog‘oz rangini o‘zgartirish
+==== Printer xarid qilish
+
+++++
+ IT-risklar qaysi toifalarga bo‘linadi?
+====# Texnik, tashkiliy, insoniy
+==== Rangli, qora, oq
+==== Kichik, o‘rta, katta
+==== Kodli, nosoz
+
+++++
+ BI tizimlari nima qiladi?
+====# Analitik hisobotlar yaratadi
+==== Printer sozlaydi
+==== Xavfsizlikni pasaytiradi
+==== Faqat tarmoqni boshqaradi
+
+++++
+ IT-infratuzilmaning asosiy elementi?
+====# Serverlar
+==== USB fleshka
+==== Klaviatura
+==== Sichqoncha
+
+++++
+ CIO kimga hisobot beradi?
+====# Bosh direktor (CEO)
+==== Operator
+==== Dizayner
+==== Haydovchi
+
+++++
+ IT loyihalarini boshqarishda qaysi metod juda keng tarqalgan?
+====# Agile
+==== Analog
+==== Ritmik
+==== Qattiq kod
+
+++++
+ IT-strategiya hujjati qanday bo‘lishi kerak?
+====# Aniq, tushunarli va o‘lchab bo‘ladigan
+==== Murakkab va tushunarsiz
+==== Qisqa va noaniq
+==== Tasodifiy yozilgan
+
+++++
+ Business Value nima?
+====# Biznesga qo‘shilgan qiymat
+==== Faqat foyda
+==== Faqat zarar
+==== Faqat faoliyat
+
+++++
+ IT-servislar ishlashini kim nazorat qiladi?
+====# ITSM tizimlari
+==== HR bo‘limi
+==== Marketing
+==== Savdo bo‘limi
+
+++++
+ IT-strategiya qaysi turdagi tahlilni o‘z ichiga oladi?
+====# SWOT, PEST, Five Forces
+==== Faqat Pythonda kodlash
+==== CV yaratish
+==== Grafik chizish
+
+++++
+ AT xavfsizligi uchburchagi qanday ataladi?
+====# CIA (Confidentiality, Integrity, Availability)
+==== ABC
+==== TXT
+==== ZIP
+
+++++
+ IT loyihalaridagi asosiy rol?
+====# Project Manager
+==== Haydovchi
+==== Oshpaz
+==== Fotograf
+
+++++
+ IT-servisning asosiy ko‘rsatkichi nima?
+====# SLA
+==== HTML
+==== PDF
+==== UX
+
+++++
+ Shtat jadvalida IT bo‘limining minimal lavozimi?
+====# Sistem administrator
+==== Oshpaz
+==== Hayvonot bog‘i xodimi
+==== Fotograf
+
+++++
+ CRM tizimi mijozlar haqidagi qanday ma’lumotni saqlaydi?
+====# Tahliliy va kontakt ma’lumotlar
+==== Faqat rasm
+==== Faqat telefon modeli
+==== Faqat manzil
+
+++++
+ Big Data tahlilida ko‘p ishlatiladigan texnologiya?
+====# Machine Learning
+==== Printer
+==== WordPad
+==== Paint
+
+++++
+ Tizim integratsiyasi nimaga olib keladi?
+====# Ma’lumot almashinuvi yaxshilanadi
+==== Internet yo‘qoladi
+==== Foyda kamayadi
+==== Jarayon buziladi
+
+++++
+IT strategiyasining asosiy vazifasi?
+====# Biznes maqsadlarini texnologiya orqali qo‘llab-quvvatlash
+==== Faqat kompyuter xarid qilish
+==== Xodimlarni nazorat qilish
+==== Faqat dastur sotib olish
+
+++++
+KPI tizimi nima uchun qo‘llanadi?
+====# Natijalarni baholash
+==== Xodimlarni ro‘yxatga olish
+==== Serverni o‘rnatish
+==== Narxlarni oshirish
+
+++++
+"Benchmarking" deganda nimani tushunasiz?
+====# Eng yaxshi tajribalarni solishtirish
+==== Jarayonlarni ko‘paytirish
+==== Tasodifiy tahlil
+==== Narx belgilash
+
+++++
+Jarayonni avtomatlashtirishning foydasi?
+====# Tezlik, aniqlik va samaradorlik oshadi
+==== Xodimlar soni ko‘payadi
+==== Xarajatlar ortadi
+==== Vaqt kechikadi
+
+++++
+Raqamli transformatsiya tarkibiga qaysi biri kiradi?
+====# Jarayonlarni avtomatlashtirish
+==== Qog‘oz sarfini ko‘paytirish
+==== Xodimlar kamaytirish
+==== Tarmoqlarni yopish
+
+++++
+IT risklari nimalarni qamrab oladi?
+====# Xavfsizlik, uzilish, viruslar
+==== Faqat elektr ta’minoti
+==== Faqat kadrlar
+==== Ofis maydoni
+
+++++
+Biznes jarayonlarni optimallashtirish maqsadi?
+====# Sifatni oshirish va xarajatni kamaytirish
+==== Ishchilar ko‘paytirish
+==== Jarayonlarni murakkablashtirish
+==== Hisobot uzaytirish
+
+++++
+CRM tizimi qaysi jarayonni boshqaradi?
+====# Mijozlar bilan munosabatlar
+==== Ombor nazorati
+==== Elektr energiyasi
+==== Hisob-kitob
+
+++++
+ERP tizimi tarkibiga nimalar kiradi?
+====# Moliyaviy, ombor, ishlab chiqarish modullari
+==== Faqat pochta xizmati
+==== Faqat antivirus
+==== Faqat marketing
+
+++++
+IT strategiya hujjati odatda qaysi muddatga tuziladi?
+====# Uzoq muddatli (3–5 yil)
+==== 1 oy
+==== 1 hafta
+==== 1 kun
+
+++++
+API nima?
+====# Ilovalar o‘rtasidagi o‘zaro aloqa interfeysi
+==== Antivirus nomi
+==== Mobil aloqa turi
+==== Grafik dizayn
+
+++++
+Big Data nima?
+====# Katta hajmdagi ma’lumotlar bilan ishlash texnologiyasi
+==== Faqat kichik fayllar
+==== Internet xarid tizimi
+==== Faqat kompyuter tezligi
+
+++++
+"Key Process" deb nimaga aytiladi?
+====# Tashkilot faoliyati uchun eng muhim jarayon
+==== Tasodifiy jarayon
+==== Rejalashtirmasdan bajariladigan ish
+==== Samarasiz jarayon
+
+++++
+IT servis darajalari qanday o‘lchanadi?
+====# SLA orqali
+==== SMS orqali
+==== Qarzdorlik orqali
+==== Server soni bilan
+
+++++
+AT infratuzilmasiga nimalar kiradi?
+====# Serverlar, kompyuterlar, tarmoqlar
+==== Kitoblar
+==== Faoliyat rejalari
+==== Qog‘oz blankalar
+
+++++
+Biznes jarayon xaritasi nima uchun kerak?
+====# Jarayonni tushunarli qilish
+==== Faqat chizish uchun
+==== O‘yin yaratish
+==== Tashqi reklama
+
+++++
+IT auditi nima?
+====# Axborot tizimlarining holatini baholash
+==== Qurilish nazorati
+==== Tibbiy ko‘rik
+==== Ombor nazorati
+
+++++
+IT strategiya bajarilishini kim nazorat qiladi?
+====# IT direktori / CIO
+==== Haydovchi
+==== Sartarosh
+==== Dizayner
+
+++++
+IT-budget nimani o‘z ichiga oladi?
+====# Dastur, xarid, texnik xizmat xarajatlari
+==== Faqat ish haqi
+==== Faqat internet to‘lovi
+==== Ofis jihozlari
+
+++++
+BPM nima?
+====# Biznes jarayonlarni boshqarish
+==== Musiqa ritmi
+==== Reklama texnikasi
+==== Browser turi
+
+++++
+IT strategiyaning asosiy elementi?
+====# Maqsadlar, vazifalar, loyihalar
+==== Faqat server
+==== Faqat internet
+==== Faqat xodim
+
+++++
+IT-xavfsizlik siyosati nima?
+====# Tashkilotning ma’lumotlarini himoyalash qoidalari
+==== Marketing siyosati
+==== Savdo rejasi
+==== Ombor qoidasi
+
+++++
+Outsourcing nima?
+====# Ba’zi xizmatlarni tashqi tashkilotga topshirish
+==== Ichki audit
+==== Xodimlarni boyitish
+==== Ichki transport
+
+++++
+IT loyihasi hayot sikli qaysi bosqichdan boshlanadi?
+====# Talablarni yig‘ish
+==== Test
+==== Qo‘llab-quvvatlash
+==== Yakuniy hisobot
+
+++++
+Cloud xizmatlarining turi?
+====# SaaS, PaaS, IaaS
+==== LAN, MAN, WAN
+==== GET, POST
+==== HTML, CSS
+
+++++
+Axborot tizimi samaradorligini oshirishning asosiy usuli?
+====# Jarayonlarni optimallashtirish
+==== Kompyuterni almashtirmaslik
+==== Xatolarni yashirish
+==== Internetni o‘chirish
+
+++++
+IT strategiya kimlar uchun ishlab chiqiladi?
+====# Barcha bo‘limlar uchun
+==== Faqat IT bo‘limi uchun
+==== Faqat marketing uchun
+==== Faqat HR uchun
+
+++++
+IT-kompetensiya deganda nima?
+====# Mutaxassisning texnik bilim va ko‘nikmasi
+==== Ofis maydoni
+==== Texnika soni
+==== Mahsulot narxi
+
+++++
+Jarayon egaligi kimga yuklanadi?
+====# Jarayonni boshqaruvchi mas’ul shaxsga
+==== Xohlagan xodimga
+==== Mehmonlarga
+==== Yarim stavkali ishchiga
+
+++++
+Raqamli hujjat aylanishi nimani anglatadi?
+====# Hujjatlarning elektron shaklda yuritilishi
+==== Faqat qog‘oz hujjatlar
+==== Hujjatlarni yo‘qotish
+==== Tasodifiy saqlash
+
+++++
+Business Intelligence (BI) nima?
+====# Ma’lumotlarni tahlil qilish va qaror qabul qilishni qo‘llab-quvvatlash texnologiyasi
+==== Grafik chizish
+==== O‘yin yaratish
+==== Telefon xizmatlari
+
+++++
+RPA texnologiyasi nima ish qiladi?
+====# Takrorlanadigan jarayonlarni robot-avtomatlashtirish
+==== Kompyuter sovutadi
+==== Serverni tozalaydi
+==== Printerni sozlaydi
+
+++++
+IT aktivlari qaysi elementlardan iborat?
+====# Dastur, server, qurilmalar
+==== Faqat printer
+==== Faqat telefon
+==== Faqat jadval
+
+++++
+IT strategiyada risklarni boshqarish nimaga kerak?
+====# Potensial muammolarni oldindan aniqlash
+==== Tasodifiy ishlatish
+==== Ma’lumotlarni yashirish
+==== Internetni o‘chirish
+
+++++
+BPMN diagramma asosan nima uchun qo‘llanadi?
+====# Jarayonlarni vizual ko‘rsatish
+==== Reklama yaratish
+==== Grafik dizayn
+==== Statistik jadval
+
+++++
+IT strategiya muvaffaqiyati nimaga bog‘liq?
+====# Rahbariyat qo‘llab-quvvatlashi
+==== Narxlarning oshishi
+==== Xodimlar soni
+==== Internet narxi
+
+++++
+Biznes jarayon metrikasi nima?
+====# Jarayon samaradorligini o‘lchovchi ko‘rsatkich
+==== Tasodifiy son
+==== Vaqt jadvali
+==== Qog‘oz raqami
+
+++++
+IT xizmatlar katalogi nima?
+====# Korxona ko‘rsatadigan IT xizmatlari ro‘yxati
+==== Kitob do‘koni
+==== Internet manzillari
+==== Bozor narxlari
+
+++++
+SLA (Service Level Agreement) nima?
+====# Xizmat darajasi bo‘yicha kelishuv
+==== Soliq hisobi
+==== Marketing rejasi
+==== Tarmoqlar xaritasi
+
+++++
+Digital Skills deganda nimani tushunasiz?
+====# Raqamli ko‘nikmalar
+==== Tibbiyot ko‘nikmalari
+==== Qurilish malakasi
+==== Geografiya
+
+++++
+IT investitsiya qaytimi qanday o‘lchanadi?
+====# ROI orqali
+==== MB orqali
+==== KB orqali
+==== HTML orqali
+
+++++
+Data Center nima?
+====# Ma’lumotlar markazi
+==== Ofis markazi
+==== Savdo uyi
+==== Avtostansiya
+
+++++
+IT strategiyaning yakuniy natijasi?
+====# Tizimli AT rivojlanish rejasi
+==== Xodimlar soni
+==== Kompyuter dizayni
+==== Reklama varaqasi
+
+++++
+Bugungi kunda korxonalarning asosiy IT talabi?
+====# Avtomatlashtirish
+==== Qog‘oz oshirish
+==== Printerlar ko‘paytirish
+==== Tarmoqni o‘chirish
+
+++++
+Internet xavfsizligi nimaga xizmat qiladi?
+====# Ma’lumotlarni himoya qilish
+==== Elektrni tejash
+==== Narxlarni arzonlashtirish
+==== Hisobot uzaytirish
+
+++++
+IT strategiyada ustuvorlik nima?
+====# Muhim yo‘nalishlarni belgilash
+==== Tasodifiy tanlash
+==== Narx belgilash
+==== Jumla tahrir qilish
+
+++++
+Tizim integratsiyasi nimani anglatadi?
+====# Turli tizimlarni birlashtirish
+==== Qog‘ozni ulash
+==== Tarmoqni uzish
+==== Xodim chiqarish
+
+++++
+IT loyihalarining asosiy xususiyati?
+====# Vaqt, budjet va sifat chegaralari bor
+==== Chegarasiz
+==== Rejasiz
+==== Doimiy
+
+++++
+Business Analystning roli?
+====# Talablarni tahlil qilish
+==== Faqat kod yozish
+==== Qadoqlash
+==== Ombor tozalash
+
+++++
+IT strategiyada monitoring nimani anglatadi?
+====# Jarayonlarni kuzatish
+==== Tizimni o‘chirish
+==== Narx ko‘tarish
+==== Tasodifiy tanlash
+
+++++
+AT strategiyasining eng muhim elementi?
+====# Biznes maqsadlari bilan moslik
+==== Tasodifiy reja
+==== Qog‘oz ko‘paytirish
+==== Xodimlar soni
+
+++++
+AT strategiyasining asosiy ustuvorligi nima?
+====# Biznes maqsadlari bilan moslikni ta’minlash
+==== Tasodifiy tizimlar sotib olish
+==== Xodimlarni ko‘paytirish
+==== Reklama byudjetini oshirish
+
+++++
+IT Governance nima?
+====# IT boshqaruvi tamoyillari va qoidalari
+==== Soliq siyosati
+==== Marketing kampaniyasi
+==== Ombor tizimi
+
+++++
+IT strategiya hujjatida odatda nimalar bo‘ladi?
+====# Vizyon, maqsad, yo‘nalishlar, loyihalar
+==== Faqat grafiklar
+==== Faqat server ro‘yxati
+==== Faqat narxlar
+
+++++
+IT-xavfsizlikning asosiy elementi?
+====# Maxfiylik, butunlik, mavjudlik
+==== Elektr energiyasi
+==== Bosma hujjatlar
+==== Kamera tizimi
+
+++++
+IT auditi nimani baholaydi?
+====# Tizimlar xavfsizligi va samaradorligini
+==== Xodimlar kiyimini
+==== Binoni bo‘yash
+==== Reklama sifatini
+
+++++
+Axborot tizimlarining asosiy vazifasi?
+====# Ma’lumotlarni saqlash, qayta ishlash va uzatish
+==== Kompyuter bo‘yoqlarini tanlash
+==== Qog‘oz arxivini ko‘paytirish
+==== Xodimlarni tartibga solish
+
+++++
+Tashkilotdagi muhim biznes jarayonlar nima deb ataladi?
+====# Asosiy (Core) jarayonlar
+==== Qolgan jarayonlar
+==== Tasodifiy jarayonlar
+==== Noma’lum jarayonlar
+
+++++
+BPR (Business Process Reengineering) maqsadi?
+====# Jarayonlarni tubdan qayta qurish
+==== Qog‘oz arxivini kengaytirish
+==== Xodimlarni almashtirish
+==== Narxlarni ko‘tarish
+
+++++
+Business Model nimani bildiradi?
+====# Korxonaning qanday daromad olishi va ishlashi
+==== Kompyuter modeli
+==== Bino chizmasi
+==== Statistik jadval
+
+++++
+Biznes talablarini kim yig‘adi?
+====# Biznes Analitik
+==== Dasturchi
+==== Hisobchi
+==== Direktor yordamchisi
+
+++++
+IT integratsiyasining asosiy maqsadi?
+====# Tizimlar o‘rtasida ma’lumot almashinuvini ta’minlash
+==== Tizimlarni ajratish
+==== Elektrni tejash
+==== Printerlarni ko‘paytirish
+
+++++
+Big Data texnologiyasi qaysi jarayonga yordam beradi?
+====# Katta hajmdagi ma’lumotlarni tahlil qilish
+==== Tarmoqlarni o‘chirish
+==== Printerlarni sozlash
+==== Elektr sarfini kamaytirish
+
+++++
+Ma’lumotlar bazasi boshqaruv tizimi?
+====# DBMS
+==== PDF
+==== VPN
+==== SMS
+
+++++
+IoT nima?
+====# Narsalar interneti
+==== Elektr tizimi
+==== Kompyuter ventilyatori
+==== Foydalanuvchi interfeysi
+
+++++
+IT infratuzilmasiga qaysi biri kirmaydi?
+====# Marketing bannerlari
+==== Serverlar
+==== Tarmoq qurilmalari
+==== Dasturiy platformalar
+
+++++
+IT strategiyaning asosiy foydasi?
+====# Korxonaning rivojlanishini qo‘llab-quvvatlash
+==== Faqat kompyuter sotib olish
+==== Reklama berish
+==== Qog‘oz ishlatish
+
+++++
+RPA qaysi jarayonlar uchun mos?
+====# Takroriy, bir xil operatsiyalar
+==== Faqat ijodiy ishlar
+==== Faqat dizayn
+==== Faqat marketing
+
+++++
+Tizim arxitektori nima ish qiladi?
+====# Tizimning tuzilishi va aloqalarini loyihalaydi
+==== Kompyuter ta’mirlaydi
+==== Qog‘oz tarqatadi
+==== Xodimlarni ro‘yxatga oladi
+
+++++
+IT monitoring tizimi nima?
+====# Tizimlarning ishlash holatini kuzatadi
+==== Sport musobaqasi kuzatuvi
+==== Reklama bannerlari
+==== Telefon raqamlari
+
+++++
+Business Intelligence (BI) qaysi jarayonda qo‘llanadi?
+====# Ma’lumotlarni tahlil qilishda
+==== Qog‘oz ko‘paytirishda
+==== Server ta’mirida
+==== Transportda
+
+++++
+IT risklarini kamaytirish usullaridan biri?
+====# Zaxira nusxa yaratish
+==== Kompyuterlarni o‘chirish
+==== Xatolarni yashirish
+==== Tarmoqni yopish
+
+++++
+Tizimlararo integratsiyada eng ko‘p ishlatiladigan texnologiya?
+====# API
+==== PDF
+==== DOC
+==== ZIP
+
+++++
+IT xizmat ko‘rsatish tamoyili?
+====# Foydalanuvchilarga barqaror xizmat taqdim etish
+==== Tasodifiy yordam
+==== Rejasiz texnik xizmat
+==== Cheklanmagan xarajat
+
+++++
+DevOps qaysi sohada qo‘llanadi?
+====# Dastur ishlab chiqish va ekspluatatsiya integratsiyasida
+==== Faqat dizayn
+==== Faqat marketing
+==== Faqat buxgalteriya
+
+++++
+IT strategiya yaratishda birinchi qadam?
+====# Joriy holatni tahlil qilish
+==== Hisobot bosish
+==== Rasm chizish
+==== Tasodifiy ma’lumot kiritish
+
+++++
+KPI deganda nima tushuniladi?
+====# Kalit samaradorlik ko‘rsatkichlari
+==== Kompyuter porti
+==== Qog‘oz raqami
+==== Telefon kodi
+
+++++
+"Process Owner" kim?
+====# Jarayonni boshqaruvchi shaxs
+==== Tizim o‘rnatuvchi
+==== Haydovchi
+==== Sotuvchi
+
+++++
+IT strategiyada vizyon nimani anglatadi?
+====# Kelajakdagi umumiy yo‘nalish
+==== Narxlar ro‘yxati
+==== Hisobotlar arxivi
+==== Moddiy aktivlar
+
+++++
+SLA nimani belgilaydi?
+====# Xizmat sifati va darajasi
+==== Reklama intervali
+==== Xodimlarning ish vaqti
+==== Printerlar soni
+
+++++
+Data Mining qaysi jarayonga tegishli?
+====# Ma’lumotlardan yashirin naqshlarni aniqlash
+==== Server ta’mirlash
+==== E’lon yopishtirish
+==== Qog‘oz tahlili
+
+++++
+IT strategiyaning asosiy yo‘nalishi?
+====# Texnologiyalarni biznes bilan uyg‘unlashtirish
+==== Tasodifiy xaridlar
+==== Qog‘oz sarfini oshirish
+==== Xodimlar oyligini kamaytirish
+
+++++
+Tizimlararo moslik nima uchun muhim?
+====# Ma’lumotlar almashinuvi uzluksiz bo‘lishi uchun
+==== Qog‘oz saqlash uchun
+==== Reklama uchun
+==== Telefon qo‘ng‘iroqlari uchun
+
+++++
+Cloud texnologiyalarining asosiy afzalligi?
+====# Moslashuvchanlik va xarajatning kamayishi
+==== Faqat qimmat bo‘lishi
+==== Faqat qog‘ozga o‘tishi
+==== Elektr sarfini oshirishi
+
+++++
+IT aktivlarni boshqarishning asosiy maqsadi?
+====# Aktivlarning samarali ishlatilishini ta’minlash
+==== Tasodifiy sotib olish
+==== Ortib qolgan texnika yig‘ish
+==== Narxlarni oshirish
+
+++++
+Raqamli transformatsiya natijasi?
+====# Avtomatlashtirilgan jarayonlar
+==== Qog‘oz sarfini ko‘paytirish
+==== Serverlarni kamaytirish
+==== Tarmoqlarni o‘chirish
+
+++++
+IT loyiha boshqaruvi qaysi metodologiyani qo‘llaydi?
+====# Agile, Scrum, Waterfall
+==== Faqat rasm chizish
+==== Faqat marketing rejasi
+==== Faqat qadoqlash
+
+++++
+AT strategiyasi ishga tushirilgandan keyin bajariladigan ish?
+====# Monitoring va tahlil
+==== E’tiborsiz qoldirish
+==== To‘xtatish
+==== Qog‘ozga o‘tkazish
+
+++++
+Raqamli ko‘nikmalarga qaysi biri kiradi?
+====# Kompyuter va texnologiya bilan ishlash
+==== Qog‘oz tikish
+==== Sement to‘kish
+==== Pichoq charxlash
+
+++++
+IT xavflarining eng keng tarqalgani?
+====# Kiberhujumlar
+==== Printer qog‘oz tugashi
+==== Shovqin
+==== Yorug‘lik yetishmasligi
+
+++++
+IT sohasidagi “scalability” nimani bildiradi?
+====# Tizimning kengayish imkoniyati
+==== Tizimning qisqarishi
+==== Tizimning buzilishi
+==== Tizimning o‘chirilishi
+
+++++
+Monitoring tizimi qaysi maqsadda qo‘llanadi?
+====# Tizim holatini kuzatish
+==== Tasodifiy ma’lumot kiritish
+==== Qog‘oz bo‘yicha hisobot
+==== Telefon qo‘ng‘iroqlari
+
+++++
+IT budjetini oshirish sababi?
+====# Yangi texnologiyalar joriy etish
+==== Keraksiz xaridlar
+==== Qog‘oz sotib olish
+==== Printer almashtirish
+
+++++
+Tizim xavfsizligining eng muhim qismi?
+====# Parollarni himoyalash
+==== Printer sozlash
+==== Internetni o‘chirish
+==== Qog‘ozda saqlash
+
+++++
+Boshqaruv tizimlarining asosiy maqsadi?
+====# Qaror qabul qilishni qo‘llab-quvvatlash
+==== Katta qurilish
+==== Transport boshqarish
+==== Qog‘oz sotib olish
+
+++++
+Axborot texnologiyalari strategiyasi kim tomonidan tasdiqlanadi?
+====# Rahbariyat tomonidan
+==== Faqat IT bo‘limi
+==== Foydalanuvchilar
+==== Omborchi
+
+++++
+Ma’lumotlar zaxira nusxasi nima?
+====# Ma’lumotning qo‘shimcha saqlangan nusxasi
+==== Faqat rasm
+==== Faqat matn
+==== Faqat video
+
+++++
+IT tizimlar o‘rtasida ma’lumot almashish vositasi?
+====# API
+==== ZIP
+==== RAR
+==== JPG
+
+++++
+AT strategiyasining asosiy natijasi?
+====# Rivojlangan, barqaror IT tizimlari
+==== Tasodifiy xarajatlar
+==== Bo‘limlar sonini oshirish
+==== Qog‘oz sarfini oshirish
+
+++++
+IT xizmatlarining sifat ko‘rsatkichi?
+====# SLA
+==== DOC
+==== PDF
+==== ZIP
+
+++++
+Axborot xavfsizligi buzilishi natijasida nima yuz beradi?
+====# Ma’lumot yo‘qolishi yoki o‘g‘irlanishi
+==== Qog‘oz yirtilishi
+==== Printer qizishi
+==== Yorug‘lik o‘chishi
+
+++++
+Biznes jarayonlar boshqaruvi nimani ta’minlaydi?
+====# Jarayonlarning barqarorligi va samaradorligini
+==== Qog‘oz sarfini oshirish
+==== Tasodifiy ishlash
+==== Hisobotni kamaytirish
+

@@ -1,202 +1,200 @@
-Tashkilot ichidagi faoliyatlar ketma-ketligi
-Texnologiyalarni korxona maqsadlariga moslashtirish
-Muammoni aniqlash
-3–5 yil
-Samaradorlikni oshirish
-Jarayonlarni raqamlashtirish orqali biznes samaradorligini oshirish
-Kuchli tomonlar
-BPMN
-Kompyuterlar, tarmoqlar va dasturiy ta’minot
-Korxona resurslarini boshqarish tizimi
-Jarayonlarni tubdan o‘zgartirish
-Uzoq muddatli rivojlanishni ta’minlash
-Asosiy samaradorlik ko‘rsatkichlari
-Jarayonlar oqimini ko‘rsatadigan diagramma
-Rahbariyat
-Mijozlar bilan munosabatlarni boshqarish
-Analitik ma’lumotlarni tahlil qilish texnologiyasi
-Infratuzilma, xavfsizlik, dasturiy ta’minot
-Tashqi tashkilotdan xizmat olish
-AT boshqaruv tizimi
-Axborot texnologiyalari bo‘yicha direktor
-Xavflarni aniqlash va kamaytirish
-Ma’lumotlarni masofaviy serverlarda saqlash
-Samaradorlik
-Axborot xavfsizligi
-Ish tezligi va aniqlikni oshiradi
-Jarayonlarni boshqarish
-Uni qo‘llab-quvvatlaydi
-Jarayonlarning raqamli nusxasi
-Isrofgarchilikni kamaytirish
-Strategik boshqaruv tizimi
-Moslashuvchan boshqaruv
-Ma’lumotni himoya qilish
-Turli tizimlarning o‘zaro bog‘lanishi
-Dasturlar o‘zaro aloqa interfeysi
-Hodisa
-Odatda har 3 yilda
-ISO 9001
-Loyiha boshqaruv ofisi
-Katta hajmdagi ma’lumotlar
-Ta’minot zanjiri
-Ma’lumotlardan bilim chiqarish
-O‘lchab bo‘ladigan ko‘rsatkichlar
-Texnologik innovatsiyalar
-Internetga ulangan qurilmalar tarmog‘i
-Maxfiylik, yaxlitlik, mavjudlik
-Ma’lumotlarni saqlash markazi
-Rahbariyat
-Robotlashtirilgan jarayon avtomatizatsiyasi
-Jarayon samaradorligini nazorat qilish
-Dasturiy, apparat va inson resurslari majmui
-Tezlik, sifat va xarajatlar orqali
-Moslashuvchanlik
-AT xarajatlarini rejalashtirish
-Boshqa tashkilotlar bilan taqqoslash
-Yangi texnologiyalarni joriy etish rejasi
-Biznes jarayonlarini tashqi tashkilotga topshirish
-Ilovalar, ma’lumotlar va texnik infratuzilma
-Risk tahlili
-Jarayonning hozirgi holati
-Jarayonning kelajakdagi holati
-Ma’lumotlarning avtomatlashtirilishi
-AT strategiyasining biznes strategiyasiga mosligi
-Xavfsizlik siyosati
-Jarayon keskin takomillashadi
-Strategik va operatsion
-Jarayon bo‘g‘inidagi sekinlashish
-Internet
-Xodimlarning texnologiyalardan to‘g‘ri foydalanish qobiliyati
-Shartli tanlovlarni ifodalash
-ITIL
-Talablarni yig‘ish va tahlil qilish
-AT loyihalari ro‘yxati
-Tashkilotning texnologik arxitektura modeli
-Odatiy 4–5 bosqichda
-Ma’lumotlarni boshqarish siyosati
-Marketing va savdo
-Tizimlar ishini kuzatish
-SWOT
-Tizimlar uzluksiz ishlashini ta’minlash
-Barcha sohalarga
-Tizimlar o‘rtasida tezkor aloqa
-Barcha bo‘limlarda
-Qog‘ozsiz ish yuritish
-Texnik, tashkiliy, insoniy
-Analitik hisobotlar yaratadi
-Serverlar
-Bosh direktor (CEO)
-Agile
-Aniq, tushunarli va o‘lchab bo‘ladigan
-Biznesga qo‘shilgan qiymat
-ITSM tizimlari
-SWOT, PEST, Five Forces
-CIA (Confidentiality, Integrity, Availability)
-Project Manager
-SLA
-Sistem administrator
-Tahliliy va kontakt ma’lumotlar
-Machine Learning
-Ma’lumot almashinuvi yaxshilanadi
-Biznes maqsadlarini texnologiya orqali qo‘llab-quvvatlash
-Natijalarni baholash
-Eng yaxshi tajribalarni solishtirish
-Tezlik, aniqlik va samaradorlik oshadi
-Jarayonlarni avtomatlashtirish
-Xavfsizlik, uzilish, viruslar
-Sifatni oshirish va xarajatni kamaytirish
-Mijozlar bilan munosabatlar
-Moliyaviy, ombor, ishlab chiqarish modullari
-Uzoq muddatli (3–5 yil)
-Ilovalar o‘rtasidagi o‘zaro aloqa interfeysi
-Katta hajmdagi ma’lumotlar bilan ishlash texnologiyasi
-Tashkilot faoliyati uchun eng muhim jarayon
-SLA orqali
-Serverlar, kompyuterlar, tarmoqlar
-Jarayonni tushunarli qilish
-Axborot tizimlarining holatini baholash
-IT direktori / CIO
-Dastur, xarid, texnik xizmat xarajatlari
-Biznes jarayonlarni boshqarish
-Maqsadlar, vazifalar, loyihalar
-Tashkilotning ma’lumotlarini himoyalash qoidalari
-Ba’zi xizmatlarni tashqi tashkilotga topshirish
-Talablarni yig‘ish
-SaaS, PaaS, IaaS
-Jarayonlarni optimallashtirish
-Barcha bo‘limlar uchun
-Mutaxassisning texnik bilim va ko‘nikmasi
-Jarayonni boshqaruvchi mas’ul shaxsga
-Hujjatlarning elektron shaklda yuritilishi
-Ma’lumotlarni tahlil qilish va qaror qabul qilishni qo‘llab-quvvatlash texnologiyasi
-Takrorlanadigan jarayonlarni robot-avtomatlashtirish
-Dastur, server, qurilmalar
-Potensial muammolarni oldindan aniqlash
-Jarayonlarni vizual ko‘rsatish
-Rahbariyat qo‘llab-quvvatlashi
-Jarayon samaradorligini o‘lchovchi ko‘rsatkich
-Korxona ko‘rsatadigan IT xizmatlari ro‘yxati
-Xizmat darajasi bo‘yicha kelishuv
-Raqamli ko‘nikmalar
-ROI orqali
-Ma’lumotlar markazi
-Tizimli AT rivojlanish rejasi
-Avtomatlashtirish
-Ma’lumotlarni himoya qilish
-Muhim yo‘nalishlarni belgilash
-Turli tizimlarni birlashtirish
-Vaqt, budjet va sifat chegaralari bor
-Talablarni tahlil qilish
-Jarayonlarni kuzatish
-Biznes maqsadlari bilan moslik
-Biznes maqsadlari bilan moslikni ta’minlash
-IT boshqaruvi tamoyillari va qoidalari
-Vizyon, maqsad, yo‘nalishlar, loyihalar
-Maxfiylik, butunlik, mavjudlik
-Tizimlar xavfsizligi va samaradorligini
-Ma’lumotlarni saqlash, qayta ishlash va uzatish
-Asosiy (Core) jarayonlar
-Jarayonlarni tubdan qayta qurish
-Korxonaning qanday daromad olishi va ishlashi
-Biznes Analitik
-Tizimlar o‘rtasida ma’lumot almashinuvini ta’minlash
-Katta hajmdagi ma’lumotlarni tahlil qilish
-DBMS
-Narsalar interneti
-Marketing bannerlari
-Korxonaning rivojlanishini qo‘llab-quvvatlash
-Takroriy, bir xil operatsiyalar
-Tizimning tuzilishi va aloqalarini loyihalaydi
-Tizimlarning ishlash holatini kuzatadi
-Ma’lumotlarni tahlil qilishda
-Zaxira nusxa yaratish
-API
-Foydalanuvchilarga barqaror xizmat taqdim etish
-Dastur ishlab chiqish va ekspluatatsiya integratsiyasida
-Joriy holatni tahlil qilish
-Kalit samaradorlik ko‘rsatkichlari
-Jarayonni boshqaruvchi shaxs
-Kelajakdagi umumiy yo‘nalish
-Xizmat sifati va darajasi
-Ma’lumotlardan yashirin naqshlarni aniqlash
-Texnologiyalarni biznes bilan uyg‘unlashtirish
-Ma’lumotlar almashinuvi uzluksiz bo‘lishi uchun
-Moslashuvchanlik va xarajatning kamayishi
-Aktivlarning samarali ishlatilishini ta’minlash
-Avtomatlashtirilgan jarayonlar
-Agile, Scrum, Waterfall
-Monitoring va tahlil
-Kompyuter va texnologiya bilan ishlash
-Kiberhujumlar
-Tizimning kengayish imkoniyati
-Tizim holatini kuzatish
-Yangi texnologiyalar joriy etish
-Parollarni himoyalash
-Qaror qabul qilishni qo‘llab-quvvatlash
-Rahbariyat tomonidan
-Ma’lumotning qo‘shimcha saqlangan nusxasi
-API
-Rivojlangan, barqaror IT tizimlari
-SLA
-Ma’lumot yo‘qolishi yoki o‘g‘irlanishi
-Jarayonlarning barqarorligi va samaradorligini
+#Mobil platformalarda ishlovchi ilovalar
+#Bir OT uchun yozilgan dasturni boshqa OT da ishlashini ta'minlovchi dastur
+#Android telefonlari uchun mo‘ljallangan mobil ilovalar do‘koni
+#iOS foydalanuvchilari uchun mobil ilovalar do‘koni
+#Linux yadrosida ko‘tarilgan mobil OT //Kernell
+#Kivy, Flutter, React Native
+#Dart
+#Ma’lumotlarni jadval ko‘rinishida ekranga chiqarish uchun
+#Android, iOS, Symbian, Windows mobile
+#Figma
+#Mobil ilovalar dizaynini ishlab chiqishda UX tushunchasi nimani ifodalaydi?
+#Foydalanuvchining grafik interfeysi
+#Python
+#extends
+#Ekranda rasmlarni (rasmlarni) navbati bilan ko‘rsatish uchun foydalaniladi
+#Google
+#emulyator
+#Ma’lumotlar bazasini boshqarish tizimi
+#bu mobil qurilmalarni boshqarish uchun mo‘ljallangan tizimlar (smartfonlar, planshetlar, PDA va boshqa mobil qurilmalar)
+#Barcha javoblar to‘g‘ri
+#qurilma ma'lumotlarini sozlamalar va parametrlarda saqlash
+#Chaqirilgan resursning local/global adresini ko‘rsatish uchun
+#Checkbox
+#Apple
+#PHP
+#Run (Shift + F10)
+#Windows Phone
+#Barcha javoblar to‘g‘ri
+#Barcha javoblar to‘g‘ri
+#Android dasturning build qilingan holati
+#Material
+#Android va iOS, iOS uchun Flutter plaginini o‘rnatib yozish mumkin
+#Flutter plaginini o‘rnatish kerak
+#Rasmlarni joylashtirish uchun
+#OnPressed()
+#.apk
+#DatePicker
+#Google
+#Text, TextView
+#Emulyator
+#Open (Ctrl + O)
+#Flutter
+#Barcha javoblar to‘g‘ri
+#Faqatgina MacOS o‘rnatilgan qurilmada
+#Human readable
+#Ctrl + Alt + L
+#PHP
+#Android
+#Open source va tekin tarqatilishi
+#Barcha javoblar to‘g‘ri
+#.dart
+#.gitignore
+#Flutter yangilanishiga oid metama’lumotlar
+#Shirinliklar nomlari bilan
+#Git bilan ishlash sozlamalari
+#packages 
+#Barcha javoblar to‘g‘ri
+#iOS ga oid kodlar
+#Paketlar haqida qo‘shimcha ma’lumotlar
+#Ios 
+#Barcha javoblar to‘g‘ri
+#Android maxsus (native) kodlari
+#Barcha javoblar to‘g‘ri
+#Android Ins
+#Mumkin, USB interfeys va ba’zi sozlamalar bilan
+#Muharrir dasturi (editor) sozlamalari
+#Barcha javoblar to‘g‘ri
+#React Native
+#Krossplatformali
+#BlueStacks, Genymotion
+#TextView
+#bu maxsus turdagi tugma va ikkita holatda bo‘lishi mumkin: checked yoki unchecked.
+#AVD manager
+#Ctrl + Alt + S
+#Foydalanuvchi interfeysi
+#Table, DataTable
+#class
+#onPress (Pressed)
+#Checked
+#Value
+#Radio/RadioButton
+#Save (Ctrl + S)
+#dasturni testlashga doir kodlar
+#Emulyator yoki telefonsiz dasturni ishlatib ko‘rish imkoniyatini beradi
+#Ctrl + Alt + S
+#Android
+#Ishlab turgan dasturga o‘zgarishlarni tezkor qo‘shish
+#Ma’lumotlar bazasini boshqarish tizimi
+#.idea
+#Sublime Text 3
+#TimePicker
+#Symbian 
+#Genymotion 
+#import
+#int (integer)
+#this 
+#Foydalanuvchi grafik interfeysi
+#float
+#o‘zidan keyin keluvchi ma’lumot (son, satr, …) ni funksiya chaqirilgan joyga qaytaradi (uzatadi)
+#. metadata 
+#Aleksandr Bell
+#Mumkin, emulyatorlar kerak bo‘ladi
+#Barcha javoblar to‘g‘ri 
+#Ko‘p vazifalilik
+#Windows Phone 
+#App Store
+#Barcha javoblar to‘g‘ri
+#SDK versiyalarini boshqarish utilitasi 
+#string
+#Hot reload
+#Barcha javoblar to‘g‘ri 
+#Play Market 
+#Barcha javoblar to‘g‘ri 
+#HAXMli javob bo'ladi jigar hehe!
+#Ha, shunga ruxsat beruvchi sozlamani yoqish kerak
+#File » Settings » Editor » Font » Size 
+#Android Studio, IntelliJ IDEA, Eclipse 
+#dp 
+#Emulyator 
+#Case sensitive
+#Ctrl + F
+#Barcha javoblar to‘g‘ri
+#CompoundButton 
+#Barcha javoblar to‘g‘ri 
+#bu maxsus turdagi button va ikkita holatda bo‘lishi mumkin: tekshirilgan yoki belgilanmagan.
+#2007 yil
+#RadioButton
+#Barcha javoblar to‘g‘ri
+#File » Settings » Editor » Color Scheme
+#Barcha javoblar to‘g‘ri
+#Button
+#Math
+#File » Settings
+#Ma'lum vaqtdan keyin xabarnomani ko‘rsatish uchun foydalaniladi.
+#android:background="#E3254B"
+#CheckBox 
+#AlertDialog
+#SQLite 
+#TableRow
+#android:textStyle="italic "
+#width
+#margin
+#padding
+#text
+#AbsoluteLayout
+#ImageButton
+#File » Settings » Tools » Web Browsers
+#AVD-ni ikki marta bosiladi yoki Start bosiladi; Ishlayotgan emulyatorni to‘xtatish uchun o‘ng tugma bosiladi va Stop yoki Menu » Stop ketma ketligi 
+#File » Settings » Editor » Font » Size
+#LinearLayout
+#TableLayout
+#Boolean
+#File » Settings »Plugins » Search & Install
+#TableLayout
+#android:checked="true"
+#paddingTop
+#Build » Build bundle » Build APK 
+#marginLeft 
+#onResume()
+#komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish uchun ishlatiladi.
+#onStop()
+#marginRight
+#paddingLeft
+#android:textStyle="bold"
+#Sanani belgilash
+#File » Close
+#EditText
+#android: textcolor
+#Vaqtni tanlash
+#File » Open
+#height
+#test 
+#argument
+#File » New » New Project
+#android: id = "@ + id / button"
+#android:textStyle
+#File » New » Import Project
+#center
+#android: text = "Salom"
+#public boolean isChecked (), public void setChecked (boolean status)
+#android:onClick
+#onCreate()
+#android:paddingRight
+#onDestroy()
+#marginTop
+#onStart()
+#File » Open recent
+#onPause()
+#android:textSize="25dp "
+#android:src="@drawable/circle"
+#android.gms.maps.MapFragment
+#strings.xml
+#Kiritiladigan komponentalarni imageView komponentasidan keyin (pastki qismdan) joylashtiradi.
+#<string name="app_name">Laboratoriya_Ishi_1</string>
+#MainActivity.java
+#android:layout_ alignLeft
+#android:textColorLink
+#colors.xml
+#android:orientation
+#onRestart()

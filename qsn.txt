@@ -1,200 +1,140 @@
-"Mobil ilova" atamasi qanday ilovalarga nisbatan ishlatiladi?
-Emulyator qanday dastur?
-Play Store nima?	
-App Store haqida to‘g‘ri ta’rifni belgilang?
-Androidga to‘g‘ri ta’rif berilgan qatorni belgilan
-Quyidagilardan mobil dasturlash til va freymvorklarini belgilang
-Flutter freymvorki qaysi dasturlash tiliga tegishli
-Table (yoki DataTable) komponentasi nima uchun ishlatiladi?
-Quyidagilardan faqat mobil OT lar ko‘rsatilgan qatorni belgilang
-Mobil ilovalar dizaynini ishlab chiqishda quyidagi grafik muharrirlarning qaysi biridan ko‘proq foydalaniladi?
-
-Grafik interfeys bu
-Kivy freymvorki qaysi dasturlash tiliga tegishli?
-Boshqa klassdan voris olish uchun (Dart, Java) qaysi kalitso‘z ishlatiladi?
-Galereya ko‘rinishi nima?
-Android operatsion tizimi qaysi IT gigant tomonidan qo‘llab-quvvatlab kelinadi?
-Genymotion, BlueStacks qanday vazifani bajaruvchi dasturlar?
-SQLite qanday dastur hisoblanadi?
-Mobil operatsion tizimlar deganda nimani tushunasiz?
-Android Studioda yozilgan kodni natijasi (build) ni qanday ko‘rish mumkin?
-Sozlamalar bu – …
-Ma'lumotlar manzili (path) nima uchun ishlatiladi?
-Bir nechta variantni birgalikda tanlash maqsadida ishlatiladigan komponenta qaysi?
-iOS platformasini qaysi kompaniya qo‘llab-quvvatlab, rivojlantirib boradi?
-Quyidagi tillardan qaysi birida mobil ilovalar ishlab chiqish imkoni mavjud emas?
-Android Studioda tayyor bo‘lgan kodni biron qurilmada ishga tushirish (build) uchun qaysi buyruq bosiladi?
-Microsoft kompaniyasining mobil qurilmalar uchun yaratgan mobil operatsion tizimi qaysi?
-Android Studioda yozilgan kodni qaysi brauzerlar orqali build qilib ko‘rish mumkin?
-Python dasturlash tilining Kivy freymvorkida qaysi qurilmalar uchun dastur yozish mumkin?
-APK formati qanday turdagi fayllarni saqlaydi?
-Mobil dasturlashda Android ilovalar uchun asosan qaysi dizayn kutubxonasi ishlatiladi?
-Android Studioda quyidagi qaysi platformalar uchun dasturlar yozish mumkin?
-Android Studioda iOS uchun ham dastur yozishga qanday talablar mavjud?
-Image (Imageview) komponentasi qay maqsadda ishlatiladi?
-Mobil ilovadagi element ustiga sichqoncha chap tugmasi bilan bosilganda qaysi metod ishga tushadi?
-Android dasturlari qaysi kengaytma bilan saqlanadi?
-Sana bilan ishlovchi komponenta (Android Studio, Flutter) qanday nomlanadi?
-Flutter freymvorki qaysi kompaniya tomonidan qo‘llab quvvatlanadi?
-Label vazifasini bajaruvchi komponentalar nomlari berilgan qatorni ko‘rsating?
-Mobil ilova (masalan, birorta .apk kengaytmali fayl) ni kompyuterda ishlatish imkonini beruvchi dasturlar qanday nomlanadi?
-Android Studioda mavjud faylni ochish uchun qaysi buyruqdan foydalaniladi?
-Dart tilining mobil dasturlash uchun mo‘ljallangan freymvorkini belgilang?
-Quyidagilardan qaysi biri mobil dasturlash freymvorki hisoblanadi?
-iOS uchun yozilgan kodni qanday qurilmada build qilish mumkin?
-Kodning dasturchi uchun tushunarli holatda, probel va tabulyatsiya belgilari bilan yozilgan holati qanday nomlanadi?
-Android Studioda kodni “Human readable” ko‘rinishga o‘tkazish uchun qaysi klavishlar birgalikda bosiladi?
-Quyidagilardan qaysi dasturlash tilida mobil dasturlash uchun freymvork mavjud emas?
-Qaysi mobil operatsion tizimda ishlaydigan qurilmalar eng ko‘p tarqalgan?
-Android operatsion tizimining keng tarqalishining asosiy sababini belgilang?
-Android haqida to‘g‘ri ta’rif berilgan qatorni belgilang?
-Android Studioda Flutter bilan ishlaganda Dart dasturlash tiliga doir maxsus sozlamalar qaysi katalogda saqlanadi?
-Android Studioda qilinayotgan mobil ilova loyihasida Git sozlamalari qaysi faylda saqlanadi?
-Android Studioda Flutter freymvorkida qilinayotgan mobil ilova loyihasida .metada faylida qanday ma’lumotlar saqlanadi?
-Dastlab Andriod OT versiyalari qanday nomlangan?
-Android Studioda qilinayotgan mobil ilova loyihasida .gitignore faylida qanday ma’lumotlar saqlanadi?
-Android Studioda qilinayotgan mobil ilova loyihasida kerakli paketlar haqidagi ma’lumotlar qaysi faylda saqlanadi?
-Android qaysi sabablarga ko‘ra Linuxga asoslanib yaratilgan?
-Android Studioda qilinayotgan mobil ilova loyihasida iOS katalogida qanday ma’lumotlar saqlanadi?
-Android Studioda qilinayotgan mobil ilova loyihasida .packages faylida qanday ma’lumotlar saqlanadi?
-Android Studioda iOS spetsifikatsiyasiga doir maxsus sozlamalar qaysi katalogda saqlanadi?
-Samarali mobil ilova ishlab chiqish uchun qaysi savollarga to‘g‘ri javob berish kerak?
-Android Studioda qilinayotgan mobil ilova loyihasida android katalogida qanday ma’lumotlar saqlanadi?
-Android Studioda Flutterda dasturlash uchun qanday talablar mavjud?
-Android OT qaysi kompaniya tomonidan yaratilgan?
-Android Studioda dastur kodini kompilyatsiya qilib, to‘g‘ridan to‘g‘ri telefonga o‘rnatish mumkinmi?
-Android Studioda qilinayotgan mobil ilova loyihasida .idea katalogida qanday ma’lumotlar saqlanadi?
-Mobil ilova yaratishda konsepsiyani ishlab chiqish qaysi jarayonlarni o‘z ichiga oladi?
-Javascript dasturlash tilining mobil dasturlashga mo‘ljallangan freymvorkini belgilang?
-Bir nechta platformalar uchun birdaniga dastur yozish imkoniga ega dasturlash tillari … dasturlash tillari deyiladi.
-Faqat emulyator dasturlar berilgan qatorni toping?
-Mobil dasturlashda faqatgina matn ko‘rinishidagi ma'lumotlarni ko‘rsatish uchun ishlatiladi va <........> elementi yordamida yaratiladi
-CheckBox komponentasiga to‘g‘ri ta’rif berilgan qatorni belgilang
-Android Studioda virtual qurilmalar (telefon, planshet, …) ni yaratish, boshqarish imkonini beruvchi utilita qaysi?
-Android Studioda sozlamalarga tezkor kirish uchun qaysi tugmachalar birgalikda bosiladi?
-Mobil ilovalar dizaynini ishlab chiqishda UI tushunchasi nimani ifodalaydi?
-Ma’lumotlarni jadval ko‘rinishida aks ettirish uchun qaysi komponenta ishlatiladi?
-Sinf yaratish qaysi kalit so‘z yordamida amalga oshiriladi?
-Button ustiga sichqoncha bilan bosilganda qaysi metod ishga tushadi?
-CheckBox belgilanganda qaysi atribut True qiymatga ega bo‘ladi?
-Ob'ektning qiymati qaysi atribut orqali o‘rnatiladi?
-Mavjud variantlardan faqat bittasini belgilash uchun ishlatiladigan komponenta qaysi?
-Android Studioda tayyor bo‘lgan faylni saqlash uchun qaysi buyruq bosiladi?
-Android Studioda qilinayotgan mobil ilova loyihasida test katalogida qanday ma’lumotlar saqlanadi?
-Android Studiodagi Android Virtual Device qanday vazifani bajaradi?
-Android Studioda sozlamalarga tezkor kirish uchun qaysi klavishlar birgalikda bosiladi?
-Android Studioda android spetsifikatsiyasiga doir maxsus sozlamalar qaysi katalogda saqlanadi?
-“Hot reload” funksiyasi qanday vazifani bajaradi?
-SQLite haqida quyidagilardan qaysi biri to‘g‘ri?
-Android Studioda muharrir (editor) maxsus sozlamalari qaysi katalogda saqlanadi?
-Quyidagilardan qaysi biri Android platformasi uchun dastur yozish imkoni mavjud emas?
-Vaqt bilan ishlash uchun Android Studioda qaysi komonenta ishlatiladi?
-Asosan tugmachali telefonlarda ishlatilgan mobil OT ni belgilang?
-Windows OT ga quyidagi dasturlardan qaysi birini o‘rnatib, .apk kengaytmali dasturni ishlatish mumkin?
-Android Studioda kerakli kutubxona va modullar qaysi komanda bilan chaqiriladi?
-Butun sonli ma’lumotlar qaysi tipda e’lon qilinadi?
-Joriy elementga murojaat qilish uchun qaysi kalit so‘z ishlatiladi?
-GUI nima?
-Haqiqiy sonlar qaysi kalit so‘z bilan e’lon qilinadi?
-Funksiyadagi return buyrug‘i qanday vazifani bajaradi?
-Android Studioda qilinayotgan mobil ilova loyihasida Flutterni yangilashga doir metama’lumotlar qaysi faylda saqlanadi?
-Ilk telefon qurilmasiga kim patent olgan?
-Android dasturni WINDOWS OT da ishlatish mumkinmi?
-iOS OT haqida to‘g‘ri ta’rif berilgan javobni belgilang?
-Android OT quyidagi imkoniyatlarning qaysi birini qo‘llab-quvvatlaydi?
-WINDOWS OT asosida yaratilgan mobil OT ni belgilang?
-Apple mobil qurilmalari uchun ilovalar do‘koni qanday nomlanadi?
-Quyidagilardan GUI elementlarini belgilang?
-SDK Manager bu …
-Satrli o‘zgaruvchilar qaysi tipda e’lon qilinadi?
-Android Studioda kompilyatsiya qilinib, ishlayotgan dasturga kiritilgan o‘zgarishlarni tezkor qo‘llash imkonini beruvchi komanda qaysi?
-Quyidagi muharrirlardan qaysi birida Android platformasi uchun dastur yozish mumkin?
-Android mobil qurilmalari uchun Googlening ilovalar do‘koni qanday nomlanadi?
-Zamonaviy smartfonlar quyidagi qaysi funksiyalarga ega?
-Android Virtual Device (AVD) ni ishga tushirish uchun talablar qanday?
-Android telefonlarga Play Market ilovalar magazinidan boshqa joydan ham dastur o‘rnatsa bo‘ladimi?
-Android Studioda kodlarimiz qatorlari orasidagi masofani sozlash ketma-ketligi qanday?
-Android Studioda yaratilgan loyihani yana qaysi muharrirlarda o‘zgartirish va ishlatish mumkin?
-Android Studio-da ishlatiladigan asosiy o‘lchov birligi nima?
-BlueStacks dasturidan qay maqsadda foydalanamiz?
-Katta kichik harflarga sezuvchanlik hususiyati qanday nomlanadi?
-Android Studioda fayl ichidan qidiruvni amalga oshirish uchun qaysi klavishlar ketma-ketligi bosiladi?
-ToggleButton sinfining eng ko‘p ishlatiladigan usullari qanday?
-Android CheckBox klassi qaysi sinfning subclassi?
-Android Studioda qanday maxsulotlar yaratish mumkin?
-CheckBox nima?
-"Ochiq telefon" linyasi qachon tuzilgan?
-RadioGroup qaysi tugmani o‘z ichiga oladi?
-Android Studioda qaysi tillarda dastur yozish mumkin?
-Android Studioda muharrir uchun mavzu (rang sxemalari) ni sozlash ketma-ketligi qanday?
-Android-ning muhim xususiyatlari qanday?
-… tugma hisoblanib, uni bosish orqali muayyan amalni bajarishga dasturlash mumkin.
-Matematik amallarni o‘z ichiga olgan kutubxona qanday nomlanadi?
-Android Studioda sozlamalarga kirish ketma-ketligi qanday?
-Toast sinfining maqsadi nima?
-Fon rangi qaysi atribut orqali o‘rnatiladi?
-… buttonning maxsus turi hisoblanib, ikki hil holatda bo‘lishi mumkin: checked yoki unchecked.
-Quyidagi dialog oynalaridan qaysi biri Android tomonidan qo‘llab-quvvatlanadi?
-Qaysi MBBT avtomatik ravishda Android tomonidan taqdim etiladi?
-TableLayout  - oynasi jadval qatorini hosil qilish uchun qaysi  elementdan foydalaniladi?
-Android Studioda kiritilgan matnni kursiv ko‘rinishiga o‘tkazish qaysi buyrug‘i to‘g‘ri kiritilgan qatorni belgilang?
-Obyekt gorizontal uzunligini (kengligini) sozlash uchun qaysi atributga murojaat qilinadi?
-Komponentaning tashqi chegarasida bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-Komponentaning ichki chegarasida bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-Obyekt nom berish uchun qaysi atributga murojaat qilinadi?
-…– bu komponentalarni ma’lum o‘lchamlar va oraliqlar asosida joylashtirish imkoniyatini yaratadi.
-… buttonga o‘xshash vidjet bo‘lib, rasmni tugma sifatida ishlatish mumkin.
-Android Studioda brauzerlarni integratsiya qilish ketma-ketligi qanday?
-Android Virtual Device (AVD) ishga tushirish tartibini tanlang?
-Android Studioda kod muharriridagi shriftni o‘zgartirish ketma-ketligi qanday?
-…- bu komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish uchun ishlatiladi.
-… - komponentalarning jadval asosida joylashuvidir.
-Android Studioda mantiqiy ma’lumotlar qaysi tip orqali e’lon qilinadi?
-Android Studioda yangi plagin o‘rnatish ketma-ketligi qanday?
-… - komponentalarning jadval asosida joylashuvidir.
-Android Studioda CheckBox tugmasini aktiv holati to‘g‘ri keltirilgan qatorni belgilang?
-Komponentaning ichki yuqori chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-Android Studioda yaratilgan ilovalni .apk formatga o‘tkazish ketma-ketligi qanday?
-Komponentaning tashqi chap chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-…- activity foydalanuvchi tomonidan ishlatilayotganda chaqiriladi.
-LinearLayout bu-…
-…- activity foydalanuvchiga ko‘rinmay qolganida chaqiriladi
-Komponentaning tashqi o‘ng chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-Komponentaning ichki chap chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-Android Studioda kiritilgan matn qalinligini sozlash to‘g‘ri kiritilgan qatorni belgilang?
-DataPicker foydalanuvchiga quyidagilarni amalga oshirishga imkon beradi:
-Android Studioda ochiq turgan loyihani yopish ketma-ketligi qanday?
-…-TextView ning qo‘shimcha imkoniyatli turi hisoblanib, foydalanuvchi ushbu komponenta orqali ma’lumot kiritishi mumkin.
-Android Studioda matnga rang berish qaysi atribut orqali o‘rnatiladi?
-TimePickerDialog foydalanuvchiga quyidagilarni amalga oshirishga imkon beradi:
-Android Studioda mavjud loyihani ochish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang?
-Obyekt vertikal uzunligini sozlash uchun qaysi atributga murojaat qilinadi?
-Android ilovasida testlarni yaratish uchun qanday paket ishlatiladi?
-Funksiya o‘zi chaqirilgan moduldan qabul qilib oladigan qiymatlar nima deb ataladi?
-Android Studioda yangi loyiha yaratish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang
-MainActivity.java faylidagi "button" ga murojaat qilish uchun activity_main.xml dagi tugma uchun qanday funktsiya yozilgan?
-Matn qalinligini sozlash uchun qaysi atributga qiymat beriladi?
-Android Studioda boshqa dasturlash muharriri (IntellijIdea, VSCode, …) da yaratilgan loyihani import qilish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang
-Matnni o‘rtaga tekislash uchun textAlign atributiga qanday qiymat beriladi?
-MainActivity.java faylidagi "TextView" ga matn kiritish uchun activity_main.xml dagi tugma uchun qanday funktsiya yozilgan?
-CheckBox sinfining asosiy usullari qanday?
-Android Studioda Button tugmasi bosilganda Buttonni ishga tushuvchi buyruq to‘g‘ri keltirilgan qatorni toping?
-…-dastur birinchi marta ishga tushganda activity ni  chaqiradi.
-Android Studioda komponentaning ichki o‘ng chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-…- activity to‘xtatilgan vaqtda chaqiriladi.
-Komponentaning tashqi yuqori chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-…- activity natijasi foydalanuvchiga ko‘ringanda chaqiriladi.
-Android Studioda oxirgi bir nechta loyihalarni ochish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang?
-…- joriy activity faoliyati vaqtinchalik to‘xtatilib boshqa activity faollashtirilganda chaqiriladi.
-Android Studioda kiritilgan matnni o‘lchamini o‘gartirish uchun qaysi atributdan foydalaniladi?
-Android Studioda ImageView komponentasiga rasm kiritish buyrug‘i to‘g‘ri kiritilgan qatorni belgilang?
-Androidda Google Maps ximatidan foydalanish uchun qaysi kutubxonadan foydalaniladi?
-Android Studio dasturida asosan matnli ma’lumotlar bilan ishlovchi .xml fayli qaysi?
-android:layout_below="@+id/imageView"  ushbu buyruq qanday amalni bajaradi?
-Strings.xml fayliga ilova nomi to‘g‘ri kiritilgan qatorni toping?
-Android Studio da asosan java kodlari bilan ishlovchi fayli qaysi qatorda keltirilgan?
-Button tugmasini ekranning chap qismidan joylashtirish uchun qaysi atributdan foydalaniladi?
-Android Studio dasturida matnga link orqali rang berish uchun qaysi atributdan foydalaniladi?
-Android Studio dasturida asosan ranglari bilan ishlovchi .xml fayli qaysi?
-LinearLayout ning qaysi atributi orqali komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish mumkin?
-…- activity to‘xtatilgan vaqtda chaqiriladi.
+Bulutli hisob-kitobda ma’lumotlar  … da saqlanadi.
+sarflanadigan yillik daromadlarining …% ini tejashga erishdilar
+Cloud computing atamasini nima degan so’zga metafora sifatida talqin qilish mumkin?
+“Bulut” belgisi IT industriyasi evolyutsiyasi jarayonida nima degan tushunchani o’zida aks ettiradi.  
+“Barcha narsalar”(Bulutli) ingliz tilidagi qaysi so’ziga ekvivalent tushuncha xisoblanadi?
+Cloud computingda nechta  ta asosiy kalit tushunchalar va xarakteristikalarni o’zida aks ettiradi?  
+Bulutli hisob kitobda  yetkazib berish modeli?
+Bulutli hisob kitoobda Interfeys modeli?  
+Bulutli hisob kitoobda biznes modeli  
+Bulutli hisob kitoobda texnologiya modeli
+Tijorat uchun mo’ljallangan cloudlar  
+Cloudga kirish huquqining turini o’zida aks ettiruvchi modellar qanday modellar deb ataladi?  
+Cloudda kirish huquqining nechta turi bo’lishi mumkin?  
+Cloudda kirish huquqining  turlari?
+Public cloudning afzalliklari qaysilar?
+Public cloudning kamchiliklari qaysilar?  
+Private Cloud tizimlar va xizmatlarga qanaqa darajasida kirishni ta’minlaydi?
+Qaysi tizim kengaytirilgan tartibdagi xavfsizlikni ta’minlayi?  
+Qaysi tizim faqatgina lokal holatda murojaat huquqini beradi va uni global miqyosda joylashtirish bir qator muammolarni keltirib chiqaradi.  
+Qaysi tizim faqatgina ichki resurslarning imkoniyat darajasidagi xotira xajmigacha kengaytirilishi mumkin?  
+Qaysi tizimlar va xizmatlarga tashkilotlar guruhi darajasida kirishni ta’minlaydi?  
+Qaysi tizimda xavfsizlik darajasi yuqori darajada shakllantiriladi
+Qaysi tizim public va private cloudning birlashtirilishidan hosil bo’lgan?
+private clouddan foydalanish natijasidan bajarilgan kritik faoliyatlar va public clouddan foydalanish natijasida bajarilgan no-kritik faoliyatlar qaysi  turda o’z aksini topadi?
+Qaysi cloud private cloud taklif etadigan xizmatlarni undan ko’ra arzonroq narxda taklifetadi?  
+Xizmat ko’rsatish modellari nechta kategoriyalarga bo’linadi?
+Har bir model o’zidan keyingi modeldan xavfsizlik va boshqaruv mehanizmininima qilib oladi?  
+IaaS fundamental resurslar: fizik mashinalar, virtual mashinalar, virtual ma’lumot omborlariga kirishni ta’minlaydigan qanday model xisoblanadi?
+ERP bu...  
+MRP bu?
+CRM bu... 
+foydalanmoqda?  
+AQSH, Buyuk Britaniya, Fransiya va Germaniyadagi yirik tashkilotlarning necha % i virtullashtirishdan keng foydalanmoqda?
+Jami serverlarning necha % ini virtual serverlar tashkil qiladi?
+1500 IT kompaniyalarning necha % i kelgusi 3 yillikda CLOUD TECHNOLOGIES dan foydalanishga o’tishga tayyorgarlik ko’rmoqdalar?
+Nechanchi yildan boshlab hukumat organlarining axborot-xisoblash resurslarining markazlashishi tashkil etilishi boshlandi?
+Nechanchi yildan boshlab respublikaning 3 ta mintaqasida Data Center lar qurilishi boshlandi?
+“Huawei Tech Investment Tashkent MCHJ CHK” kompaniyasi “O‘zbekistonda bulutli texnologiyalar sammiti” xalqaro anjumanini qachon o‘tkazdi?
+Tarmoqda tarqatilgan ko‘plab serverlarda ma’lumotlar saqlanadigan onlayn saqlash modeli.  
+Bir nechta mijozlar bilan bitta tashkilot tomonidan foydalanish uchun mo‘ljallangan infratuzilma
+Keng omma tomonidan bepul foydalanishga mo‘ljallangan infratuzilma
+Bu ikki yoki undan ko‘p turli xil bulutli infratuzilmalarning kombinasiyasi
+Umumiy vazifalari bo‘lgan tashkilotlar iste’molchilarining ma’lum bir hamjamiyati foydalanishi uchun mo‘ljallangan infratuzilma turi
+Xususiy bulut
+Umumiy «bulut»  
+Gibrid bulut 
+Ijtimoiy «bulut»
+Axborot xizmat sifatida  
+Xizmat sifatida jarayonlarni boshqarish  
+Xizmat sifatida saqlash  
+Ma’lumot xizmat sifatida  
+Xizmat sifatida ish joyi
+Hammasi xizmat sifatida
+Iaas
+Paas  
+Saas
+Daas
+Vaas
+Eaas  
+Elastiklik qanday xarakterga ega?  
+Elastiklik qanday xarakterga ega?
+Xatolarga bardoshlilik qanday xususiyatga ega?
+Ruxsat etilgan sifatni ta’minlash xususiyati qaysi xususiyatga tegishli?
+Virtualizasiya xususiyati qanday xarakterga ega? 
+Ma’lumotni saqlashni boshqarish xususiyati qanday xususiyatlarga bog‘liq?
+Xavfsizlik xususiyati qanday xarakterga ega?
+Xarajatlarni pasaytirish xususiyati qanday xususiyatga ega?
+rivojlanishni, integrasiyalashishni va bulutli xizmatlarni taqdim etishni ta’minlaydigan muhit va kommunal xizmatlar  
+Yandex bulutli hisoblash platformasi
+Google bulutli hisoblash platformasi  
+Microsoft bulutli hisoblash platformasi
+Turli maqsadlar va vazifalar uchun tuzilgan va tuzilmagan ma’lumotlarni qayta ishlash, ishlov berish usullari, turli xil holatlar va yondashuvlar.  
+Ma’lum tartibda tashkil etilmagan yoki dastlabki tuzilishga ega bo‘lmagan ma’lumotlar.  
+1 EB  
+1 ST
+Bepul tarqatiladigan yordam dasturlari, kutubxonalar to‘plami va yuzlab va minglab tugunlar klasterlarida ishlaydigan tarqatilgan dasturlarni ishlab chiqish va bajarish uchun asos.
+Ma’lumotlarda qaror qabul qilish uchun zarur bo‘lgan oldindan noma’lum, arzimas, amaliy foydali bilimlarni aniqlash usullari to‘plami
+Mehnat munosabatlariga kirmasdan ushbu ishni bajarayotgan shaxslarning keng, noma’lum doiralari kuchlari bo‘yicha ma’lumotlarni tasniflash va boyitish  
+Chuqur tahlilni o‘tkazish uchun turli manbalardan heterojen ma’lumotlarni kiritish usullari to‘plami  Ma’lumotlarni aralashtirish va birlashtirish
+Asosiy modellar asosida murakkab prognozlarni olish uchun statistik tahlil yoki mashinani o‘rganish asosida qurilgan modellardan foydalanish  
+Tarmoq tahlili, optimallashtirish, shu jumladan genetik algoritmlar  
+Jarayonlarni aslida qanday borishini tasvirlaydigan modellarni yaratishga imkon beradigan usul
+Ma’lumotlar olingan topologik, geometrik va geografik ma’lumotlardan foydalangan holda metodlar klassi
+Natijalarni olish uchun ham, keyinchalik tahlil qilish uchun manba ma’lumotlari sifatida foydalanish uchun interfaol xususiyatlar va animasiyalardan foydalangan holda chizmalar, diagrammalar ko‘rinishidagi ma’lumotlarni taqdim etish.  
+Ma’lumotlarni qidirish
+Crowdsourcing
+Ma’lumotlarni aralashtirish va birlashtirish  
+Mashinani o‘rganish  
+Sun’iy asab tarmoqlari
+Simulyasiya
+Fazoviy tahlil
+Vizualizasiya  
+Texnik vositalar yordamida yaratilgan dunyo, odamga uning sezgilari orqali: ko‘rish, eshitish, teginish va boshqalar.
+bilan o‘zaro ta’sirini taqlid qiladi
+Virtual dunyoni sodda tarzda simulyasiya qilish, ularga yuqori darajadagi tafsilotlar.
+Rasm, tovush va boshqaruvchi bilan ekranda uzatiladigan simulyasiyalar, afzal keng ekran
+Ijtimoiy tarmoq elementlari bilan uch o‘lchovli virtual dunyo  
+Ular ko‘zlar o‘quvchilarining harakatlarini kuzatib borishadi va har safar har bir lahzada odamning qayerga qarayotganini aniqlashga imkon berishadi, shuningdek ularni virtual dunyoda takrorlash uchun odamning tana harakatlarini kuzatib borish  
+Ikki o‘lchovli kosmosda ishlashga imkon beradigan manipulyatorlar
+Atrof-muhit haqida ma’lumotni to‘ldirish va ma’lumotni idrok qilishni yaxshilash uchun har qanday sezgir ma’lumotlarni idrok sohasiga kiritish natijasi  
+Uch o‘lchovli virtual ob’ektlarni yoki gologrammalarni fizik kosmosga proyeksiyalash
+Dropbox rasmiy veb-sayti  
+Bir foydalanuvchi Dropbox fayllar omborida ro‘yxatdan o‘tgandan so‘ng qancha GB mavjud
+Dropbox bulutli xizmat ko‘rsatish rejimlari mavjud  
+Rasmiy sinf Google sayti
+Google sinfida har bir kurs bo‘ladi
+Google sinfida har bir kursga kod beriladi
+Google-ning sinfi gorizontal menyusida ... yorliqlari
+Google-ning sinf gorizontal menyusida uchta yorliq mavjud  
+Google sinf tasmalari chop etildi ... muhokama uchun
+Shaxsiy sinf hisob egalari yaratishi mumkin  
+Shaxsiy sinf hisob egalari ko‘pi bilan qo‘shilishlari mumkin
+Shaxsiy sinfdagi hisob egalari kuniga maksimal miqdorga qo‘shilishlari mumkin
+Google sinfidagi shaxsiy hisoblarning egalari maksimal kirish huquqini ochishlari mumkin .... Kurs ishtirokchilari  
+Google sinfiga dars materiallarini qo‘shish uchun «Vazifalar» yorlig‘iga o‘ting
+Google sinf mashg‘ulotlari yorliqda e’lon qilingan
+Odatiy bo‘lib, Google sinfida barcha ishlar ... tizimda baholanadi
+Odatiy bo‘lib, Google sinfida barcha ishlar baholanadi va muddatlar qoladi  
+so‘rov yoki anketa joylashtirilgan alohida veb-sahifa
+GoogleForm-da bitta qatorga to‘g‘ri keladigan qisqa javob.  
+GoogleForm-da bir nechta jumlalardan iborat uzun matnli javob.
+GoogleForm-da taklif qilingan bir nechta variantlardan bitta to‘g‘ri javobni tanlash uchun foydalaniladi.
+GoogleForm-da bir nechta taklif qilingan variantlarni tanlash uchun foydalaniladi.  
+sizga talabaning matn bilan qanchalar rozi yoki noroziligini aniqlashga yoki GoogleForm-da biron-bir narsani baholashga imkon beradi.
+har bir satrda bitta to‘g‘ri javobni tanlash uchun jadval. GoogleForm-da o‘yinni topishingiz kerak bo‘lgan ishlarga mos keladi.
+aniq sanani bilish masalasi GoogleForm-dagi sana, oy, yil.  
+GoogleForm-da soatlar, daqiqalar va soniyalar haqida aniq bilim.  
+GoogleForm-da to‘g‘ri javob uchun ballarda avtomatik reytingni qanday sozlash mumkin?
+Formaning qanday ko‘rinishini ko‘rish uchun siz ... funksiyasidan foydalanishingiz mumkin. forma shablonini GoogleForm-da.  
+Siz GoogleForm-ga yuborganingizdan so‘ng talaba ko‘radigan o‘z matningizni yozishingiz mumkin.
+IDE  
+onlayn IDE  
+IDE
+ideone.com
+YandexDisk
+Googleapp
+MicrosoftSkyDrive
+Bulutli hisoblashning kamchiliklari nima?
+Sloud xisoblashlar  konsepsiyasining moxiyati
+Kompaniyaning barcha darajalaridagi biznes jarayonlarni real vaqt tizimida avtomatlashtiruvchi ochiq tizim shu jumladan biznes rejada qaror qabul qilish bu-

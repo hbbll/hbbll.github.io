@@ -1,200 +1,140 @@
-#Mobil platformalarda ishlovchi ilovalar
-#Bir OT uchun yozilgan dasturni boshqa OT da ishlashini ta'minlovchi dastur
-#Android telefonlari uchun mo‘ljallangan mobil ilovalar do‘koni
-#iOS foydalanuvchilari uchun mobil ilovalar do‘koni
-#Linux yadrosida ko‘tarilgan mobil OT //Kernell
-#Kivy, Flutter, React Native
-#Dart
-#Ma’lumotlarni jadval ko‘rinishida ekranga chiqarish uchun
-#Android, iOS, Symbian, Windows mobile
-#Figma
-#Mobil ilovalar dizaynini ishlab chiqishda UX tushunchasi nimani ifodalaydi?
-#Foydalanuvchining grafik interfeysi
-#Python
-#extends
-#Ekranda rasmlarni (rasmlarni) navbati bilan ko‘rsatish uchun foydalaniladi
-#Google
-#emulyator
-#Ma’lumotlar bazasini boshqarish tizimi
-#bu mobil qurilmalarni boshqarish uchun mo‘ljallangan tizimlar (smartfonlar, planshetlar, PDA va boshqa mobil qurilmalar)
-#Barcha javoblar to‘g‘ri
-#qurilma ma'lumotlarini sozlamalar va parametrlarda saqlash
-#Chaqirilgan resursning local/global adresini ko‘rsatish uchun
-#Checkbox
-#Apple
-#PHP
-#Run (Shift + F10)
-#Windows Phone
-#Barcha javoblar to‘g‘ri
-#Barcha javoblar to‘g‘ri
-#Android dasturning build qilingan holati
-#Material
-#Android va iOS, iOS uchun Flutter plaginini o‘rnatib yozish mumkin
-#Flutter plaginini o‘rnatish kerak
-#Rasmlarni joylashtirish uchun
-#OnPressed()
-#.apk
-#DatePicker
-#Google
-#Text, TextView
-#Emulyator
-#Open (Ctrl + O)
-#Flutter
-#Barcha javoblar to‘g‘ri
-#Faqatgina MacOS o‘rnatilgan qurilmada
-#Human readable
-#Ctrl + Alt + L
-#PHP
-#Android
-#Open source va tekin tarqatilishi
-#Barcha javoblar to‘g‘ri
-#.dart
-#.gitignore
-#Flutter yangilanishiga oid metama’lumotlar
-#Shirinliklar nomlari bilan
-#Git bilan ishlash sozlamalari
-#packages 
-#Barcha javoblar to‘g‘ri
-#iOS ga oid kodlar
-#Paketlar haqida qo‘shimcha ma’lumotlar
-#Ios 
-#Barcha javoblar to‘g‘ri
-#Android maxsus (native) kodlari
-#Barcha javoblar to‘g‘ri
-#Android Ins
-#Mumkin, USB interfeys va ba’zi sozlamalar bilan
-#Muharrir dasturi (editor) sozlamalari
-#Barcha javoblar to‘g‘ri
-#React Native
-#Krossplatformali
-#BlueStacks, Genymotion
-#TextView
-#bu maxsus turdagi tugma va ikkita holatda bo‘lishi mumkin: checked yoki unchecked.
-#AVD manager
-#Ctrl + Alt + S
-#Foydalanuvchi interfeysi
-#Table, DataTable
-#class
-#onPress (Pressed)
-#Checked
-#Value
-#Radio/RadioButton
-#Save (Ctrl + S)
-#dasturni testlashga doir kodlar
-#Emulyator yoki telefonsiz dasturni ishlatib ko‘rish imkoniyatini beradi
-#Ctrl + Alt + S
-#Android
-#Ishlab turgan dasturga o‘zgarishlarni tezkor qo‘shish
-#Ma’lumotlar bazasini boshqarish tizimi
-#.idea
-#Sublime Text 3
-#TimePicker
-#Symbian 
-#Genymotion 
-#import
-#int (integer)
-#this 
-#Foydalanuvchi grafik interfeysi
-#float
-#o‘zidan keyin keluvchi ma’lumot (son, satr, …) ni funksiya chaqirilgan joyga qaytaradi (uzatadi)
-#. metadata 
-#Aleksandr Bell
-#Mumkin, emulyatorlar kerak bo‘ladi
-#Barcha javoblar to‘g‘ri 
-#Ko‘p vazifalilik
-#Windows Phone 
-#App Store
-#Barcha javoblar to‘g‘ri
-#SDK versiyalarini boshqarish utilitasi 
-#string
-#Hot reload
-#Barcha javoblar to‘g‘ri 
-#Play Market 
-#Barcha javoblar to‘g‘ri 
-#HAXMli javob bo'ladi jigar hehe!
-#Ha, shunga ruxsat beruvchi sozlamani yoqish kerak
-#File » Settings » Editor » Font » Size 
-#Android Studio, IntelliJ IDEA, Eclipse 
-#dp 
-#Emulyator 
-#Case sensitive
-#Ctrl + F
-#Barcha javoblar to‘g‘ri
-#CompoundButton 
-#Barcha javoblar to‘g‘ri 
-#bu maxsus turdagi button va ikkita holatda bo‘lishi mumkin: tekshirilgan yoki belgilanmagan.
-#2007 yil
-#RadioButton
-#Barcha javoblar to‘g‘ri
-#File » Settings » Editor » Color Scheme
-#Barcha javoblar to‘g‘ri
-#Button
-#Math
-#File » Settings
-#Ma'lum vaqtdan keyin xabarnomani ko‘rsatish uchun foydalaniladi.
-#android:background="#E3254B"
-#CheckBox 
-#AlertDialog
-#SQLite 
-#TableRow
-#android:textStyle="italic "
-#width
-#margin
-#padding
-#text
-#AbsoluteLayout
-#ImageButton
-#File » Settings » Tools » Web Browsers
-#AVD-ni ikki marta bosiladi yoki Start bosiladi; Ishlayotgan emulyatorni to‘xtatish uchun o‘ng tugma bosiladi va Stop yoki Menu » Stop ketma ketligi 
-#File » Settings » Editor » Font » Size
-#LinearLayout
-#TableLayout
-#Boolean
-#File » Settings »Plugins » Search & Install
-#TableLayout
-#android:checked="true"
-#paddingTop
-#Build » Build bundle » Build APK 
-#marginLeft 
-#onResume()
-#komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish uchun ishlatiladi.
-#onStop()
-#marginRight
-#paddingLeft
-#android:textStyle="bold"
-#Sanani belgilash
-#File » Close
-#EditText
-#android: textcolor
-#Vaqtni tanlash
-#File » Open
-#height
-#test 
-#argument
-#File » New » New Project
-#android: id = "@ + id / button"
-#android:textStyle
-#File » New » Import Project
-#center
-#android: text = "Salom"
-#public boolean isChecked (), public void setChecked (boolean status)
-#android:onClick
-#onCreate()
-#android:paddingRight
-#onDestroy()
-#marginTop
-#onStart()
-#File » Open recent
-#onPause()
-#android:textSize="25dp "
-#android:src="@drawable/circle"
-#android.gms.maps.MapFragment
-#strings.xml
-#Kiritiladigan komponentalarni imageView komponentasidan keyin (pastki qismdan) joylashtiradi.
-#<string name="app_name">Laboratoriya_Ishi_1</string>
-#MainActivity.java
-#android:layout_ alignLeft
-#android:textColorLink
-#colors.xml
-#android:orientation
-#onRestart()
+Internetda 
+82
+Internet
+Barcha narsalar
+etc
+5  
+Tashqi serverlarni sotib olish
+Internet orqali standart  internet protokollaridan foydalanish  
+Faqat foydalanish uchungina haq to’lash
+Kengayuvchan, elastik dinamik & multi-user
+Microsoft, Amazon, 3tera …  
+Tashkiliy  
+4
+public cloud, private cloud, hybrid cloud, community cloud  
+hammasi  
+Past darajadagi xavfsizlik
+Tashkilotlar
+private Cloud
+private Cloud
+private Cloud  
+community cloud
+community cloud  
+hybrid cloud
+hybrid cloud
+Community cloud  
+3
+meros
+servis
+Enterprise Resourse Planning
+Management Resourse Planning
+Customer Relationship Management
+63  
+92
+40
+85
+2013
+2013
+2016  
+Bulutli ma’lumotlarni saqlash
+Xususiy bulut
+Umumiy «bulut»  
+Gibrid bulut  
+Ijtimoiy «bulut»  
+bir nechta mijozlar bilan bitta tashkilot tomonidan foydalanish uchun mo‘ljallangan infratuzilma
+keng omma tomonidan bepul foydalanishga mo‘ljallangan infratuzilma
+bu ikki yoki undan ko‘p turli xil bulutli infratuzilmalarning kombinasiyasi
+Umumiy vazifalari bo‘lgan tashkilotlar iste’molchilarining ma’lum bir hamjamiyati foydalanishi uchun mo‘ljallangan infratuzilma turi
+IaaS
+PaaS  
+SaaS  
+Daas
+Vaas
+Eaas  
+axborot xizmat sifatida  
+Xizmat sifatida jarayonlarni boshqarish
+Xizmat sifatida saqlash
+Ma’lumot xizmat sifatida
+Xizmat sifatida ish joyi
+Hammasi xizmat sifatida  
+Asosiy
+Asosiy
+Asosiy
+Asosiy
+Texnologik  
+texnologik
+texnologik  
+iqtisodiy  
+Bulutli hisoblash platformasi  
+YandexDisk
+Googleapp  
+MicrosoftSkyDrive  
+Katta ma’lumotlar
+Tuzilmaydigan ma’lumotlar
+1 milliard gigabayt  
+1024 ekzabayt
+Hadoop  
+Ma’lumotlarni qidirish  
+Crowdsourcing  
+Ma’lumotlarni qidirish  
+Mashinani o‘rganish
+Sun’iy asab tarmoqlari
+Simulyasiya  
+Fazoviy tahlil  
+Vizualizasiya  
+Ma’lumotlarda qaror qabul qilish uchun zarur bo‘lgan oldindan noma’lum, arzimas, amaliy foydali bilimlarni aniqlash usullari to‘plami 
+Mehnat munosabatlariga kirmasdan ushbu ishni bajarayotgan shaxslarning keng, noma’lum doiralari kuchlari bo‘yicha ma’lumotlarni tasniflash va boyitish  
+chuqur tahlilni o‘tkazish uchun turli manbalardan heterojen ma’lumotlarni kiritish usullari to‘plami  
+asosiy modellar asosida murakkab prognozlarni olish uchun statistik tahlil yoki mashinani o‘rganish asosida qurilgan modellardan foydalanish  
+tarmoq tahlili, optimallashtirish, shu jumladan genetik algoritmlar  
+jarayonlarni aslida qanday borishini tasvirlaydigan modellarni yaratishga imkon beradigan usul  
+ma’lumotlar olingan topologik, geometrik va geografik ma’lumotlardan foydalangan holda metodlar klassi
+natijalarni olish uchun ham, keyinchalik tahlil qilish uchun manba ma’lumotlari sifatida foydalanish uchun interfaol xususiyatlar va animasiyalardan foydalangan holda chizmalar, diagrammalar ko‘rinishidagi ma’lumotlarni taqdim etish.  
+Virtual haqiqat  
+Virtual haqiqat tizimlari
+To‘liq Immersive VR texnologiyasi  
+VR texnologiyasi botirilmasdan
+Umumiy infratuzilishga ega VR texnologiyasi
+kuzatuv tizimlari  Umumiy infratuzilishga ega VR texnologiyasi  
+2D boshqaruvchisi  
+Kengaytirilgan haqiqat  
+Aralash haqiqat  
+www.Dropbox.com  
+2 GB  
+2
+class.Google.com  
+kodi  
+avtomatik ravishda
+uch  
+lenta, vazifa, foydalanuvchilar  
+savollar va mavzular
+kuniga 30 ta kurs  
+100 kurs
+Kuniga 30 ta kurs  
+200
+vazifa  
+vazifa
+stobal  
+ochiq  
+Shakl  
+Matn (qator)  
+Matn (paragraf)  
+Ro‘yxatdan biri
+ro‘yxatidan bir nechta  
+o‘lchov  
+Tarmoq (bir nechta tanlov)
+sana  
+vaqt  
+bittadan, ro‘yxatdan bir nechta, ochiladigan ro‘yxat.  
+Yuqori o‘ng burchakda ko‘rish  
+Taqdimot funksiyasi  
+integrasiyalashgan yaratish vositalari  
+ideone.com  
+Savol vazifasi
+onlayn IDE
+Yandex bulutli hisoblash platformasi
+Google bulutli hisoblash platformasi
+Microsoft bulutli hisoblash platformasi
+1.Sloud somputing xizmatlarini taqdim etuvchi kompaniyalardan foydalanuvchilar ma’lumotlarining saqlanishiga bog‘liqligi; 2.Yangi  (“Cloud”) monopolistlarning paydo bo‘lishi
+Foydalanuvchilarga xizmatlarga, xisoblash resurslariga va ilovalariga (operasion tizimlar va infrastrukturani kiritgan xolda) internet 
+Korporativ axborot tizimi

@@ -1,140 +1,218 @@
-Internetda 
-82
-Internet
-Barcha narsalar
-etc
-5  
-Tashqi serverlarni sotib olish
-Internet orqali standart  internet protokollaridan foydalanish  
-Faqat foydalanish uchungina haq to’lash
-Kengayuvchan, elastik dinamik & multi-user
-Microsoft, Amazon, 3tera …  
-Tashkiliy  
-4
-public cloud, private cloud, hybrid cloud, community cloud  
-hammasi  
-Past darajadagi xavfsizlik
-Tashkilotlar
-private Cloud
-private Cloud
-private Cloud  
-community cloud
-community cloud  
-hybrid cloud
-hybrid cloud
-Community cloud  
-3
-meros
-servis
-Enterprise Resourse Planning
-Management Resourse Planning
-Customer Relationship Management
-63  
-92
-40
-85
-2013
-2013
-2016  
-Bulutli ma’lumotlarni saqlash
-Xususiy bulut
-Umumiy «bulut»  
-Gibrid bulut  
-Ijtimoiy «bulut»  
-bir nechta mijozlar bilan bitta tashkilot tomonidan foydalanish uchun mo‘ljallangan infratuzilma
-keng omma tomonidan bepul foydalanishga mo‘ljallangan infratuzilma
-bu ikki yoki undan ko‘p turli xil bulutli infratuzilmalarning kombinasiyasi
-Umumiy vazifalari bo‘lgan tashkilotlar iste’molchilarining ma’lum bir hamjamiyati foydalanishi uchun mo‘ljallangan infratuzilma turi
-IaaS
-PaaS  
-SaaS  
-Daas
-Vaas
-Eaas  
-axborot xizmat sifatida  
-Xizmat sifatida jarayonlarni boshqarish
-Xizmat sifatida saqlash
-Ma’lumot xizmat sifatida
-Xizmat sifatida ish joyi
-Hammasi xizmat sifatida  
-Asosiy
-Asosiy
-Asosiy
-Asosiy
-Texnologik  
-texnologik
-texnologik  
-iqtisodiy  
-Bulutli hisoblash platformasi  
-YandexDisk
-Googleapp  
-MicrosoftSkyDrive  
-Katta ma’lumotlar
-Tuzilmaydigan ma’lumotlar
-1 milliard gigabayt  
-1024 ekzabayt
-Hadoop  
-Ma’lumotlarni qidirish  
-Crowdsourcing  
-Ma’lumotlarni qidirish  
-Mashinani o‘rganish
-Sun’iy asab tarmoqlari
-Simulyasiya  
-Fazoviy tahlil  
-Vizualizasiya  
-Ma’lumotlarda qaror qabul qilish uchun zarur bo‘lgan oldindan noma’lum, arzimas, amaliy foydali bilimlarni aniqlash usullari to‘plami 
-Mehnat munosabatlariga kirmasdan ushbu ishni bajarayotgan shaxslarning keng, noma’lum doiralari kuchlari bo‘yicha ma’lumotlarni tasniflash va boyitish  
-chuqur tahlilni o‘tkazish uchun turli manbalardan heterojen ma’lumotlarni kiritish usullari to‘plami  
-asosiy modellar asosida murakkab prognozlarni olish uchun statistik tahlil yoki mashinani o‘rganish asosida qurilgan modellardan foydalanish  
-tarmoq tahlili, optimallashtirish, shu jumladan genetik algoritmlar  
-jarayonlarni aslida qanday borishini tasvirlaydigan modellarni yaratishga imkon beradigan usul  
-ma’lumotlar olingan topologik, geometrik va geografik ma’lumotlardan foydalangan holda metodlar klassi
-natijalarni olish uchun ham, keyinchalik tahlil qilish uchun manba ma’lumotlari sifatida foydalanish uchun interfaol xususiyatlar va animasiyalardan foydalangan holda chizmalar, diagrammalar ko‘rinishidagi ma’lumotlarni taqdim etish.  
-Virtual haqiqat  
-Virtual haqiqat tizimlari
-To‘liq Immersive VR texnologiyasi  
-VR texnologiyasi botirilmasdan
-Umumiy infratuzilishga ega VR texnologiyasi
-kuzatuv tizimlari  Umumiy infratuzilishga ega VR texnologiyasi  
-2D boshqaruvchisi  
-Kengaytirilgan haqiqat  
-Aralash haqiqat  
-www.Dropbox.com  
-2 GB  
-2
-class.Google.com  
-kodi  
-avtomatik ravishda
-uch  
-lenta, vazifa, foydalanuvchilar  
-savollar va mavzular
-kuniga 30 ta kurs  
-100 kurs
-Kuniga 30 ta kurs  
-200
-vazifa  
-vazifa
-stobal  
-ochiq  
-Shakl  
-Matn (qator)  
-Matn (paragraf)  
-Ro‘yxatdan biri
-ro‘yxatidan bir nechta  
-o‘lchov  
-Tarmoq (bir nechta tanlov)
-sana  
-vaqt  
-bittadan, ro‘yxatdan bir nechta, ochiladigan ro‘yxat.  
-Yuqori o‘ng burchakda ko‘rish  
-Taqdimot funksiyasi  
-integrasiyalashgan yaratish vositalari  
-ideone.com  
-Savol vazifasi
-onlayn IDE
-Yandex bulutli hisoblash platformasi
-Google bulutli hisoblash platformasi
-Microsoft bulutli hisoblash platformasi
-1.Sloud somputing xizmatlarini taqdim etuvchi kompaniyalardan foydalanuvchilar ma’lumotlarining saqlanishiga bog‘liqligi; 2.Yangi  (“Cloud”) monopolistlarning paydo bo‘lishi
-Foydalanuvchilarga xizmatlarga, xisoblash resurslariga va ilovalariga (operasion tizimlar va infrastrukturani kiritgan xolda) internet 
-Korporativ axborot tizimi
+#modellashtirish
+#modellashtirish nazariyasi
+#predmetini
+#o'xshashlik
+#3
+#Fizik model
+#matematik , matematik
+#Matematik model
+#Natural model
+#Kvazinatural modellar
+#Masshtabli modellar
+#Analogli modellar
+#2
+#Merkury, Maple, Mathematika,   Matsad , Matlab
+#80-yillar o'rtalarida
+#Moler
+#80-yillar oxirid
+#III-avlod
+#4,5,6,7
+#4-versiyasida
+#3
+#Asosiy buyruql
+#O'zgaruvchilar
+#Buyruqlar tarixi
+#Save
+#Load
+#Diary
+#clc
+#home
+#real (z)
+#image(z)
+#abs(z)
+#clear
+#Matritsa
+#mashina cheksizlik qiymati
+#ma'lumotni sonli tavsifga ega emasligini ko'rsatuvchi o'zgaruvchi
+#qiymati boshqa o'zgaruvchiga o'zlashtirilmagan amalning natijasini saqlovchi o'zgaruvchi
+#(:) ikki nuqta
+#%
+#3
+#uni mos qatorlarini ustunlarga almashtirish tushuniladi
+#V= cat (<o'lchov> A1, A2, ... )
+#fliplr (A)
+#flipud (A)
+#rot90(A)
+#eye (m,n)
+#ones (m, n)
+#rand (m, n)
+#zeros (m, n)
+#size (A)
+#length (A)
+#ndims (A)
+#isempty (A)
+#tril(A)
+#triu(A)
+#diag(A)
+#ZEROS
+#ONES
+#RESHAPE
+#CROSS
+#KRON
+#LINSPACE
+#LOGSPACE
+#MESHGRID
+#Gauss, Kramer va teskari matritsa
+#iteratsiyalar (ketma-ket yaqinlashish), Zeydel va kichik kvadratlar
+#taqribiy usullar
+#aniq usullar
+#kichik kvadratlar usuli bilan echadi
+#aniq berilgan nomanfiy boshlang'ich qiymatlarda echib beradi
+#echim bilan birga qoldiqlar vektori kvadrati ikkinchi normasini qaytaradi
+#qoldiqlar vektori w1ni qaytaradi
+#Universal  va  sodda
+#juda  ko'p
+#(xn+1;f(xn))
+#Nyuton
+#kubik splaynlar
+#spline(X,Y,Xi)
+#interp1
+#Interpolyatsiyalash
+#Yi = interp1 (X,Y,X1, '<metod>')
+#pog'onali
+#chiziqli
+#Kubik
+#Kubik splaynerlar
+#Y=P(x)
+#Approksimatsiya
+#polyfit (x,y,n)
+#argumentlar vektori
+#(n+1)
+#polinomial approksimatsiya
+#taqdimlash  sathi;
+#" polyfit (x,y,2)
+#natijalar vektori
+#" polyfit (x,y,3)
+#Bazisli splaynlar  va spektral usullar
+#interpolyatsion  va  siliqlovchi splaynlar
+#approksimatsiyalovchi polinomning tartibi
+#Vektor
+#"polyfit (x,y,4)
+#polinomial va bazisli splaynlar
+#Splayn-funksiyalar
+#Kubik splaynlar
+#Kubik  bazisli  splayn
+#Polyfit
+#Polyval
+#Editor-Untitlet
+#a=0.0; b=1.0;
+#x=[0 0.1 0.2 0.3 0.35 0.6 0.7 0.9 0.95 1];
+#modellashtirish
+#modellashtirish nazariyasi
+#predmetini
+#o'xshashlik
+#3
+#Fizik model
+#matematik , matematik
+#Matematik model
+#Natural model
+#Kvazinatural modellar
+#Masshtabli modellar
+#Analogli modellar
+#2
+#Merkury, Maple, Mathematika,   Matsad , Matlab
+#80-yillar o'rtalarida
+#Moler
+#80-yillar oxirid
+#III-avlod
+#4,5,6,7
+#4-versiyasida
+#3
+#Asosiy buyruql
+#O'zgaruvchilar
+#Buyruqlar tarixi
+#Save
+#Load
+#Diary
+#clc
+#home
+#real (z)
+#image(z)
+#abs(z)
+#clear
+#Matritsa
+#mashina cheksizlik qiymati
+#ma'lumotni sonli tavsifga ega emasligini ko'rsatuvchi o'zgaruvchi
+#qiymati boshqa o'zgaruvchiga o'zlashtirilmagan amalning natijasini saqlovchi o'zgaruvchi
+#(:) ikki nuqta
+#%
+#3
+#uni mos qatorlarini ustunlarga almashtirish tushuniladi
+#V= cat (<o'lchov> A1, A2, ... )
+#fliplr (A)
+#flipud (A)
+#rot90(A)
+#eye (m,n)
+#ones (m, n)
+#rand (m, n)
+#zeros (m, n)
+#size (A)
+#length (A)
+#ndims (A)
+#isempty (A)
+#tril(A)
+#triu(A)
+#diag(A)
+#ZEROS
+#ONES
+#RESHAPE
+#CROSS
+#KRON
+#LINSPACE
+#LOGSPACE
+#MESHGRID
+#Gauss, Kramer va teskari matritsa
+#iteratsiyalar (ketma-ket yaqinlashish), Zeydel va kichik kvadratlar
+#polyfit (x,y,n)
+#argumentlar vektori
+#(n+1)
+#polinomial approksimatsiya
+#taqdimlash  sathi;
+#" polyfit (x,y,2)
+#natijalar vektori
+#" polyfit (x,y,3)
+#Bazisli splaynlar  va spektral usullar
+#interpolyatsion  va  siliqlovchi splaynlar
+#approksimatsiyalovchi polinomning tartibi
+#Vektor
+#"polyfit (x,y,4)
+#polinomial va bazisli splaynlar
+#Splayn-funksiyalar
+#Kubik splaynlar
+#Kubik  bazisli  splayn
+#Polyfit
+#Polyval
+#Editor-Untitlet
+#a=0.0; b=1.0;
+#x=[0 0.1 0.2 0.3 0.35 0.6 0.7 0.9 0.95 1];
+#taqribiy usullar
+#aniq usullar
+#kichik kvadratlar usuli bilan echadi
+#aniq berilgan nomanfiy boshlang'ich qiymatlarda echib beradi
+#echim bilan birga qoldiqlar vektori kvadrati ikkinchi normasini qaytaradi
+#qoldiqlar vektori w1ni qaytaradi
+#Universal  va  sodda
+#juda  ko'p
+#(xn+1;f(xn))
+#Nyuton
+#kubik splaynlar
+#spline(X,Y,Xi)
+#interp1
+#Interpolyatsiyalash
+#Yi = interp1 (X,Y,X1, '<metod>')
+#pog'onali
+#chiziqli
+#Kubik
+#Kubik splaynerlar
+#Approksimatsiya
+#Y=P(x)

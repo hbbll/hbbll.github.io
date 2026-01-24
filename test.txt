@@ -1,2002 +1,1095 @@
-+++++
-"Mobil ilova" atamasi qanday ilovalarga nisbatan ishlatiladi?
+++++
+....bu orginal-ob'ektlar xossalarini ob'ekt-modellarining mos xossalarini tadkik kilish vositasida o'rganish usulidan iborat jarayondir.
 ====
-#Mobil platformalarda ishlovchi ilovalar
+#modellashtirish
 ====
-Desktop interfeysda ishlovchi ilovalar
+++++
+Original ob'ektni model ob'ekt bilan almashtirish va ob'ektlar xossalarini ularning modellari yordamida tadkik kilishga ........ deyiladi.
 ====
-Linux OT da ishlovchi ilovalar
+#modellashtirish nazariyasi
 ====
-Web interfeysda ishlovchi ilovalar
-+++++
-Emulyator qanday dastur?
+++++
+Modellar esa modellashtirish nazariyasining ....... tashkil etadi.
 ====
-#Bir OT uchun yozilgan dasturni boshqa OT da ishlashini ta'minlovchi dastur
+#predmetini
 ====
-Yozilgan kodni interpretatsiya qilib beruvchi dastur
+++++
+Ilmiy tadkikotlar tarixida dastlabki modellashtirish usullaridan biri .......... usulidir.
 ====
-Bir dasturlash tilida yozilgan kodni boshqa tilga konvertatsiya qiluvchi dastur
+#o'xshashlik
 ====
-Yozilgan kodni kompilyatsiya qilib beruvchi dastur
-+++++
-Play Store nima?	
+++++
+Modellashtirish jarayoni ..... ta elementni o'z ichiga oladi
 ====
-#Android telefonlari uchun mo‘ljallangan mobil ilovalar do‘koni
+#3
 ====
-Foydalanuvchilarga iTunes do‘konidan turli xil mobil ilovalarni ko‘rib chiqish va yuklab olish imkoniyatini beruvchi xizmat
+++++
+.......  deb, odatda, orginalga ekvivalent yoki o'xshash, ammo boshqa  fizik tabiatga ega sistemaga ataladi.
 ====
-App Store-dan bepul yoki pullik dasturlarni yuklash servisi
+#Fizik model
 ====
-Mobil ilovalar ishlab chiqish uchun onlayn platforma
-+++++
-App Store haqida to‘g‘ri ta’rifni belgilang?
+++++
+Abstrakt modellar jumlasiga modellashtirish ob'ektining  tavsiflaydigan ..... ifodalar kiritilishi mumkin. Ular ..... modellar sinfiga tegishli.
 ====
-#iOS foydalanuvchilari uchun mobil ilovalar do‘koni
+#matematik , matematik
 ====
-Android telefonlari uchun mo‘ljallangan platforma
+++++
+....... berilgan ob'ektning muayyan  xossalarini o'rganish maksadida uning tadqiqotchi-sub'ekt tomonidan qandaydir formal (matematik) sistema yordamida quriladigan  obrazidir.
 ====
-Onlayn kodlar generatori
+#Matematik model
 ====
-iOS uchun havfsizlikka javobgar tizim
-+++++
-Androidga to‘g‘ri ta’rif berilgan qatorni belgilan
+++++
+........ bu real (moddiy) tadqiq etilayotgan sistemalar(maketlar, tajriba nusxalar). Ular orginal bilan to'liq  adekvatlik(moslik) xususiyatiga ega, ammo qimmat.
 ====
-#Linux yadrosida ko‘tarilgan mobil OT //Kernell
+#Natural model
 ====
-Apple qurilmalari uchun yaratilgan mobil OT
+++++
+........ natural va matematik modellar majmuasidan iborat. Bunday ko'rinishdagi modellardan  sistema kismining modelini, uning tavsifi murakkab bo'lgani uchun, matematik ifodalab bo'lmagan holda(inson operator modeli) yoki sistemaning bir qismi boshka qismlari bilan o'zaro bog'lanishda tadkik kilinishi kerak bo'lib, ammo ular hali mavjud emas yoki  ularni qo'llash kimmatga tushadigan xolda foydanaliladi (xisoblash poligonlari, boshkaruvning avtomatlashtirilgan tizimi).
 ====
-Windows OT negizida yaratilgan mobil OT
+#Kvazinatural modellar
 ====
-Java Development Kit dasturiy vositalari to‘plami komponentasi
-+++++
-Quyidagilardan mobil dasturlash til va freymvorklarini belgilang
+++++
+....... fizik tabiati orginal kabi bo'lgan, lekin undan masshtabi bilan farklanadigan sistemalardir(kichiklashtirilgan ob'ektlar,  ob'ektlarning harakatlanuvchi modellari).
 ====
-#Kivy, Flutter, React Native
+#Masshtabli modellar
 ====
-Java, PHP, SQL
+++++
+...... deb orginaldan farq qiladigan fizik tabiatga ega bo'lgan, lekin faoliyat jarayoni bilan orginalga o'xshash sistemalarga aytiladi.
 ====
-Flask, Spring, Kivy
+#Analogli modellar
 ====
-React JS, Node JS, C#
-+++++
-Flutter freymvorki qaysi dasturlash tiliga tegishli
+++++
+Matematik modellar klasifikatsiyasi asosan necha sinfga ajratiladi.
 ====
-#Dart
+#2
 ====
-Python
+++++
+Amaliy masalalar bir nechta paketlarga bo'linib, kompyuter algebrasi deb ataluvchi bir necha dasturiy ta'minotlar tarkibiga kiritilgan. Bularga quydagilar kiritiladi.
 ====
-Java
+#Merkury, Maple, Mathematika,   Matsad , Matlab
 ====
-C#
-+++++
-Table (yoki DataTable) komponentasi nima uchun ishlatiladi?
+++++
+Little Mathworks kompaniyasi xodimi tomonidan  Matlabning 4-avlod EHM ga mo'ljallangan PC Matlab versiyasi ishlab chiqildi
 ====
-#Ma’lumotlarni jadval ko‘rinishida ekranga chiqarish uchun
+#80-yillar o'rtalarida
 ====
-Rasmlarni joylashtirish uchun
+++++
+Matlab dasturi kim tomonidan yaratilgan - ?
 ====
-Material dizayn kutubxonasini chaqirish uchun
+#Moler
 ====
-Audio ma’lumotlarni joylashtirish uchun
-+++++
-Quyidagilardan faqat mobil OT lar ko‘rsatilgan qatorni belgilang
+++++
+Matlab dasturi qachon tomonidan yaratilgan - ?
 ====
-#Android, iOS, Symbian, Windows mobile
+#80-yillar oxirid
 ====
-Django, Kivy, Windows, Debian
+++++
+70-yillar oxirida yaratilgan Matlab dasturi asosan nechanchi avlod EHM larida ishlash uchun mo'ljallangan edi.
 ====
-MacOS, Windows, Symbian, Linux
+#III-avlod
 ====
-Flutter, Windows, Android, iOS
-+++++
-Mobil ilovalar dizaynini ishlab chiqishda quyidagi grafik muharrirlarning qaysi biridan ko‘proq foydalaniladi?
+++++
+Bugungi kunda zamonaviy kompyuterlarda Matlabning 4,5,6 va 7 versiyalarni ko'rish mumkin.
 ====
-#Figma
+#4,5,6,7
 ====
-Adobe Photoshop
+++++
+Matlabning qaysi versiyasida 16 bit va 24 bitli RGB ranglar bilan ishlash, yuqori o'lchamli matritsalar bilan ishlash, fazoviy figuralarni chizish faqat sonlar bilan emas, balki matematik formulalar bilan ishlash imkoniyatlari kiritilgan.
 ====
-Corel Draw
+#4-versiyasida
 ====
-Paint
-+++++
+++++
+Matlab dasturi ishga tushirilganda unda asosan nechta oyna ko'rinadi:
 ====
-#Mobil ilovalar dizaynini ishlab chiqishda UX tushunchasi nimani ifodalaydi?
+#3
 ====
-Foydalanuvchi tajribasi
+++++
+.... oynasi MATLAB dagi barcha buyruqlarni paketlarni va kutubxonalani e'lon qilish oynasi hisoblanadi.
 ====
-Foydalanuvchi interfeysi
+#Asosiy buyruql
 ====
-Moslashuvchan dizayn
+++++
+....oynasi dastur tarkibida e'lon qilingan o'zgaruvchilarni daraxt ko'rinishida ifodalab boradi.
 ====
-Adaptiv interfeys
-+++++
-Grafik interfeys bu
+#O'zgaruvchilar
 ====
-#Foydalanuvchining grafik interfeysi
+++++
+....oynasida esa dasturda bajarilayotgan buyruqlar ketma-ketligi saqlanib qoladi.
 ====
-Operatsion tizim. Qurilmadagi eng muhim dastur
+#Buyruqlar tarixi
 ====
-Ichki rivojlanish muhiti
+++++
+Matlabda ...(saqlash) komandasi bu - ?
 ====
-Android dastur kodi fayli to‘plangan
-+++++
-Kivy freymvorki qaysi dasturlash tiliga tegishli?
+#Save
 ====
-#Python
+++++
+Matlabda ...(yuklash) komandasi bu - ?
 ====
-PHP
+#Load
 ====
-Ruby
+++++
+Matlabda ...(kundalik) komandasi bu -
 ====
-Pascal
-+++++
-Boshqa klassdan voris olish uchun (Dart, Java) qaysi kalitso‘z ishlatiladi?
+#Diary
 ====
-#extends
+++++
+Ekranni tozalaydi va kursorni bo'sh ekranning yuqori chap qismiga joylashtiradi;
 ====
-runApp
+#clc
 ====
-main
+++++
+Kursorni ekranning yuqori chap qismiga qaytaradi.
 ====
-return
-+++++
-Galereya ko‘rinishi nima?
+#home
 ====
-#Ekranda rasmlarni (rasmlarni) navbati bilan ko‘rsatish uchun foydalaniladi
+++++
+Kompleks sonning butun qismini qaysi funksiya hisoblab beradi.
 ====
-tarkibiy qismlarni bir-biriga ulash uchun ishlatiladi
+#real (z)
 ====
-bu dasturning qo‘shimcha xususiyatlarini ochib beradigan menyu
+++++
+Kompleks sonning mavxum qismini qaysi funksiya hisoblab beradi.
 ====
-Joriy faoliyatda operatsiyalarni bajarish uchun zarur bo‘lgan buyruqlarni tushuntiradi
-+++++
-Android operatsion tizimi qaysi IT gigant tomonidan qo‘llab-quvvatlab kelinadi?
+#image(z)
 ====
-#Google
+++++
+Kompleks sonning modulini (kattaligini) qaysi funksiya hisoblab beradi.
 ====
-Facebook
+#abs(z)
 ====
-Microsoft
+++++
+Barcha aniqlangan o'zgaruvchilarni yo'qotish qaysi funksiya bajaradi.
 ====
-Apple
-+++++
-Genymotion, BlueStacks qanday vazifani bajaruvchi dasturlar?
+#clear
 ====
-#emulyator
+++++
+Matlabda ma'lumotlar faqat bir shaklda, ya'ni ... shaklida tashkil qilinadi.
 ====
-kompilyator
+#Matritsa
 ====
-kod muharriri
+++++
+inf - bu ...
 ====
-grafik muharrir
-+++++
-SQLite qanday dastur hisoblanadi?
+#mashina cheksizlik qiymati
 ====
-#Ma’lumotlar bazasini boshqarish tizimi
+++++
+NaN - bu ...
 ====
-Freymvork
+#ma'lumotni sonli tavsifga ega emasligini ko'rsatuvchi o'zgaruvchi
 ====
-Grafik muharrir
+++++
+ans - bu ...
 ====
-Emulyator
-+++++
-Mobil operatsion tizimlar deganda nimani tushunasiz?
+#qiymati boshqa o'zgaruvchiga o'zlashtirilmagan amalning natijasini saqlovchi o'zgaruvchi
 ====
-#bu mobil qurilmalarni boshqarish uchun mo‘ljallangan tizimlar (smartfonlar, planshetlar, PDA va boshqa mobil qurilmalar)
+++++
+Ma'lumki,  ko'p xollarda tartiblangan sonlar ketma-ketligini shakllantirish zarurati tug'iladi. Bunday ketma-ketliklar grafik chizishda, jadval yaratishda kerak bo'ladi. Ularni xosil qilish uchun matlabda ..... komandasidan (operatoridan) foydalaniladi.
 ====
-bu mobil qurilmalar uchun mo‘ljallangan turli xil ilovalar va xizmatlarni o‘z ichiga olgan onlayn xizmatlar
+#(:) ikki nuqta
 ====
-u Android tizimining yadrosi bo‘lib, 115 ta moduldan iborat
+++++
+Matnli izoxlar quyidagi qaysi belgidan keyin yozish mumkin bo'ladi.
 ====
-ilovalarni boshqarish uchun zarur bo‘lgan kutubxonalar to‘plami
-+++++
-Android Studioda yozilgan kodni natijasi (build) ni qanday ko‘rish mumkin?
+#%
 ====
-#Barcha javoblar to‘g‘ri
+++++
+Matlabda ma'lumotlar faqat matritsa shaklida tashkil qilinadi ,buning necha usuli bor.
 ====
-AVD manager orqali o‘rnatilgan virtual qurilmada
+#3
 ====
-Emulyator dasturlarida
+++++
+Biror A matritsani transponirlash deganda nima tushuniladi.
 ====
-USB bilan telefonda
-+++++
-Sozlamalar bu – …
+#uni mos qatorlarini ustunlarga almashtirish tushuniladi
 ====
-#qurilma ma'lumotlarini sozlamalar va parametrlarda saqlash
+++++
+Matlabda bir nechta matritsalarni birlashtirish uchun qaysi komandadan foydalanamiz.
 ====
-media fayllarini audio, video va rasm sifatida saqlash
+#V= cat (<o'lchov> A1, A2, ... )
 ====
-aloqa ma'lumotlarini saqlash
+++++
+Qaysi komanda A matritsani chapdan o'ngga 180 gradusga ustunlarini almashtirish yo'nalishida buradi.
 ====
-ma'lumotlar "o‘tkazib yuborilgan qo‘ng‘iroqlar", "qo‘ng‘iroq tafsilotlari" va boshqalar
-+++++
-Ma'lumotlar manzili (path) nima uchun ishlatiladi?
+#fliplr (A)
 ====
-#Chaqirilgan resursning local/global adresini ko‘rsatish uchun
+++++
+Qaysi komanda A matritsani pastdan yuqoriga 180 gradusga qatorlarini almashtirish yo'nalishida buradi.
 ====
-Video formatini sozlash uchun
+#flipud (A)
 ====
-Fayl toifasini haqida xabar berish uchun
+++++
+Berilgan matritsani soat strelkasiga qarshi 900 ga buruvchi komanda bu...
 ====
-Ekran o‘lchamiga moslashish uchun
-+++++
-Bir nechta variantni birgalikda tanlash maqsadida ishlatiladigan komponenta qaysi?
+#rot90(A)
 ====
-#Checkbox
+++++
+Asosiy diagonalda 1, qolgan elementlari 0 bo'lgan (m*n) matritsa xosil qilish.
 ====
-Button
+#eye (m,n)
 ====
-Text
+++++
+Elementlari faqat 1 dan iborat bo'lgan  (m*n) matritsani xosil qilish
 ====
-DatePicker
-+++++
-iOS platformasini qaysi kompaniya qo‘llab-quvvatlab, rivojlantirib boradi?
+#ones (m, n)
 ====
-#Apple
+++++
+Elementlari (0, 1) oraliqda tekis taqsimlangan tasodifiy miqdorlar bo'lgan (m*n) matritsani xosil qilish.
 ====
-Microsoft
+#rand (m, n)
 ====
-Facebook
+++++
+(m*n) o'lchovli faqat nollardan tuzilgan matritsani xosil qilish
 ====
-Tesla
-+++++
-Quyidagi tillardan qaysi birida mobil ilovalar ishlab chiqish imkoni mavjud emas?
+#zeros (m, n)
 ====
-#PHP
+++++
+A matritsaning o'lchovi;
 ====
-Java
+#size (A)
 ====
-Javascript
+++++
+A vektor uzunligi (elementlar soni) aniqlash funksiyasi.
 ====
-Python
-+++++
-Android Studioda tayyor bo‘lgan kodni biron qurilmada ishga tushirish (build) uchun qaysi buyruq bosiladi?
+#length (A)
 ====
-#Run (Shift + F10)
+++++
+A matritsa o'lchovlari soni aniqlash funksiyasi ko'rsating?
 ====
-Open (Ctrl + O)
+#ndims (A)
 ====
-Debug (Shift + F9)
+isempty (A)
 ====
-Save (Ctrl + S)
-+++++
-Microsoft kompaniyasining mobil qurilmalar uchun yaratgan mobil operatsion tizimi qaysi?
+length (A)
 ====
-#Windows Phone
+size (A)
+++++
+A matritsa  bo'sh bo'lsa 1, aks xolda 0 qiymatni beradi.
 ====
-Windows 10
+#isempty (A)
 ====
-Windows XP
+++++
+...berilgan matritsaning diagonaildan yuqori qismini elementlarini 0 bilan almashtirish.
 ====
-Windows Vista
-+++++
-Android Studioda yozilgan kodni qaysi brauzerlar orqali build qilib ko‘rish mumkin?
+#tril(A)
 ====
-#Barcha javoblar to‘g‘ri
+++++
+...komandasi esa matritsaning diagonalidan pastki qismini nollarga aylantiradi:
 ====
-Chrome, Opera
+#triu(A)
 ====
-Chrome, Mozilla Firefox
+++++
+...komandasi  berilgan  matritsaning  diagonalida  turgan elementlarni ekranga chiqaradi:
 ====
-Yandex Browser, Opera
-+++++
-Python dasturlash tilining Kivy freymvorkida qaysi qurilmalar uchun dastur yozish mumkin?
+#diag(A)
 ====
-#Barcha javoblar to‘g‘ri
+++++
+...Masssiv elementlarini nollardan iborat qilib tuzish.
 ====
-Kompyuterlar
+#ZEROS
 ====
-Mobil telefonlar
+++++
+...Masssiv elementlarini birlardan iborat qilib tuzish.
 ====
-Planshetlar
-+++++
-APK formati qanday turdagi fayllarni saqlaydi?
+#ONES
 ====
-#Android dasturning build qilingan holati
+++++
+... Matrisa o'lchamini o'zgartish.
 ====
-Dart tilida yozilgan dastur kodi
+#RESHAPE
 ====
-Java tilida yozilgan dastur kodi
+++++
+Matlabda Vector ko'paytma.
 ====
-Android OS ning kutubxonasi
-+++++
-Mobil dasturlashda Android ilovalar uchun asosan qaysi dizayn kutubxonasi ishlatiladi?
+#CROSS
 ====
-#Material
+++++
+...tenzorli ko'paytmani hosil qilish.
 ====
-Cupertino
+#KRON
 ====
-Arduino
+++++
+...teng munosabatli tugunlar chiziqli massivini    hosil qilish.
 ====
-Bootstrap
-+++++
-Android Studioda quyidagi qaysi platformalar uchun dasturlar yozish mumkin?
+#LINSPACE
 ====
-#Android va iOS, iOS uchun Flutter plaginini o‘rnatib yozish mumkin
+++++
+... logarifmik to'rli tugunlarni hosil qilish.
 ====
-Faqat Android
+#LOGSPACE
 ====
-Faqat iOS
+++++
+... ikki o'lchamli va uch o'lchamli to'rlar tugunlarini hosil  qilish.
 ====
-Symbian
-+++++
-Android Studioda iOS uchun ham dastur yozishga qanday talablar mavjud?
+#MESHGRID
 ====
-#Flutter plaginini o‘rnatish kerak
+++++
+CHiziqli tenglamalar sistemasini echishning aniq usullaridan keng qo'llaniladigan usullar  .......
 ====
-Maxsus emulyator kerak bo‘ladi
+#Gauss, Kramer va teskari matritsa
 ====
-Web interpretator o‘rnatish kerak
+++++
+CHiziqli tenglamalar sistemasini echishning taqribiy usullariga quyidagilar kiradi.
 ====
-React JS generatorini ulash kerak
-+++++
-Image (Imageview) komponentasi qay maqsadda ishlatiladi?
+#iteratsiyalar (ketma-ket yaqinlashish), Zeydel va kichik kvadratlar
 ====
-#Rasmlarni joylashtirish uchun
+++++
+CHiziqli tenglamalar sistemasini echishda iteratsiyalar(ketma-ket yaqinlashish ), Zeydel va kichik kvadratlar usullari qanday usullar hisoblanadi?
 ====
-Ma’lumotlarni jadval ko‘rinishida chop etish uchun
+#taqribiy usullar
 ====
-Audioma’lumotlarni joylashtirish uchun
+++++
+CHiziqli tenglamalar sistemasini echishda Gauss, Kramer va teskari matritsa usullari qanday usullar hisoblanadi?
 ====
-Matnli ma’lumotlarni joylashtirish uchun
-+++++
-Mobil ilovadagi element ustiga sichqoncha chap tugmasi bilan bosilganda qaysi metod ishga tushadi?
+#aniq usullar
 ====
-#OnPressed()
+++++
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B)-Ax=B qanday usul hisoblanadi?
 ====
-OnChanged()
+#kichik kvadratlar usuli bilan echadi
 ====
-OnFocused()
+++++
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B,x0) qanday usul hisoblanadi?
 ====
-OnResume()
-+++++
-Android dasturlari qaysi kengaytma bilan saqlanadi?
+#aniq berilgan nomanfiy boshlang'ich qiymatlarda echib beradi
 ====
-#.apk
+++++
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida [x,w]=isqnonneg(...) qanday usul hisoblanadi?
 ====
-.cpp
+#echim bilan birga qoldiqlar vektori kvadrati ikkinchi normasini qaytaradi
 ====
-.txt
+++++
+[x,w,w1]=isqnonneg(...) buyrug'ining vazifasi
 ====
-.exe
-+++++
-Sana bilan ishlovchi komponenta (Android Studio, Flutter) qanday nomlanadi?
+#qoldiqlar vektori w1ni qaytaradi
 ====
-#DatePicker
+++++
+Lagranj  interpolyatsion  ko'phadi  .......  hisoblanadi.
 ====
-Button
+#Universal  va  sodda
 ====
-Checkbox
+++++
+Lagranj  interpolyatsion  ko'phadi  universal  va  sodda  bo'lishi  bilan  ayrim kamchiliklarga ham ega. Interpolyatsion ko'pxadi bo'yicha funksiya  qiymatini  hisoblash  uchun  bajarilishi  kerak  bo'lgan  amallar  ......
 ====
-Radio
-+++++
-Flutter freymvorki qaysi kompaniya tomonidan qo‘llab quvvatlanadi?
+#juda  ko'p
 ====
-#Google
+++++
+Lagranj  interpolyatsion  ko'phadida funksiya qiymatlar jadvaliga yana bir qiymat qo'shilsa barcha  ishni  qaytadan  bajarish  kerak  bo'ladi.
 ====
-Facebook
+#(xn+1;f(xn))
 ====
-Apple
+++++
+Kamchiliklardan  xoli  bo'lgan interpolyatsion  ko'phad  kim  tomonidan  kashf  qilingan?
 ====
-Yandex
-+++++
-Label vazifasini bajaruvchi komponentalar nomlari berilgan qatorni ko‘rsating?
+#Nyuton
 ====
-#Text, TextView
+++++
+spline(X,Y,Xi) funksiya nima yordamida interpolyatsiyani amalga oshiradi?
 ====
-Button, Checkbox
+#kubik splaynlar
 ====
-Radio, Grid
+++++
+Qaysi  funksiya  kubik  splaynlar  bilan  interpolyatsiyani  amalga  oshiradi?
 ====
-Table, DataTable
-+++++
-Mobil ilova (masalan, birorta .apk kengaytmali fayl) ni kompyuterda ishlatish imkonini beruvchi dasturlar qanday nomlanadi?
+#spline(X,Y,Xi)
 ====
-#Emulyator
+++++
+Ma'lumotlarni interpolyatsiyalash uchun qanday protsedurasidan foydalaniladi?
 ====
-Kompilyator
+#interp1
 ====
-Translator
+++++
+Ma'lumotlarni ......  uchun interp1 protsedurasidan foydalaniladi?
 ====
-Editor
-+++++
-Android Studioda mavjud faylni ochish uchun qaysi buyruqdan foydalaniladi?
+#Interpolyatsiyalash
 ====
-#Open (Ctrl + O)
+++++
+interp1 protsedurasiga qanday murojaat qilinadi.
 ====
-Run (Shift + F10)
+#Yi = interp1 (X,Y,X1, '<metod>')
 ====
-Debug (Shift + F9)
+++++
+'nearest' metodi qanday interpolyatsiya metodi hisoblanadi?
 ====
-Save (Ctrl + S)
-+++++
-Dart tilining mobil dasturlash uchun mo‘ljallangan freymvorkini belgilang?
+#pog'onali
 ====
-#Flutter
+++++
+'linear' metodi qanday interpolyatsiya metodi hisoblanadi?
 ====
-Spring
+#chiziqli
 ====
-Django
+++++
+'cubic' metodi qanday interpolyatsiya metodi hisoblanadi?
 ====
-Symphony
-+++++
-Quyidagilardan qaysi biri mobil dasturlash freymvorki hisoblanadi?
+#Kubik
 ====
-#Barcha javoblar to‘g‘ri
+++++
+'spline' metodi qanday interpolyatsiya metodi hisoblanadi?
 ====
-Python Kivy
+#Kubik splaynerlar
 ====
-React Native
+++++
+X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  ......    aniqlash  masalasi  approksimatsiya  masalasi deyiladi.
 ====
-Dart Flutter
-+++++
-iOS uchun yozilgan kodni qanday qurilmada build qilish mumkin?
+#Y=P(x)
 ====
-#Faqatgina MacOS o‘rnatilgan qurilmada
+++++
+X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  Y=P(x)    aniqlash  masalasi  .......   masalasi deyiladi.
 ====
-Istalgan Linux o‘rnatilgan kompyuterda
+#Approksimatsiya
 ====
-Windows 10 o‘rnatilgan kompyuterda
+++++
+Ma'lumotlarni polinomial approksimatsiya qilish uchun ....... protsedurasidan foydalaniladi.
 ====
-Istalgan OT o‘rnatilgan qurilmada
-+++++
-Kodning dasturchi uchun tushunarli holatda, probel va tabulyatsiya belgilari bilan yozilgan holati qanday nomlanadi?
+#polyfit (x,y,n)
 ====
-#Human readable
+++++
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x  .......
 ====
-Minified
+#argumentlar vektori
 ====
-Yuqoridagilarni har ikkisi
+++++
+Approksimatsiyalash natijasida uzunligi ..... bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat vektor  hosil bo'ladi.
 ====
-Kod bunday holatda yozilmaydi
-+++++
-Android Studioda kodni “Human readable” ko‘rinishga o‘tkazish uchun qaysi klavishlar birgalikda bosiladi?
+#(n+1)
 ====
-#Ctrl + Alt + L
+++++
+Ma'lumotlarni .........  qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi.
 ====
-Ctrl + Shift + O
+#polinomial approksimatsiya
 ====
-Ctrl + Alt + N
+++++
+Sesions layer - bu  qanaqa  sath?
 ====
-Ctrl + Shift + N
-+++++
-Quyidagilardan qaysi dasturlash tilida mobil dasturlash uchun freymvork mavjud emas?
+#taqdimlash  sathi;
 ====
-#PHP
+++++
+Kvadratik parabola  bilan approksimatsiyalash
 ====
-Python
+#" polyfit (x,y,2)
 ====
-Dart
+++++
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda y- ........
 ====
-Javascript
-+++++
-Qaysi mobil operatsion tizimda ishlaydigan qurilmalar eng ko‘p tarqalgan?
+#natijalar vektori
 ====
-#Android
+++++
+Kubik parabola bilan approksimatsiyalash
 ====
-iOS
+#" polyfit (x,y,3)
 ====
-WebOS
+++++
+Qaysi  nazariya  imkoniyatlarining  birligi  yuqori    samaradorlik    va  aniqlik talablariga  javob  bera  oladigan,  yangi  singnalni  qayta  ishlash  va  tiklash algoritmlarni  ishlab  chiqish  imkoniyatini  beradi?
 ====
-BlackBerry OS
-+++++
-Android operatsion tizimining keng tarqalishining asosiy sababini belgilang?
+#Bazisli splaynlar  va spektral usullar
 ====
-#Open source va tekin tarqatilishi
+++++
+Yaqinlashtirish    usuli  bo'yicha  qanday ishlatiladi.?
 ====
-Havfsizligi eng kuchliligi
+#interpolyatsion  va  siliqlovchi splaynlar
 ====
-Kodning open source ligi
+++++
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x - argumentlar vektori , y- natijalar vektori va n-  ......
 ====
-Foydalanish tekinligi
-+++++
-Android haqida to‘g‘ri ta’rif berilgan qatorni belgilang?
+#approksimatsiyalovchi polinomning tartibi
 ====
-#Barcha javoblar to‘g‘ri
+++++
+Approksimatsiyalash natijasida uzunligi (n+1) bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat.....  hosil bo'ladi.
 ====
-Linux asosida yaratilgan
+#Vektor
 ====
-Open source
+++++
+To'rtinchi darajali parabola bilan approksimatsiyalash
 ====
-Foydalanish tekin
-+++++
-Android Studioda Flutter bilan ishlaganda Dart dasturlash tiliga doir maxsus sozlamalar qaysi katalogda saqlanadi?
+#"polyfit (x,y,4)
 ====
-#.dart
+++++
+Tasvirlash turi  bo'yicha qanday splaynlar ishlatiladi?
 ====
-android 
+#polinomial va bazisli splaynlar
 ====
-ios
+++++
+.....  metodlari  asosida  singnallarni  tiklash  koefsentlarini hisoblanadi.
 ====
-lib
-+++++
-Android Studioda qilinayotgan mobil ilova loyihasida Git sozlamalari qaysi faylda saqlanadi?
+#Splayn-funksiyalar
 ====
-#.gitignore
+++++
+....  asosida tiklash koefsentlarini hisoblash modellari va algoritmlari ishlab  chiqiladi
 ====
-.packages
+#Kubik splaynlar
 ====
-.metadata
+++++
+....   asosida  parallel   hisoblash  strukturasi ishlab  chiqiladi
 ====
-android
-+++++
-Android Studioda Flutter freymvorkida qilinayotgan mobil ilova loyihasida .metada faylida qanday ma’lumotlar saqlanadi?
+#Kubik  bazisli  splayn
 ====
-#Flutter yangilanishiga oid metama’lumotlar
+++++
+Eng  kichik  kvadratlar  usuli  yordamida  signallarni  approksimatsiyalash jarayonini  Matlab  tizimining  ........   funksiyasini  qo'llagan  holda aniqlaymiz
 ====
-iOS ga oid kodlar
+#Polyfit
 ====
-Android maxsus (native) kodlari
+++++
+......  funksiyasini qo'llagan holda natijani vizuallashtirish va yaqinlashish xatoligini aniqlaymiz.
 ====
-Kutubxona sozlamalari
-+++++
-Dastlab Andriod OT versiyalari qanday nomlangan?
+#Polyval
 ====
-#Shirinliklar nomlari bilan
+++++
+Matlab dasturida kerakli algoritmni .......  oynasiga tashlaymiz
 ====
-Sayyoralar nomlari bilan
+#Editor-Untitlet
 ====
-Qizlar ismlari bilan
+++++
+Kiruvchi  signallarni  identifikatsiyalashda Interpolyatsiyalash oralig'i qanday keltiriladi.
 ====
-Rok yulduzlari nomlari bilan
-+++++
-Android Studioda qilinayotgan mobil ilova loyihasida .gitignore faylida qanday ma’lumotlar saqlanadi?
+#a=0.0; b=1.0;
 ====
-#Git bilan ishlash sozlamalari
+++++
+Kiruvchi  signallarni  identifikatsiyalashda Vektor interpolyatsiyalash nuqtalarini qanday aniqlaymiz?
 ====
-iOS ga oid kodlar
+#x=[0 0.1 0.2 0.3 0.35 0.6 0.7 0.9 0.95 1];
 ====
-Flutter yangilanishiga oid metama’lumotlar
+++++
+....bu orginal-ob'ektlar xossalarini ob'ekt-modellarining mos xossalarini tadkik kilish vositasida o'rganish usulidan iborat jarayondir.
 ====
-Android maxsus (native) kodlari
-+++++
-Android Studioda qilinayotgan mobil ilova loyihasida kerakli paketlar haqidagi ma’lumotlar qaysi faylda saqlanadi?
+#modellashtirish
 ====
-#packages 
+++++
+Original ob'ektni model ob'ekt bilan almashtirish va ob'ektlar xossalarini ularning modellari yordamida tadkik kilishga ........ deyiladi.
 ====
-metadata
+#modellashtirish nazariyasi
 ====
-gitignore
+++++
+Modellar esa modellashtirish nazariyasining ....... tashkil etadi.
 ====
-android
-+++++
-Android qaysi sabablarga ko‘ra Linuxga asoslanib yaratilgan?
+#predmetini
 ====
-#Barcha javoblar to‘g‘ri
+++++
+Ilmiy tadkikotlar tarixida dastlabki modellashtirish usullaridan biri .......... usulidir.
 ====
-Xavfsizlik
+#o'xshashlik
 ====
-Portativlik
+++++
+Modellashtirish jarayoni ..... ta elementni o'z ichiga oladi
 ====
-Tarmoqlilik
-+++++
-Android Studioda qilinayotgan mobil ilova loyihasida iOS katalogida qanday ma’lumotlar saqlanadi?
+#3
 ====
-#iOS ga oid kodlar
+++++
+.......  deb, odatda, orginalga ekvivalent yoki o'xshash, ammo boshqa  fizik tabiatga ega sistemaga ataladi.
 ====
-Flutter yangilanishiga oid metama’lumotlar
+#Fizik model
 ====
-Android maxsus (native) kodlari
+++++
+Abstrakt modellar jumlasiga modellashtirish ob'ektining  tavsiflaydigan ..... ifodalar kiritilishi mumkin. Ular ..... modellar sinfiga tegishli.
 ====
-Kutubxona sozlamalari
-+++++
-Android Studioda qilinayotgan mobil ilova loyihasida .packages faylida qanday ma’lumotlar saqlanadi?
+#matematik , matematik
 ====
-#Paketlar haqida qo‘shimcha ma’lumotlar
+++++
+....... berilgan ob'ektning muayyan  xossalarini o'rganish maksadida uning tadqiqotchi-sub'ekt tomonidan qandaydir formal (matematik) sistema yordamida quriladigan  obrazidir.
 ====
-iOS ga oid kodlar
+#Matematik model
 ====
-Flutter yangilanishiga oid metama’lumotlar
+++++
+........ bu real (moddiy) tadqiq etilayotgan sistemalar(maketlar, tajriba nusxalar). Ular orginal bilan to'liq  adekvatlik(moslik) xususiyatiga ega, ammo qimmat.
 ====
-Kutubxona sozlamalari
-+++++
-Android Studioda iOS spetsifikatsiyasiga doir maxsus sozlamalar qaysi katalogda saqlanadi?
+#Natural model
 ====
-#Ios 
+++++
+........ natural va matematik modellar majmuasidan iborat. Bunday ko'rinishdagi modellardan  sistema kismining modelini, uning tavsifi murakkab bo'lgani uchun, matematik ifodalab bo'lmagan holda(inson operator modeli) yoki sistemaning bir qismi boshka qismlari bilan o'zaro bog'lanishda tadkik kilinishi kerak bo'lib, ammo ular hali mavjud emas yoki  ularni qo'llash kimmatga tushadigan xolda foydanaliladi (xisoblash poligonlari, boshkaruvning avtomatlashtirilgan tizimi).
 ====
-Android 
+#Kvazinatural modellar
 ====
-Lib
+++++
+....... fizik tabiati orginal kabi bo'lgan, lekin undan masshtabi bilan farklanadigan sistemalardir(kichiklashtirilgan ob'ektlar,  ob'ektlarning harakatlanuvchi modellari).
 ====
-Test
-+++++
-Samarali mobil ilova ishlab chiqish uchun qaysi savollarga to‘g‘ri javob berish kerak?
+#Masshtabli modellar
 ====
-#Barcha javoblar to‘g‘ri
+++++
+...... deb orginaldan farq qiladigan fizik tabiatga ega bo'lgan, lekin faoliyat jarayoni bilan orginalga o'xshash sistemalarga aytiladi.
 ====
-Bu ilovadan kimlar foydalanadi
+#Analogli modellar
 ====
-Ilovaning o‘ziga hosligi nimada
+++++
+Matematik modellar klasifikatsiyasi asosan necha sinfga ajratiladi.
 ====
-Ilovadan foydalanuvchiga nima foyda
-+++++
-Android Studioda qilinayotgan mobil ilova loyihasida android katalogida qanday ma’lumotlar saqlanadi?
+#2
 ====
-#Android maxsus (native) kodlari
+++++
+Amaliy masalalar bir nechta paketlarga bo'linib, kompyuter algebrasi deb ataluvchi bir necha dasturiy ta'minotlar tarkibiga kiritilgan. Bularga quydagilar kiritiladi.
 ====
-iOS ga oid kodlar
+#Merkury, Maple, Mathematika,   Matsad , Matlab
 ====
-Flutter yangilanishiga oid metama’lumotlar
+++++
+Little Mathworks kompaniyasi xodimi tomonidan  Matlabning 4-avlod EHM ga mo'ljallangan PC Matlab versiyasi ishlab chiqildi
 ====
-Kutubxona sozlamalari
-+++++
-Android Studioda Flutterda dasturlash uchun qanday talablar mavjud?
+#80-yillar o'rtalarida
 ====
-#Barcha javoblar to‘g‘ri
+++++
+Matlab dasturi kim tomonidan yaratilgan - ?
 ====
-Flutter freymvorkining plaginini o‘rnatish
+#Moler
 ====
-Dart dasturlash tilining plaginini o‘rnatish
+++++
+Matlab dasturi qachon tomonidan yaratilgan - ?
 ====
-Flutter SDK ni o‘rnatish va Pathni sozlash
-+++++
-Android OT qaysi kompaniya tomonidan yaratilgan?
+#80-yillar oxirid
 ====
-#Android Ins
+++++
+70-yillar oxirida yaratilgan Matlab dasturi asosan nechanchi avlod EHM larida ishlash uchun mo'ljallangan edi.
 ====
-Samsung
+#III-avlod
 ====
-Apple
+++++
+Bugungi kunda zamonaviy kompyuterlarda Matlabning 4,5,6 va 7 versiyalarni ko'rish mumkin.
 ====
-Microsoft
-+++++
-Android Studioda dastur kodini kompilyatsiya qilib, to‘g‘ridan to‘g‘ri telefonga o‘rnatish mumkinmi?
+#4,5,6,7
 ====
-#Mumkin, USB interfeys va ba’zi sozlamalar bilan
+++++
+Matlabning qaysi versiyasida 16 bit va 24 bitli RGB ranglar bilan ishlash, yuqori o'lchamli matritsalar bilan ishlash, fazoviy figuralarni chizish faqat sonlar bilan emas, balki matematik formulalar bilan ishlash imkoniyatlari kiritilgan.
 ====
-Mumkin emas
+#4-versiyasida
 ====
-Mumkin, WiFi yoki Bluetooth orqali
+++++
+Matlab dasturi ishga tushirilganda unda asosan nechta oyna ko'rinadi:
 ====
-To‘g‘ri javob yo‘q
-+++++
-Android Studioda qilinayotgan mobil ilova loyihasida .idea katalogida qanday ma’lumotlar saqlanadi?
+#3
 ====
-#Muharrir dasturi (editor) sozlamalari
+++++
+.... oynasi MATLAB dagi barcha buyruqlarni paketlarni va kutubxonalani e'lon qilish oynasi hisoblanadi.
 ====
-iOS ga oid kodlar
+#Asosiy buyruql
 ====
-Flutter yangilanishiga oid metama’lumotlar
+++++
+....oynasi dastur tarkibida e'lon qilingan o'zgaruvchilarni daraxt ko'rinishida ifodalab boradi.
 ====
-Android maxsus (native) kodlari
-+++++
-Mobil ilova yaratishda konsepsiyani ishlab chiqish qaysi jarayonlarni o‘z ichiga oladi?
+#O'zgaruvchilar
 ====
-#Barcha javoblar to‘g‘ri
+++++
+....oynasida esa dasturda bajarilayotgan buyruqlar ketma-ketligi saqlanib qoladi.
 ====
-Potensial mijozlarning ehtiyojlarini tahlil qilish
+#Buyruqlar tarixi
 ====
-Interfeysning interaktiv prototiplarini ishlab chiqish
+++++
+Matlabda ...(saqlash) komandasi bu - ?
 ====
-Texnik topshiriqni ishlab chiqish
-+++++
-Javascript dasturlash tilining mobil dasturlashga mo‘ljallangan freymvorkini belgilang?
+#Save
 ====
-#React Native
+++++
+Matlabda ...(yuklash) komandasi bu - ?
 ====
-React JS
+#Load
 ====
-Node JS
+++++
+Matlabda ...(kundalik) komandasi bu -
 ====
-Angular JS
-+++++
-Bir nechta platformalar uchun birdaniga dastur yozish imkoniga ega dasturlash tillari … dasturlash tillari deyiladi.
+#Diary
 ====
-#Krossplatformali
+++++
+Ekranni tozalaydi va kursorni bo'sh ekranning yuqori chap qismiga joylashtiradi;
 ====
-obyektga yo‘naltirilgan
+#clc
 ====
-interpretatsiya qilinadigan
+++++
+Kursorni ekranning yuqori chap qismiga qaytaradi.
 ====
-Protsedurali
-+++++
-Faqat emulyator dasturlar berilgan qatorni toping?
+#home
 ====
-#BlueStacks, Genymotion
+++++
+Kompleks sonning butun qismini qaysi funksiya hisoblab beradi.
 ====
-Genymotion, Adobe Photoshop
+#real (z)
 ====
-Android Studio, Figma
+++++
+Kompleks sonning mavxum qismini qaysi funksiya hisoblab beradi.
 ====
-Visual Studio, Arduino
-+++++
-Mobil dasturlashda faqatgina matn ko‘rinishidagi ma'lumotlarni ko‘rsatish uchun ishlatiladi va <........> elementi yordamida yaratiladi
+#image(z)
 ====
-#TextView
+++++
+Kompleks sonning modulini (kattaligini) qaysi funksiya hisoblab beradi.
 ====
-ListView
+#abs(z)
 ====
-GridView
+++++
+Barcha aniqlangan o'zgaruvchilarni yo'qotish qaysi funksiya bajaradi.
 ====
-DataTable
-+++++
-CheckBox komponentasiga to‘g‘ri ta’rif berilgan qatorni belgilang
+#clear
 ====
-#bu maxsus turdagi tugma va ikkita holatda bo‘lishi mumkin: checked yoki unchecked.
+++++
+Matlabda ma'lumotlar faqat bir shaklda, ya'ni ... shaklida tashkil qilinadi.
 ====
-tugmachaga o‘xshash vidjet bo‘lib, unda rasm tugma sifatida ishlatilishi
+#Matritsa
 ====
-Sahifaga rasm qo‘yish uchun ishlatiladi
+++++
+inf - bu ...
 ====
-tugmachadir va bu tugma bosilganda ma'lum bir operatsiya amalga oshiriladi.
-+++++
-Android Studioda virtual qurilmalar (telefon, planshet, …) ni yaratish, boshqarish imkonini beruvchi utilita qaysi?
+#mashina cheksizlik qiymati
 ====
-#AVD manager
+++++
+NaN - bu ...
 ====
-SDK manager
+#ma'lumotni sonli tavsifga ega emasligini ko'rsatuvchi o'zgaruvchi
 ====
-Resource manager
+++++
+ans - bu ...
 ====
-Project manager
-+++++
-Android Studioda sozlamalarga tezkor kirish uchun qaysi tugmachalar birgalikda bosiladi?
+#qiymati boshqa o'zgaruvchiga o'zlashtirilmagan amalning natijasini saqlovchi o'zgaruvchi
 ====
-#Ctrl + Alt + S
+++++
+Ma'lumki,  ko'p xollarda tartiblangan sonlar ketma-ketligini shakllantirish zarurati tug'iladi. Bunday ketma-ketliklar grafik chizishda, jadval yaratishda kerak bo'ladi. Ularni xosil qilish uchun matlabda ..... komandasidan (operatoridan) foydalaniladi.
 ====
-Ctrl + Alt + Del
+#(:) ikki nuqta
 ====
-Alt + F4
+++++
+Matnli izoxlar quyidagi qaysi belgidan keyin yozish mumkin bo'ladi.
 ====
-Ctrl + F1
-+++++
-Mobil ilovalar dizaynini ishlab chiqishda UI tushunchasi nimani ifodalaydi?
+#%
 ====
-#Foydalanuvchi interfeysi
+++++
+Matlabda ma'lumotlar faqat matritsa shaklida tashkil qilinadi ,buning necha usuli bor.
 ====
-Foydalanuvchi tajribasi
+#3
 ====
-Mijoz talablari
+++++
+Biror A matritsani transponirlash deganda nima tushuniladi.
 ====
-Texnik topshiriq
-+++++
-Ma’lumotlarni jadval ko‘rinishida aks ettirish uchun qaysi komponenta ishlatiladi?
+#uni mos qatorlarini ustunlarga almashtirish tushuniladi
 ====
-#Table, DataTable
+++++
+Matlabda bir nechta matritsalarni birlashtirish uchun qaysi komandadan foydalanamiz.
 ====
-Text, TextView
+#V= cat (<o'lchov> A1, A2, ... )
 ====
-Radio, RadioButton
+++++
+Qaysi komanda A matritsani chapdan o'ngga 180 gradusga ustunlarini almashtirish yo'nalishida buradi.
 ====
-ListView
-+++++
-Sinf yaratish qaysi kalit so‘z yordamida amalga oshiriladi?
+#fliplr (A)
 ====
-#class
+++++
+Qaysi komanda A matritsani pastdan yuqoriga 180 gradusga qatorlarini almashtirish yo'nalishida buradi.
 ====
-function
+#flipud (A)
 ====
-extend
+++++
+Berilgan matritsani soat strelkasiga qarshi 900 ga buruvchi komanda bu...
 ====
-Debug
-+++++
-Button ustiga sichqoncha bilan bosilganda qaysi metod ishga tushadi?
+#rot90(A)
 ====
-#onPress (Pressed)
+++++
+Asosiy diagonalda 1, qolgan elementlari 0 bo'lgan (m*n) matritsa xosil qilish.
 ====
-onCheck (Checked)
+#eye (m,n)
 ====
-onChange(Changed)
+++++
+Elementlari faqat 1 dan iborat bo'lgan  (m*n) matritsani xosil qilish
 ====
-Bunday metod mavjud emas
-+++++
-CheckBox belgilanganda qaysi atribut True qiymatga ega bo‘ladi?
+#ones (m, n)
 ====
-#Checked
+++++
+Elementlari (0, 1) oraliqda tekis taqsimlangan tasodifiy miqdorlar bo'lgan (m*n) matritsani xosil qilish.
 ====
-onpress
+#rand (m, n)
 ====
-clicked
+++++
+(m*n) o'lchovli faqat nollardan tuzilgan matritsani xosil qilish
 ====
-style
-+++++
-Ob'ektning qiymati qaysi atribut orqali o‘rnatiladi?
+#zeros (m, n)
 ====
-#Value
+++++
+A matritsaning o'lchovi;
 ====
-Key
+#size (A)
 ====
-Caption
+++++
+A vektor uzunligi (elementlar soni) aniqlash funksiyasi.
 ====
-Id
-+++++
-Mavjud variantlardan faqat bittasini belgilash uchun ishlatiladigan komponenta qaysi?
+#length (A)
 ====
-#Radio/RadioButton
+++++
+A matritsa o'lchovlari soni aniqlash funksiyasi ko'rsating?
 ====
-Text/TextView
+#ndims (A)
 ====
-Grid/GridView
+++++
+A matritsa  bo'sh bo'lsa 1, aks xolda 0 qiymatni beradi.
 ====
-Table/DataTable
-+++++
-Android Studioda tayyor bo‘lgan faylni saqlash uchun qaysi buyruq bosiladi?
+#isempty (A)
 ====
-#Save (Ctrl + S)
+++++
+...berilgan matritsaning diagonaildan yuqori qismini elementlarini 0 bilan almashtirish.
 ====
-Open (Ctrl + O)
+#tril(A)
 ====
-Debug (Shift + F9)
+++++
+...komandasi esa matritsaning diagonalidan pastki qismini nollarga aylantiradi:
 ====
-Run (Shift + F10)
-+++++
-Android Studioda qilinayotgan mobil ilova loyihasida test katalogida qanday ma’lumotlar saqlanadi?
+#triu(A)
 ====
-#dasturni testlashga doir kodlar
+++++
+...komandasi  berilgan  matritsaning  diagonalida  turgan elementlarni ekranga chiqaradi:
 ====
-iOS ga oid kodlar
+#diag(A)
 ====
-Flutter yangilanishiga oid metama’lumotlar
+++++
+...Masssiv elementlarini nollardan iborat qilib tuzish.
 ====
-Kutubxona sozlamalari
-+++++
-Android Studiodagi Android Virtual Device qanday vazifani bajaradi?
+#ZEROS
 ====
-#Emulyator yoki telefonsiz dasturni ishlatib ko‘rish imkoniyatini beradi
+++++
+...Masssiv elementlarini birlardan iborat qilib tuzish.
 ====
-Yozilgan dasturni sintaktik tahlil qiladi
+#ONES
 ====
-Github bilan sinxronizatsiyani ta’minlaydi
+++++
+... Matrisa o'lchamini o'zgartish.
 ====
-To‘g‘ri javob yo‘q
-+++++
-Android Studioda sozlamalarga tezkor kirish uchun qaysi klavishlar birgalikda bosiladi?
+#RESHAPE
 ====
-#Ctrl + Alt + S
+++++
+Matlabda Vector ko'paytma.
 ====
-Ctrl + Shift + O
+#CROSS
 ====
-Ctrl + Alt + N
+++++
+...tenzorli ko'paytmani hosil qilish.
 ====
-Ctrl + Shift + N
-+++++
-Android Studioda android spetsifikatsiyasiga doir maxsus sozlamalar qaysi katalogda saqlanadi?
+#KRON
 ====
-#Android
+++++
+...teng munosabatli tugunlar chiziqli massivini    hosil qilish.
 ====
-Ios
+#LINSPACE
 ====
-Lib
+++++
+... logarifmik to'rli tugunlarni hosil qilish.
 ====
-Test
-+++++
-“Hot reload” funksiyasi qanday vazifani bajaradi?
+#LOGSPACE
 ====
-#Ishlab turgan dasturga o‘zgarishlarni tezkor qo‘shish
+++++
+... ikki o'lchamli va uch o'lchamli to'rlar tugunlarini hosil  qilish.
 ====
-Dasturni xatoliklarga tekshirish
+#MESHGRID
 ====
-Yangi class yaratish
+++++
+CHiziqli tenglamalar sistemasini echishning aniq usullaridan keng qo'llaniladigan usullar  .......
 ====
-Android Studio dasturini yopish
-+++++
-SQLite haqida quyidagilardan qaysi biri to‘g‘ri?
+#Gauss, Kramer va teskari matritsa
 ====
-#Ma’lumotlar bazasini boshqarish tizimi
+++++
+CHiziqli tenglamalar sistemasini echishning taqribiy usullariga quyidagilar kiradi.
 ====
-Virtual server
+#iteratsiyalar (ketma-ket yaqinlashish), Zeydel va kichik kvadratlar
 ====
-Android Studioning maxsus kutubxonasi
+++++
+Ma'lumotlarni polinomial approksimatsiya qilish uchun ....... protsedurasidan foydalaniladi.
 ====
-Freymvork
-+++++
-Android Studioda muharrir (editor) maxsus sozlamalari qaysi katalogda saqlanadi?
+#polyfit (x,y,n)
 ====
-#.idea
+++++
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x  .......
 ====
-Ios 
+#argumentlar vektori
 ====
-Android 
+++++
+Approksimatsiyalash natijasida uzunligi ..... bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat vektor  hosil bo'ladi.
 ====
-test
-+++++
-Quyidagilardan qaysi biri Android platformasi uchun dastur yozish imkoni mavjud emas?
+#(n+1)
 ====
-#Sublime Text 3
+++++
+Ma'lumotlarni .........  qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi.
 ====
-Android Studio
+#polinomial approksimatsiya
 ====
-VSCode
+++++
+Sesions layer - bu  qanaqa  sath?
 ====
-Intellij Idea
-+++++
-Vaqt bilan ishlash uchun Android Studioda qaysi komonenta ishlatiladi?
+#taqdimlash  sathi;
 ====
-#TimePicker
+++++
+Kvadratik parabola  bilan approksimatsiyalash
 ====
-RadioButton
+#" polyfit (x,y,2)
 ====
-TextView
+++++
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda y- ........
 ====
-CheckBox
-+++++
-Asosan tugmachali telefonlarda ishlatilgan mobil OT ni belgilang?
+#natijalar vektori
 ====
-#Symbian 
+++++
+Kubik parabola bilan approksimatsiyalash
 ====
-Raspbian
+#" polyfit (x,y,3)
 ====
-Debian
+++++
+Qaysi  nazariya  imkoniyatlarining  birligi  yuqori    samaradorlik    va  aniqlik talablariga  javob  bera  oladigan,  yangi  singnalni  qayta  ishlash  va  tiklash algoritmlarni  ishlab  chiqish  imkoniyatini  beradi?
 ====
-XP
-+++++
-Windows OT ga quyidagi dasturlardan qaysi birini o‘rnatib, .apk kengaytmali dasturni ishlatish mumkin?
+#Bazisli splaynlar  va spektral usullar
 ====
-#Genymotion 
+++++
+Yaqinlashtirish    usuli  bo'yicha  qanday ishlatiladi.?
 ====
-Total Commander
+#interpolyatsion  va  siliqlovchi splaynlar
 ====
-Github Desktop
+++++
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x - argumentlar vektori , y- natijalar vektori va n-  ......
 ====
-Istalgan brauzer
-+++++
-Android Studioda kerakli kutubxona va modullar qaysi komanda bilan chaqiriladi?
+#approksimatsiyalovchi polinomning tartibi
 ====
-#import
+++++
+Approksimatsiyalash natijasida uzunligi (n+1) bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat.....  hosil bo'ladi.
 ====
-extends
+#Vektor
 ====
-run
+++++
+To'rtinchi darajali parabola bilan approksimatsiyalash
 ====
-class
-+++++
-Butun sonli ma’lumotlar qaysi tipda e’lon qilinadi?
+#"polyfit (x,y,4)
 ====
-#int (integer)
+++++
+Tasvirlash turi  bo'yicha qanday splaynlar ishlatiladi?
 ====
-char
+#polinomial va bazisli splaynlar
 ====
-float(double)
+++++
+.....  metodlari  asosida  singnallarni  tiklash  koefsentlarini hisoblanadi.
 ====
-string
-+++++
-Joriy elementga murojaat qilish uchun qaysi kalit so‘z ishlatiladi?
+#Splayn-funksiyalar
 ====
-#this 
+++++
+....  asosida tiklash koefsentlarini hisoblash modellari va algoritmlari ishlab  chiqiladi
 ====
-return
+#Kubik splaynlar
 ====
-void
+++++
+....   asosida  parallel   hisoblash  strukturasi ishlab  chiqiladi
 ====
-private
-+++++
-GUI nima?
+#Kubik  bazisli  splayn
 ====
-#Foydalanuvchi grafik interfeysi
+++++
+Eng  kichik  kvadratlar  usuli  yordamida  signallarni  approksimatsiyalash jarayonini  Matlab  tizimining  ........   funksiyasini  qo'llagan  holda aniqlaymiz
 ====
-Dasturlash uchun kerakli modullar
+#Polyfit
 ====
-Freymvork 
+++++
+......  funksiyasini qo'llagan holda natijani vizuallashtirish va yaqinlashish xatoligini aniqlaymiz.
 ====
-Yuqoridagilardan hech qaysi biri
-+++++
-Haqiqiy sonlar qaysi kalit so‘z bilan e’lon qilinadi?
+#Polyval
 ====
-#float
+++++
+Matlab dasturida kerakli algoritmni .......  oynasiga tashlaymiz
 ====
-int
+#Editor-Untitlet
 ====
-char
+++++
+Kiruvchi  signallarni  identifikatsiyalashda Interpolyatsiyalash oralig'i qanday keltiriladi.
 ====
-string
-+++++
-Funksiyadagi return buyrug‘i qanday vazifani bajaradi?
+#a=0.0; b=1.0;
 ====
-#o‘zidan keyin keluvchi ma’lumot (son, satr, …) ni funksiya chaqirilgan joyga qaytaradi (uzatadi)
+++++
+Kiruvchi  signallarni  identifikatsiyalashda Vektor interpolyatsiyalash nuqtalarini qanday aniqlaymiz?
 ====
-Boshqa sinfdan voris oladi
+#x=[0 0.1 0.2 0.3 0.35 0.6 0.7 0.9 0.95 1];
 ====
-Kerakli modullarni ulaydi
+++++
+CHiziqli tenglamalar sistemasini echishda iteratsiyalar(ketma-ket yaqinlashish ), Zeydel va kichik kvadratlar usullari qanday usullar hisoblanadi?
 ====
-To‘g‘ri javob berilmagan
-+++++
-Android Studioda qilinayotgan mobil ilova loyihasida Flutterni yangilashga doir metama’lumotlar qaysi faylda saqlanadi?
+#taqribiy usullar
 ====
-#. metadata 
+++++
+CHiziqli tenglamalar sistemasini echishda Gauss, Kramer va teskari matritsa usullari qanday usullar hisoblanadi?
 ====
-.packages
+#aniq usullar
 ====
-. gitignore
+++++
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B)-Ax=B qanday usul hisoblanadi?
 ====
-android
-+++++
-Ilk telefon qurilmasiga kim patent olgan?
+#kichik kvadratlar usuli bilan echadi
 ====
-#Aleksandr Bell
+++++
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B,x0) qanday usul hisoblanadi?
 ====
-Tomas Edison
+#aniq berilgan nomanfiy boshlang'ich qiymatlarda echib beradi
 ====
-Nikola Tesla
+++++
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida [x,w]=isqnonneg(...) qanday usul hisoblanadi?
 ====
-Fon Neyman
-+++++
-Android dasturni WINDOWS OT da ishlatish mumkinmi?
+#echim bilan birga qoldiqlar vektori kvadrati ikkinchi normasini qaytaradi
 ====
-#Mumkin, emulyatorlar kerak bo‘ladi
+++++
+[x,w,w1]=isqnonneg(...) buyrug'ining vazifasi
 ====
-Buning iloji yo‘q
+#qoldiqlar vektori w1ni qaytaradi
 ====
-Mumkin, brauzer yordamida
+++++
+Lagranj  interpolyatsion  ko'phadi  .......  hisoblanadi.
 ====
-Mumkin, videokodeklar kerak bo‘ladi
-+++++
-iOS OT haqida to‘g‘ri ta’rif berilgan javobni belgilang?
+#Universal  va  sodda
 ====
-#Barcha javoblar to‘g‘ri 
+++++
+Lagranj  interpolyatsion  ko'phadi  universal  va  sodda  bo'lishi  bilan  ayrim kamchiliklarga ham ega. Interpolyatsion ko'pxadi bo'yicha funksiya  qiymatini  hisoblash  uchun  bajarilishi  kerak  bo'lgan  amallar  ......
 ====
-Xavfsizlikning yuqori darajasi
+#juda  ko'p
 ====
-Betakror dizayn, qulay interfeys
+++++
+Lagranj  interpolyatsion  ko'phadida funksiya qiymatlar jadvaliga yana bir qiymat qo'shilsa barcha  ishni  qaytadan  bajarish  kerak  bo'ladi.
 ====
-Sifat va barqarorlik
-+++++
-Android OT quyidagi imkoniyatlarning qaysi birini qo‘llab-quvvatlaydi?
+#(xn+1;f(xn))
 ====
-#Ko‘p vazifalilik
+++++
+Kamchiliklardan  xoli  bo'lgan interpolyatsion  ko'phad  kim  tomonidan  kashf  qilingan?
 ====
-Bluetooth
+#Nyuton
 ====
-Video qo‘ng‘iroq
+++++
+spline(X,Y,Xi) funksiya nima yordamida interpolyatsiyani amalga oshiradi?
 ====
-Barcha javoblar to‘g‘ri
-+++++
-WINDOWS OT asosida yaratilgan mobil OT ni belgilang?
+#kubik splaynlar
 ====
-#Windows Phone 
+++++
+Qaysi  funksiya  kubik  splaynlar  bilan  interpolyatsiyani  amalga  oshiradi?
 ====
-Windows 11
+#spline(X,Y,Xi)
 ====
-Windows Vista
+++++
+Ma'lumotlarni interpolyatsiyalash uchun qanday protsedurasidan foydalaniladi?
 ====
-Windows XP
-+++++
-Apple mobil qurilmalari uchun ilovalar do‘koni qanday nomlanadi?
+#interp1
 ====
-#App Store
+++++
+Ma'lumotlarni ......  uchun interp1 protsedurasidan foydalaniladi?
 ====
-Play Market
+#Interpolyatsiyalash
 ====
-Github
+++++
+interp1 protsedurasiga qanday murojaat qilinadi.
 ====
-Android Market
-+++++
-Quyidagilardan GUI elementlarini belgilang?
+#Yi = interp1 (X,Y,X1, '<metod>')
 ====
-#Barcha javoblar to‘g‘ri
+++++
+'nearest' metodi qanday interpolyatsiya metodi hisoblanadi?
 ====
-Button, CheckBox
+#pog'onali
 ====
-Image, RadioButton
+++++
+'linear' metodi qanday interpolyatsiya metodi hisoblanadi?
 ====
-Text, Slider
-+++++
-SDK Manager bu …
+#chiziqli
 ====
-#SDK versiyalarini boshqarish utilitasi 
+++++
+'cubic' metodi qanday interpolyatsiya metodi hisoblanadi?
 ====
-Virtual qurilmalarni boshqarish utilitasi
+#Kubik
 ====
-Kodni tahlil qilish
+++++
+'spline' metodi qanday interpolyatsiya metodi hisoblanadi?
 ====
-Loyiha modullarini boshqarish utilitas
-+++++
-Satrli o‘zgaruvchilar qaysi tipda e’lon qilinadi?
+#Kubik splaynerlar
 ====
-#string
+++++
+X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  Y=P(x)    aniqlash  masalasi  .......   masalasi deyiladi.
 ====
-bool
+#Approksimatsiya
 ====
-int
+++++
+X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  ......    aniqlash  masalasi  approksimatsiya  masalasi deyiladi.
 ====
-float
-+++++
-Android Studioda kompilyatsiya qilinib, ishlayotgan dasturga kiritilgan o‘zgarishlarni tezkor qo‘llash imkonini beruvchi komanda qaysi?
+#Y=P(x)
 ====
-#Hot reload
-====
-Run
-====
-Close
-====
-Create
-+++++
-Quyidagi muharrirlardan qaysi birida Android platformasi uchun dastur yozish mumkin?
-====
-#Barcha javoblar to‘g‘ri 
-====
-Intellij Idea
-====
-VS Code
-====
-Android Studio
-+++++
-Android mobil qurilmalari uchun Googlening ilovalar do‘koni qanday nomlanadi?
-====
-#Play Market 
-====
-Amazon
-====
-Github
-====
-App Store
-+++++
-Zamonaviy smartfonlar quyidagi qaysi funksiyalarga ega?
-====
-#Barcha javoblar to‘g‘ri 
-====
-Wi-Fi, Bluetooth
-====
-GPS, Voice Call
-====
-Touch Screen, Media Player
-+++++
-Android Virtual Device (AVD) ni ishga tushirish uchun talablar qanday?
-====
-SDK vositalari 26.1.1 yoki undan keyingi versiyalari. 64 bitli protsessor. Windows: UG (Cheksiz mehmon) qo‘llab-quvvatlaydigan protsessor. HAXM 6.2.1 yoki undan keyingi versiyasi.
-====
-32-bitli protsessor. SDK va Windows 10 o‘rnatilgan bo‘lishi kerak.
-====
-32-bitli protsessor. SDK o‘rnatilgan bo‘lishi kerak.
-====
-SDK va Windows 7 o‘rnatilgan bo‘lishi kerak.
-+++++
-Android telefonlarga Play Market ilovalar magazinidan boshqa joydan ham dastur o‘rnatsa bo‘ladimi?
-====
-#Ha, shunga ruxsat beruvchi sozlamani yoqish kerak
-====
-Buning imkon yo‘q
-====
-Ha, faqat oldindan Google Service ni ogohlantirish kerak
-====
-To‘g‘ri javob yo‘q
-+++++
-Android Studioda kodlarimiz qatorlari orasidagi masofani sozlash ketma-ketligi qanday?
-====
-#File » Settings » Editor » Font » Size 
-====
-File » Settings
-====
-File » Settings » Editor » Font » Line spacing
-====
-File » New » Import Project
-+++++
-Android Studioda yaratilgan loyihani yana qaysi muharrirlarda o‘zgartirish va ishlatish mumkin?
-====
-#Android Studio, IntelliJ IDEA, Eclipse 
-====
-Android Studio, Sublime
-====
-Android Studio, VSCode
-====
-Android Studio, Sublime, Notepad
-+++++
-Android Studio-da ishlatiladigan asosiy o‘lchov birligi nima?
-====
-#dp 
-====
-sm
-====
-mm
-====
-km
-+++++
-BlueStacks dasturidan qay maqsadda foydalanamiz?
-====
-#Emulyator 
-====
-Grafik muharrir
-====
-Media Player
-====
-Brauzer
-+++++
-Katta kichik harflarga sezuvchanlik hususiyati qanday nomlanadi?
-====
-#Case sensitive
-====
-Page case
-====
-Code folding
-====
-Crossplatform
-+++++
-Android Studioda fayl ichidan qidiruvni amalga oshirish uchun qaysi klavishlar ketma-ketligi bosiladi?
-====
-#Ctrl + F
-====
-Ctrl + S
-====
-Ctrl + O
-====
-Ctrl + R
-+++++
-ToggleButton sinfining eng ko‘p ishlatiladigan usullari qanday?
-====
-#Barcha javoblar to‘g‘ri
-====
-bekor setChecked (mantiqiy tekshirilgan)
-====
-CharSequence getTextOff ()
-====
-CharSequence getTextOn (),
-+++++
-Android CheckBox klassi qaysi sinfning subclassi?
-====
-#CompoundButton 
-====
-Beam
-====
-AppCompatActivity
-====
-RadioGroup
-+++++
-Android Studioda qanday maxsulotlar yaratish mumkin?
-====
-#Barcha javoblar to‘g‘ri 
-====
-Mobil telefonlar uchun dasturlar
-====
-Planshetlar uchun dasturlar
-====
-Android televizorlar uchun dasturlar
-+++++
-CheckBox nima?
-====
-#bu maxsus turdagi button va ikkita holatda bo‘lishi mumkin: tekshirilgan yoki belgilanmagan.
-====
-tugmachaga o‘xshash vidjet bo‘lib, unda rasm tugma sifatida ishlatilishi mumkin
-====
-tekshirilgan / tekshirilmagan ko‘rsatkich turi
-====
-tugmachadir va bu tugma bosilganda ma'lum bir operatsiya amalga oshiriladi.
-+++++
-"Ochiq telefon" linyasi qachon tuzilgan?
-====
-#2007 yil
-====
-2005 yil
-====
-2006 yil
-====
-2008 yil
-+++++
-RadioGroup qaysi tugmani o‘z ichiga oladi?
-====
-#RadioButton
-====
-Kommutator
-====
-ToogleButton
-====
-CheckBox
-+++++
-Android Studioda qaysi tillarda dastur yozish mumkin?
-====
-#Barcha javoblar to‘g‘ri
-====
-Java
-====
-Dart
-====
-Kotlin
-+++++
-Android Studioda muharrir uchun mavzu (rang sxemalari) ni sozlash ketma-ketligi qanday?
-====
-#File » Settings » Editor » Color Scheme
-====
-File » Settings » Editor » Font » Size
-====
-File » Settings » Editor » Font » Line spacing
-====
-File » New » Import Project
-+++++
-Android-ning muhim xususiyatlari qanday?
-====
-#Barcha javoblar to‘g‘ri
-==== 
-Har kim Android platformasini sozlashi mumkin
-====
-Ochiq manba
-====
-Xabar xizmatlari (SMS va MMS), veb-brauzer, ma'lumotlarni saqlash (SQLite), ulanish (GSM, CDMA, Moviy tish, Wi-Fi va boshqalar), Multimedia va boshqalar.
-+++++
-… tugma hisoblanib, uni bosish orqali muayyan amalni bajarishga dasturlash mumkin.
-====
-#Button
-====
-Radio
-====
-CheckBox
-====
-Text
-+++++
-Matematik amallarni o‘z ichiga olgan kutubxona qanday nomlanadi?
-====
-#Math
-==== 
-Material
-====
-Cupertino
-====
-Main
-+++++
-Android Studioda sozlamalarga kirish ketma-ketligi qanday?
-====
-#File » Settings
-==== 
-File » Open
-====
-File » New » New Project
-====
-File » New » Import Project
-+++++
-Toast sinfining maqsadi nima?
-====
-#Ma'lum vaqtdan keyin xabarnomani ko‘rsatish uchun foydalaniladi.
-====
-menyu yaratish sifatida ishlatiladi
-====
-Xabarni saqlash uchun
-====
-Ma'lumotlar saralash uchun ishlatiladi
-+++++
-Fon rangi qaysi atribut orqali o‘rnatiladi?
-====
-#android:background="#E3254B"
-====
-android:textcolor="#DC2020"
-====
-android:Color="# B15355"
-====
-android:id="#FF88FF"
-+++++
-… buttonning maxsus turi hisoblanib, ikki hil holatda bo‘lishi mumkin: checked yoki unchecked.
-====
-#CheckBox 
-====
-Image
-====
-Radio
-====
-Text
-+++++
-Quyidagi dialog oynalaridan qaysi biri Android tomonidan qo‘llab-quvvatlanadi?
-====
-#AlertDialog
-====
-ProgressDialog
-====
-DatePickerDialog
-====
-TimePickerDialog
-+++++
-Qaysi MBBT avtomatik ravishda Android tomonidan taqdim etiladi?
-====
-#SQLite 
-====
-Apache
-====
-Oracle
-====
-MySQL
-+++++
-TableLayout  - oynasi jadval qatorini hosil qilish uchun qaysi  elementdan foydalaniladi?
-====
-#TableRow
-====
-Image
-====
-Radio
-====
-Text
-+++++
-Android Studioda kiritilgan matnni kursiv ko‘rinishiga o‘tkazish qaysi buyrug‘i to‘g‘ri kiritilgan qatorni belgilang?
-====
-#android:textStyle="italic "
-====
-android:textColor="#ffff"
-====
-android:text="black"
-====
-android:textStyle="bold "
-+++++
-Obyekt gorizontal uzunligini (kengligini) sozlash uchun qaysi atributga murojaat qilinadi?
-====
-#width
-====
-height
-====
-title
-====
-caption
-+++++
-Komponentaning tashqi chegarasida bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-====
-#margin
-====
-context
-====
-background
-====
-padding
-+++++
-Komponentaning ichki chegarasida bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-====
-#padding
-====
-margin
-====
-context
-====
-background
-+++++
-Obyekt nom berish uchun qaysi atributga murojaat qilinadi?
-====
-#text
-====
-width
-====
-height
-====
-color
-+++++
-…– bu komponentalarni ma’lum o‘lchamlar va oraliqlar asosida joylashtirish imkoniyatini yaratadi.
-====
-#AbsoluteLayout
-====
-LinearLayout
-====
-FrameLayout
-====
-TableLayout
-+++++
-… buttonga o‘xshash vidjet bo‘lib, rasmni tugma sifatida ishlatish mumkin.
-====
-#ImageButton
-==== 
-EditText
-====
-Radio
-====
-Text
-+++++
-Android Studioda brauzerlarni integratsiya qilish ketma-ketligi qanday?
-====
-#File » Settings » Tools » Web Browsers
-====
-File » Settings » Editor » Font » Size
-====
-File » Editor
-====
-File » New » Import Project
-+++++
-Android Virtual Device (AVD) ishga tushirish tartibini tanlang?
-====
-#AVD-ni ikki marta bosiladi yoki Start bosiladi; Ishlayotgan emulyatorni to‘xtatish uchun o‘ng tugma bosiladi va Stop yoki Menu » Stop ketma ketligi 
-====
-SDK menejeri ochiladi. Emulyator ishlayotgan biz Android Studio loyihasini ishga tushirish va ishlatish qurilmasi sifatida emulyatorni tanlash
-====
-APK faylini emulyatorga o‘rnatish uchun olib, keyin ishga tushirish mumkin.
-====
-Menyuni tanlanadi, Ma'lumotlarni o‘chirishga o‘tiladi va tugmani bosiladi.
-+++++
-Android Studioda kod muharriridagi shriftni o‘zgartirish ketma-ketligi qanday?
-====
-#File » Settings » Editor » Font » Size
-==== 
-File » Settings
-====
-File » Editor
-====
-File » New » Import Project
-+++++
-…- bu komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish uchun ishlatiladi.
-====
-#LinearLayout
-====
-FrameLayout
-====
-AbsoluteLayout
-====
-TableLayout
-+++++
-… - komponentalarning jadval asosida joylashuvidir.
-====
-#TableLayout
-====
-LinearLayout
-====
-FrameLayout
-====
-AbsoluteLayout
-+++++
-Android Studioda mantiqiy ma’lumotlar qaysi tip orqali e’lon qilinadi?
-====
-#Boolean
-====
-int (integer)
-====
-float(double)
-====
-string
-+++++
-Android Studioda yangi plagin o‘rnatish ketma-ketligi qanday?
-====
-#File » Settings »Plugins » Search & Install
-====
-File » Open
-====
-File » New » New Project
-====
-File » Close
-+++++
-… - komponentalarning jadval asosida joylashuvidir.
-====
-#TableLayout
-====
-LinearLayout
-====
-FrameLayout
-====
-AbsoluteLayout
-+++++
-Android Studioda CheckBox tugmasini aktiv holati to‘g‘ri keltirilgan qatorni belgilang?
-====
-#android:checked="true"
-====
-android: text="CheckBox"
-====
-android:textAlignment="center"
-====
-android:checked="false"
-+++++
-Komponentaning ichki yuqori chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-====
-#paddingTop
-====
-paddingBottom
-====
-paddingRight
-====
-paddingLeft
-+++++
-Android Studioda yaratilgan ilovalni .apk formatga o‘tkazish ketma-ketligi qanday?
-====
-#Build » Build bundle » Build APK 
-====
-File » Open » Build APK
-====
-Build » New » Build APK
-====
-Build »  Import Project
-+++++
-Komponentaning tashqi chap chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-====
-#marginLeft 
-====
-marginBottom
-====
-marginRight
-====
-marginTop
-+++++
-…- activity foydalanuvchi tomonidan ishlatilayotganda chaqiriladi.
-====
-#onResume()
-====
-onStop()
-====
-onDestroy()
-====
-onRestart()
-+++++
-LinearLayout bu-…
-#komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish uchun ishlatiladi.
-====
-komponentalarning jadval asosida joylashtiradi.
-====
-bu komponentalarni ma’lum o‘lchamlar va oraliqlar asosida joylashtirish imkoniyatini yaratadi.
-====
-Menyuni tanlanadi, Ma'lumotlarni o‘chirishga o‘tiladi va tugmani bosiladi.
-====
-+++++
-…- activity foydalanuvchiga ko‘rinmay qolganida chaqiriladi
-====
-#onStop()
-====
-onDestroy()
-====
-onRestart()
-====
-onResume()
-+++++
-Komponentaning tashqi o‘ng chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-====
-#marginRight
-==== 
-marginBottom
-====
-marginLeft
-====
-marginTop
-+++++
-Komponentaning ichki chap chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-====
-#paddingLeft
-==== 
-paddingBottom
-====
-paddingRight
-====
-paddingTop
-+++++
-Android Studioda kiritilgan matn qalinligini sozlash to‘g‘ri kiritilgan qatorni belgilang?
-====
-#android:textStyle="bold"
-====
-android:textColor="#ffff"
-====
-android:text="black"
-====
-android:textStyle="italic"
-+++++
-DataPicker foydalanuvchiga quyidagilarni amalga oshirishga imkon beradi:
-====
-#Sanani belgilash
-====
-Vaqtni tanlash
-====
-Rasm ochish
-====
-Jadval yaratish
-+++++
-Android Studioda ochiq turgan loyihani yopish ketma-ketligi qanday?
-====
-#File » Close
-==== 
-File » Open
-====
-File » New » New Project
-====
-File » New » Import Project
-+++++
-…-TextView ning qo‘shimcha imkoniyatli turi hisoblanib, foydalanuvchi ushbu komponenta orqali ma’lumot kiritishi mumkin.
-====
-#EditText
-====
-Button
-====
-Checkbox
-====
-RadioButton
-+++++
-Android Studioda matnga rang berish qaysi atribut orqali o‘rnatiladi?
-====
-android: textcolor
-====
-android: text
-====
-android:textStyle
-====
-android: id
-+++++
-TimePickerDialog foydalanuvchiga quyidagilarni amalga oshirishga imkon beradi:
-====
-#Vaqtni tanlash
-====
-Sanani belgilash
-====
-Rasm ochish
-====
-Jadval yaratish
-+++++
-Android Studioda mavjud loyihani ochish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang?
-====
-#File » Open
-====
-File » New » New Project
-====
-File » Open recent » Project_name
-====
-File » New » Import Project
-+++++
-Obyekt vertikal uzunligini sozlash uchun qaysi atributga murojaat qilinadi?
-====
-#height
-====
-width
-====
-title
-====
-caption
-+++++
-Android ilovasida testlarni yaratish uchun qanday paket ishlatiladi?
-====
-#test 
-====
-matn
-====
-vidjet
-====
-ilova
-+++++
-Funksiya o‘zi chaqirilgan moduldan qabul qilib oladigan qiymatlar nima deb ataladi?
-====
-#argument
-====
-class
-====
-protocol
-====
-method
-+++++
-Android Studioda yangi loyiha yaratish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang
-====
-#File » New » New Project
-====
-File » Open
-====
-File » Open recent » Project_name
-====
-File » New » Import Project
-+++++
-MainActivity.java faylidagi "button" ga murojaat qilish uchun activity_main.xml dagi tugma uchun qanday funktsiya yozilgan?
-====
-#android: id = "@ + id / button"
-====
-android: layout_width = "wrap_content"
-====
-android: layout_below = "@ + id / editText"
-====
-android: text = "Tugma"
-+++++
-Matn qalinligini sozlash uchun qaysi atributga qiymat beriladi?
-====
-#android:textStyle
-====
-android: text
-====
-android: textcolor
-====
-android: id
-+++++
-Android Studioda boshqa dasturlash muharriri (IntellijIdea, VSCode, …) da yaratilgan loyihani import qilish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang
-====
-#File » New » Import Project
-==== 
-File » Open
-====
-File » New » New Project
-====
-File » Open recent » Project_name
-+++++
-Matnni o‘rtaga tekislash uchun textAlign atributiga qanday qiymat beriladi?
-====
-#center
-====
-left
-====
-right
-====
-bottom
-+++++
-MainActivity.java faylidagi "TextView" ga matn kiritish uchun activity_main.xml dagi tugma uchun qanday funktsiya yozilgan?
-====
-#android: text = "Salom"
-====
-android: layout_width = "wrap_content"
-====
-android: layout_below = "@ + id / TextView "
-====
-android: id = "@ + id /Salom "
-+++++
-CheckBox sinfining asosiy usullari qanday?
-====
-#public boolean isChecked (), public void setChecked (boolean status)
-====
-public string getText (), public void toString ()
-====
-public void makeText (), public void getApplicationContext ()
-====
-public void getBoxId (), public void show ()
-+++++
-Android Studioda Button tugmasi bosilganda Buttonni ishga tushuvchi buyruq to‘g‘ri keltirilgan qatorni toping?
-====
-#android:onClick
-====
-android: text
-====
-android:textStyle
-====
-android: textcolor
-+++++
-…-dastur birinchi marta ishga tushganda activity ni  chaqiradi.
-====
-#onCreate()
-====
-onStart()
-====
-onResume()
-====
-onPause()
-+++++
-Android Studioda komponentaning ichki o‘ng chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-====
-#android:paddingRight
-==== 
-android:paddingBottom
-====
-android:paddingLeft
-====
-android:paddingTop
-+++++
-…- activity to‘xtatilgan vaqtda chaqiriladi.
-====
-#onDestroy()
-====
-onPause()
-====
-onRestart()
-====
-onStop()
-+++++
-Komponentaning tashqi yuqori chegarasidan bo‘sh joy qoldirish uchun qaysi atributdan foydalaniladi?
-====
-#marginTop
-==== 
-marginBottom
-====
-marginRight
-====
-marginLeft
-+++++
-…- activity natijasi foydalanuvchiga ko‘ringanda chaqiriladi.
-====
-#onStart()
-====
-onCreate()
-====
-onResume()
-====
-onPause()
-+++++
-Android Studioda oxirgi bir nechta loyihalarni ochish ketma-ketligi to‘g‘ri keltirilgan javobni belgilang?
-====
-#File » Open recent
-==== 
-File » Open
-====
-File » New » New Project
-====
-File » New » Import Project
-+++++
-…- joriy activity faoliyati vaqtinchalik to‘xtatilib boshqa activity faollashtirilganda chaqiriladi.
-====
-#onPause()
-====
-onStart()
-====
-onResume()
-====
-onCreate()
-+++++
-Android Studioda kiritilgan matnni o‘lchamini o‘gartirish uchun qaysi atributdan foydalaniladi?
-====
-#android:textSize="25dp "
-====
-android:textColor="#ffff"
-====
-android:text="black"
-====
-android:textStyle="bold "
-+++++
-Android Studioda ImageView komponentasiga rasm kiritish buyrug‘i to‘g‘ri kiritilgan qatorni belgilang?
-====
-#android:src="@drawable/circle"
-====
-android:id="@+id/imageView"
-====
-android:layout_width="wrap_content"
-====
-android:layout_height="wrap_content"
-+++++
-Androidda Google Maps ximatidan foydalanish uchun qaysi kutubxonadan foydalaniladi?
-====
-#android.gms.maps.MapFragment
-====
-gooogle.android.Fragment
-====
-android.gms. AppFragment
-====
-androidx.appcompat. AppCompatActivity
-+++++
-Android Studio dasturida asosan matnli ma’lumotlar bilan ishlovchi .xml fayli qaysi?
-====
-#strings.xml
-====
-colors.xml
-====
-button.xml
-====
-manifest.xml
-+++++
-android:layout_below="@+id/imageView"  ushbu buyruq qanday amalni bajaradi?
-====
-#Kiritiladigan komponentalarni imageView komponentasidan keyin (pastki qismdan) joylashtiradi.
-====
-Kiritiladigan komponentalarni imageView komponentasiga rasm ko‘rinishida joylashtiradi.
-====
-imageView komponentasiga nom beradi.
-====
-Kiritiladigan komponentani imageView komponentasiga almashtiradi.
-+++++
-Strings.xml fayliga ilova nomi to‘g‘ri kiritilgan qatorni toping?
-====
-#<string name="app_name">Laboratoriya_Ishi_1</string>
-====
-<string name="name">Laboratoriya_Ishi_1 />
-====
-<string name="app_name"Laboratoriya_Ishi_1/>
-====
-<string name=" Laboratoriya_Ishi_1 ">
-+++++
-Android Studio da asosan java kodlari bilan ishlovchi fayli qaysi qatorda keltirilgan?
-====
-#MainActivity.java
-==== 
-Strings.java
-====
-AndroidButton.xml
-====
-AndroidManifest.xml
-+++++
-Button tugmasini ekranning chap qismidan joylashtirish uchun qaysi atributdan foydalaniladi?
-====
-#android:layout_ alignLeft
-==== 
-android:layout_centerHorizontal
-====
-android:onClick
-====
-android:layout_ alignTop
-+++++
-Android Studio dasturida matnga link orqali rang berish uchun qaysi atributdan foydalaniladi?
-====
-#android:textColorLink
-====
-android:textColor
-====
-android:layoutLink
-====
-android:text
-+++++
-Android Studio dasturida asosan ranglari bilan ishlovchi .xml fayli qaysi?
-====
-#colors.xml
-==== 
-strings.xml
-====
-button.xml
-====
-manifest.xml
-+++++
-LinearLayout ning qaysi atributi orqali komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish mumkin?
-====
-#android:orientation
-====
-android:layout_width
-====
-android:layout_height
-====
-android:layout_alignParentTop
-====
-+++++
-…- activity to‘xtatilgan vaqtda chaqiriladi.
-====
-#onRestart()
-====
-onStart()
-====
-onCreate()
-====
-onPause()

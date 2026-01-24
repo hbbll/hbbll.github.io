@@ -1,140 +1,218 @@
-Bulutli hisob-kitobda ma’lumotlar  … da saqlanadi.
-sarflanadigan yillik daromadlarining …% ini tejashga erishdilar
-Cloud computing atamasini nima degan so’zga metafora sifatida talqin qilish mumkin?
-“Bulut” belgisi IT industriyasi evolyutsiyasi jarayonida nima degan tushunchani o’zida aks ettiradi.  
-“Barcha narsalar”(Bulutli) ingliz tilidagi qaysi so’ziga ekvivalent tushuncha xisoblanadi?
-Cloud computingda nechta  ta asosiy kalit tushunchalar va xarakteristikalarni o’zida aks ettiradi?  
-Bulutli hisob kitobda  yetkazib berish modeli?
-Bulutli hisob kitoobda Interfeys modeli?  
-Bulutli hisob kitoobda biznes modeli  
-Bulutli hisob kitoobda texnologiya modeli
-Tijorat uchun mo’ljallangan cloudlar  
-Cloudga kirish huquqining turini o’zida aks ettiruvchi modellar qanday modellar deb ataladi?  
-Cloudda kirish huquqining nechta turi bo’lishi mumkin?  
-Cloudda kirish huquqining  turlari?
-Public cloudning afzalliklari qaysilar?
-Public cloudning kamchiliklari qaysilar?  
-Private Cloud tizimlar va xizmatlarga qanaqa darajasida kirishni ta’minlaydi?
-Qaysi tizim kengaytirilgan tartibdagi xavfsizlikni ta’minlayi?  
-Qaysi tizim faqatgina lokal holatda murojaat huquqini beradi va uni global miqyosda joylashtirish bir qator muammolarni keltirib chiqaradi.  
-Qaysi tizim faqatgina ichki resurslarning imkoniyat darajasidagi xotira xajmigacha kengaytirilishi mumkin?  
-Qaysi tizimlar va xizmatlarga tashkilotlar guruhi darajasida kirishni ta’minlaydi?  
-Qaysi tizimda xavfsizlik darajasi yuqori darajada shakllantiriladi
-Qaysi tizim public va private cloudning birlashtirilishidan hosil bo’lgan?
-private clouddan foydalanish natijasidan bajarilgan kritik faoliyatlar va public clouddan foydalanish natijasida bajarilgan no-kritik faoliyatlar qaysi  turda o’z aksini topadi?
-Qaysi cloud private cloud taklif etadigan xizmatlarni undan ko’ra arzonroq narxda taklifetadi?  
-Xizmat ko’rsatish modellari nechta kategoriyalarga bo’linadi?
-Har bir model o’zidan keyingi modeldan xavfsizlik va boshqaruv mehanizmininima qilib oladi?  
-IaaS fundamental resurslar: fizik mashinalar, virtual mashinalar, virtual ma’lumot omborlariga kirishni ta’minlaydigan qanday model xisoblanadi?
-ERP bu...  
-MRP bu?
-CRM bu... 
-foydalanmoqda?  
-AQSH, Buyuk Britaniya, Fransiya va Germaniyadagi yirik tashkilotlarning necha % i virtullashtirishdan keng foydalanmoqda?
-Jami serverlarning necha % ini virtual serverlar tashkil qiladi?
-1500 IT kompaniyalarning necha % i kelgusi 3 yillikda CLOUD TECHNOLOGIES dan foydalanishga o’tishga tayyorgarlik ko’rmoqdalar?
-Nechanchi yildan boshlab hukumat organlarining axborot-xisoblash resurslarining markazlashishi tashkil etilishi boshlandi?
-Nechanchi yildan boshlab respublikaning 3 ta mintaqasida Data Center lar qurilishi boshlandi?
-“Huawei Tech Investment Tashkent MCHJ CHK” kompaniyasi “O‘zbekistonda bulutli texnologiyalar sammiti” xalqaro anjumanini qachon o‘tkazdi?
-Tarmoqda tarqatilgan ko‘plab serverlarda ma’lumotlar saqlanadigan onlayn saqlash modeli.  
-Bir nechta mijozlar bilan bitta tashkilot tomonidan foydalanish uchun mo‘ljallangan infratuzilma
-Keng omma tomonidan bepul foydalanishga mo‘ljallangan infratuzilma
-Bu ikki yoki undan ko‘p turli xil bulutli infratuzilmalarning kombinasiyasi
-Umumiy vazifalari bo‘lgan tashkilotlar iste’molchilarining ma’lum bir hamjamiyati foydalanishi uchun mo‘ljallangan infratuzilma turi
-Xususiy bulut
-Umumiy «bulut»  
-Gibrid bulut 
-Ijtimoiy «bulut»
-Axborot xizmat sifatida  
-Xizmat sifatida jarayonlarni boshqarish  
-Xizmat sifatida saqlash  
-Ma’lumot xizmat sifatida  
-Xizmat sifatida ish joyi
-Hammasi xizmat sifatida
-Iaas
-Paas  
-Saas
-Daas
-Vaas
-Eaas  
-Elastiklik qanday xarakterga ega?  
-Elastiklik qanday xarakterga ega?
-Xatolarga bardoshlilik qanday xususiyatga ega?
-Ruxsat etilgan sifatni ta’minlash xususiyati qaysi xususiyatga tegishli?
-Virtualizasiya xususiyati qanday xarakterga ega? 
-Ma’lumotni saqlashni boshqarish xususiyati qanday xususiyatlarga bog‘liq?
-Xavfsizlik xususiyati qanday xarakterga ega?
-Xarajatlarni pasaytirish xususiyati qanday xususiyatga ega?
-rivojlanishni, integrasiyalashishni va bulutli xizmatlarni taqdim etishni ta’minlaydigan muhit va kommunal xizmatlar  
-Yandex bulutli hisoblash platformasi
-Google bulutli hisoblash platformasi  
-Microsoft bulutli hisoblash platformasi
-Turli maqsadlar va vazifalar uchun tuzilgan va tuzilmagan ma’lumotlarni qayta ishlash, ishlov berish usullari, turli xil holatlar va yondashuvlar.  
-Ma’lum tartibda tashkil etilmagan yoki dastlabki tuzilishga ega bo‘lmagan ma’lumotlar.  
-1 EB  
-1 ST
-Bepul tarqatiladigan yordam dasturlari, kutubxonalar to‘plami va yuzlab va minglab tugunlar klasterlarida ishlaydigan tarqatilgan dasturlarni ishlab chiqish va bajarish uchun asos.
-Ma’lumotlarda qaror qabul qilish uchun zarur bo‘lgan oldindan noma’lum, arzimas, amaliy foydali bilimlarni aniqlash usullari to‘plami
-Mehnat munosabatlariga kirmasdan ushbu ishni bajarayotgan shaxslarning keng, noma’lum doiralari kuchlari bo‘yicha ma’lumotlarni tasniflash va boyitish  
-Chuqur tahlilni o‘tkazish uchun turli manbalardan heterojen ma’lumotlarni kiritish usullari to‘plami  Ma’lumotlarni aralashtirish va birlashtirish
-Asosiy modellar asosida murakkab prognozlarni olish uchun statistik tahlil yoki mashinani o‘rganish asosida qurilgan modellardan foydalanish  
-Tarmoq tahlili, optimallashtirish, shu jumladan genetik algoritmlar  
-Jarayonlarni aslida qanday borishini tasvirlaydigan modellarni yaratishga imkon beradigan usul
-Ma’lumotlar olingan topologik, geometrik va geografik ma’lumotlardan foydalangan holda metodlar klassi
-Natijalarni olish uchun ham, keyinchalik tahlil qilish uchun manba ma’lumotlari sifatida foydalanish uchun interfaol xususiyatlar va animasiyalardan foydalangan holda chizmalar, diagrammalar ko‘rinishidagi ma’lumotlarni taqdim etish.  
-Ma’lumotlarni qidirish
-Crowdsourcing
-Ma’lumotlarni aralashtirish va birlashtirish  
-Mashinani o‘rganish  
-Sun’iy asab tarmoqlari
-Simulyasiya
-Fazoviy tahlil
-Vizualizasiya  
-Texnik vositalar yordamida yaratilgan dunyo, odamga uning sezgilari orqali: ko‘rish, eshitish, teginish va boshqalar.
-bilan o‘zaro ta’sirini taqlid qiladi
-Virtual dunyoni sodda tarzda simulyasiya qilish, ularga yuqori darajadagi tafsilotlar.
-Rasm, tovush va boshqaruvchi bilan ekranda uzatiladigan simulyasiyalar, afzal keng ekran
-Ijtimoiy tarmoq elementlari bilan uch o‘lchovli virtual dunyo  
-Ular ko‘zlar o‘quvchilarining harakatlarini kuzatib borishadi va har safar har bir lahzada odamning qayerga qarayotganini aniqlashga imkon berishadi, shuningdek ularni virtual dunyoda takrorlash uchun odamning tana harakatlarini kuzatib borish  
-Ikki o‘lchovli kosmosda ishlashga imkon beradigan manipulyatorlar
-Atrof-muhit haqida ma’lumotni to‘ldirish va ma’lumotni idrok qilishni yaxshilash uchun har qanday sezgir ma’lumotlarni idrok sohasiga kiritish natijasi  
-Uch o‘lchovli virtual ob’ektlarni yoki gologrammalarni fizik kosmosga proyeksiyalash
-Dropbox rasmiy veb-sayti  
-Bir foydalanuvchi Dropbox fayllar omborida ro‘yxatdan o‘tgandan so‘ng qancha GB mavjud
-Dropbox bulutli xizmat ko‘rsatish rejimlari mavjud  
-Rasmiy sinf Google sayti
-Google sinfida har bir kurs bo‘ladi
-Google sinfida har bir kursga kod beriladi
-Google-ning sinfi gorizontal menyusida ... yorliqlari
-Google-ning sinf gorizontal menyusida uchta yorliq mavjud  
-Google sinf tasmalari chop etildi ... muhokama uchun
-Shaxsiy sinf hisob egalari yaratishi mumkin  
-Shaxsiy sinf hisob egalari ko‘pi bilan qo‘shilishlari mumkin
-Shaxsiy sinfdagi hisob egalari kuniga maksimal miqdorga qo‘shilishlari mumkin
-Google sinfidagi shaxsiy hisoblarning egalari maksimal kirish huquqini ochishlari mumkin .... Kurs ishtirokchilari  
-Google sinfiga dars materiallarini qo‘shish uchun «Vazifalar» yorlig‘iga o‘ting
-Google sinf mashg‘ulotlari yorliqda e’lon qilingan
-Odatiy bo‘lib, Google sinfida barcha ishlar ... tizimda baholanadi
-Odatiy bo‘lib, Google sinfida barcha ishlar baholanadi va muddatlar qoladi  
-so‘rov yoki anketa joylashtirilgan alohida veb-sahifa
-GoogleForm-da bitta qatorga to‘g‘ri keladigan qisqa javob.  
-GoogleForm-da bir nechta jumlalardan iborat uzun matnli javob.
-GoogleForm-da taklif qilingan bir nechta variantlardan bitta to‘g‘ri javobni tanlash uchun foydalaniladi.
-GoogleForm-da bir nechta taklif qilingan variantlarni tanlash uchun foydalaniladi.  
-sizga talabaning matn bilan qanchalar rozi yoki noroziligini aniqlashga yoki GoogleForm-da biron-bir narsani baholashga imkon beradi.
-har bir satrda bitta to‘g‘ri javobni tanlash uchun jadval. GoogleForm-da o‘yinni topishingiz kerak bo‘lgan ishlarga mos keladi.
-aniq sanani bilish masalasi GoogleForm-dagi sana, oy, yil.  
-GoogleForm-da soatlar, daqiqalar va soniyalar haqida aniq bilim.  
-GoogleForm-da to‘g‘ri javob uchun ballarda avtomatik reytingni qanday sozlash mumkin?
-Formaning qanday ko‘rinishini ko‘rish uchun siz ... funksiyasidan foydalanishingiz mumkin. forma shablonini GoogleForm-da.  
-Siz GoogleForm-ga yuborganingizdan so‘ng talaba ko‘radigan o‘z matningizni yozishingiz mumkin.
-IDE  
-onlayn IDE  
-IDE
-ideone.com
-YandexDisk
-Googleapp
-MicrosoftSkyDrive
-Bulutli hisoblashning kamchiliklari nima?
-Sloud xisoblashlar  konsepsiyasining moxiyati
-Kompaniyaning barcha darajalaridagi biznes jarayonlarni real vaqt tizimida avtomatlashtiruvchi ochiq tizim shu jumladan biznes rejada qaror qabul qilish bu-
+....bu orginal-ob'ektlar xossalarini ob'ekt-modellarining mos xossalarini tadkik kilish vositasida o'rganish usulidan iborat jarayondir.
+Original ob'ektni model ob'ekt bilan almashtirish va ob'ektlar xossalarini ularning modellari yordamida tadkik kilishga ........ deyiladi.
+Modellar esa modellashtirish nazariyasining ....... tashkil etadi.
+Ilmiy tadkikotlar tarixida dastlabki modellashtirish usullaridan biri .......... usulidir.
+Modellashtirish jarayoni ..... ta elementni o'z ichiga oladi
+.......  deb, odatda, orginalga ekvivalent yoki o'xshash, ammo boshqa  fizik tabiatga ega sistemaga ataladi.
+Abstrakt modellar jumlasiga modellashtirish ob'ektining  tavsiflaydigan ..... ifodalar kiritilishi mumkin. Ular ..... modellar sinfiga tegishli.
+....... berilgan ob'ektning muayyan  xossalarini o'rganish maksadida uning tadqiqotchi-sub'ekt tomonidan qandaydir formal (matematik) sistema yordamida quriladigan  obrazidir.
+........ bu real (moddiy) tadqiq etilayotgan sistemalar(maketlar, tajriba nusxalar). Ular orginal bilan to'liq  adekvatlik(moslik) xususiyatiga ega, ammo qimmat.
+........ natural va matematik modellar majmuasidan iborat. Bunday ko'rinishdagi modellardan  sistema kismining modelini, uning tavsifi murakkab bo'lgani uchun, matematik ifodalab bo'lmagan holda(inson operator modeli) yoki sistemaning bir qismi boshka qismlari bilan o'zaro bog'lanishda tadkik kilinishi kerak bo'lib, ammo ular hali mavjud emas yoki  ularni qo'llash kimmatga tushadigan xolda foydanaliladi (xisoblash poligonlari, boshkaruvning avtomatlashtirilgan tizimi).
+....... fizik tabiati orginal kabi bo'lgan, lekin undan masshtabi bilan farklanadigan sistemalardir(kichiklashtirilgan ob'ektlar,  ob'ektlarning harakatlanuvchi modellari).
+...... deb orginaldan farq qiladigan fizik tabiatga ega bo'lgan, lekin faoliyat jarayoni bilan orginalga o'xshash sistemalarga aytiladi.
+Matematik modellar klasifikatsiyasi asosan necha sinfga ajratiladi.
+Amaliy masalalar bir nechta paketlarga bo'linib, kompyuter algebrasi deb ataluvchi bir necha dasturiy ta'minotlar tarkibiga kiritilgan. Bularga quydagilar kiritiladi.
+Little Mathworks kompaniyasi xodimi tomonidan  Matlabning 4-avlod EHM ga mo'ljallangan PC Matlab versiyasi ishlab chiqildi
+Matlab dasturi kim tomonidan yaratilgan - ?
+Matlab dasturi qachon tomonidan yaratilgan - ?
+70-yillar oxirida yaratilgan Matlab dasturi asosan nechanchi avlod EHM larida ishlash uchun mo'ljallangan edi.
+Bugungi kunda zamonaviy kompyuterlarda Matlabning 4,5,6 va 7 versiyalarni ko'rish mumkin.
+Matlabning qaysi versiyasida 16 bit va 24 bitli RGB ranglar bilan ishlash, yuqori o'lchamli matritsalar bilan ishlash, fazoviy figuralarni chizish faqat sonlar bilan emas, balki matematik formulalar bilan ishlash imkoniyatlari kiritilgan.
+Matlab dasturi ishga tushirilganda unda asosan nechta oyna ko'rinadi:
+.... oynasi MATLAB dagi barcha buyruqlarni paketlarni va kutubxonalani e'lon qilish oynasi hisoblanadi.
+....oynasi dastur tarkibida e'lon qilingan o'zgaruvchilarni daraxt ko'rinishida ifodalab boradi.
+....oynasida esa dasturda bajarilayotgan buyruqlar ketma-ketligi saqlanib qoladi.
+Matlabda ...(saqlash) komandasi bu - ?
+Matlabda ...(yuklash) komandasi bu - ?
+Matlabda ...(kundalik) komandasi bu -
+Ekranni tozalaydi va kursorni bo'sh ekranning yuqori chap qismiga joylashtiradi;
+Kursorni ekranning yuqori chap qismiga qaytaradi.
+Kompleks sonning butun qismini qaysi funksiya hisoblab beradi.
+Kompleks sonning mavxum qismini qaysi funksiya hisoblab beradi.
+Kompleks sonning modulini (kattaligini) qaysi funksiya hisoblab beradi.
+Barcha aniqlangan o'zgaruvchilarni yo'qotish qaysi funksiya bajaradi.
+Matlabda ma'lumotlar faqat bir shaklda, ya'ni ... shaklida tashkil qilinadi.
+inf - bu ...
+NaN - bu ...
+ans - bu ...
+Ma'lumki,  ko'p xollarda tartiblangan sonlar ketma-ketligini shakllantirish zarurati tug'iladi. Bunday ketma-ketliklar grafik chizishda, jadval yaratishda kerak bo'ladi. Ularni xosil qilish uchun matlabda ..... komandasidan (operatoridan) foydalaniladi.
+Matnli izoxlar quyidagi qaysi belgidan keyin yozish mumkin bo'ladi.
+Matlabda ma'lumotlar faqat matritsa shaklida tashkil qilinadi ,buning necha usuli bor.
+Biror A matritsani transponirlash deganda nima tushuniladi.
+Matlabda bir nechta matritsalarni birlashtirish uchun qaysi komandadan foydalanamiz.
+Qaysi komanda A matritsani chapdan o'ngga 180 gradusga ustunlarini almashtirish yo'nalishida buradi.
+Qaysi komanda A matritsani pastdan yuqoriga 180 gradusga qatorlarini almashtirish yo'nalishida buradi.
+Berilgan matritsani soat strelkasiga qarshi 900 ga buruvchi komanda bu...
+Asosiy diagonalda 1, qolgan elementlari 0 bo'lgan (m*n) matritsa xosil qilish.
+Elementlari faqat 1 dan iborat bo'lgan  (m*n) matritsani xosil qilish
+Elementlari (0, 1) oraliqda tekis taqsimlangan tasodifiy miqdorlar bo'lgan (m*n) matritsani xosil qilish.
+(m*n) o'lchovli faqat nollardan tuzilgan matritsani xosil qilish
+A matritsaning o'lchovi;
+A vektor uzunligi (elementlar soni) aniqlash funksiyasi.
+A matritsa o'lchovlari soni aniqlash funksiyasi ko'rsating?
+A matritsa  bo'sh bo'lsa 1, aks xolda 0 qiymatni beradi.
+...berilgan matritsaning diagonaildan yuqori qismini elementlarini 0 bilan almashtirish.
+...komandasi esa matritsaning diagonalidan pastki qismini nollarga aylantiradi:
+...komandasi  berilgan  matritsaning  diagonalida  turgan elementlarni ekranga chiqaradi:
+...Masssiv elementlarini nollardan iborat qilib tuzish.
+...Masssiv elementlarini birlardan iborat qilib tuzish.
+... Matrisa o'lchamini o'zgartish.
+Matlabda Vector ko'paytma.
+...tenzorli ko'paytmani hosil qilish.
+...teng munosabatli tugunlar chiziqli massivini    hosil qilish.
+... logarifmik to'rli tugunlarni hosil qilish.
+... ikki o'lchamli va uch o'lchamli to'rlar tugunlarini hosil  qilish.
+CHiziqli tenglamalar sistemasini echishning aniq usullaridan keng qo'llaniladigan usullar  .......
+CHiziqli tenglamalar sistemasini echishning taqribiy usullariga quyidagilar kiradi.
+CHiziqli tenglamalar sistemasini echishda iteratsiyalar(ketma-ket yaqinlashish ), Zeydel va kichik kvadratlar usullari qanday usullar hisoblanadi?
+CHiziqli tenglamalar sistemasini echishda Gauss, Kramer va teskari matritsa usullari qanday usullar hisoblanadi?
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B)-Ax=B qanday usul hisoblanadi?
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B,x0) qanday usul hisoblanadi?
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida [x,w]=isqnonneg(...) qanday usul hisoblanadi?
+[x,w,w1]=isqnonneg(...) buyrug'ining vazifasi
+Lagranj  interpolyatsion  ko'phadi  .......  hisoblanadi.
+Lagranj  interpolyatsion  ko'phadi  universal  va  sodda  bo'lishi  bilan  ayrim kamchiliklarga ham ega. Interpolyatsion ko'pxadi bo'yicha funksiya  qiymatini  hisoblash  uchun  bajarilishi  kerak  bo'lgan  amallar  ......
+Lagranj  interpolyatsion  ko'phadida funksiya qiymatlar jadvaliga yana bir qiymat qo'shilsa barcha  ishni  qaytadan  bajarish  kerak  bo'ladi.
+Kamchiliklardan  xoli  bo'lgan interpolyatsion  ko'phad  kim  tomonidan  kashf  qilingan?
+spline(X,Y,Xi) funksiya nima yordamida interpolyatsiyani amalga oshiradi?
+Qaysi  funksiya  kubik  splaynlar  bilan  interpolyatsiyani  amalga  oshiradi?
+Ma'lumotlarni interpolyatsiyalash uchun qanday protsedurasidan foydalaniladi?
+Ma'lumotlarni ......  uchun interp1 protsedurasidan foydalaniladi?
+interp1 protsedurasiga qanday murojaat qilinadi.
+'nearest' metodi qanday interpolyatsiya metodi hisoblanadi?
+'linear' metodi qanday interpolyatsiya metodi hisoblanadi?
+'cubic' metodi qanday interpolyatsiya metodi hisoblanadi?
+'spline' metodi qanday interpolyatsiya metodi hisoblanadi?
+X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  ......    aniqlash  masalasi  approksimatsiya  masalasi deyiladi.
+X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  Y=P(x)    aniqlash  masalasi  .......   masalasi deyiladi.
+Ma'lumotlarni polinomial approksimatsiya qilish uchun ....... protsedurasidan foydalaniladi.
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x  .......
+Approksimatsiyalash natijasida uzunligi ..... bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat vektor  hosil bo'ladi.
+Ma'lumotlarni .........  qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi.
+Sesions layer - bu  qanaqa  sath?
+Kvadratik parabola  bilan approksimatsiyalash
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda y- ........
+Kubik parabola bilan approksimatsiyalash
+Qaysi  nazariya  imkoniyatlarining  birligi  yuqori    samaradorlik    va  aniqlik talablariga  javob  bera  oladigan,  yangi  singnalni  qayta  ishlash  va  tiklash algoritmlarni  ishlab  chiqish  imkoniyatini  beradi?
+Yaqinlashtirish    usuli  bo'yicha  qanday ishlatiladi.?
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x - argumentlar vektori , y- natijalar vektori va n-  ......
+Approksimatsiyalash natijasida uzunligi (n+1) bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat.....  hosil bo'ladi.
+To'rtinchi darajali parabola bilan approksimatsiyalash
+Tasvirlash turi  bo'yicha qanday splaynlar ishlatiladi?
+.....  metodlari  asosida  singnallarni  tiklash  koefsentlarini hisoblanadi.
+....  asosida tiklash koefsentlarini hisoblash modellari va algoritmlari ishlab  chiqiladi
+....   asosida  parallel   hisoblash  strukturasi ishlab  chiqiladi
+Eng  kichik  kvadratlar  usuli  yordamida  signallarni  approksimatsiyalash jarayonini  Matlab  tizimining  ........   funksiyasini  qo'llagan  holda aniqlaymiz
+......  funksiyasini qo'llagan holda natijani vizuallashtirish va yaqinlashish xatoligini aniqlaymiz.
+Matlab dasturida kerakli algoritmni .......  oynasiga tashlaymiz
+Kiruvchi  signallarni  identifikatsiyalashda Interpolyatsiyalash oralig'i qanday keltiriladi.
+Kiruvchi  signallarni  identifikatsiyalashda Vektor interpolyatsiyalash nuqtalarini qanday aniqlaymiz?
+....bu orginal-ob'ektlar xossalarini ob'ekt-modellarining mos xossalarini tadkik kilish vositasida o'rganish usulidan iborat jarayondir.
+Original ob'ektni model ob'ekt bilan almashtirish va ob'ektlar xossalarini ularning modellari yordamida tadkik kilishga ........ deyiladi.
+Modellar esa modellashtirish nazariyasining ....... tashkil etadi.
+Ilmiy tadkikotlar tarixida dastlabki modellashtirish usullaridan biri .......... usulidir.
+Modellashtirish jarayoni ..... ta elementni o'z ichiga oladi
+.......  deb, odatda, orginalga ekvivalent yoki o'xshash, ammo boshqa  fizik tabiatga ega sistemaga ataladi.
+Abstrakt modellar jumlasiga modellashtirish ob'ektining  tavsiflaydigan ..... ifodalar kiritilishi mumkin. Ular ..... modellar sinfiga tegishli.
+....... berilgan ob'ektning muayyan  xossalarini o'rganish maksadida uning tadqiqotchi-sub'ekt tomonidan qandaydir formal (matematik) sistema yordamida quriladigan  obrazidir.
+........ bu real (moddiy) tadqiq etilayotgan sistemalar(maketlar, tajriba nusxalar). Ular orginal bilan to'liq  adekvatlik(moslik) xususiyatiga ega, ammo qimmat.
+........ natural va matematik modellar majmuasidan iborat. Bunday ko'rinishdagi modellardan  sistema kismining modelini, uning tavsifi murakkab bo'lgani uchun, matematik ifodalab bo'lmagan holda(inson operator modeli) yoki sistemaning bir qismi boshka qismlari bilan o'zaro bog'lanishda tadkik kilinishi kerak bo'lib, ammo ular hali mavjud emas yoki  ularni qo'llash kimmatga tushadigan xolda foydanaliladi (xisoblash poligonlari, boshkaruvning avtomatlashtirilgan tizimi).
+....... fizik tabiati orginal kabi bo'lgan, lekin undan masshtabi bilan farklanadigan sistemalardir(kichiklashtirilgan ob'ektlar,  ob'ektlarning harakatlanuvchi modellari).
+...... deb orginaldan farq qiladigan fizik tabiatga ega bo'lgan, lekin faoliyat jarayoni bilan orginalga o'xshash sistemalarga aytiladi.
+Matematik modellar klasifikatsiyasi asosan necha sinfga ajratiladi.
+Amaliy masalalar bir nechta paketlarga bo'linib, kompyuter algebrasi deb ataluvchi bir necha dasturiy ta'minotlar tarkibiga kiritilgan. Bularga quydagilar kiritiladi.
+Little Mathworks kompaniyasi xodimi tomonidan  Matlabning 4-avlod EHM ga mo'ljallangan PC Matlab versiyasi ishlab chiqildi
+Matlab dasturi kim tomonidan yaratilgan - ?
+Matlab dasturi qachon tomonidan yaratilgan - ?
+70-yillar oxirida yaratilgan Matlab dasturi asosan nechanchi avlod EHM larida ishlash uchun mo'ljallangan edi.
+Bugungi kunda zamonaviy kompyuterlarda Matlabning 4,5,6 va 7 versiyalarni ko'rish mumkin.
+Matlabning qaysi versiyasida 16 bit va 24 bitli RGB ranglar bilan ishlash, yuqori o'lchamli matritsalar bilan ishlash, fazoviy figuralarni chizish faqat sonlar bilan emas, balki matematik formulalar bilan ishlash imkoniyatlari kiritilgan.
+Matlab dasturi ishga tushirilganda unda asosan nechta oyna ko'rinadi:
+.... oynasi MATLAB dagi barcha buyruqlarni paketlarni va kutubxonalani e'lon qilish oynasi hisoblanadi.
+....oynasi dastur tarkibida e'lon qilingan o'zgaruvchilarni daraxt ko'rinishida ifodalab boradi.
+....oynasida esa dasturda bajarilayotgan buyruqlar ketma-ketligi saqlanib qoladi.
+Matlabda ...(saqlash) komandasi bu - ?
+Matlabda ...(yuklash) komandasi bu - ?
+Matlabda ...(kundalik) komandasi bu -
+Ekranni tozalaydi va kursorni bo'sh ekranning yuqori chap qismiga joylashtiradi;
+Kursorni ekranning yuqori chap qismiga qaytaradi.
+Kompleks sonning butun qismini qaysi funksiya hisoblab beradi.
+Kompleks sonning mavxum qismini qaysi funksiya hisoblab beradi.
+Kompleks sonning modulini (kattaligini) qaysi funksiya hisoblab beradi.
+Barcha aniqlangan o'zgaruvchilarni yo'qotish qaysi funksiya bajaradi.
+Matlabda ma'lumotlar faqat bir shaklda, ya'ni ... shaklida tashkil qilinadi.
+inf - bu ...
+NaN - bu ...
+ans - bu ...
+Ma'lumki,  ko'p xollarda tartiblangan sonlar ketma-ketligini shakllantirish zarurati tug'iladi. Bunday ketma-ketliklar grafik chizishda, jadval yaratishda kerak bo'ladi. Ularni xosil qilish uchun matlabda ..... komandasidan (operatoridan) foydalaniladi.
+Matnli izoxlar quyidagi qaysi belgidan keyin yozish mumkin bo'ladi.
+Matlabda ma'lumotlar faqat matritsa shaklida tashkil qilinadi ,buning necha usuli bor.
+Biror A matritsani transponirlash deganda nima tushuniladi.
+Matlabda bir nechta matritsalarni birlashtirish uchun qaysi komandadan foydalanamiz.
+Qaysi komanda A matritsani chapdan o'ngga 180 gradusga ustunlarini almashtirish yo'nalishida buradi.
+Qaysi komanda A matritsani pastdan yuqoriga 180 gradusga qatorlarini almashtirish yo'nalishida buradi.
+Berilgan matritsani soat strelkasiga qarshi 900 ga buruvchi komanda bu...
+Asosiy diagonalda 1, qolgan elementlari 0 bo'lgan (m*n) matritsa xosil qilish.
+Elementlari faqat 1 dan iborat bo'lgan  (m*n) matritsani xosil qilish
+Elementlari (0, 1) oraliqda tekis taqsimlangan tasodifiy miqdorlar bo'lgan (m*n) matritsani xosil qilish.
+(m*n) o'lchovli faqat nollardan tuzilgan matritsani xosil qilish
+A matritsaning o'lchovi;
+A vektor uzunligi (elementlar soni) aniqlash funksiyasi.
+A matritsa o'lchovlari soni aniqlash funksiyasi ko'rsating?
+A matritsa  bo'sh bo'lsa 1, aks xolda 0 qiymatni beradi.
+...berilgan matritsaning diagonaildan yuqori qismini elementlarini 0 bilan almashtirish.
+...komandasi esa matritsaning diagonalidan pastki qismini nollarga aylantiradi:
+...komandasi  berilgan  matritsaning  diagonalida  turgan elementlarni ekranga chiqaradi:
+...Masssiv elementlarini nollardan iborat qilib tuzish.
+...Masssiv elementlarini birlardan iborat qilib tuzish.
+... Matrisa o'lchamini o'zgartish.
+Matlabda Vector ko'paytma.
+...tenzorli ko'paytmani hosil qilish.
+...teng munosabatli tugunlar chiziqli massivini    hosil qilish.
+... logarifmik to'rli tugunlarni hosil qilish.
+... ikki o'lchamli va uch o'lchamli to'rlar tugunlarini hosil  qilish.
+CHiziqli tenglamalar sistemasini echishning aniq usullaridan keng qo'llaniladigan usullar  .......
+CHiziqli tenglamalar sistemasini echishning taqribiy usullariga quyidagilar kiradi.
+Ma'lumotlarni polinomial approksimatsiya qilish uchun ....... protsedurasidan foydalaniladi.
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x  .......
+Approksimatsiyalash natijasida uzunligi ..... bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat vektor  hosil bo'ladi.
+Ma'lumotlarni .........  qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi.
+Sesions layer - bu  qanaqa  sath?
+Kvadratik parabola  bilan approksimatsiyalash
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda y- ........
+Kubik parabola bilan approksimatsiyalash
+Qaysi  nazariya  imkoniyatlarining  birligi  yuqori    samaradorlik    va  aniqlik talablariga  javob  bera  oladigan,  yangi  singnalni  qayta  ishlash  va  tiklash algoritmlarni  ishlab  chiqish  imkoniyatini  beradi?
+Yaqinlashtirish    usuli  bo'yicha  qanday ishlatiladi.?
+Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x - argumentlar vektori , y- natijalar vektori va n-  ......
+Approksimatsiyalash natijasida uzunligi (n+1) bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat.....  hosil bo'ladi.
+To'rtinchi darajali parabola bilan approksimatsiyalash
+Tasvirlash turi  bo'yicha qanday splaynlar ishlatiladi?
+.....  metodlari  asosida  singnallarni  tiklash  koefsentlarini hisoblanadi.
+....  asosida tiklash koefsentlarini hisoblash modellari va algoritmlari ishlab  chiqiladi
+....   asosida  parallel   hisoblash  strukturasi ishlab  chiqiladi
+Eng  kichik  kvadratlar  usuli  yordamida  signallarni  approksimatsiyalash jarayonini  Matlab  tizimining  ........   funksiyasini  qo'llagan  holda aniqlaymiz
+......  funksiyasini qo'llagan holda natijani vizuallashtirish va yaqinlashish xatoligini aniqlaymiz.
+Matlab dasturida kerakli algoritmni .......  oynasiga tashlaymiz
+Kiruvchi  signallarni  identifikatsiyalashda Interpolyatsiyalash oralig'i qanday keltiriladi.
+Kiruvchi  signallarni  identifikatsiyalashda Vektor interpolyatsiyalash nuqtalarini qanday aniqlaymiz?
+CHiziqli tenglamalar sistemasini echishda iteratsiyalar(ketma-ket yaqinlashish ), Zeydel va kichik kvadratlar usullari qanday usullar hisoblanadi?
+CHiziqli tenglamalar sistemasini echishda Gauss, Kramer va teskari matritsa usullari qanday usullar hisoblanadi?
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B)-Ax=B qanday usul hisoblanadi?
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B,x0) qanday usul hisoblanadi?
+CHiziqli tenglamalar sistemasini echishning Matlab usullarida [x,w]=isqnonneg(...) qanday usul hisoblanadi?
+[x,w,w1]=isqnonneg(...) buyrug'ining vazifasi
+Lagranj  interpolyatsion  ko'phadi  .......  hisoblanadi.
+Lagranj  interpolyatsion  ko'phadi  universal  va  sodda  bo'lishi  bilan  ayrim kamchiliklarga ham ega. Interpolyatsion ko'pxadi bo'yicha funksiya  qiymatini  hisoblash  uchun  bajarilishi  kerak  bo'lgan  amallar  ......
+Lagranj  interpolyatsion  ko'phadida funksiya qiymatlar jadvaliga yana bir qiymat qo'shilsa barcha  ishni  qaytadan  bajarish  kerak  bo'ladi.
+Kamchiliklardan  xoli  bo'lgan interpolyatsion  ko'phad  kim  tomonidan  kashf  qilingan?
+spline(X,Y,Xi) funksiya nima yordamida interpolyatsiyani amalga oshiradi?
+Qaysi  funksiya  kubik  splaynlar  bilan  interpolyatsiyani  amalga  oshiradi?
+Ma'lumotlarni interpolyatsiyalash uchun qanday protsedurasidan foydalaniladi?
+Ma'lumotlarni ......  uchun interp1 protsedurasidan foydalaniladi?
+interp1 protsedurasiga qanday murojaat qilinadi.
+'nearest' metodi qanday interpolyatsiya metodi hisoblanadi?
+'linear' metodi qanday interpolyatsiya metodi hisoblanadi?
+'cubic' metodi qanday interpolyatsiya metodi hisoblanadi?
+'spline' metodi qanday interpolyatsiya metodi hisoblanadi?
+X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  Y=P(x)    aniqlash  masalasi  .......   masalasi deyiladi.
+X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  ......    aniqlash  masalasi  approksimatsiya  masalasi deyiladi.

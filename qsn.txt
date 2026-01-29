@@ -1,218 +1,600 @@
-....bu orginal-ob'ektlar xossalarini ob'ekt-modellarining mos xossalarini tadkik kilish vositasida o'rganish usulidan iborat jarayondir.
-Original ob'ektni model ob'ekt bilan almashtirish va ob'ektlar xossalarini ularning modellari yordamida tadkik kilishga ........ deyiladi.
-Modellar esa modellashtirish nazariyasining ....... tashkil etadi.
-Ilmiy tadkikotlar tarixida dastlabki modellashtirish usullaridan biri .......... usulidir.
-Modellashtirish jarayoni ..... ta elementni o'z ichiga oladi
-.......  deb, odatda, orginalga ekvivalent yoki o'xshash, ammo boshqa  fizik tabiatga ega sistemaga ataladi.
-Abstrakt modellar jumlasiga modellashtirish ob'ektining  tavsiflaydigan ..... ifodalar kiritilishi mumkin. Ular ..... modellar sinfiga tegishli.
-....... berilgan ob'ektning muayyan  xossalarini o'rganish maksadida uning tadqiqotchi-sub'ekt tomonidan qandaydir formal (matematik) sistema yordamida quriladigan  obrazidir.
-........ bu real (moddiy) tadqiq etilayotgan sistemalar(maketlar, tajriba nusxalar). Ular orginal bilan to'liq  adekvatlik(moslik) xususiyatiga ega, ammo qimmat.
-........ natural va matematik modellar majmuasidan iborat. Bunday ko'rinishdagi modellardan  sistema kismining modelini, uning tavsifi murakkab bo'lgani uchun, matematik ifodalab bo'lmagan holda(inson operator modeli) yoki sistemaning bir qismi boshka qismlari bilan o'zaro bog'lanishda tadkik kilinishi kerak bo'lib, ammo ular hali mavjud emas yoki  ularni qo'llash kimmatga tushadigan xolda foydanaliladi (xisoblash poligonlari, boshkaruvning avtomatlashtirilgan tizimi).
-....... fizik tabiati orginal kabi bo'lgan, lekin undan masshtabi bilan farklanadigan sistemalardir(kichiklashtirilgan ob'ektlar,  ob'ektlarning harakatlanuvchi modellari).
-...... deb orginaldan farq qiladigan fizik tabiatga ega bo'lgan, lekin faoliyat jarayoni bilan orginalga o'xshash sistemalarga aytiladi.
-Matematik modellar klasifikatsiyasi asosan necha sinfga ajratiladi.
-Amaliy masalalar bir nechta paketlarga bo'linib, kompyuter algebrasi deb ataluvchi bir necha dasturiy ta'minotlar tarkibiga kiritilgan. Bularga quydagilar kiritiladi.
-Little Mathworks kompaniyasi xodimi tomonidan  Matlabning 4-avlod EHM ga mo'ljallangan PC Matlab versiyasi ishlab chiqildi
-Matlab dasturi kim tomonidan yaratilgan - ?
-Matlab dasturi qachon tomonidan yaratilgan - ?
-70-yillar oxirida yaratilgan Matlab dasturi asosan nechanchi avlod EHM larida ishlash uchun mo'ljallangan edi.
-Bugungi kunda zamonaviy kompyuterlarda Matlabning 4,5,6 va 7 versiyalarni ko'rish mumkin.
-Matlabning qaysi versiyasida 16 bit va 24 bitli RGB ranglar bilan ishlash, yuqori o'lchamli matritsalar bilan ishlash, fazoviy figuralarni chizish faqat sonlar bilan emas, balki matematik formulalar bilan ishlash imkoniyatlari kiritilgan.
-Matlab dasturi ishga tushirilganda unda asosan nechta oyna ko'rinadi:
-.... oynasi MATLAB dagi barcha buyruqlarni paketlarni va kutubxonalani e'lon qilish oynasi hisoblanadi.
-....oynasi dastur tarkibida e'lon qilingan o'zgaruvchilarni daraxt ko'rinishida ifodalab boradi.
-....oynasida esa dasturda bajarilayotgan buyruqlar ketma-ketligi saqlanib qoladi.
-Matlabda ...(saqlash) komandasi bu - ?
-Matlabda ...(yuklash) komandasi bu - ?
-Matlabda ...(kundalik) komandasi bu -
-Ekranni tozalaydi va kursorni bo'sh ekranning yuqori chap qismiga joylashtiradi;
-Kursorni ekranning yuqori chap qismiga qaytaradi.
-Kompleks sonning butun qismini qaysi funksiya hisoblab beradi.
-Kompleks sonning mavxum qismini qaysi funksiya hisoblab beradi.
-Kompleks sonning modulini (kattaligini) qaysi funksiya hisoblab beradi.
-Barcha aniqlangan o'zgaruvchilarni yo'qotish qaysi funksiya bajaradi.
-Matlabda ma'lumotlar faqat bir shaklda, ya'ni ... shaklida tashkil qilinadi.
-inf - bu ...
-NaN - bu ...
-ans - bu ...
-Ma'lumki,  ko'p xollarda tartiblangan sonlar ketma-ketligini shakllantirish zarurati tug'iladi. Bunday ketma-ketliklar grafik chizishda, jadval yaratishda kerak bo'ladi. Ularni xosil qilish uchun matlabda ..... komandasidan (operatoridan) foydalaniladi.
-Matnli izoxlar quyidagi qaysi belgidan keyin yozish mumkin bo'ladi.
-Matlabda ma'lumotlar faqat matritsa shaklida tashkil qilinadi ,buning necha usuli bor.
-Biror A matritsani transponirlash deganda nima tushuniladi.
-Matlabda bir nechta matritsalarni birlashtirish uchun qaysi komandadan foydalanamiz.
-Qaysi komanda A matritsani chapdan o'ngga 180 gradusga ustunlarini almashtirish yo'nalishida buradi.
-Qaysi komanda A matritsani pastdan yuqoriga 180 gradusga qatorlarini almashtirish yo'nalishida buradi.
-Berilgan matritsani soat strelkasiga qarshi 900 ga buruvchi komanda bu...
-Asosiy diagonalda 1, qolgan elementlari 0 bo'lgan (m*n) matritsa xosil qilish.
-Elementlari faqat 1 dan iborat bo'lgan  (m*n) matritsani xosil qilish
-Elementlari (0, 1) oraliqda tekis taqsimlangan tasodifiy miqdorlar bo'lgan (m*n) matritsani xosil qilish.
-(m*n) o'lchovli faqat nollardan tuzilgan matritsani xosil qilish
-A matritsaning o'lchovi;
-A vektor uzunligi (elementlar soni) aniqlash funksiyasi.
-A matritsa o'lchovlari soni aniqlash funksiyasi ko'rsating?
-A matritsa  bo'sh bo'lsa 1, aks xolda 0 qiymatni beradi.
-...berilgan matritsaning diagonaildan yuqori qismini elementlarini 0 bilan almashtirish.
-...komandasi esa matritsaning diagonalidan pastki qismini nollarga aylantiradi:
-...komandasi  berilgan  matritsaning  diagonalida  turgan elementlarni ekranga chiqaradi:
-...Masssiv elementlarini nollardan iborat qilib tuzish.
-...Masssiv elementlarini birlardan iborat qilib tuzish.
-... Matrisa o'lchamini o'zgartish.
-Matlabda Vector ko'paytma.
-...tenzorli ko'paytmani hosil qilish.
-...teng munosabatli tugunlar chiziqli massivini    hosil qilish.
-... logarifmik to'rli tugunlarni hosil qilish.
-... ikki o'lchamli va uch o'lchamli to'rlar tugunlarini hosil  qilish.
-CHiziqli tenglamalar sistemasini echishning aniq usullaridan keng qo'llaniladigan usullar  .......
-CHiziqli tenglamalar sistemasini echishning taqribiy usullariga quyidagilar kiradi.
-CHiziqli tenglamalar sistemasini echishda iteratsiyalar(ketma-ket yaqinlashish ), Zeydel va kichik kvadratlar usullari qanday usullar hisoblanadi?
-CHiziqli tenglamalar sistemasini echishda Gauss, Kramer va teskari matritsa usullari qanday usullar hisoblanadi?
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B)-Ax=B qanday usul hisoblanadi?
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B,x0) qanday usul hisoblanadi?
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida [x,w]=isqnonneg(...) qanday usul hisoblanadi?
-[x,w,w1]=isqnonneg(...) buyrug'ining vazifasi
-Lagranj  interpolyatsion  ko'phadi  .......  hisoblanadi.
-Lagranj  interpolyatsion  ko'phadi  universal  va  sodda  bo'lishi  bilan  ayrim kamchiliklarga ham ega. Interpolyatsion ko'pxadi bo'yicha funksiya  qiymatini  hisoblash  uchun  bajarilishi  kerak  bo'lgan  amallar  ......
-Lagranj  interpolyatsion  ko'phadida funksiya qiymatlar jadvaliga yana bir qiymat qo'shilsa barcha  ishni  qaytadan  bajarish  kerak  bo'ladi.
-Kamchiliklardan  xoli  bo'lgan interpolyatsion  ko'phad  kim  tomonidan  kashf  qilingan?
-spline(X,Y,Xi) funksiya nima yordamida interpolyatsiyani amalga oshiradi?
-Qaysi  funksiya  kubik  splaynlar  bilan  interpolyatsiyani  amalga  oshiradi?
-Ma'lumotlarni interpolyatsiyalash uchun qanday protsedurasidan foydalaniladi?
-Ma'lumotlarni ......  uchun interp1 protsedurasidan foydalaniladi?
-interp1 protsedurasiga qanday murojaat qilinadi.
-'nearest' metodi qanday interpolyatsiya metodi hisoblanadi?
-'linear' metodi qanday interpolyatsiya metodi hisoblanadi?
-'cubic' metodi qanday interpolyatsiya metodi hisoblanadi?
-'spline' metodi qanday interpolyatsiya metodi hisoblanadi?
-X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  ......    aniqlash  masalasi  approksimatsiya  masalasi deyiladi.
-X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  Y=P(x)    aniqlash  masalasi  .......   masalasi deyiladi.
-Ma'lumotlarni polinomial approksimatsiya qilish uchun ....... protsedurasidan foydalaniladi.
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x  .......
-Approksimatsiyalash natijasida uzunligi ..... bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat vektor  hosil bo'ladi.
-Ma'lumotlarni .........  qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi.
-Sesions layer - bu  qanaqa  sath?
-Kvadratik parabola  bilan approksimatsiyalash
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda y- ........
-Kubik parabola bilan approksimatsiyalash
-Qaysi  nazariya  imkoniyatlarining  birligi  yuqori    samaradorlik    va  aniqlik talablariga  javob  bera  oladigan,  yangi  singnalni  qayta  ishlash  va  tiklash algoritmlarni  ishlab  chiqish  imkoniyatini  beradi?
-Yaqinlashtirish    usuli  bo'yicha  qanday ishlatiladi.?
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x - argumentlar vektori , y- natijalar vektori va n-  ......
-Approksimatsiyalash natijasida uzunligi (n+1) bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat.....  hosil bo'ladi.
-To'rtinchi darajali parabola bilan approksimatsiyalash
-Tasvirlash turi  bo'yicha qanday splaynlar ishlatiladi?
-.....  metodlari  asosida  singnallarni  tiklash  koefsentlarini hisoblanadi.
-....  asosida tiklash koefsentlarini hisoblash modellari va algoritmlari ishlab  chiqiladi
-....   asosida  parallel   hisoblash  strukturasi ishlab  chiqiladi
-Eng  kichik  kvadratlar  usuli  yordamida  signallarni  approksimatsiyalash jarayonini  Matlab  tizimining  ........   funksiyasini  qo'llagan  holda aniqlaymiz
-......  funksiyasini qo'llagan holda natijani vizuallashtirish va yaqinlashish xatoligini aniqlaymiz.
-Matlab dasturida kerakli algoritmni .......  oynasiga tashlaymiz
-Kiruvchi  signallarni  identifikatsiyalashda Interpolyatsiyalash oralig'i qanday keltiriladi.
-Kiruvchi  signallarni  identifikatsiyalashda Vektor interpolyatsiyalash nuqtalarini qanday aniqlaymiz?
-....bu orginal-ob'ektlar xossalarini ob'ekt-modellarining mos xossalarini tadkik kilish vositasida o'rganish usulidan iborat jarayondir.
-Original ob'ektni model ob'ekt bilan almashtirish va ob'ektlar xossalarini ularning modellari yordamida tadkik kilishga ........ deyiladi.
-Modellar esa modellashtirish nazariyasining ....... tashkil etadi.
-Ilmiy tadkikotlar tarixida dastlabki modellashtirish usullaridan biri .......... usulidir.
-Modellashtirish jarayoni ..... ta elementni o'z ichiga oladi
-.......  deb, odatda, orginalga ekvivalent yoki o'xshash, ammo boshqa  fizik tabiatga ega sistemaga ataladi.
-Abstrakt modellar jumlasiga modellashtirish ob'ektining  tavsiflaydigan ..... ifodalar kiritilishi mumkin. Ular ..... modellar sinfiga tegishli.
-....... berilgan ob'ektning muayyan  xossalarini o'rganish maksadida uning tadqiqotchi-sub'ekt tomonidan qandaydir formal (matematik) sistema yordamida quriladigan  obrazidir.
-........ bu real (moddiy) tadqiq etilayotgan sistemalar(maketlar, tajriba nusxalar). Ular orginal bilan to'liq  adekvatlik(moslik) xususiyatiga ega, ammo qimmat.
-........ natural va matematik modellar majmuasidan iborat. Bunday ko'rinishdagi modellardan  sistema kismining modelini, uning tavsifi murakkab bo'lgani uchun, matematik ifodalab bo'lmagan holda(inson operator modeli) yoki sistemaning bir qismi boshka qismlari bilan o'zaro bog'lanishda tadkik kilinishi kerak bo'lib, ammo ular hali mavjud emas yoki  ularni qo'llash kimmatga tushadigan xolda foydanaliladi (xisoblash poligonlari, boshkaruvning avtomatlashtirilgan tizimi).
-....... fizik tabiati orginal kabi bo'lgan, lekin undan masshtabi bilan farklanadigan sistemalardir(kichiklashtirilgan ob'ektlar,  ob'ektlarning harakatlanuvchi modellari).
-...... deb orginaldan farq qiladigan fizik tabiatga ega bo'lgan, lekin faoliyat jarayoni bilan orginalga o'xshash sistemalarga aytiladi.
-Matematik modellar klasifikatsiyasi asosan necha sinfga ajratiladi.
-Amaliy masalalar bir nechta paketlarga bo'linib, kompyuter algebrasi deb ataluvchi bir necha dasturiy ta'minotlar tarkibiga kiritilgan. Bularga quydagilar kiritiladi.
-Little Mathworks kompaniyasi xodimi tomonidan  Matlabning 4-avlod EHM ga mo'ljallangan PC Matlab versiyasi ishlab chiqildi
-Matlab dasturi kim tomonidan yaratilgan - ?
-Matlab dasturi qachon tomonidan yaratilgan - ?
-70-yillar oxirida yaratilgan Matlab dasturi asosan nechanchi avlod EHM larida ishlash uchun mo'ljallangan edi.
-Bugungi kunda zamonaviy kompyuterlarda Matlabning 4,5,6 va 7 versiyalarni ko'rish mumkin.
-Matlabning qaysi versiyasida 16 bit va 24 bitli RGB ranglar bilan ishlash, yuqori o'lchamli matritsalar bilan ishlash, fazoviy figuralarni chizish faqat sonlar bilan emas, balki matematik formulalar bilan ishlash imkoniyatlari kiritilgan.
-Matlab dasturi ishga tushirilganda unda asosan nechta oyna ko'rinadi:
-.... oynasi MATLAB dagi barcha buyruqlarni paketlarni va kutubxonalani e'lon qilish oynasi hisoblanadi.
-....oynasi dastur tarkibida e'lon qilingan o'zgaruvchilarni daraxt ko'rinishida ifodalab boradi.
-....oynasida esa dasturda bajarilayotgan buyruqlar ketma-ketligi saqlanib qoladi.
-Matlabda ...(saqlash) komandasi bu - ?
-Matlabda ...(yuklash) komandasi bu - ?
-Matlabda ...(kundalik) komandasi bu -
-Ekranni tozalaydi va kursorni bo'sh ekranning yuqori chap qismiga joylashtiradi;
-Kursorni ekranning yuqori chap qismiga qaytaradi.
-Kompleks sonning butun qismini qaysi funksiya hisoblab beradi.
-Kompleks sonning mavxum qismini qaysi funksiya hisoblab beradi.
-Kompleks sonning modulini (kattaligini) qaysi funksiya hisoblab beradi.
-Barcha aniqlangan o'zgaruvchilarni yo'qotish qaysi funksiya bajaradi.
-Matlabda ma'lumotlar faqat bir shaklda, ya'ni ... shaklida tashkil qilinadi.
-inf - bu ...
-NaN - bu ...
-ans - bu ...
-Ma'lumki,  ko'p xollarda tartiblangan sonlar ketma-ketligini shakllantirish zarurati tug'iladi. Bunday ketma-ketliklar grafik chizishda, jadval yaratishda kerak bo'ladi. Ularni xosil qilish uchun matlabda ..... komandasidan (operatoridan) foydalaniladi.
-Matnli izoxlar quyidagi qaysi belgidan keyin yozish mumkin bo'ladi.
-Matlabda ma'lumotlar faqat matritsa shaklida tashkil qilinadi ,buning necha usuli bor.
-Biror A matritsani transponirlash deganda nima tushuniladi.
-Matlabda bir nechta matritsalarni birlashtirish uchun qaysi komandadan foydalanamiz.
-Qaysi komanda A matritsani chapdan o'ngga 180 gradusga ustunlarini almashtirish yo'nalishida buradi.
-Qaysi komanda A matritsani pastdan yuqoriga 180 gradusga qatorlarini almashtirish yo'nalishida buradi.
-Berilgan matritsani soat strelkasiga qarshi 900 ga buruvchi komanda bu...
-Asosiy diagonalda 1, qolgan elementlari 0 bo'lgan (m*n) matritsa xosil qilish.
-Elementlari faqat 1 dan iborat bo'lgan  (m*n) matritsani xosil qilish
-Elementlari (0, 1) oraliqda tekis taqsimlangan tasodifiy miqdorlar bo'lgan (m*n) matritsani xosil qilish.
-(m*n) o'lchovli faqat nollardan tuzilgan matritsani xosil qilish
-A matritsaning o'lchovi;
-A vektor uzunligi (elementlar soni) aniqlash funksiyasi.
-A matritsa o'lchovlari soni aniqlash funksiyasi ko'rsating?
-A matritsa  bo'sh bo'lsa 1, aks xolda 0 qiymatni beradi.
-...berilgan matritsaning diagonaildan yuqori qismini elementlarini 0 bilan almashtirish.
-...komandasi esa matritsaning diagonalidan pastki qismini nollarga aylantiradi:
-...komandasi  berilgan  matritsaning  diagonalida  turgan elementlarni ekranga chiqaradi:
-...Masssiv elementlarini nollardan iborat qilib tuzish.
-...Masssiv elementlarini birlardan iborat qilib tuzish.
-... Matrisa o'lchamini o'zgartish.
-Matlabda Vector ko'paytma.
-...tenzorli ko'paytmani hosil qilish.
-...teng munosabatli tugunlar chiziqli massivini    hosil qilish.
-... logarifmik to'rli tugunlarni hosil qilish.
-... ikki o'lchamli va uch o'lchamli to'rlar tugunlarini hosil  qilish.
-CHiziqli tenglamalar sistemasini echishning aniq usullaridan keng qo'llaniladigan usullar  .......
-CHiziqli tenglamalar sistemasini echishning taqribiy usullariga quyidagilar kiradi.
-Ma'lumotlarni polinomial approksimatsiya qilish uchun ....... protsedurasidan foydalaniladi.
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x  .......
-Approksimatsiyalash natijasida uzunligi ..... bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat vektor  hosil bo'ladi.
-Ma'lumotlarni .........  qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi.
-Sesions layer - bu  qanaqa  sath?
-Kvadratik parabola  bilan approksimatsiyalash
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda y- ........
-Kubik parabola bilan approksimatsiyalash
-Qaysi  nazariya  imkoniyatlarining  birligi  yuqori    samaradorlik    va  aniqlik talablariga  javob  bera  oladigan,  yangi  singnalni  qayta  ishlash  va  tiklash algoritmlarni  ishlab  chiqish  imkoniyatini  beradi?
-Yaqinlashtirish    usuli  bo'yicha  qanday ishlatiladi.?
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x - argumentlar vektori , y- natijalar vektori va n-  ......
-Approksimatsiyalash natijasida uzunligi (n+1) bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat.....  hosil bo'ladi.
-To'rtinchi darajali parabola bilan approksimatsiyalash
-Tasvirlash turi  bo'yicha qanday splaynlar ishlatiladi?
-.....  metodlari  asosida  singnallarni  tiklash  koefsentlarini hisoblanadi.
-....  asosida tiklash koefsentlarini hisoblash modellari va algoritmlari ishlab  chiqiladi
-....   asosida  parallel   hisoblash  strukturasi ishlab  chiqiladi
-Eng  kichik  kvadratlar  usuli  yordamida  signallarni  approksimatsiyalash jarayonini  Matlab  tizimining  ........   funksiyasini  qo'llagan  holda aniqlaymiz
-......  funksiyasini qo'llagan holda natijani vizuallashtirish va yaqinlashish xatoligini aniqlaymiz.
-Matlab dasturida kerakli algoritmni .......  oynasiga tashlaymiz
-Kiruvchi  signallarni  identifikatsiyalashda Interpolyatsiyalash oralig'i qanday keltiriladi.
-Kiruvchi  signallarni  identifikatsiyalashda Vektor interpolyatsiyalash nuqtalarini qanday aniqlaymiz?
-CHiziqli tenglamalar sistemasini echishda iteratsiyalar(ketma-ket yaqinlashish ), Zeydel va kichik kvadratlar usullari qanday usullar hisoblanadi?
-CHiziqli tenglamalar sistemasini echishda Gauss, Kramer va teskari matritsa usullari qanday usullar hisoblanadi?
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B)-Ax=B qanday usul hisoblanadi?
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B,x0) qanday usul hisoblanadi?
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida [x,w]=isqnonneg(...) qanday usul hisoblanadi?
-[x,w,w1]=isqnonneg(...) buyrug'ining vazifasi
-Lagranj  interpolyatsion  ko'phadi  .......  hisoblanadi.
-Lagranj  interpolyatsion  ko'phadi  universal  va  sodda  bo'lishi  bilan  ayrim kamchiliklarga ham ega. Interpolyatsion ko'pxadi bo'yicha funksiya  qiymatini  hisoblash  uchun  bajarilishi  kerak  bo'lgan  amallar  ......
-Lagranj  interpolyatsion  ko'phadida funksiya qiymatlar jadvaliga yana bir qiymat qo'shilsa barcha  ishni  qaytadan  bajarish  kerak  bo'ladi.
-Kamchiliklardan  xoli  bo'lgan interpolyatsion  ko'phad  kim  tomonidan  kashf  qilingan?
-spline(X,Y,Xi) funksiya nima yordamida interpolyatsiyani amalga oshiradi?
-Qaysi  funksiya  kubik  splaynlar  bilan  interpolyatsiyani  amalga  oshiradi?
-Ma'lumotlarni interpolyatsiyalash uchun qanday protsedurasidan foydalaniladi?
-Ma'lumotlarni ......  uchun interp1 protsedurasidan foydalaniladi?
-interp1 protsedurasiga qanday murojaat qilinadi.
-'nearest' metodi qanday interpolyatsiya metodi hisoblanadi?
-'linear' metodi qanday interpolyatsiya metodi hisoblanadi?
-'cubic' metodi qanday interpolyatsiya metodi hisoblanadi?
-'spline' metodi qanday interpolyatsiya metodi hisoblanadi?
-X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  Y=P(x)    aniqlash  masalasi  .......   masalasi deyiladi.
-X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  ......    aniqlash  masalasi  approksimatsiya  masalasi deyiladi.
+"12 минг йилдан сўнг эзгулик яратган, хайрли иш қилган инсонлар ёвузлик руҳларидан қутуладилар", деб қайси таълимотда айтилган
+"Ўз даврининг Птоломейи" номи билан шуҳрат топган олимни аниқланг
+"Ўзбекистон Республикаси Олий мажлисининг Сенати тўғрисида"ги Конституциявий қонун қачон қабул қилинган
+"Ўзбекистон Республикаси давлат мустақиллиги асослари тўғрисида"ги қонунга Конститусиявий Қонун мақоми қачон берилган
+"Ўрта Осиёлик меҳнатсевар одам чидамлиги, ишга меҳри, ўз кучини сидқидилдан сарфлаши ва меҳнатда тобланганлиги, айни маҳалда ақл-заковати билан ажойиб ибрат намунасидир". Юқоридаги сўзлар муаллифини аниқланг.
+"Авесто" сўзининг маъносини аниқланг.
+"Авесто"да ёзилишича Аҳурамазда билан одамлар ўртасидаги воситачи бўлган илоҳни аниқланг
+"Ал-Изоҳ" журнали қуйидаги қайси фирқанинг ғояларини ифодалаган
+"Араб ва ғайриараблар устози", "Хоразм фахри" каби шарафли номлар билан улуғланган олимнинг номини аниқланг.
+"Аёллар исёни" бўлиб ўтган шаҳарни аниқланг.
+"Бобурнома"да "Ошлиги вофир, меваси фаровон, қовун ва узуми яхши бўлур" деб қайси шаҳар ҳақида маълумот берилган
+"Буюк ипак йўли" атамасининг асосчиси ким
+"Жалолиддин Мангуберди" ордени қачон таъсис этилган
+"Жомиъ ас-Саҳиҳ" асарига киритилган ҳадислар сонини аниқланг
+"Занд" деганда нимани тушунасиз
+"Илм инсон учун ғоят олий ва муқаддас бир фазилатдир" жумласи ким томонидан айтилган
+"Маҳаллий давлат ҳокимияти тўғрисида"ги қонун қачон қабул қилинди
+"Мовароуннаҳрда Самарқанд ва Кеш қўрғонидин сўнгра мундин улуғроқ қўрғон йўқтур". Ушбу таъриф қайси ўрта аср шаҳри ҳақида
+"Муаллимус-соний" номи билан шуҳрат топган Ўрта Осиёлик алломани аниқланг.
+"Нажот" газетасининг муҳарририни аниқланг.
+"Олтин олов ўлкаси" китобида қайси қадимги давлат ҳақида маълумотлар келтирилган
+"СамКочавто" қўшма корхонаси ишга тушган санани аниқланг.
+"Соҳиби адл" номи билан улуғланган ҳукмдорни аниқланг
+"Тараққий" газетаси кимнинг таҳрири остида чоп этилган
+"Тарих миллатларнинг ўтмишини, тараққиётини ҳамда таназуллининг сабабларини ўрганатурғон илмдир" деган сўзлар кимга тегишли
+"Туркистон" асари кимнинг қаламига мансуб
+"Уламо Жамияти" ва "Шўрои Исломия" ўртасидаги келишмовчилик бизнинг умумий курашимизни заифлаштирмоқда ва ишларимизни чувалаштирмоқда", деб хотираларида ёзиб қолдирган шахсни аниқланг.
+"Учқун" газетасини нашр эттирилишида жонбозлик кўрсатган арбобни аниқланг.
+"Фарғона Муваққат Мухторият ҳукумати" қачон ва ким бошчилигида тузилган
+"Чор ҳукуматини йўқотиш жадидларнинг тилагида бор эди. Сиёсий вазифамиз ва  мақсадимиз ҳам шундан иборат бўлиши яширин эмас" деб ким айтиб ўтган
+"Чоч элчиси оғиз очди" деган жумла қаердан топилган хатда учрайди
+"Шулен" номли озиқ-овқат солиғи мавжуд бўлиб, у давлат хазинаси учун олинганлиги тарихдан маълум. ХIII аср учун хос бўлган бундай солиқ турининг миқдори қайси жавобда тўғри кўрсатилган
+"Эшон" диний унвони қайси ҳукмдор томонидан бекор қилинган
+"Қабиласининг исми ва етти отасининг отини билмай турғонларни "қул марқуқ" дерлар" сўзлари ким томондан айтилган
+"Қасоскор" партизанлар бригадаси таркибидаги Жонибек Отабоев бошчилик қилган бўлим қайси урушда фаол иштирок этган
+"Қипчоқхон тарихи" асарининг муаллифини аниқланг.
+"Қорақалпоқлар саҳродаги биринчи шоир ҳам қўшиқчилардир, шундан кейин қирғизлар ва туркманлар". Ушбу сўзлар муаллифи кўрсатилган жавобни топинг.
+"Қўқондан Фарғонагача" ўзбек тилидаги илк саёҳатнома муаллифини аниқланг.
+"Ҳар бир давлатнинг асоси ва ҳар қандай мамлакатнинг пойдевори адолат ва одил судловга таянади" деган сўзлар кимга тегишли еканлигини аниқланг.
+1172-1200 йилларда Хоразмшоҳлар давлатини ким бошқарди
+1187-1193 йилларда Нишопур, Рай ва Марв шаҳарларини босиб олган Хоразмшоҳ қайси жавобда тўғри кўрсатилган
+1221 йилда Чингизхон билан Жалолиддин ўртасидаги уч кунлик ҳал қилувчи жанг қайси дарё атрофида бўлиб ўтди
+1360-1361 йилларда Мовароуннаҳрдаги сиёсий вазиятдан фойдаланиб, уни бўйсундиришга ҳаракат қилган Мўғулистон хонини аниқланг.
+1371-1390 йиллар давомида Амир Темур Мўғулистонга нечта юриш қилди
+1446 йилда Дашти Қипчоқ ҳукмдори Абулхайрхон Сирдарёнинг ўрта оқимидаги шаҳарларни босиб олиб, ўз давлати пойтахтини қаерга кўчирган эди
+1451 йилда Абулхайрхоннинг Мовароуннаҳр юришининг энг муҳим ҳодисаси, бу нима эди
+1506 йилда Шайбонийхон қўшинлари томонидан қайси шаҳар эгалланган
+1507 йилда ўтказилган пул ислоҳотининг моҳияти қайси жавобда тўғри берилган
+1515-1516 йилларда қуриб битказилган меъморий ёдгорликни аниқланг
+1620-1675 йилларда Россиядан Ўрта Осиё хонликларига неча марта элчилар юборилган
+1713 йилда Астраханга  Хива хонлигидан ким элчи бўлиб борган
+1832 йилда Ўрта Осиёга иккинчи марта юборилган инглиз элчиларининг бошлиғи А.Бёрнс ўзини ким деб таништирган
+1839 йил инглизлар Ўрта Осиё хонликларига ўз айғоқчиларини юбориб туриш мақсадида қаерда ўз қароргоҳини вужудга келтирди
+1842 йил декабрда "Мажбуриятлар акти" деб аталувчи шартнома қайси давлатлар ўртасида имзоланга
+1844-1864 йилларда Ўрта Осиё хонликларининг Россия ташқи савдосидаги улуши неча фоизни ташкил этганлигини аниқланг.
+1852 йилда Перовский қаерни босиб олишга уриниб, муваффақиятсизликка учради
+1864 йилда Бухоро амирлигининг Ўрта Осиё-Росия савдо муносабатларидаги улуши тўғри кўрсатилган қаторни топинг.
+1865 йил 6 августда қабул қилинган "Туркистон вилоятини идора қилиш тўғрисидаги Муваққат Низом"га кўра ҳокимиятни ташкил этувчи тизим қандай номда юритиладиган бўлди
+1865 йилда Сирдарё ва Янги Қўқон чизиқлари орасида тузилган вилоятни аниқланг.
+1867 йил июл ойида ташкил этилган Туркистон генерал-губернаторлиги дастлаб қайси вилоятлардан ташкил топган эди
+1867 йилда ташкил топган Туркистон генерал-губернаторлиги маъмурий жиҳатдан нечта вилоятдан иборат еди
+1868-1871 йилларда барпо қилинган суғориш иншоотини аниқланг.
+1871-1893 йилларда фаолият кўрсатган илмий жамиятни аниқланг.
+1875 йил 4 сентябрда Чор Россияси қўшинлари .... босиб олди.
+1885 йилдаги Восеъ қўзғолони қаерда бўлиб ўтган
+1886-йилги «Туркистон ўлкасини идора қилиш тўғрисидаги Низом»нинг асосий мақсади нимадан иборат эди
+1888 йилда Бухоро амирлигининг қайси беклигида қўзғолон бўлиб ўтган
+1896 йилда Тошкентда қандай воқеа содир бўлган
+1917 йил 18 мартда жадидларнинг Бухородаги намойишига кимлар раҳномолик қилишган
+1917 йил 6 декабрда Тошкентда 60000 кишилик митинг ўтказилганлиги ҳақида қайси газета хабар берган
+1917 йил Туркистондаги пахта тозалаш корхоналарининг кўпчилиги қайси вилоятда эди
+1917 йилда Туркистон ўлкасида қанча пахта тозалаш заводи бўлган
+1919 йил ёзидан Туркистон аҳолиси ялпи мажбурий меҳнатга тортилади. Ўшанда  қанчагача бўлган ёш чекланган деб ҳисобланди
+1922 йилда Туркистон, Бухоро ва Хоразмдан 70 га яқин ёшлар қайси хорижий давлатга ўқиш учун юборилган
+1923 йилнинг октябрида ўтган IV Бутун Хоразм Халқ қурултойида Хоразм Республикаси Конститусиясига киритилган ўзгартиришлардан сўнг унинг асосий ғояси қандай тамойиллардан иборат бўлди
+1927 йилда қайси вилоятда ер-сув ислоҳоти ўтказилганлигини аниқланг.
+1935 йил халқ рақсининг бутунжаҳон фестивали қаерда бўлиб ўтди
+1941 йил ноябридан 1942 йил мартигача Ўзбекистонда нечта миллий ҳарбий  бригада тузилган
+1943 йил 28 сентябрда Днепр учун жангларда қатнашган ва Днепрнинг ғарбий қирғоғига биринчилар қаторида ўтган ўзбек жангчисини аниқланг.
+1977 йилда ташкил этилган шаҳарни аниқланг.
+1992 йил 10 декабрда Олий Кенгашнинг ўн биринчи сессиясида қабул қилинган қонун
+1992 йилда қабул қилинган Ўзбекистон Республикаси Конститусияси неча боб ва моддалардан таркиб топган
+1993 йили бир қатор давлатларнинг Брюсселда бўлиб ўтган учрашувида ТРАСЕКАни барпо этиш масаласи кўриб чиқилган еди. Мазкур атаманинг моҳияти нимани англатади
+1995 йил Тошкентда ўтказилган Марказий Осиёда Минтақавий хавфсизлик муаммоларига бағишланган халқаро семинар қайси халқаро ташкилот томонидан уюштирилган эди
+1996 йилда "ЎзДЕУ" корхонаси автомобиллар ишлаб чиқарганда даставвал қайси русумдаги автомобилларни чиқарди
+1997 йилдан бошлаб ҳар .....йилда Самарқандда «Шарқ тароналари» Халқаро фестивалини ўтказиш анъанага айланди.
+1997 йили Ўзбекистон иқтисодиётида қандай халқаро миқёсдаги ўзгариш юз берган эди
+2000-йил Камолиддин Беҳзод таваллудининг неча йиллиги нишонланди
+2014 йил 21 декабрда Ўзбекистон Республикаси Олий Мажлиси Қонунчилик палатасига бўлиб ўтган  умумхалқ сайлови натижалари бўйича энг кўп депутатлик ўрнига эга бўлган сиёсий партияни аниқланг
+2016 йил 4-декабрда ўтказилган Ўзбекистон Президенти сайловида Ш.М.Мирзиёев қанча фоиз овоз олди.
+2016 йил ўтказилган сўровномада  Дунёнинг энг бахтли мамлакатлари деган мавзуда Ўзбекистон нечанчи ўринни эгаллади.
+2017 йил Ўзбекистон Республикасида қандай йил деб ном берилди.
+769-783 йилларда Мовароуннаҳрда бўлиб ўтган "Оқ кийимлилар" қўзғолонининг енгилишидаги биринчи асосий сабабни аниқланг.
+996 йилда Мовароуннаҳрга томон ҳужум бошлаган Наср ибн Али қайси сулола вакили еди?
+V аср охири- VI аср бошларида "Ҳамма баробар бўлсин", деган ғояни илгари сурган халқ қўзғолони раҳбарини аниқланг.
+VI асрда "шод" ....маъносини билдирган
+VII асрнинг биринчи ярмида Ғарбий турк ҳоқонлиги билан Хитой ўртасида иқтисодий алоқалар авж олган. Бу даврда Хитойга неча марта савдо элчилари юборилган
+VII-VIII асрларда қайси давлат  найчилари билан машҳур бўлган
+XIII асрда кимнинг бошқаруви даврида Мовароуннаҳрда пул ислоҳоти ўтказилди
+XVIII асрда Самарқандда нечта мадраса фаолият кўрсатган эди
+XX асрнин  20-йиллари бошида Самарқандда очилган мактабга ким мудирлик қилган
+XX-асрнинг 60-йилларида Ўзбекистоннинг қайси вилоятлари ҳудудларида янги нефт конлари ўзлаштирилди
+«Ўзбекистон Республикасининг Давлат мустақиллиги асослари тўғрисида»ги қонун неча моддадан иборат
+«Зинжантроп одами» қайси давлат ҳудудидан топилган
+«Маснавий-маънавий» достонининг муаллифини кўрсатинг
+«Менинг миллатим - менинг жон-у дилим!» номли ҳикматли сўзлар муаллифи ким
+«Мусулмон Ренессанси» асарининг муаллифини кўрсатинг
+«Неандертал одами» топилган Неандертал водийси қайси давлат ҳудудида жойлашган
+«Питекантроп» атамасининг таржимасини кўрсатинг
+«Ренессанс» атамаси қайси тилдан олинган
+«Сиёсатнома» асарининг муаллифини кўрсатинг
+«Тошкент трактор заводи» акционерлик жамияти ва «Америка мобил групп» фирмаси ҳамкорликда қайси лойиҳа асосида мини тракторлар ва ускуналар ишлаб чиқарилмоқда
+«Туркистон - туркистонликлар ватанидир, ундан бошқа ҳеч ким унинг устидан ҳукмронлик қилишга ҳақли эмас!» деган сўзлар кимга тегишли
+«Туркистон - умумий уйимиз» ғояси ким томонидан  илгари сурилган
+«Туркистон ўлкаси бошқа ўлкаларга нисбатан тарихий ўтмиши, этнографик хусусиятларини ҳисобга олган ҳолда алоҳида эътибор берилишини талаб қилади» деган фикрлар кимга тегишли
+«Уйғониш» атамасини ким биринчи бўлиб ўз асарларида ишлатади
+«Халқ давлат ҳокимиятининг манбаидир. Унинг хоҳиш-иродаси давлат сиёсатини белгилаб беради» деган фикрлари биринчи Президент И.А.Каримовнинг қайси асарида келтирилган
+«Хоразмнинг қадимги даврдан ҳозирги кунгача бўлган тарихи» асарининг муаллифи ким
+«Шуни очиқ айтиш керакки, у пайтда Ўзбекистон бир ёқлама иқтисодиётга марказга бутунлай қарам, издан чиққан иқтисодиётга эга бўлган ярим мустамлака мамлакат қаторига айланган эди.» Ушбу жумлалар И.А.Каримовнинг қайси асаридан олинган
+«Қуёш соати ҳақида рисола» асарининг муаллифини кўрсатинг
+«Ҳақ олинур,  берилмас!» ушбу ҳикматли сўзнинг муаллифи ким
+Ёввойи ҳайвонларни хонакилаштириш қайси даврдан бошланади
+Ўзбек мусиқали театрига қачон асос солинган.
+Ўзбек тилида босмадан чиққан, қадим замонлардан бошлаб Туркистондаги воқеаларнинг дунёвий хроникаси баён этилган тарих бўйича илк асарни аниқланг.
+Ўзбек тилидаги илк босма тўплам қачон чоп этилган ва у қандай номланган
+Ўзбек халқи аждодларининг илк давлатчилик тизимига ўтиш жараёни қачон бошланади
+Ўзбек халқи этногенези нечта асосий босқичга бўлинади
+Ўзбек халқи этногенезининг тўртинчи босқичи қайси даврга тўғри келади
+Ўзбекистон Ресбуликасининг “Фуқаролар сайлов ҳуқуқларининг  кафолатлари тўғрисида”ги Қонун қачон қабул қилинди
+Ўзбекистон Республикаси  Президенти И.А.Каримов қачон Ўзбекистон Фанлар Академиясининг академиги қилиб сайланган
+Ўзбекистон Республикаси Биринчи Президенти И.А.Каримов ташаббуси билан 2015 йил Республикамизда қандай йил деб эълон қилинди
+Ўзбекистон Республикаси Конститусияси қабул қилинган санани аниқланг
+Ўзбекистон Республикаси Конститусиясининг ХХ боби нимага бағишланган
+Ўзбекистон Республикаси Олий Мажлиси Сенатининг биринчи мажлиси қачон очилди.
+Ўзбекистон Республикаси Президенти И.А.Каримовнинг "Юксак маънавият-енгилмас куч" номли  китоби нашр қилинган йилни аниқланг.
+Ўзбекистон Республикаси Президенти сайлови тўғрисида”ги Қонун қачон қабул қилинган
+Ўзбекистон Республикаси Президенти сайловларини қандай комиссия амалга оширади
+Ўзбекистон Республикаси Президентининг "Маҳалла" хайрия жамғармасини ташкил этиш тўғрисидаги фармони эълон қилинган санани аниқланг
+Ўзбекистон Республикаси биринчи Президенти И. Каримовнинг "Хоразм Маъмун академиясини қайтадан ташкил этиш тўғрисида"ги фармони қабул қилинган санани аниқланг.
+Ўзбекистон Республикаси биринчи Президенти И.А.Каримовнинг "Ўзбекистон ХХI  аср бўсағасида: хавфсизликка таҳдид, тараққиёт кафолатлари ва барқарорлик шартлари" номли асари нашр қилинган йилни аниқланг.
+Ўзбекистон Республикаси фуқаролари неча ёшдан сайлаш ҳуқуқига эга
+Ўзбекистон Республикаси ҳукуматининг қарори билан Заҳириддин Муҳаммад Бобурнинг буюк хотирасини улуғлаш йўлида қандай ишлар амалга оширилган
+Ўзбекистон Республикасида икки палатали парламент шакллангандан сўнг давлат, суд тизими ва махсус хизматларнинг раҳбарларини, чет эллар халқаро ташкилотлардаги дипломатик вакилларни тайинлаш ва тасдиқлаш Сенат ваколатига ўтказилди. Унга қадар бу ваколатлар қайси органга тегишли еди
+Ўзбекистон Республикасининг  “Фуқаролар сайлов ҳуқуқларининг кафолатлари тўғрисида” ги Қонун неча моддадан иборат
+Ўзбекистон Республикасининг мустақиллигини ёқлаб умумхалқ референдумида қатнашувчиларнинг қанча фоизи овоз берди
+Ўзбекистон ССРдаги Давлат режа қўмитаси ўрнига ҳозирда фаолият юритаётган қайси вазирлик тузилган
+Ўзбекистон биринчи Президенти И.А.Каримов асарларининг иккинчи жилди қандай номланади
+Ўзбекистон биринчи Президенти И.Каримовнинг танланган асарлар тўпламининг 4-жилди қандай номланади
+Ўзбекистон биринчи юртбошиси Ислом Каримовнинг "Ўзбекистон ХХI асрга интилмоқда" номли рисоласида кўрсатилган устувор йўналишларнинг биринчисини белгиланг
+Ўзбекистон мустақиллигини хорижий мамлакатлардан биринчи бўлиб қайси бири тан олган еди
+Ўзбекистон олтин захиралар бўйича дунёда нечанчи ўринда туради
+Ўзбекистон пойтахти 1930 йилда қайси шаҳардан Тошкентга кўчирилган
+Ўзбекистон қадимги тарихини ўрганишдаги асосий ёзма манбалар
+Ўзбекистон қишлоқ хўжалигида 1939 йилга келиб қандай ўзгариш юз берди
+Ўзбекистонда «Кадрлар тайёрлаш миллий дастури»нинг ташаббускори ва ташкилотчиси сифатида Москвадаги Халқаро Фанлар академиясининг фахрий аъзоси дипломига ким сазовар бўлган
+Ўзбекистонда Наврўз байрамини нишонлашга нечанчи йилда расмий мақом берилган?
+Ўзбекистонда ХХ аср 70-йилларида вужудга келган шаҳарларни аниқланг.
+Ўзбекистонда ХХ асрнинг 20-йилларида ўтказилган ер-сув ислоҳотлари уч босқичда амалга оширилган бўлиб, иккинчи босқич қаерда бўлиб ўтди
+Ўзбекистонда дастлабки пахта териш машиналари қачон чиқарилган
+Ўзбекистонда ер-сув ислоҳоти неча босқичда ўтказилган
+Ўзбекистонда фуқаро ….. ёшга тўлгандан сўнг вилоят, туман ва шаҳар кенгашларига депутат этиб сайланиш ҳуқуқига эга бўлади.
+Ўзбекистондаги энг қадимий шаҳарлардан ҳисобланган Афросиёб мил. авв.....асрларда бунёд этилган
+Ўзбекистоннинг жанубидаги бронза даврига оид қадимги деҳқончилик билан шуғулланган аҳоли манзилини топинг.
+Ўзбекистоннинг янги тарихи маркази қачон ташкил этилган эди
+Ўзи ўйламаган ҳолда Буюк ипак йўлига асос солган тарихий шахсни ким
+Ўрта Осиё аҳолиси тарихини ўрганишда қимматли манба ҳисобланган Онгин битиги қаердан топилган
+Ўрта Осиё олимлар жамияти қачон тузилган
+Ўрта Осиё тарихига доир энг қадимги манбани аниқланг
+Ўрта Осиё ҳудудида ўрта палеолит даврида...
+Ўрта Осиё-Марказ газ қувури қачон ишга туширилган
+Ўрта Осиёда хом ғиштдан кўп хонали уй-жойлар қайси даврида пайдо бўлган.
+Ўрта Осиёда хон ва шаҳзодалар ўртасидаги ички муносабатлар масаласи билан ким шуғулланган
+Ўрта Осиёда қайси шаҳарсозлик маданияти шаҳар-давлат кўринишига намуна бўла олади?
+Ўрта Осиёда қачон кичик-кичик  пахса ва сомонли лойсовуқ уйлар қурилган
+Ўрта Осиёлик қайси машҳур олимнинг қабри Ғазнада жойлашган
+Ўрта Осиёлик қайси ҳарбий саркарда мўғул босқинчиларига қарши нисбатан муваффақиятли кураш олиб борган
+Ўрта аср табиий фанларида "зиж" атамаси кенг ишлатилган. У қандай маънони англатар еди
+Ўрта аср шарқида мантиқ илмининг биринчи устози ким ҳисобланади
+Ўрта асрлар даври тарихида шарқнинг қуйидаги қайси  ҳукмдори  Ғарбда "католик динининг ҳомийси" сифатида шуҳрат қозонган еди
+Ўрта асрларда экин майдонини ўлчаш учун қўлланиладиган юза ўлчов бирлигини аниқланг.
+Ўрта асрларда Қорақолпоқ шаҳарларидан қайси бири Орол ва Хива оралиғидаги савдо маркази ҳисобланган
+Ўрта асрлардаги "ҳачи" атамасининг маъноси нима
+Ўрта асрлардаги Дасин қайси шаҳарнинг номи саналади
+Ўрта палеолит даври маданиятига оид манзилгоҳни аниқланг.
+А.Асқаров фикрича ўзбек халқининг миллат тарихи қайси даврдан бошланади?
+Аббосийларнинг халифалик тахтига чиқишида кимнинг хизмати катта бўлган
+Абдуллахон II га қадар қайси йилларда шайбонийлар давлатида пул ислоҳотлари ўтказилган
+Абрўй бошчилигидаги аҳоли қаерда қўзғолон кўтарган
+Абу Али Ибн Сино Шарқда қандай ном билан шуҳрат топган
+Абу Мансур ал-Мотуридий қаламига мансуб асарни аниқланг
+Абу Муслим қайси халифа буйруғи билан қатл этилган
+Абу Наср ал-Фаробий қаерда дафн этилган
+Абу Райҳон Беруний тузган юлдузлар жадвалида нечта юлдуз координаталари ва юлдуз катталиклари қайд этилган?
+Абулғозини ҳокимиятдан четлаштириб ўзини Бухоро амири деб ‘ълон қилган ҳукмдорни аниқланг.
+Авесто"га кўра Ахурамазда томонидан яратилган энг яхши мамлакатлар ва маконлардан бўлган Ванҳви Даити дарёси ортида жойлашган ўлкани белгиланг
+Ал-Асъҳар диний дорулфунунининг талабалари Қуръони каримни Замахшарийнинг "Ал-Кашшоф" асари асосида ўрганадилар. Бу олий ўқув юрти қайси шаҳарда жойлашган
+Амир Исмоил ўзининг кучли қўшинларини назарда тутиб, "Токи мен тирик эканман, Бухоро вилоятининг девори мен бўламан", - деб айтган экан. Буни қайси тарихчи ёзиб қолдирган
+Амир Насрулло қўшинида аскарга тўланган маош миқдорини аниқланг.
+Амир Насрулло ҳукмронлиги даврида қайси ҳудудларда унга қарши бош кўтаришлар авж олган эди
+Амир Темур беш йиллик уруши давомида эгаллаган ҳудудларни топинг.
+Амир Темур билан кўплаб Европа давлатлари ҳукмдорлари элчилик алоқалари ўрнатган. Шулардан бири Кастилия қироли Генрих III эди. Кастилия ҳозирги қайси Европа давлати ҳисобланади
+Амир Темур ва Боязид ўртасидаги “Анкара жанги”да ҳар икки томондан ҳаммаси бўлиб қанча аскар қатнашади
+Амир Темур ва темурийлардан сўнг  Туронзамин ҳукмдорларидан қайси бири бутун ўлкани бирлаштириб, қудратли давлат бунёд этишга муваффақ бўлган
+Амир Темур давлати марказий маъмурияти бошида нечта вазир бўлган
+Амир Темур давлатининг марказий ҳокимият тизимида солиқ ундирувчи ким бўлган
+Амир Темур даврида аскарий қисмларни вилоятлардан тўплаш билан шуғулланган амалдорни аниқланг?
+Амир Темур салтанатининг пойтахтини аниқланг
+Амир Темур фаолиятининг дастлабки йилларида унга содиқ бўлган ......нафар кишига амирлик мартабасини беради
+Амир Темур ёди хотирасига атаб бунёд етилган Темурийлар тарихи давлат музейининг тантанали очилиш маросими қачон бўлиб ўтди
+Амир Темур ҳайкали биринчи бўлиб қаерда ва қачон ўрнатилди
+Амир Темур ҳукмронлиги даврида "Қуббатул илм вал адаб" унвонига эга бўлган шаҳарни аниқланг.
+Амир Темур ҳукмронлиги даврида расмий равишда тахтни ким бошқарган
+Амир Темурнинг "бўй хушуни" деб номланган сараланган қўшини неча қисмдан иборат эди
+Амир Темурнинг давлат ишлари ва ҳарбий юришларидаги асосий таянчлари кимлар бўлган
+Амир Темурнинг пирларидан бирини аниқланг
+Амир Темурнинг Ҳиндистон устига қилган уруши қайси даврда бўлиб ўтди
+Амударё бўлими вилоят мақомини олганидан кейин, вилоят маркази этиб белгиланган шаҳарни аниқланг.
+Араб халифалиги даврида даромаднинг учдан бир қисми миқдорида олинган солиқ
+Араблар Чағониёнига қачон ҳужум қилдилар
+Археологлар ..... ўрганишда биринчи марта авиациядан фойдаланишган
+Асосан найзасимон ўткир пайконлардан иборат овчилик қуроллари инсоният тарихининг қайси даврига хос
+Ахомонийлар давлати қайси даврларда фаолият кўрсатган
+Ахомонийлар салтанатини ким барпо этди
+Аштархонийлар давлатида тахтнинг вориси - бўлажак хон қайси вилоятга вақтинча ноиб қилиб тайинланади
+Аштархонийлар кимларнинг авлоди саналган
+Беруний маълумотларига кўра Хоразм пойтахтини Кат шаҳрига кўчирган ҳукмдорни аниқланг.
+Бетига шоҳ ва орқасига суворий тасвири туширилган кумуш тангалар қайси сулолага мансуб
+Бизга маълумки мамлакатимиз иқтисодиётига чет эл сармоялари кенг жалб этилмоқда. Уларнинг ҳажми 1992-1997 йилларда қанча миқдорни ташкил этган
+Биринчи Президент И.А.Каримов ташаббуси билан 1999 йил қандай йил деб эълон қилинди
+Биринчи Президент И.А.Каримов ташаббуси билан 2005 йил қандай йил деб эълон қилинди
+Биринчи Президент И.А.Каримов ташаббуси билан 2008 йил қандай йил деб эълон қилинди
+Биринчи Президент И.А.Каримов ташаббуси билан 2010 йил қандай йил деб эълон қилинди
+Биринчи Президент И.А.Каримов ташаббуси билан 2013 йил қандай йил деб эълон қилинди
+Биринчи Президент И.А.Каримов ташаббуси билан 2014 йил Республикамизда қандай йил деб эълон қилинди
+Биринчи Президент Ислом Каримовнинг "Биз келажагимизни ўз қўлимиз билан қурамиз" китоби, унинг танланган асарларининг нечанчи жилдига кирган
+Биринчи Президентимиз И.А. Каримовнинг «Она юртимиз бахту иқболи ва буюк келажаги йўлида хизмат қилиш – энг олий саодатдир» номли китобида 2015-йил ЎзЛиДеПнинг VII съездидаги сўзлаган маърузаси қандай номланади
+Биринчи Президентимиз И.А. Каримовнинг «Она юртимиз бахту иқболи ва буюк келажаги йўлида хизмат қилиш – энг олий саодатдир» номли китобида ҳозирда мамлакатимиз ялпи ички маҳсулотининг неча фоизини кичик бизнес ва хусусий тадбиркорлик ишлаб чиқараётганлиги айтилган 
+Биринчи Президентимиз И.А. Каримовнинг «Она юртимиз бахту иқболи ва буюк келажаги йўлида хизмат қилиш – энг олий саодатдир» номли китобида “Ангрен-Поп” электирлаштирилган темир йўлининг таркибий қисми бўлмиш, тоғлар оралаб ўтувчи тунел узунлиги бўйича дунё миқёсида нечанчи ўринда деб кўрсатилган
+Биринчи Президентимиз И.Каримовнинг 8-декабр Ўзбекистон Республикаси Конститусияси қабул қилинганлигининг 21 йиллиги муносабати билан «Амалга ошираётган ислоҳотларимизни янада чуқурлаштириш  ва фуқаролик жамияти қуриш - ёруғ келажагимизнинг асосий омилидир” номли маърузасида  таъкидланишича истиқлол йилларида мамлакатимиз иқтисодиётида қанча капитал маблағ ўзлаштирилган
+Биринчи Президентимиз И.Каримовнинг 8-декабр Ўзбекистон Республикаси Конституцияси қабул қилинганлигининг 21 йиллиги муносабати билан «Амалга ошираётган ислоҳотларимизни янада чуқурлаштириш  ва фуқаролик жамияти қуриш - ёруғ келажагимизнинг асосий омилидир” номли маърузасида ўтган 22 йил давомида Республикамиз иқтисодиёти  қанчага ўсганлиги таъкидланган
+Биринчи алифбо "Совға" ва "Ўзбек алифбоси" дарслик ва ўқув қўлланмаларини чиқарган педагог олимни аниқланг.
+Биринчи марта Помир-Олой водийсини ўрганган, "Туркистонга саёҳат" асарини ёзган олимни аниқланг.
+Бобур Ҳиндистонни истило қилишдан олдин Қобул ҳукмдорлигини кимга топшириб кетган
+Бобурийларнинг Ҳиндистондаги ҳукмронлик йиллари қайси жавобда тўғри берилган?
+Бобурнинг қайси асарида ўша замон солиқ тизими, солиқ йиғишнинг қонун қоидалари  баён этилган
+Бозор инфратузилмасини ифодаловчи тўғри жавобни аниқланг
+Бутун Туркистон минтақасидаги барча истиқлолчиларга сиёсий жиҳатдан раҳбарлик қилувчи марказ вазифасини бажарган Туркистон Миллий Бирлиги ташкилоти қаерда тузилган
+Бухоро амирлигида ХVIII-ХIХ асрларда хусусий шахслар қандай ерларга эгалик қилар едилар
+Бухоро амирлигининг рус қўшинлари билан биринчи жанги қачон ва қаерда бўлиб ўтган
+Бухоро-Урал газ қувури қачон ишга туширилган
+Бухорода махсус шифохона қурдирган ҳукмдорни аниқланг.
+Бухородаги Минораи Калон қайси даврда қурилди
+Буюк бобомиз Алишер Навоий таваллудининг 550 йиллиги қачон нишонланди
+Буюк ипак йўлининг "кумуш йўл" тармоғи қайси ҳудудлар орқали ўтган эди
+В.П.Вяткин томонидан  Обираҳмат ариғи яқинидаги тепаликдан 1908 йилда Улуғбек расадхонаси харобалари топилган эди.Мазкур тепалик маҳаллий аҳоли ўртасида қандай ном билан шуҳрат топган эди
+Ватанимиз ҳудудларида араблар истилоси жараёни нечта босқичда амалга оширилган
+Гўри Амирнинг кириш пештоқи ким томонидан бунёд етилди
+Даван давлатининг бошқарув шакли қандай бўлган
+Дастлабки давлатлар суғориладиган деҳқончилик ҳудудлари – Миср, Месопотамия, Элам (Эрон), Ҳиндистон ва Хитойда бундан ...... муқаддам вужудга келди.
+Дастлабки пайтларда Туркистондаги янги усул мактабларининг кўпчилиги қаерда нашр этилган дарслик ва ўқув қўлланмалардан фойдаланилган
+Днепр учун бўлган жангларда шуҳрат қозонган 461-ўқчи дивизия қаерда тузилган
+Днепр учун олиб борилган жангларда қаҳрамонлик кўрсатгани учун ..... ўзбек йигитига Қаҳрамон унвони берилди.
+Европа оламида Марказий Осиёнинг жаҳон эътироф этган алломаларидан қайси бири "биринчи араб астрономи" номи билан машҳур бўлган
+Европа университетларида бир неча асрлар давомида астрономия фани бўйича асосий дарслик бўлган "Астрономия асослари" асарининг муаллифини аниқланг.
+Жадидлар Туркистонда саводхон ва мукаммал кишиларни тарбиялаш борасида муҳим деб ҳисоблаган фан, бу...
+Жадидлар асосий тамойилини аниқланг.
+Жадидлар ислоҳотларни амалга ошириш ва тараққиётга эришишнинг қандай йўлини мўлжалламаган эди
+Жадидчилик ҳаракати намоёндалари кўплаб газета ва журналлар нашр этганлар. Жадидчилик матбуот нашрларидан "Эл байроғи" ва "Бухоройи шариф" газеталарини кимлар нашр этганлигини аниқланг.
+Жадидчилик ҳаракатининг турк дунёсидаги ғоявий отаси И.Ғаспирали мусулмон мактабларини ислоҳ қилишга доир лойиҳасини 1892 йилда кимга тақдим этди
+Жамиятда жуфт оилалар қайси даврда пайдо бўлган
+Жанубий Корея билан ҳамкорликда Ўзбекистонда автомобил ишлаб чиқарувчи қўшма корхона барпо этишга қачон келишиб олинди
+Жаҳон банки Бизнес юритиш рейтингини эълон қилди ана шу рейтингда Ўзбекистон 2016 йилда 16 поғона кўтарилиб нечанчи ўринни эгаллади.
+Жиззах яқинидаги Илонўтти дарасида ҳозирги кунгача сақланиб қолган "Зафарнома" ким томонидан ёздирилган
+Жойтун (Туркманистон) да археологик текширишлар олиб борган олимни аниқланг.
+Жонсиз нарсаларни ғайритабиий хусусиятга эга деб ишониш ва уларга топиниш, сажда қилиш қайси ибтидоий динга хос
+Зарафшон шаҳри қачон пайдо бўлган
+Зардуштийлар эътиқодларига ва урф-одатларига бағишлаб асар ёзган шахсни топинг
+Зардуштийлар ҳаётининг асосий мазмуни нималардан иборат бўлган
+Зардуштийларнинг муқаддас китоби "Авесто"да Арёнам Вайжон деганда қаер назарда тутилади
+Заҳириддин Бобур тарихда қандай ном қолдирган
+Ибн Синонинг “Алқонун фит-тиб”  асари нечанчи асрда Европада таржима қилинган
+Ибтидоий жамоа тузумининг қайси даврида камон ва ўқ ихтиро қилинган?
+Ибтидоий одамларнинг биргаликда яшаши ва ҳамкорликда меҳнат қилиши ҳамда қариндошлар уюшмаси қайси жавобда тўғри берилган
+Иккинчи жаҳон уруши йилларида Ўзбекистонда қайси экин етиштириш анча  камайганлигини аниқланг.
+Иккинчи жаҳон уруши йилларида қурилган  ГЭС ни кўрсатинг
+Илк ўрта асрларда «деҳқон» атамаси қайси маънони англатган
+Илк ўрта асрларда Марказий Осиё зироатчи жамоаларининг оддий меҳнаткаш аъзолари нима деб юритиларди
+Илк ўрта асрларда Наврўз куни ....оташпарастлари Сиёвуш "қабри" устида хўроз сўйиб қурбонлик қилишган
+Илк ўрта асрларда аҳолининг мутлақо ерсиз қатламини аниқланг.
+Илк ўрта асрларда бантак қандай маънони англатган
+Имом ал-Бухорий яшаб ижод этган йиллар қайси жавобда тўғри берилган
+Инсониятнинг вужудга келиши ва ривожланиши бўйича қайси таълимотлар мавжуд
+Инсониятнинг ирқий турлари қайси дарда пайдо бўлди
+Исмоил Сомоний даврида қайси шаҳар Сомонийлар давлатининг пойтахти бўлган
+Истеъдодли ёшларни чет элда ўқишини қўллаб-қувватлаш мақсадида «Умид» жамғармаси қачон  ташкил этилди
+Истиқлол шарофати билан муқаддас Қуръони Каримни ўзбек тилига изоҳли таржима қилган олимни аниқланг.
+Истиқлолчилик ҳаракати ҳақида "Бу ҳаракат Темур, Улуғбек, Навоийларнинг юртини Москов ҳукмронлигидан халос ‘тиш демакдир" деган сўзлар ким томонидан айтилган
+Кидарийлар Ўрта Осиё ерларига қачон кириб келганлар
+Кидарийлар давлатининг пойтахтини аниқланг
+Кимлар ёрдамида хоразмшоҳ Алоуддин Муҳаммад Хуросонни эгаллади
+Кир II нинг Ўрта Осиёга ҳарбий юришларининг биринчи босқичи қайси даврга тўғри келади
+Кир II нинг Ўрта Осиёга ҳарбий юришларининг иккинчи босқичи қайси даврга тўғри келади
+Кишиларнинг тил, ҳудуд, иқтисодий ва маданий жиҳатдан тарихан таркиб топган миллатдан олдинги бирлиги
+Кишилик жамияти тараққиётидаги биринчи йирик меҳнат тақсимоти қайси даврда амалга ошди
+Кишилик жамияти тараққиётидаги иккинчи йирик меҳнат тақсимоти қайси даврда амалга ошди
+Коллективлаштириш ва қулоқ хўжаликларни тугатиш тўғрисидаги қарор қачон қабул қилинган
+Кроманонлар биринчи бўлиб қайси давлат ҳудудидан топилган
+Кушон (Бақтрия) ёзуви нечта ҳарфдан иборат бўлган
+Кушон давлатига Вима Кадфиз неча йил подшолик қилган
+Кушонлар даврида Марказий Осиёда оромий ёзуви кенг тарқалганини биласиз. Бу ёзув дастлаб қаерда пайдо бўлган эди
+М.а. 250 йилда Салавкийлар давлатидан қайси подшоликлар ажралиб чиқди
+М.а. I асрда қайси шаҳар Кушонлар салтанатининг пойтахти бўлган
+М.а. II асрда Даван давлатининг пойтахти қайси шаҳар бўлган
+М.а. III аср ўрталарида Қадимги Бақтрия қайси давлат таркибига кирган
+Мадаминбек бошчилигида Фарғона муваққат мухторият ҳукуматининг тузилиши қаердаги анжуманда амалга ошди
+Мадаминбек қайси қишлоқда хоинона ўлдирилган
+Маккадаги Каъбага киравериш дарвозаларидан бири остонаси учун олтин ва кумуш тутқичли ёғоч зина қурдирган ҳукмдорни аниқланг.
+Маликшоҳ қайси даврларда Салжуқийлар давлатини бошқарди
+Мамлакатимиз ҳудудида илк давлатчилик бирлашмаларига ўтиш жараёни мил.авв. ..... бошланган.
+Марказий Осиё ҳудудида мавжуд бўлган қайси давлатда энг қадимги шаҳарлар пайдо бўлган
+Марказий Осиё ҳукмдорларидан қайси бири ёлланма қўшин бошлиғидан хон даражасига кўтарилган
+Марғиёнада Доро I га қарши қўзғолон қачон ва ким бошчилига бўлиб ўтди
+Махсус тарихий фанлар қаторига қайсилар киради?
+Маълумки, 715 йили халифалик тахтига Қутайбага ғаним бўлган шахс ўтирган. Бундан норози бўлган Қутайба янги халифага қарши исён кўтарган эди. Шу халифанинг исми ким бўлган
+Маълумки, Болаликтепа археолог Л.И.Албаум томонидан қазиб очилган. Ушбу санани аниқланг
+Маълумки, совет тузуми ўрнатилгунга қадар (1917 йил) Хива хонлиги 20 та бекликка бўлинган. Хонликда бундан ташқари яна қайси ноибликлар бор эди
+Мезолит даврига оид Фарғона водийсида жойлашган макон
+Мил. авв. VII-VI асрларда Хоразм, Сўғдиёна ва Бақтрия аҳолисининг асосий машғулот турини  аниқланг.
+Мил. авв. VII-VI асрларда қадимги Бақтрия таркибига Суғдиёнадан ташқари яна қайси вилоят кирга
+Мил.авв. VII-VI асрларда Зарафшон, Қашқадарё, Сурхондарё ҳудудлари қайси давлат таркибига кирган
+Миллатни уйғотишга ундовчи дастлабки дарсликлардан бўлган "Адиби аввал"нинг  муаллифи ким
+Мирзо Улуғбек "Зижи жадиди Кўрагоний" асарида нечта собита юлдузнинг  координаталарини берган
+Мирзо Улуғбек 1433 йилда қаерда мадраса қурдирди
+Москва остоналаридаги жангларда қатнашган минглаб ўзбекистонликлар орден ва жанговар медаллар билан тақдирланди. Шулардан бири ..... Қаҳрамон унвонига сазовор бўлди.
+Мустақиллик йилларида Марғилон шаҳрининг неча йиллик юбилейи нишонланди
+Мустақиллик йилларида Нукус шаҳрининг неча йиллиги нишонланган
+Мустақиллик йилларида Хожа Алҳори Валий таваллудининг неча йиллик юбилейи кенг кўламда нишонланди
+Мустақиллик йилларида тарихий шаҳарларнинг ҳам юбилейи нишонланган. Қуйидаги қайси шаҳарнинг 2700 йиллиги ЮНЕСКО иштирокида кенг байрам қилинди
+Мустақиллик йилларида қуйидаги алломалардан қайси бирининг 1130 йиллик юбилейи нишонланди
+Мусулмон мамлакатларида дастури амал бўлиб хизмат қилган «Ҳидоя» асарининг муаллифини кўрсатинг
+Муҳаммад Наршахий қаламига мансуб асарни аниқланг.
+Муҳаммад Шайбонийхон нечанчи йилларда темурийларга қарши кураш олиб борди
+Мўғуллар Ўрта Осиёни босиб олган даврда деҳқонлардан олинадиган ер солиғи нима деб аталган
+Мўғуллар Мовароуннаҳрга ҳужум бошлаган даврда Хўжанд ҳокими ким бўлган
+Мўғуллар бошқаруви даврида ҳунармандлар ва савдогарлардан олинадиган солиқ
+Мўғуллар зулмига қарши қўзғолон кўтарган халқ қаҳрамонини аниқланг
+Мўғулларга қарши Маҳмуд Торобий бошчилигидаги қўзғолон қачон ва қаерда бошланган
+Мўғулларга қарши курашда қаҳрамонона вафот этган тасаввуф таълимотининг буюк  сиймосини аниқланг
+Наманган шаҳри қаерда бунёд этилган
+Насаф шаҳри ёнида Мўғул хонларидан қайси бири ўзига сарой қурдирган
+Нечанчи йилда Ичан қалъа Бутунжаҳон ёдгорликлари рўйхатига киритилди ва музейга айлантирилди
+Нечанчи йилдан бошлаб Ўзбекистонда пахтани машинада териш бошланган
+Нодирабегимнинг Макнуна тахаллусида ёзилган ғазаллари миқдорини аниқланг.
+Олий Мажлиснинг "Таълим тўғрисида"  янги қонун ва Кадрлар тайёрлаш бўйича миллий дастури қачон қабул қилинди
+Оммага таяниб иш тутиш, адолат тамойилларига қаттиқ амал қилиш, ўта камтарин ҳаёт кечириш хусусиятлари қуйидаги ҳукмдорларнинг қайси бирига хос эди
+Орол муаммосини бартараф етиш чораларини ўзида акс эттирган Нукус Декларасияси қачон ва қаерда имзоланди
+Орол экологик инқирози  қандай муаммо ҳисобланади
+Осиёча ишлаб чиқариш усулига асосланган “Шарқ йўли” иқтисодиётининг асосини ........ ташкил этади
+Падаркуш Абдулатиф ўлдирилгандан сўнг Самарқандда ким подшоҳ қилиб кўтарилган
+Паҳлавон Маҳмуд мақбараси қаерда жойлашган
+Подшо ҳукумати қайси губернаторнинг вилояти рўй бериши мумкин бўлган  ғалаёнларнинг олдини олиш тўғрисидаги маълумотларини «подшо фармонларини бажармаслик, кечиктириш, қарши чиқиш» деб ҳисоблаб, уни лавозимидан четлаштирган
+Президент ҳузуридаги Давлат ва жамият қурилиши Академияси қачон ташкил  қилинди
+Республикада 1960-1970 йилларда неча гектар ерга пахта экилган
+Республикамизда 1998 йил 24 октябрда қайси буюк алломанинг юбилейи кенг нишонланди
+Республикамизда жаҳондаги компютер тизими - интернет билан қачон алоқа ўрнатилди
+Республикамизда президентлик лавозими таъсис етиш тўғрисидаги қарор қачон қабул қилинган.
+Республикамизда қатағон қурбонларини хотирлаш куни қачондан нишонланадиган бўлди
+Рофе ибн Лайс бошчилигидаги қўзғолон бошланган жойни аниқланг
+Рус босқинчилари томонидан Хўжанд қалъаси эгаллаган санани аниқланг.
+Рус ҳукмдори Александр I нинг тахтга чиқиши билан табриклаб, беш бош арғумоқ тортиқ этган ҳукмдорни аниқланг.
+Сайлов участкалари сайловга камида неча кун қолганда тузилади
+Салавкийлар давлатининг Ўрта Осиёда ҳукмронлиги қайси даврни ўз ичига олади
+Самарқанд суперфосфат заводи қачон ишга туширилди
+Самарқанд шаҳрининг 2750 йиллиги қачон нишонлашган
+Самарқандда 1420 йили мадраса очилганда ундаги биринчи дарсни Муҳаммад Ҳавофий ўқиган. Унинг маъносини кимлар тушунган
+Самарқандда Улуғбек мадрасасида Қозизода Румий қайси фандан дарс берган
+Самарқанддаги Регистон майдони қайси асрда тўлиқ шаклланди
+Самарқанддан Бухорога давлат пойтахтини қайси кўчманчи ўзбеклар ҳукмдори кўчирган
+Самарқанднинг энг қадимги қисми саналган Афросиёб мазкур шаҳарнинг қаерида жойлашган
+Сатрапликни англатуви "хшатра" атамаси қайси сўздан келиб чиққан
+Селунғур палеолит даври макони нечта маданий қатламдан иборат
+Совет ҳукумати раҳбар ҳодимлардан кимни "Миллий Иттиҳод" ташкилоти аъзолари ва "босмачилар билан алоқада бўлган" деган айб билан отишга ҳукм қилинганди
+Совет ҳукумати раҳбар ҳодимлардан кимни "ғоявий жиҳатдан" тор-мор қилинди деб ҳисоблаб уни Қашқадарёнинг чекка қишлоқларидан бирига ишга жўнатиб юборди
+Советлар томонидан Ўзбекистонда қачон ер-сув ислоҳоти ўтказилди
+Советлар ҳукмронлиги даврида Ўзбекистондан талаба ёшлар хориж мамлакатларига турли мутахассислик бўйича ўқишга юборилган. Қайси хориж давлатида таълим олиш айниқса самарали бўлган
+Сомонийлар даврида давлат ҳужжатлари ва элчилик алоқалари девони қандай аталган
+Сомонийлар даврида қайси қонун ишлаб чиқилди
+Сомонийлар даврида қандай ерларни мулки султоний деб атаган
+Сунъий олов қайси даврда ихтиро қилинди
+Сурхондарё вилоятидаги Зараутсой қоя тасвирлари қайси даврга оид ҳисобланади
+Сурхондарё воҳаси, Афғонистоннинг шимоли, Тожикистоннинг жанубий ҳудудларида қайси аҳоли яшаган
+Сурхондарёда жойлашган қадимий шаҳарни аниқланг
+Суғдийлар яшайдиган ҳудуд Беҳистун ёзувларида нима деб аталган
+Табиатнинг жонлилиги тўғрисидаги тасаввурлар қайси ибтидоий динга хос
+Тажовузкор кучлар томонидан Бухоро қачон эгалланди
+Тарихдан маълумки, тожу-тахт  учун курашлар ота ва ўғилни кўпинча аямаган қуйидаги қайси ҳукмдор ўз ўғиллари томонидан дастлаб кўзига мил тортилиб, кейин қатл қилинган
+Тарихий манбаларда қайд этилишича 1221 йилдаги Урганч учун кураш неча ой давом етган
+Таркибида 9% кумуш бўлган танга пул зарб эттирган ҳукмдорни аниқланг.
+Темирдан биринчи бўлиб қайси халқ фойдалана бошлади
+Темурийлар даврида Андижонда Умаршайх I Мирзо ҳукмронлиги қайси даврга тўғри келади?
+Темурийлар даврида Тибетдан Бухоро ва Самарқандга элчилар келган йилни аниқланг
+Темурийлар даврида боғлардан олинадиган солиқ турини кўрсатинг
+Термиз шаҳрининг 2500 йиллик юбилейи қачон нишонланган
+Тешиктош ғори қандай топилмалар билан машҳур бўлган
+Тим қишлоғидаги Араб ота мақбараси қайси даврда қурилган
+Тожикистоннинг Панжикент атрофидаги ерлар қайси қадимги давлат таркибига кирган
+Тошкент Ислом университети қачон очилган
+Тошкент метрополитенининг биринчи навбати ишга тушган йилни аниқланг.
+Тошкент қишлоқ хўжалик машинасозлиги заводи қачон қурилган
+Тошкентда "Шаҳидлар хотираси" мажмуи очилган санани аниқланг.
+Тошкентда шаҳидлар хотираси ёдгорлик мажмуаси қачон очилди
+Турк хоқонлиги қайси даврларда фаолият кўрсатган
+Турк хоқонлиги қачон икки қисмга бўлинади
+Турк ҳоқонлигида "кўктангри"га кўпчилиги ибодат қилувчи табақани аниқланг.
+Туркистон Мухторияти эълон қилинган кунни "Миллий лайлатул-қадримиз" деб ким айтган
+Туркистон Мухторияти ҳукуматининг ер ва сув бойликлари вазирини аниқланг.
+Туркистон генерал-губернаторлиги таркибида Зарафшон округи ташкил этилган вақтни аниқланг.
+Туркистон генерал-губернаторлигининг Наманган бўлинмаси ким томонидан таъсис этилган
+Туркистон генерал-губернаторлигининг Наманган бўлинмаси тузилган бир пайтда Андижон ҳокимияти кимнинг қўл остида еди
+Туркистон давлат университети қачон ташкил этилган
+Туркистон жадидларининг "отаси" ким
+Туркистон халқ кутубхонаси ташкил этилган йилни аниқланг.
+Туркистон ўлка мусулмонлари Марказий Кенгаши тузилганда, унга бош котиб этиб сайланган шахсни аниқланг.
+Туркистон ўлка мусулмонларининг фавқулодда IV қурултойида тузилган Туркистон Мухторияти ҳукумати аъзоси Абдураҳмон Ўрозаев қандай вазифани бажарган
+Туркистон ўлка мусулмонларнинг фавқулодда IV қурултойи қайси шаҳарда бўлиб ўтган
+Туркистон ўлкаси ишчи, солдат ва деҳкон депутатлари Советларининг нечанчи қурултойида Туркистон Халқ Комиссарлари Совети тузилган
+Туркистонда биринчи темир йўл қачон қурилди
+Туркистонда пахтага ўзгармас давлат нархлари жорий этилган йилни аниқланг.
+Туркистонда туб халқларнинг мухторият томон қатъий интилиши, ўз анъаналари, урф-одатлари ва турмуш тарзини изчил туриб ҳимоя қилиш каби манфаатларнинг ифодачиси бўлган Миллий марказ ...эди.
+Туркомиссияни тугатиш, қизил армия қўшинларини Туркистон ҳудудидан олиб чиқиб кетиш талабини қўйган давлат раҳбарини аниқланг.
+Туркситон генерал губернаторлиги фаолият кўрсатган даврни аниқланг
+Турмуш ва меҳнат умумийлиги негизида бирлашган энг қадимги одамлар жамоаси нима деб аталади
+Туронзамин ҳукмдорлардан қайси бири салтанат марказида мадраса қурдириб, унда ўзи тиббиёт фанидан дарс берган
+Тўрабекхоним мақбараси қурилган шаҳарни аниқланг
+У ёшлик чоғида кудунгарлик касби билан шуғулланган бўлиб, саводли, ақлли ва тадбиркор бўлган. Хуросонда сархангликдан (кичик лашкарбоши)дан вазирлик даражасига кўтарилган. Бу ерда ким ҳақида сўз кетаяпти
+Улуғ  алломаларимиздан  ким "исфаҳоний" номли куйни ижод қилган
+Улуғбек 1428 йилда зарб этган пуллар халқ орасида қандай ном билан шуҳрат топган
+Улуғбек Самарқанд ҳокими деб э‘ълон қилинганида неча ёшда бўлган
+Улуғбек расадхонаси қурилишида кимнинг бошчилигида расадхонанинг асосий ўлчов асбоб-ускунаси - улкан секстант ўрнатилган
+Умархон Туркистон ва унинг атрофларини, Оролдан Еттисувгача эгаллаб олган ҳудудларда барпо этган қалъаларни аниқланг
+Уруш йилларида нечта халқ ва элат  Ўзбекистонга кўчириб келтирилган
+Учқудуқ шаҳри қачон ташкил топган
+Ф. Берг бошчилигида Устюртга юборилган экспедисиянинг мақсадини аниқланг.
+Фанда "Амударё хазинаси" номи билан машҳур бўлган хазинага бағишлаб "Окс  хазинаси" номли асар яратган шахсни аниқланг
+Фарғонада истиқлолчилик ҳаракати даврида рус деҳқонлар армиясига ким қўмондонлик қилган
+Х асрга оид машҳур Араб ота мақбараси қаерда жойлашган
+Х асрда Шимолий Ҳиндистондан Каспий денгизининг жанубий қирғоқларигача бўлган вилоятларни .... давлати қамраб олган еди.
+ХII асрда Бухорода қонуншунослар учун "Факиҳлар мадрасаси" қурилган эди. Мазкур иморат қайси маҳаллада мавжуд бўлга
+ХII асрда Бухорода қонуншунослар учун "Факиҳлар мадрасаси" қурилган эди. Мазкур иморат қайси маҳаллада мавжуд бўлган
+ХIII аср ўртасида Масъудия ва Хония номи билан шуҳрат топган иккита мадраса қаерда бино қилинган
+ХIХ аср ўрталарида Ўрта Осиёда жами ..... гектар суғориладиган ерлар мавжуд эди.
+ХIХ асрнинг иккинчи ярмида Туркистон ўлкаси аҳолисининг неча фоизи шаҳарларда яшаганлигини аниқланг.
+ХV асрда Улуғбекнинг йил ҳисоби ҳозирги замон ўлчовларига жуда яқин бўлган, лекин улар ўртасида фарқ бор. Ушбу фарқ қанчани ташкил қилган
+ХV асрда ким "табризий", "усули отлиғ" куйларини ижод қилган
+ХV асрнинг охири ХVI асрнинг бошларида Мовароуннаҳрнинг таназзулга юз тута бориши натижасида бу ўлкани эгаллашга ....учун йўл очилди.
+ХVI аср бошларида туркий халқлар таркибига қўшилган этник гуруҳни аниқланг
+ХVI асрда халқаро ва ўзаро муносабатларда шайбонийлар, сафавийлар ва бобурийларнинг манфаатлари тўқнашишига сабаб бўлган географик ҳудудни белгиланг.
+ХVI асрнинг бошларида Сафавийлар давлатининг иккинчи пойтахтига айлантирилган шаҳарни аниқланг.
+ХХ аср Ўзбек маданиятининг бебаҳо юлдузларидан қайси бирлари бир кунда қатл этилган
+ХХ аср бошларида Хива хонлигида ўзбеклар аҳолининг неча фоизини ташкил этган
+ХХ асрнинг 30 йиллари бошларида Ўзбекистон олимлари ипакчилик соҳасида қайси давлат билан ўзаро илмий алоқаларни йўлга қўйди
+Халифаликнинг солиқ сиёатига қарши Хутталонда нечанчи йилда қўзғолон кўтарилди?
+Халқимиз тарихидаги дастлабки демократик ҳукуматни аниқланг.
+Халқларнинг урф-одатларини ўрганувчи олимлар....деб аталади
+Хива ва Бухоро хонликлари қачон тугатилган
+Хива тарихшунослиги мактабига ким томонидан асос солинди
+Хива тахтини эгаллаб олган Ғойиб ибн Ботирни тахтдан тушириб, унинг ўрнига Темурғозини хон этиб тайинлаган давлат бошлиғини аниқланг.
+Хива хони фаолиятини назорат қилиш учун рус маъмурлари неча кишидан иборат Кенгаш тузганлигини аниқланг.
+Хива хонлиги ва Россия ўртасида имзоланган Гандимиён шартномаси санасини аниқланг.
+Хива хонлигининг 1872-1911 йиллардаги тарихи кимнинг асарида баён этилган
+Хива шаҳрини ташқи душманлар ҳужумидан сақлаш мақсадида 6250 метрли девор барпо этган ҳукмдорни аниқланг.
+Хиванинг кичик халқали қалъа-девори билан ўралган қисми нима  деб аталади.
+Хонликлар давридаги қайси ҳукмдор ўз давлати ҳудудидаги барча қабилаларни тўрт гуруҳга бўлган эди
+Хоразм Халқ Нозирлар Кенгашининг биринчи раиси ким бўлган
+Хоразм ва Бухоро халқ Республикалари нима учун тугатилган
+Хоразм ўлкасида яшаган аҳоли қайси соҳада катта тажрибага эга бўлган
+Хоразм қачон Ғазнавийлар давлати таркибига кирди
+Хоразмда "Маъмун академияси" асосини ташкил этишга бош-қош бўлган олимларни аниқланг. 1)Абул Аббос Жавҳарий; 2)Яҳё ибн Абу Мансур; 3) Муборак Марвазий; 4) Абу Саҳл Масиҳий; 5) Абулхайр ибн Ҳаммор; 6) Абу Наср ибн Ироқ
+Хоразмдаги қайси ёдгорликни ўрганишда  орамий ёзувидаги бутун бир архив  ҳужжатлари топилган
+Хоразмнинг суғориш иншоотлари ва суғорилиш тарихини ўрганишда машҳур олим-қадимшунос, ..... катта ҳисса қўшган
+Черняев Тошкентни босиб олгач қуйидаги қайси даҳалар оқсоқоллари билан музокаралар олиб борди
+Чигил ва яғмо қабилалари қачон ягона иттифоққа бирлашганлар
+Чингизхон вафотидан кейин Ўрта Осиё қайси улус таркибига кирган
+Чингизхон юришлари ҳамда мўғуллар ҳақида араб сайёҳи Ибн Баттута ёзиб қолдирган маълумотларни эсланг. Мўғуллар босқини даврида бутунлай бузиб ташланган ва ХIV асрнинг 30-йилларига қадар ҳам ўзининг аввалги ўрнида қайта тикланмаган шаҳарни аниқланг.
+Чингизхоннинг атрофидаги саводли кишилар, маслаҳатчилар,мирзолар ва баъзи маъмурлар қайси элат вакилларидан бўлган
+Чор Россияси Ўрта Осиёда ...йилларда тўхтовсиз уруш олиб борди.
+Чор Россияси томонидан Ўрта Осиёни босиб олинишининг иккинчи босқичини аниқланг.
+Чор Россияси томонидан Ўрта Осиёни босиб олинишининг учинчи босқичини аниқланг.
+Чор Россияси қўшинлари Ургутдан кейин эгаллаган шаҳарни аниқланг.
+Чор Россиясининг Қўқон хонлигини босиб олиш ҳақидаги қарори қачон қабул қилинганлигини аниқланг.
+Шайбонийлар давлатида олий давлат идораси нима деб аталган
+Шайбонийлар даврида қурол-аслаҳа хизмати бошлиғи ким бўлган
+Шайбонийхон ҳалок бўлгач унинг тахти кимга насиб қилган эди
+Шаҳарнинг мустаҳкам лабиринтли (ғуломгардиш) дарвоза оғзи - дарвозахонаси бўлган. Шаҳар марказидан юқорироқда ибодатхона мажмуаси, унинг шимоли ғарбий бурчак қисмида эса баландлиги 25 метр бўлган уч минорали ҳукмдор қасри қад кўтарган. Ушбу таъриф қайси шаҳар харобасига тегишли
+Шердор ва Тиллакори мадрасаларини бунёд эттишда ташаббускорлик қилган маҳаллий ҳукмдорни аниқланг.
+Шоҳизинда меъморий мажмуаси қаерда жойлашган
+Шуни очиқ айтиш керакки, у пайтда Ўзбекистон бир ёқлама иқтисодиётга - Марказга бутунлай қарам, издан чиққан иқтисодиётга эга бўлган ярим мустамлака мамлакат қаторига айланган эди».. Ушбу жумлалар И.А.Каримовнинг  қайси асаридан олинган
+Энеолит даврининг хронологик вақтини кўрсатинг
+Этник ном қабила номидан давлат номига кўчган давлатни аниқланг
+Эфталийлар шоҳлари ёзги қароргоҳини кўрсатинг
+Эфталлар алифбосида нечта ҳарф бўлган
+Эътиқод эркинлиги қайси динда мавжуд бўлган
+Юнон-Бақтрия подшолиги сак ва юечжи қабилалари томонидан қачон бутунлай тугатилган
+Юнон-Бақтрия подшолигининг асосчисини кўрсатинг
+Юртимизнинг ички ҳудудларига хионийлар, кидарийлар, эфталийлар каби қабила ва элатларнинг кириб келиши ўзбек халқи этногенезининг қайси босқичига тўғри келади
+Янгикент шаҳри қайси давлатнинг пойтахти бўлган
+Ғазнавийлар давлати қайси давлат томонидан бутунлай тугатилди
+Ғазнавийлар қайси жангда Салжуқийлар қўшинларидан мағлубиятга учради
+Ғарбий чегарада биринчилар қаторида фашист душманлар билан жангга кирган қайси ўзбекистонлик жангчи кейинчалик уч марта Шуҳрат ордени нишондори бўлди
+Қадимги Шарқ мамлакатларида илк давлатлар қайси кўринишда пайдо бўлган
+Қадимги одам суякларини диққат билан ўрганиш асосида уларнинг ташқи қиёфаларини тиклаш билан машғул одамлар қайси жавобда тўғри кўрсатилган
+Қайси адиб мактаблар учун "Адиби аввал", "Адиби соний" каби дарсликлар ёзиб қолдирган
+Қайси асрдан бошлаб қурилишда томи гумбаз билан ёпилган куб шаклидаги бинолар аҳамиятга эга бўла бошлади
+Қайси ватандошимизнинг 675 йиллиги 1993 йил кенг нишонланган
+Қайси давлат мукофоти биринчи ва иккинчи даражага эга
+Қайси давлат ҳудудида жиддий миграцион жараёнлар содир бўлиб турган
+Қайси давлатнинг «Шанхай форуми»га кириши муносабати билан унинг номи Шанхай Ҳамкорлик Ташкилоти - ШҲТ, деб ўзгартирилди
+Қайси давр «тошболталар асри» дейилади
+Қайси даврга келиб Амир Темур мулкларининг қарийб ҳаммаси Шоҳруҳ Мирзо ва унинг оила аъзолари қўл остида эди
+Қайси давргача Султон Жалолиддин Ҳиндистонда бўлади
+Қайси даврда Чиғатой улуси икки қисмга бўлиниб кетади
+Қайси даврда ишлаб чиқарувчи хўжалик шаклланиб бўлади
+Қайси жавобда Ўзбекистон халқ демократик партиясининг матбуот органлари келтирилган
+Қайси жавобда келтирилган шаҳарларнинг юбилей тантаналари 2007-йилда нишонланди
+Қайси йилда Хоразмнинг пойтахти вайрон этилиб, унинг ҳудудлари Амир Темур давлатига бўйсундирилди
+Қайси йилда Чингизхон қўшинлари Ўтрорга ҳужум бошлади
+Қайси йилдан бошлаб Исмоил Сомоний Мовароуннаҳр ҳукмдорлигини қўлга киритди
+Қайси йили Фарғона вилоятига кўплаб россияликлар кўчириб келтирилди
+Қайси йиллар давомида Александр Македонский Бақтрия, Суғдиёна, Марғиёна, ҳозирги Бекобод ва Хўжанддан иборат Сирдарё бўйлари ҳудудларини эгаллай олди
+Қайси кўчманчи қабила ҳарбий бошлиқлари мўғуллар ҳужуми арафасида Хоразмшоҳ Муҳаммад саройида катта мавқега эга бўлган
+Қайси мамлакат 2000 йилнинг ёзида "Шанхай бешлиги" ташкилотига кириш истагини билдирди
+Қайси подшо даврида Кушон салтанатининг инқирози бошланади
+Қайси рус генерали буйруғи билан Жиззах шаҳри йўқ қилиб ташланди
+Қайси тил қадимда жаҳон савдо тили сифатида катта нуфузга эга бўлган
+Қайси улуғ шоир "Инсон қайси ирқ, қайси дин ва қайси халққа мансублигидан қатъий назар инсондир, одамлар инсоний бурч ва хислатлари билан бирлашмоқлари зарур", - деб таъкидлаган
+Қайси халифанинг буйруғига биноан Убайдуллоҳ ибн Зиёд Амударёдан кечиб ўтиб, Бухоро музофотига бостириб киради
+Қайси халқ Қуёшга топинган ва унга атаб отларни қурбонлик қилган
+Қайси шайбоний ҳукмдор даврида ўзбек давлатчилиги ўзининг энг юқори ривожланиш нуқтасига етди
+Қайси шаҳар ХХ аср бошида зардўзлик маркази ҳисобланади
+Қайси шаҳарни озод қилишдаги жасорати учун Рем Афзаловга Қаҳрамон унвони берилган
+Қайси ёзма манбада Хоразм Хваризам шаклида айтилган
+Қайси Қадимги Хоразм шоҳи Александр Македонскийга элчи жўнатган
+Қайси қадимги давлат “Минг бир шаҳар мамлакати” деб номланган
+Қайси ҳудудда бўлиб ўтган жангда Амир Темур ўнг кафти ва ўнг оёғидан жароҳатланди
+Қайси ҳукмдор даврида Самарқанд қайта тикланиб ободонлаштириш ишлари олиб борилган
+Қайси ҳукмдор даврида Қашқадарёдан Қарши чўлига сув чиқариш мақсадида канал қазилган
+Қайси ҳукмдор замонида Хива Бухоро хонлиги таркибига қўшиб олинади
+Қанча кун давомида Чингизхон Бухоро шаҳарини эгаллайди
+Қанғ давлатида маданият ва санъат юксак даражада ривожланганлиги тўғрисида маълумотларни қайси манбаларда учратамиз
+Қачон "Алпомиш" достонининг 1000 йиллиги нишонланди
+Қачон Амир Темур Кеш вилоятининг ҳокими этиб тайинланди
+Қачон Амир Темур хиёбонига унинг ҳайкали қўйилган
+Қачон Жалолиддин Мангубердининг 800 йиллик юбилейи нишонланди
+Қачон Самарқанд ва Шаҳрисабзда Амир Темурга ҳайкал қўйилган
+Қачон юнон-македонлар подшоси Филипп II ахомонийларга қарши уруш эълон қилди
+Қозиларга дастур бўла оладиган "Айн ул-ҳикмат" номли фиқҳга оид рисола ёзиб, унда илгари сурилган қоидаларни барча вилоятларга жорий қилган ҳукмдорни  аниқланг.
+Қорахонийлар давлати ғарбий ва шарқий қисмларга қачон бўлинди
+Қорахонийлар давлатида "такин" ким бўлган
+Қорақалпоғистон нечанчи йилда Ўзбекистон таркибига мухтор республика мақоми билан киритилган
+Қорақолпоғистон туманларидан қайси бирида Иттифоқ аҳамиятига эга бўлган балиқ-консерва саноати йўлга қўйилганди
+Қудратли Хоразмшоҳлар сулоласининг тарихи қайси ҳукмдор вафоти билан тугаган
+Қуйидаги алломалардан қайси бирини Ўзбекистонда сиёсатшунослик фанининг асосчиси дейиш мумкин
+Қуйидаги асарлар орасидан Мирзо Улуғбек қаламига мансубини аниқланг
+Қуйидаги асарлардан қайси бири Аҳмад Югнакий қаламига мансуб
+Қуйидаги давлатлардан қайси бирида 1917-йил апрелида янги давлат органи -Маҳкамаи адлия тузилди
+Қуйидаги матбуот нашрларидан қайси бири Туркистон Мухторияти нашри ҳисобланмайди
+Қуйидаги меъморий иншоотларнинг қайси бири ХVI асрда қурилмаган
+Қуйидаги партиялардан қайси бири 1917 йил июлда ташкил топган
+Қуйидаги сув омборларининг қайси бири Х асрдаёқ мавжуд эди
+Қуйидаги сўзлар кимнинг қаламига мансуб: “Улуғбек геометрия борасида Эвклидга, астрономия соҳасида Птоломейга ўхшарди”
+Қуйидаги тарихий асарлардан қайси бирида илм ва маърифат тарғиб қилинган, олимлар эса улуғланган ҳамда давлат бошлиқларини илм-фан аҳлларидан таълим олишга ва уларнинг маслаҳатлари билан иш кўришга даъват этилад
+Қуйидаги тарихий асарлардан қайси бирида илм ва маърифат тарғиб қилинган, олимлар эса улуғланган ҳамда давлат бошлиқларини илм-фан аҳлларидан таълим олишга ва уларнинг маслаҳатлари билан иш кўришга даъват этилади
+Қуйидаги тарихий шахсларнинг қайси бири пайғамбарлик даъвосини қилгани учун зиндонга ташланган
+Қуйидаги шахслардан қайси бири "Настаълиқ" услубидаги хатни кашф қилган
+Қуйидаги шахслардан қайси бири Бухоро Республикаси нозири лавозимида ишламаган
+Қуйидаги қайси асарда қорақалпоқ халқининг Жунғор қалмиқларига қарши миллий-озодлик кураши ўз ифодасини топган
+Қуйидаги қайси давлат 332 йил ҳукм сурган
+Қуйидаги қайси давлат билан Ўзбекистон 2004-йил июнда стратегик шерикчилик тўғрисида битим имзолади
+Қуйидаги қайси корхонанинг конструкциялари «СамКочавто» қўшма корхонаси машиналари лойиҳасини ишлаб чиқишда асос қилиб олинган
+Қуйидаги қайси ташкилот Туркистондаги барча истиқлолчи гуруҳларга раҳбарлик қилувчи марказ вазифасини бажарган
+Қуйидаги қайси шаҳарда 1924 йилда тропик касалликлар институти очилган
+Қуйидаги қайси шоир ғанимларнинг иғвоси билан Балх хокими томонидан қатл эттирилди
+Қуйидаги қайси ҳукмдор бозорда қўлга ўргатилган ҳайвон ўйнатганлик учун ҳам солиқ жорий этган
+Қуйидаги ҳукмдорлардан қайси бири шунчалик кучли ва эпчил бўлганидан икки қўлтиғига икки одамни олиб қалъа девори устида югуриб машқ қилган
+Қутайба Самарқандни эгаллагандан сўнг Ғуракни қаерларга ҳоким этиб тайинлаган
+Қўқон адабий муҳитини есланг. Қуйидаги шоирларнинг қайси бири Амир Умархон қўшинида сипоҳийлик қилган
+Қўқон хонларидан қайси бири Қоратегин, Дарбоз ва Кўлобга юриш қилиб, у ерларни ‘галлайди
+Қўқон хонлигида қайси сулола вакиллари ҳукмронлик қилишган
+Қўқон хонлигида ҳосилнинг ¼ қисми учун ёлланиб ишловчи ерсиз, от-уловсиз табақа нима деб аталган
+Қўқон, Хива хонликлари ташкил топган йиллар тўғри кўрсатилган жавобни аниқланг.
+Ҳайвонлар ва ўсимликларни эътиқод объектига айланиши натижасида кенг тарқалган диний тасаввурлар йиғиндиси қайси ибтидоий динга хос
+Ҳар бир масжидда шиаларнинг 12 имоми номини хутбага қўшиб ўқитишга кўрсатма берган ҳукмдорни аниқланг.
+Ҳозирга қадар Республикамизда турли фойдали қазилма конлари ва маъдан мавжуд бўлган қанча  жойлар аниқланган
+Ҳозирги Тошкент вилояти ва жанубий Қозоғистон ерларида сакларнинг қайси қабила гуруҳи яшаган
+Ҳозирги кунда Орол муаммоларини ҳал қилиш юзасидан Тошкент учрашувида Марказий Осиё давлатлари Оролни сақлаб қолиш халқаро жамғармасини тузиш тўғрисида қарор қабул қилган эди. Жамғарма мажлисларини қайси шаҳарларда ўтказиш зарур деб топилди
+Ҳозирда Европа ва Осиёни боғлаб турадиган транспорт йўлаги қандай номланади
+“Ўзбекистон Республикаси Президенти сайлови тўғрисида”  Қонун неча моддадан иборат
+“Бу мураккаб шахс, бир тарафдан, миллий манфаатларни ўйлашга, иккинчи тарафдан, Марказдан келган, туб манфаатларга зид буйруқларни ҳаётга татбиқ этишга мажбур бўлганини унутмаслигимиз зарур. Унинг умри сандон билан болға ўртасига қўйилган эди, десак асло муболаға бўлмайди». Биринчи Президентимиз И.А.Каримов ушбу тарифни юртимизнинг қайси жонкуярига берган
+“Президент”  атамаси қандай маънони англатади
+“Шарқ Рафаэли” деб юксак эъзозланган мусаввир

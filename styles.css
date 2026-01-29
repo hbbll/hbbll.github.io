@@ -31,6 +31,13 @@ pre div {
 }
 
 pre div.highlight {
-    background-color: #000000;
-		color: #ffffff;
+    background-color: #3b82f6;
+    color: #ffffff;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+pre div:hover {
+    background-color: #60a5fa;
+    color: #ffffff;
+    transition: background-color 0.2s ease, color 0.2s ease;
 }

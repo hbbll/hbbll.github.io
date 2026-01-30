@@ -45,3 +45,12 @@ pre div:hover,
     color: #ffffff !important;
     transition: background-color 0.2s ease, color 0.2s ease;
 }
+
+
+pre div:active,
+#qsn-content div:active,
+#ans-content div:active {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}

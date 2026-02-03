@@ -9,17 +9,14 @@
 }
 
 .pane {
+    font-family: 'Courier New', Courier, monospace;
     flex: 1;
     overflow-y: scroll;
+    scrollbar-width: none;
 }
 
-#left-pane::-webkit-scrollbar {
-    display: none; /* Chrome, Safari, Opera */
-}
-
-#left-pane {
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
+.pane::-webkit-scrollbar {
+    display: none;
 }
 
 pre {

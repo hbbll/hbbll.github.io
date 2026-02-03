@@ -21,10 +21,14 @@
 
 pre {
     font-family: monospace;
+    white-space: pre;
+    overflow-x: auto;
 }
 
 pre div {
     cursor: pointer;
+    white-space: pre;
+    line-height: 1.4;
 }
 
 pre div.highlight,

@@ -1,0 +1,2833 @@
+RGB rang modeli qaerda ishlatiladi
+====
+#kompyuter ekranida	  
+====
+rangli bosmaga chiqaruvchi qurilmalarda
+====
+televidenieda
+====
+bunday rang modeli yo’q
+++++
+Axborotlarni kompyuterning diskiga grafikli axborot sifatida ko’chiradigan kurilmaning nomini aniqlang  	
+====
+#Skaner;	
+====
+Monitor;	
+====
+Klaviatura;	
+====
+Sichqoncha
+++++
+Monitor kurilmasining grafikli rejimdagi koordinata nuqtalar soni qaysi javobda tug’ri ko’rsatilgan? 	
+====
+#barcha javoblar tug’ri	 
+====
+640х480;	
+====
+800х600;	
+====
+1024х768;
+++++
+Qaysi operatsion tizimni grafikli operatsion tizim deb atash mumkin?	
+====
+#WINDOWS operatsion tizimi;	
+====
+DOS operatsion tizimi;	 
+====
+OS/2 operatsion tizimi;	
+====
+Barcha javoblar tug’ri
+++++
+“Ruhsat” turlari	 
+====
+#a,b javob to’g’ri	 
+====
+originalga ruhsat, ekran tasviriga ruhsat, 
+====
+qog’ozga chiqarishga ruhsat,	 
+====
+to’g’ri javob yo’q	
+++++
+Windows operatsion tizimining standart dasturlaridan kaysi bir dastur grafiklar bilan ishlash imkoniyatini beradi?	
+====
+#Paint dasturi;	
+====
+Kalkulyator dasturi;	
+====
+Notebook dasturi;	
+====
+Barcha javoblar tug’ri
+++++
+Nechanchi yilda  kim tomonidan birinchi kompyuter uchun displey yaratilgan. 	     
+====
+#1951 yilda . Forrester tomonidan	    
+====
+1952 yilda V. Zvorkin tomonidan	     
+====
+1950 yilda  Paskal tomonidan	     
+====
+1851 yilda  Forrester tomonidan
+++++
+Nechanchi yilda  kim tomonidan   «Bloknot» nomli kompyuter grafikasi dasturi yaratildi.	
+====
+#1962 yilda A. Sazerlend tomonidan	     
+====
+1962 yilda V. Zvorkin tomonidan	     
+====
+1965 yilda  Forrester tomonidan	 
+====
+1968 yilda 
+V. Zvorkin tomonidan
+++++
+Kompyuter grafikasining qo’llanilish soxalari qaysi bandda to’liq ko’rsatilgan	   
+====
+#arxitektura,meditsina, dizayn
+====
+meditsina, izayn	
+====
+matematika, informatika	    
+====
+ekologiya, arxitektura
+++++
+Grafik interfeys-……..	   
+====
+#kompyuter va foydalanuvchi o’rtasida muloqot o’rnatuvchi vosita	   
+====
+kompyuterni ishlashini taminlaydi	    
+====
+kompyuterlarni tuzilishi	    
+====
+kompyuter va foydalanuvchi o’rtasida muloqot o’rnatuvchi qurilma
+++++
+Kompyuter grafikasi necha turga bo’linadi.
+====
+#3 turga	     
+====
+2 turga 	     
+====
+8 turga	     
+====
+turga ajratilmaydi
+++++
+Rastrli grafikada tasvirlar……….	
+====
+#nukta(piksel)lar yordamida tashkil etildai	    
+====
+vergullar yordamida tashkil etiladi	 
+====
+nukta va vergullar yordamida           
+====
+tashkil etiladi	chiziklardan yordamida tashkil topadi
+++++
+Vektorli grafikada tasvirlar……..	
+====
+#chiziklardan yordamida tashkil topadi 
+====
+nukta(piksel)lar yordamida tashkil etildai	    
+====
+vergullar yordamida tashkil etiladi	    
+====
+nukta va vergullar yordamida tashkil etiladi
+++++
+Raqamli tasvirlarning ko’rinishlari berilgan javobni aniqlang?	   
+====
+#rastrli, vektorli		    
+====
+rastrli, statik		   
+====
+vektorli, statik		    
+====
+rastrli, vektorli, statik	
+++++
+Rastrli grafikada tasvir tashkil etuvchilari berilgan javoni aniqlang?	   
+====
+#nuqta	   
+====
+chiziq	   
+====
+to’g’ri chiziq	  
+====
+to’rtburchak	
+++++
+Vektorli grafikada tasvir tashkil etuvchilari berilgan javoni aniqlang?	  
+====
+#barcha javoblar to’g’ri	  
+====
+elementar geometrik figuralar	  
+====
+egri chiziq	  
+====
+to’g’ri chiziq
+++++
+Grafik fayllarning formatlari berilgan javobni aniqlang ?	  
+====
+#gif, jpeg, bmp, eps, psd	  
+====
+gif, jpeg,tiff, rtf		  
+====
+bmp, gif, jpg, tif, c		   
+====
+bmp, gif, jpg, tif, dpr	
+++++
+O’zida 256 xil rangni jamlovchi animasion grafik tasvirlarni saqlovchi format ko’rsatilgan javobni aniqlang?	  
+====
+#gif		  
+====
+jpg		  
+====
+swf		  
+====
+to’g’ri javob berilmagan
+++++
+O’zida milliondan ortiq rangni jamlovchi grafik tasvirlarni saqlovchi format ko’rsatilgan javobni aniqlang?	  
+====
+#jpg		  
+====
+gif		  
+====
+swf		  
+====
+to’g’ri javob berilmagan
+++++
+Animasiya tasvirlarni saqlovchi format ko’rsatilgan javobni aniqlang?	
+====
+#swf	 
+====
+gif		 
+====
+jpg	 	  
+====
+to’g’ri javob berilmaga
+++++
+Photoshop hujjati formati ko’rsatilgan javobni aniqlang?	  
+====
+#to’g’ri javob berilmagan	  
+====
+gif	  
+====
+jpg		  
+====
+swf
+++++
+3 o’lchovli grafika yaratish dasturlari berilgan javobni aniqlang?	  
+====
+#3D Studio Max, Maya		  
+====
+Adobe Photoshop, Maya		   
+====
+3D Studio Max, Corel Draw		
+====
+3D Studio Max, Adobe Photoshop, Corel Draw
+++++	
+Quyidagi ranglardan qaysi biri oq rang tarkibida yo’q?	  
+====
+#qora	  
+====
+zarg’aldoq	  
+====
+yashil	  
+====
+binafsha	
+++++
+Ranglarning xarakterlovchi parametrlar qaysi javobda berilgan?	  
+====
+#yorug’lik to’lqin uzunligi va enrgiyasi	  
+====
+yorug’lik to’lqin uzunligi va chastotasi	  
+====
+yorug’lik chastotasi va amplitudasi	   
+====
+to’g’ri javob berilmagan
+++++	
+Ranglarni nazariy va miqdoriy tavsiflash tizimiga nima deb ataladi?	  
+====
+#rang modellari		  
+====
+rang rejimlari		  
+====
+rangning moslik tizimlari		  
+====
+ranglarni boshqarish tizimlari
+++++
+Rang modellari berilgan javobni aniqlang?
+====
+#additiv, subtraktiv, persepsion, kolorimetrik		  
+====
+sub’ektiv, persepsion, kolorimetrik		  
+====
+additiv, subtraktiv		   
+====
+ob’ektiv, kolorimetrik
+++++	
+Additiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?	  
+====
+#qizil, yashil, ko’k 		  
+====
+oq,qora, qizil		  
+====
+qora, ko’k, qizil, sariq		   
+====
+qizil, yashil, ko’k, oq
+++++
+RGB rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?	  
+====
+#qizil, yashil, ko’k 		  
+====
+oq,qora, qizil		  
+====
+qora, ko’k, qizil, sariq		   
+====
+qizil, yashil, ko’k, oq
+++++
+Subtraktiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?	   
+====
+#zangori, qirmizi, sariq		  
+====
+oq,qora, qizil		  
+====
+qora, ko’k, zangori, sariq		  
+====
+qizil, yashil, zangori
+++++ 	
+CMYK subtraktiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?	  
+====
+#qirmizi, sariq, zangori, qora 	  
+====
+oq,qora, qizil		  
+====
+qora, ko’k, zangori, sariq		   
+====
+zangori, qirmizi, sariq
+++++
+Ravshanlik va ranglilikka qarab ranglarni aniqlash modellari berilgan javobni aniqlang?	
+====
+#HSB	   
+====
+RGB	  
+====
+CMY	  
+====
+CMYK
+++++
+Ravshanlik va ranglilikni ikki o’lchovi asosida ranglarni aniqlash modellari berilgan javobni aniqlang?	 
+====
+#Lab 	 
+====
+HSB	 
+====
+CMY	 
+====
+CMYK
+++++
+RGB rang modelida necha xil rangni hosil qilish mumkin?	 
+====
+#256^3	 
+====
+256	 
+====
+256^2	
+====
+aniq javob yo’q
+++++
+Tasvirni ekranda aks ettirish imkoniyati yoki qog’ozda bosmalashda sifatini aniqlovchi ko’rsatgichga nima deyiladi?	  
+====
+#tasvirlash imkoniyati	  
+====
+tasvirlash rangi	  
+====
+piksel	  
+====
+Pantone
+++++
+Tasvirning o’lchamini o’zgartirish uchun qanday almashtirishlar amalga oshiriladi?	  
+====
+#a va b jaboblar to’gri	  
+====
+tasvirning tasvirlash imkoniyati o’zgarib, piksellar miqdori o’zgarmaydi	   
+====
+tasvirning tasvirlash imkoniyati o’zgarmaydi, piksellar miqdori o’zgaradi	   
+====
+to’g’ri javob berilmagan
+++++
+Rasmni kattalashtirganda ham uning sifati o’zgarmaydigan grafika turiga …grafika deyiladi?	  
+====
+#vektorli	  
+====
+rastrli	   
+====
+3D	   
+====
+fraktal
+++++
+Rasmni kattalashtirganda zinapoyasimon qirralar paydo bo’lishi bilan farqlanadigan grafika turiga …grafika deyiladi?	  
+====
+#rastrli	  
+====
+vektorli	  
+====
+3D	   
+====
+fraktal
+++++
+Matematik tenglamalar bilan hosil qilinadigan grafika turiga …grafika deyiladi?	  
+====
+#fraktal	  
+====
+rastrli	  
+====
+vektorli	   
+====
+3D
+++++	
+Bez’e egri chizig’ini yasash uchun nechta nuqta olish lozim?
+====
+#4	  
+====
+2	 
+====
+8	  
+====
+12
+++++
+Skaner, raqamli fotoapparat, videokamera yordamida hosil qilinadigan grafika turi qaysi javobda berilgan?	 
+====
+#rastrli 	 
+====
+vektorli	  
+====
+3D	  
+====
+fraktal
+++++
+Rastrli grafika hosil qilish dasturlarini aniqlang?	  
+====
+#Adobe Photoshop, 
+====
+Paint	  
+====
+Adobe Photoshop, Corel Draw	   
+====
+Corel Draw, Maya	   
+====
+Flash, Corel Draw
+++++
+Vektroli grafika hosil qilish dasturlarini aniqlang?	  
+====
+#Flash, Corel Draw	  
+====
+Adobe Photoshop, Corel Draw	  
+====
+Adobe Photoshop, Paint	   
+====
+Paint, Corel Draw, Maya
+++++
+Photoshop dasturida tashqi fayllarni import (qabul) qilish menyuning qaysi bandi orqali amalga oshiriladi?	
+====
+#Fayl (Файл)	  
+====
+Ko’rinish(Вид)	  
+====
+Qatlamlar bilan ishlash (Слои)	   
+====
+Tasvir bilan ishlash (Изображение)
+++++
+Photoshop dasturida tasvir o’lchamini o’zgartirish menyuning qaysi bandi orqali amalga oshiriladi?	   
+====
+#Tasvir bilan ishlash (Изображение)	  
+====
+Fayl (Файл)	  
+====
+Ko’rinish(Вид)	  
+====
+Qatlamlar bilan ishlash (Слои)
+++++
+Photoshop dasturida tasvir qatlamlarini birlashtirish menyuning qaysi bandi orqali amalga oshiriladi?	  
+====
+#Qatlamlar bilan ishlash (Слои)	  
+====
+Fayl (Файл)	  
+====
+Ko’rinish(Вид)	
+====
+Tasvir bilan ishlash (Изображение)
+++++
+Photoshop dasturida tasvir ranglarini to’g’rilash menyuning qaysi bandi orqali amalga oshiriladi?	  
+====
+#Tasvir bilan ishlash (Изображение)	  
+====
+Fayl (Файл)	  
+====
+Ko’rinish(Вид)	  
+====
+Qatlamlar bilan ishlash (Слои)
+++++
+Photoshop dasturida tasvir qismlarini belgilash menyuning qaysi bandi orqali amalga oshiriladi?	  
+====
+#Belgilash (Выделение)	  
+====
+Ko’rinish(Вид)	  
+====
+Qatlamlar bilan ishlash (Слои)	   
+====
+Tasvir bilan ishlash (Изображение)
+++++
+Photoshop dasturida tasvirga turli effektlar qo’llash menyuning qaysi bandi orqali amalga oshiriladi?	
+====
+#Filtr(Фильтр)	  
+====
+Belgilash (Выделение)	  
+====
+Qatlamlar bilan ishlash (Слои)	   
+====
+Tasvir bilan ishlash (Изображение)
+++++
+Photoshop dasturida amallar ketma –ketligini avtomatlashtirish qaysi buyruq yordamida amalga oshiriladi?	   
+====
+====
+#Amallar (Operatsii) palitrasi yordamida	   
+====
+Navigator(Navigator) palitrasi yordamida	  
+====
+Kanallar (Kanalы) palitrasi yordamida	  
+====
+Qatlamlar (Sloi) palitrasi yordamida
+++++
+Qog’oz hujjatlarni elektron shaklga o’tkazish qurilmasi qaysi javobda berilgan?	  
+====
+#skaner	   
+====
+printer	  
+====
+modem	  
+====
+plotter
+++++
+Nuqtalar majmuasi ko‘rinishida tasvirlanadigan grafika qanday ataladi?
+====
+#rastrli;	
+====
+fraktal	to‘g‘richiziqli;	
+====
+vektorli;
+++++
+Rangli displey ekranidagi piksel nima sifatida tasvirlanadi?
+====
+#nuqta;	
+====
+lyuminofor donasi majmuasini ekranda nuqta sifatida tasvirlanishi;	
+====
+elektron nur;	
+====
+uch lyuminofor donasi.
+++++
+Ekran displeyining nuqtali elementi deb-
+====
+#piksel;
+====
+nuqta;	
+====
+vektor;	
+====
+lyuminofor donasi;
+++++
+Ekranda piksellar gorizontal va vertikal ustunlardan tashkillashtirilgan to‘r qanday ataladi
+====
+#rastr;	
+====
+videoxotira;	
+====
+displeyli protsessor;	
+====
+videoadapter
+++++
+Kompyuter  grafikasi vositalarining oxirgi natijasi qo‘yidagi hisoblanadi:
+====
+#tasvir	
+====
+kompyuter o‘yinlari	
+====
+matnli hujjat
+====	
+elektron hujjat
+++++
+Qaysi soha kompyuter  grafikasi tadbiqi bilan bog‘lanmagan?
+====
+#avtomatik tarjima algoritmlari	
+====
+foydalanuvchi interfeys	
+====
+axborotni tasvirlanishi	
+====
+hamma javoblar to‘g‘ri
+++++
+Ekranda chizish imkonini beradigan grafik dasturning birinchi avtori kim?	
+====
+# A. Sazerlend	
+====
+S. Rassel	
+====
+Dj. Blin	
+====
+Paskal
+++++
+Videoadapter – bu	
+====
+#grafik displey ishini boshqaruvchi vosita;	
+====
+grafik redaktorning maxsus instrumentlari yordamida chiziladigan oddiy figuralar;	
+====
+grafik  tasvirlar haqida axborotlarni saqlovchi elektron vosita;	
+====
+protsessorning tarkibiy qismi;
+++++
+Rastr elementi -bu
+====
+#piksel;
+====
+tekislikdagi nuqta;	
+====
+RGB rang modelidagi rang atributlari;	
+====
+kvadrat yoki to‘g‘riburchak.
+++++
+RGB rang modelining qaysi koeffitsientlari qora ranga mos?
+====
+#(R,G,B) = (1,0,1);	
+====
+(R,G,B) = (1,1,1);	
+====
+(R,G,B) = (1,1,0);	
+====
+birortasiga
++++
+(0,0.5,0.5)CMY  rangi RGB rang modelidagi   qaysi rangiga mos?
+====
+#qora	
+====
+(0.5,0,0)RGB	
+====
+(0,0.5,0.5)RGB	
+====
+(0,1.5,1.5)RGB
+++++
+Adobe Photoshop kanday grafikani taxrirlash redaktori xisoblanadi?
+====
+#rastrli  	
+====
+fraktal  	
+====
+vektorli	
+====
+tween-grafika
+++++ 
+Adobe Photoshop dasturi kaysi grafika turlari bilan  ishlamaydi?.	
+====
+#fraktal 	
+====
+vektorli   	
+====
+rastrli	
+====
+sCript-grafika  
+++++     
+Adobe Photoshop dasturi kaysi rang modelari bilan ishlaydi	
+====
+#RGB	
+====
+LAB  	
+====
+GNOME Colour                            	
+====
+CMYK1 
+++++ 
+Adobe Photoshop fayl kengaytmasi:	 
+====
+#PSD
+====
+DRP	    
+====
+PDF
+====
+JPEG   
+++++ 
+Adobe Photoshop dasturinin kaysi fayl turlarida History, Action, sloi, kanalы saklanadi  ?	 
+====
+#PSD	
+====
+DRP 
+====
+PDF	
+====
+JPEG
+++++
+Web sahifada  kaysi grafik fayl formatlari ishlatiladi?	
+====
+#GIF   	
+====
+DRP   	
+====
+PSD	
+====
+PDF     
+++++
+Xamma palitralarni yashirish uchun kuyidagi klavish kombinatsiyusini bosish zarur:	
+====
+#TAB            	
+====
+Ctrl+Alt        	
+====
+Ctrl+M        	
+====
+Ctrl+Shift+Q   
+++++      
+Instrumentlar palitrasini yashirish uchun kuyidagi xarakatlarni bajarish zarur:	
+====
+#Window> WinDow>Hide 	
+====
+Options     View>Show>Grid	
+====
+View>Show>Show Extras	
+====
+Palette Tools Tool    
+++++                                     
+Yangi katlamni  kushish uchun kuyidagi buyruklarni bajarish zarur:	
+====
+#Layer>New>Layer
+====
+Shift+Ctrl+L  
+====
+Layer>Arrange New Layer          	
+====
+Ctrl+Shift+[     
+++++
+Katlam kuyidagicha uchiriladi:	
+====
+#Layer>Delete>Layer 	
+====
+Layer>Disable Layer	
+====
+Ctrl+Delete                              	
+====
+Layer>New>Delete Layer Set    
+++++
+Katlamni yukoriga siljitish uchun kuyidagi xarakatlarni bajarish zarur:	
+====
+#Layer>Arrange>*Send to back    	
+====
+Layer>Arrage>  Bring Forward	
+====
+Layer>Arrange> Send Forward	
+====
+Layer>Arrange> Bring to Front
+++++
+Adobe Photoshop dasturidagi mumkin bulgan blokirovka turlarini kursating:	
+====
+#Lock All      	
+====
+Lock image pixels              	
+====
+Lock position        	
+====
+Lock transparent pixels
+++++
+Bir necha qatlamlar  quyidagicha yaratiladi:	
+====
+#Layer>New>Layer Set 	
+====
+Layer>Create Stek	
+====
+Layer>New>Numerick 	
+====
+Layer>Create Layer Set
+++++
+Adobe Photoshop dasturida bog‘langan qatlamlarini yaratish imkoniyati mavjudmi?	
+====
+#Xa	
+====
+Yo‘q	
+====
+Sizning javobingiz         	
+====
+qatlamlar 3-tadan kam bo‘lmagan holda    
+++++   
+Qatlam maskasini quyidagicha yaratish mumkin:	
+====
+#Layer>Add Layer Mask>Hide All        	
+====
+Layer>New>Mask	
+====
+Layer>Add Layer Mask>Mask All  	
+====
+Layer>New>Mask Layer
+++++
+Qatlam shaffofsizligi qatlam palitrasidagi silgitgich yordamida boshkariladi	
+====
+#Opasity  	
+====
+Incredit       	
+====
+Fill   	
+====
+Visible
+++++
+Adobe Photoshop dasturi qaysi sloy stillari bilan ishlaydi.	
+====
+#Pattern Overlay           	
+====
+Inner ShADow	
+====
+SAtin	
+====
+Color Stroke
+++++
+Kengligi 1 piksel bo‘lgan satrni qaysi instrumentlar belgilashga imkon beradi?	
+====
+#Single Column MArquee Tool 	
+====
+ElliptiCAl MArquee Tool	
+====
+Single Row MArquee Tool             	
+====
+ReCtAngulAr MArquee Tool
+++++
+Vektorli grafikaning yutuklari	
+====
+#fayllari mashina xotirasidan kam joy egallashi          	
+====
+fayllari mashina xotirasidan kup joy egallashi	
+====
+tasvir yaratish kulayligi	
+====
+xamma javob tugri
+++++             
+Quyida keltirilgan instrumentlardan qaysilari Lasso guruhiga  taaluqli emas?	
+====
+#Color Range Lasso 	
+====
+Polygonal Lasso Tool         	
+====
+Magnetis Lasso Tool   	
+====
+Lasso Tool 
+++++             
+Vektorli grafikaning redaktorlari	
+====
+#Corel  Draw                     	
+====
+Adobe Fhoto Shop	
+====
+3DStudioMax	
+====
+Adobe Illustrator 
+++++
+Kaysi menyu yordamida  ekran kurinishini  tiklash mumkin?	
+====
+#View  	
+====
+Layout	
+====
+Bitmarps	
+====
+Layers
+++++
+Kaysi bandlar  Select  menyusi tarkibiga qarashli emas :	
+====
+#Similar    	
+====
+Selest   All            	
+====
+TrAnsform Selestion	
+====
+SAve SeleCtion
+++++     
+Kaysi bandlar  Modify menyusida mavjud emas?	
+====
+#Yexrand	
+====
+Smoth  	
+====
+Border                    	
+====
+Crop
+++++  
+Yangi kanal yaratish uchun quyidagilarni bajarish mumkin:	
+====
+#Select>New Channels       	
+====
+Layer>New>Cresate Channels    	
+====
+Ctrl+Shift+C                      	
+====
+View>Channels  
++++
+Setkani  kursatish-yashirish kuyidagi buyruk orkali bajarilishi mumkin:	
+====
+#View>Show>GriD                     	
+====
+View>Rules                     	
+====
+WinDow>GriD                             	
+====
+WinDow>Show Rules
+++++
+Adobe Photoshop dasturi quyidagi kursor ko‘rinishlari bilan ishlashga imkoniyat bermaydi:	
+====
+#Polyar 	
+====
+Tochnыy     	
+====
+Po razmeru kisti	
+====
+Standartnыy
+++++
+Tasvirni deformatsiyalash uchun quyidagi harakatlarni bajarish kerak:	
+====
+#Edit>Transform                	
+====
+Image>Transform                        	  
+====
+Image>Deform      	
+====
+Ctrl+T
+++++                   
+Konturga bog‘lanish nuqtalarini qo‘shish uchun quyidagi instrumentdan foydalaniladi:	
+====
+#Pen 	
+====
+Freeform Pen         	
+====
+ADD AnChor Point             	
+====
+CreAte Point 
+++++
+Konturni ta’kidlash (obvodka) uchun quyidagi buyruqni tanlash zarur:	
+====
+#Stroke path             	
+====
+Fill path                  	
+====
+Rasterize path                    	
+====
+Flatten path 
+++++           
+Adobe Photoshop dasturi qaysi blokirovka ko‘rinishlari bilan ishlamaydi:	
+====
+#LoCk All      	
+====
+LoCk imAge pixels              	
+====
+LoCk position                                 	
+====
+LoCk trAnspArent pixels
+++++           
+Adobe Photoshop dasturida keltirilgan stillarni qaysilari mavjud emas	
+====
+#Satin 	
+====
+Inner Shagow        	
+====
+BlenDing options    	
+====
+Color Stroke   
+++++       
+Quyida keltirilgan parametrlardan qaysilari Rectangular Marquee Tool instrumentiga taaluqli emas?	
+====
+#Style 	
+====
+Feather 	
+====
+Anti-Aliaser 	
+====
+Height And Width 
+++++
+Ishchi  konturni begilangan maydon chegarasiga aylantirish uchun kontekst menyudagi  Path palitrasida quyidagi buyruqni tanlash zarur:	
+====
+#Stroke path             	
+====
+Fill path                 	
+====
+Make selection from path	
+====
+Create selection    
+++++
+Adobe Photoshop dasturida qaysi palitra yo‘q?	
+====
+#selection   	
+====
+Path                       	
+====
+History 	
+====
+Layer
+++++
+Roberts  algoritmida  har bir qirra quyidagicha bo‘lishi talab etiladi 	
+====
+#Qavariq ko‘pburchak	
+====
+Uchburchak	
+====
+Aylana	
+====
+To‘g‘ri javob yo‘q
+++++
+Vektor-poligonal modelning bazoviy elementi sifatida ketirilganlardan: 
+1) splaynlar; 
+2) qullalar (vershinы); 
+3) polilinii; 
+4) poligonlar; 
+5) poligonal sirtlar; 
+6) poligonal hajmlar – hisoblanadi:	
+====
+#2, 3, 4, 5	
+====
+1, 3, 5, 2	
+====
+2, 4, 6, 5	
+====
+2, 3, 5, 1
+++++
+Qirralarni  taqqoslash uchun ko‘pincha cheklangan tana sifatida quyidagi ishlatiladi	
+====
+#tugriburchakli parallelepiped	
+====
+tugriburchakli uchburchak	
+====
+tugriburchakli turtburchak	
+====
+konus
+++++
+Kompyuter grafikasida ob’ektni quyidagi modellar ko‘rinishida tasvirlash mumkin: 
+1) chiziqli; 
+2) simli; 
+3) tekis; 
+4) poligonal; 
+5) hajmli	
+====
+#2, 4, 5	
+====
+1, 2, 3	
+====
+3, 4, 5	
+====
+1, 4, 5
+++++
+Kompyuter grafikasida hajmli model quyidagicha ham ataladi	
+==== 
+#tverdotelnoy
+====	
+megkotelnыy	
+====
+ne opredelen	
+====
+opredelen
+++++
+Kompyuter grafikasida poligonal model quyidagicha  ataladi	
+==== 
+#yuza	
+====
+sirt	
+====
+xajm	
+====
+tekislik
+++++
+s-bufer usulida har bir ekran satri uchun har bir pikselga beriladigan ro‘yxat qo‘llanadi	
+==== 
+#pikselda kurinadigan qirra	
+====
+pikselda kurinmaydigan qirra	
+====
+pikselda kurinadigan burchak	
+====
+pikselda kurinadigan tomon
+++++
+AutoCAD sistemasiga quyidagi dasturlash tili kiritilgan	
+==== 
+#AutoLISP5	
+====
+AutoDesk	
+====
+AutoGaunge	
+====
+AutoLand
+++++
+Uch o‘lchovli kompyuter grafikasining zamonaviy sistemalarida keng tarqalgan model	
+==== 
+#poligonal vektorli	
+====
+poligonal rastrli	
+====
+poligonal fraktal	
+====
+tugri javob yuk
+++++
+Vektorli poligonal model va teng o‘lchovli (ravnomernaya) to‘r -setka model xillari hisoblanishi mumkin	
+==== 
+#uzilishga ega bulgan tur	
+====
+uzluksiz tur	
+====
+oddiy tur	
+====
+tugri javob yuk
+++++
+Vaktinchalik  kogerentlik bu :	
+==== 
+#berilgan va keyingi kadrda kurinadigan kirralar	
+====
+berilgan kadrda kurinadigan kirralar	
+====
+keyingi kadrda kurinadigan kirralar	
+====
+tugri javob yuk
+++++
+Poser bazaviy figuralarning hammasi...	
+==== 
+#ob’ektlar kutubxonasida joylashgan	
+====
+tashqi tashuvchida joylashgan	
+====
+xotirada joylashgan	
+====
+ekranda joylashgan
+++++
+Geometrik modellashtirish konstruksiyalashning yadrosini nima tashkil etadi	
+==== 
+#avtomatlashtirilganligi	
+====
+elektronligi	
+====
+vizualligi	
+====
+WEB saxifaligi
+++++
+Vektor-poligonal modelning bosh bazaviy elementi :	
+==== 
+#vershina	
+====
+burchak	
+====
+tomon	
+====
+uzunlik
+++++
+Shape instrumenti bilan chuzish, kisish va burashlarni amalga oshirish uchun nechta tugunni  ajratish lozim?	
+==== 
+#Xamma tugunlarni  	
+====
+2	
+====
+4	
+====
+1
+++++
+Knife instrmenti bilan ob’ektni kesishda nima sodir buladi?	
+==== 
+#Kesilgan kismlar uzaro boglik bulib koladi 	
+====
+Fakat ob’ektning katta kismi koladi	
+====
+Kismlar mustakil ob’ektlar bulib koladi.	
+====
+To‘g‘ri javob yo‘q
+++++
+Eraser instrumenti ob’ektning kismini uchira oladimi ?	
+==== 
+#Auto Reduce On Erase knopkasi bosilgan xolda uchiriladi	
+====
+Yuk	
+====
+Uchiradi	
+====
+To‘g‘ri javob yo‘q
+++++
+Smude instrumentining  Add dryout schetchigining kanday kiymatida pero eni uzgarmaydi?	
+==== 
+#Pero eni o‘zgarmaydi	
+====
+Nul bulgan xolda   	
+====
+Pero eni xamisha kamayadi	
+====
+Maksimal xolda
+++++
+Look Objekt buyrugi kanday ishlaydi?	
+==== 
+#Unlock, Unlock All lardan tashkari xama xarakatlarni blokirovka kiladi.	
+====
+Ob’ektning siljishini mann kiladi.	
+====
+Ob’ekt ulchamini uzgartirishni mann kiladi.	
+====
+Ob’ektlardan nusxa olishni mann etadi.
+++++
+Ob’ektlarning joylashish tartibini Arrange menyusining kaysi buyrugi bilan  invertatsiya kilish mumkin ?	
+==== 
+#Reverse Order	
+====
+To Front	
+====
+ToBack	
+====
+To Order
+++++
+Kaysi katlamlar Master Page  ni saklaydi ?	
+==== 
+#Xozir biz ishlayotgan katlam.	
+====
+Oxirgi yaratilgan katlam	
+====
+Maxsus yaratilmagan katlamlar	
+====
+hamma qatlamlarni
+++++
+Group buyrugi vazifasi ?	
+==== 
+#Ob’ektlarning aralashib ketmasligi uchun.	
+====
+ajratilganlardan bita ob’ekt yaratish uchun ishlatiladi 	
+====
+Xama ob’ektlarni bittaga  uzgartirish uchun	
+====
+Ob’ektlarni o‘chirish uchun
++++++
+Combine birlashtirish operatsiyasidan keyin nima buladi?	
+==== 
+#ob’ektlar katlamlashadi 	
+====
+Ob’ektlar bir biri ustiga joylashadi	
+====
+Ob’ektlar uz individuallik funksiyasini yukatishadi .	
+====
+ob’ektlar o‘chiriladi
+++++
+RGB rang modelida  kuyidagi parametrlar urnatilgan: 255,0, 0. Bu parametrlarga kanaka rang mos keladi ?	
+==== 
+#Qora	
+====
+qizil	
+====
+yashil	
+====
+ko‘k
+++++
+RGB rang modelida quyidagi   parametrlar: 0, 255, 0  o‘rnatilgan.  Bu parametrlarga qanaqa rang mos tushadi?	
+==== 
+#yashil 	
+====
+qizil	
+====
+qora	
+====
+ko‘k
+++++
+Faylning katta o‘lchamligi kaysi grafikaning kamchiliklaridan biri  	
+==== 
+#rastrli  grafika	
+====
+vektorli grafika	
+====
+fraktal grafika	
+====
+elektron grafika
+++++
+Tasvirning fizik o‘lchovi  nimalarda ifodalanadi	
+==== 
+#nuqta dyuymga (dpi)	
+====
+mm, sm, dyuym yoki  piksel	
+====
+piksellarga	
+====
+mm, sm
+++++
+Rastrli grafik redaktor  nima uchun mo‘ljallangan	
+==== 
+#rasm yaratish va tahrirlash  uchun	
+====
+chizmalar yaratish	
+====
+grafiklar yaratish
+====
+diagrammalar yaratish
+++++
+CMYK modeli komponentalarining asosiy ranglari  sifatida  kanaka ranglar qabul qilingan	
+==== 
+#moviy, purpur, sariq qora 
+====
+qizil, yashil, ko‘k, qora	
+====
+qizil, moviy, sariq, ko‘k	
+====
+moviy, purpur, sariq, oq
+++++
+RGB modeli komponentalarining asosiy ranglari  sifatida  kanaka ranglar qabul qilingan	
+==== 
+#qizil, yashil, ko‘k	
+====
+moviy, purpur, sariq	
+====
+qizil, moviy, sariq	
+====
+purpur, sariq qora
+++++
+RGB modelida quyidagi parametrlar: 255,255, 0-o‘rnatilgan. Bu parametrlarga qanaqa rang mos tushadi?	
+==== 
+#qizil  	
+====
+qora	
+====
+yashil	
+====
+oq
+++++
+Qaysi grafik redaktor rastrli?	
+==== 
+#Paint  	
+====
+Adobe Illustrator	
+====
+Corel Draw	
+====
+3D Studio Max
+++++
+JPEG algoritmi bo‘yicha rastrli grafik fayllarni siqish jarayonida, odatda uning informatsion hajmi kanchaga qisqaradi.	
+==== 
+#100 ga	
+====
+2-3 ga	
+====
+10 - 15 ga	
+====
+ne izmenyaetsya
+++++
+Qaysi  instrument oldingi plandagi ob’eklarga zarar yetkazmasdan fonni o‘chirishga imkon beradi?	
+==== 
+#Fonovыy lastik	
+====
+Volshebnыy lastik	
+====
+Lastik	
+====
+Shtamp
+++++
+Qaysi  instrument  piksellarni bir sohadan ikkinchisiga nusxa olish uchun ishlatiladi?	
+==== 
+#Shtamp	
+====
+Vosstanavlivayuщaya kist	
+====
+Volshebnaya palochka	
+====
+Lasso
+++++
+"Овалная област"  instrumenti qanaqa belgilashga imkon beradi:	
+==== 
+#Elliptik sohani belgilash	
+====
+Piksellarni bir ustunini belgilash	
+==== 
+Piksellarni bir satrini belgilash	
+==== 
+Ixtiyoriy sohaning qismini belgilash
+++++
+Rastr grafikasida tasvir nima asosida quriladi?	
+====
+#chiziq
+==== 	
+vektor	
+====
+kesma	
+====
+nuqta
+++++
+Quyidagi dasturlardan qaysi biri pikselli grafika bilan ishlaydi?
+====
+#Adobe Photoshop
+====
+Adobe Flash
+====
+CorelDRAW	
+====
+AutoCAD
+++++
+Resolution  nima?	
+====
+#Tasvirning xotirada qancha joy egallashini belgilovchi kattalik	 
+====
+1dyum kvadrat tasvirdagi piksellar soni	
+====
+tasvir bo‘yi va enini belgilovchi kattalik	
+====
+tasvir rang parametrlarini belgilovchi kattalik
+++++
+Chop etiladigan tasvirlar uchun qaysi rang palitrasi tavsiya qilinadi?	
+====
+#RGB
+====
+CMYK
+====
+Blake and White	
+====
+Grayscale
+++++
+Internet fayllari uchun Resolution ni qancha qilib olish tavsiya qilinadi?	
+====
+#72dpi
+====
+100 dpi	
+====
+150 dpi	
+====
+300 dpi
+++++
+CorelDRAW dasturida rang panellarni ekranga chiqarish qanday amalga oshiriladi?
+====
+#ekranning panellar soxasida sichqonchaning o‘ng tugmasini bosib, palitralar ro‘yxatidan tanlash orqali 	
+====
+Window (Okno) menyusining Color palettes (Svetovыe palitrы) ro‘yxatidan palitrani tanlash orqali	
+====
+biror rang ustida o‘ng tugmani bosib turish orqali	
+====
+uskunalar panelidan
+++++
+CorelDRAW dasturida ob’ektni bo‘yyashning necha xil usullari bor?
+====
+#besh xil: bir xil rang bilan, gradientli, ikki rangli naqshlar bilan, teksturali, standart naqshlar bilan 	
+====
+to‘rt xil: bir rang bilan, gradientli, teksturali va rasmlar bilan
+====
+ikki xil: bir rang bilan va gradientli bo‘yash usullari	uch xil: 
+====
+bir rang bilan, gradientli va teksturali
+++++
+CorelDRAW dasturida chiziq xususiyatlari deganda qanday parametrlar tushuniladi?	
+====
+#chiziq qalinligi, rangi
+====
+chiziq qalinligi, rangi, turi	
+====
+chiziq turi va qalinligi	
+====
+chiziq rangi va turi
+++++
+CorelDRAW dasturida interaktiv uskunalar qanday vazifani bajaradi?
+====
+#chizilgan ob’ekt shaklini o‘zgartirish
+====
+chizilgan ob’ekt rangini o‘zgartirish	
+====
+bir nechta ob’ektlarni turli effektlar berish orqali bog‘lash yoki belgilangan ob’ektga turli effektlar berish	
+====
+bir nechta ob’ektlarni o‘zaro qo‘shish yoki kesib olish
+++++
+CorelDRAW dasturida yaratilgan fayllar odatda qanday formatga ega bo‘ladi va ularni boshqa formatga o‘tkazish qanday amalga oshiriladi?	
+====
+#*.cdr, File, Export
+====
+*.jpg, File, Save
+====
+*.jpg, File, Save for Web
+====
+*.jpg, File, Import
+++++
+Adobe Photoshop dasturida Layers paneli qanday vazifani bajaradi?	
+====
+#bazada mavjud shakllarni ko‘rsatadi 	
+====
+faylda mavjud stillarni ko‘rsatadi	
+====
+bazada mavjud ranglarni ko‘rsatadi	
+====
+faylda mavjud qatalamlarni ko‘rsatadi
+++++
+Adobe Photoshop dasturida Navigator paneli nima vazifani bajaradi?	
+====
+#ko‘rish kattaligi (masshtab)ni belgilaydi, varoqning bir qismidan ikkinchi qismiga tez o‘tish imkonini beradi	
+====
+chizilgan ob’ektlar uchun tayyor stillardan foydalanib rang berish imkonini yaratadi	
+====
+bajarilgan ishlar ketma-ketligini ko‘rsatib, biror-bir bosqichga qaytish imkonini beradi	
+====
+bazada mavjud shakllarni ko‘rsatadi
+++++
+Adobe Photoshop dasturida Styles paneli nima vazifani bajaradi?	
+====
+#ko‘rish kattaligi (masshtab)ni belgilaydi, varoqning bir qismidan ikkinchi qismiga tez o‘tish imkonini beradi	
+====
+chizilgan ob’ektlar uchun tayyor stillardan foydalanib rang berish imkonini yaratadi	
+====
+bajarilgan ishlar ketma-ketligini ko‘rsatib, biror-bir bosqichga qaytish imkonini beradi	
+====
+bazada mavjud shakllarni ko‘rsatadi
+++++
+Adobe Photoshop dasturida  History paneli nima vazifani bajaradi? 	
+====
+#ko‘rish kattaligi (masshtab)ni belgilaydi, varoqning bir qismidan ikkinchi qismiga tez o‘tish imkonini beradi	
+====
+chizilgan ob’ektlar uchun tayyor stillardan foydalanib rang berish imkonini yaratadi	
+====
+bajarilgan ishlar ketma-ketligini ko‘rsatib, biror-bir bosqichga qaytish imkonini beradi	
+====
+bazada mavjud shakllarni ko‘rsatadi
+++++
+Adobe Photoshop dasturida Feather nima?	
+====
+#rang bo‘yicha belgilash buyrug‘i	
+====
+belgilash yoki kesish chizig‘i qalinligini belgilash buyrug‘i	
+====
+kesib olish buyrug‘i
+====
+nusxa olish buyrug‘i
+++++
+Adobe Photoshop dasturida matndagi satrlararo interval qaysi paneldan o‘rnatiladi?	
+====
+#Layers	
+====
+Styles	
+====
+Paragraph	
+====
+Character
+++++
+Blending Options oynasi Drop Shadow buyrug‘i nima vazifani bajaradi?	
+====
+#ob’ektga tashqi soya berish	
+====
+ob’ektga ichki soya berish	
+====
+ob’ektga tashqi olov yoki nur berish	
+====
+ob’ektga ichki olov yoki nur berish
+++++
+Blending Options oynasi Inner Glow buyrug‘i nima vazifani bajaradi?	
+====
+#ob’ektga tashqi soya berish	
+====
+ob’ektga ichki soya berish	
+====
+ob’ektga tashqi olov yoki nur berish	
+====
+ob’ektga ichki olov yoki nur berish
+++++
+Blending Options oynasi Bevel and Emboss buyrug‘i nima vazifani bajaradi? 	
+====
+#ob’ektga rang jilolarini berish 	
+====
+ob’ektga nur va soyalar berish	
+====
+ob’ektga kontur qo‘shish 	
+====
+ob’ektga gradient jilolarini berish
+++++
+Blending Options oynasi Stroke buyrug‘i nima vazifani bajaradi?	
+====
+#ob’ektga rang jilolarini berish 	
+====
+ob’ektga nur va soyalar berish	
+====
+ob’ektga kontur qo‘shish 	
+====
+ob’ektga gradient jilolarini berish
+++++
+Adobe Photoshop dasturida Opacity  nima?	
+====
+#ob’ekt shaffoflik darajasini o‘rnatish buyrug‘i	
+====
+rang bo‘yicha belgilash buyrug‘i	
+====
+rang chegarasi bo‘yicha belgilash buyrug‘i	
+====
+tanlangan ob’ektning biror bir soxasini to‘rtburchak yoki oval shaklida belgilash buyrug‘i
+++++
+Adobe Photoshop dasturida matnlarni satr usti va ostida joylashtirish qaysi paneldan amalga oshiriladi?	
+====
+#Layers	
+====
+Styles	
+====
+Paragraph	
+====
+Character
+++++
+CorelDRAW dasturida Properties paneli xech qanday ob’ekt belgilanmagan xolda qanday parametrlarni ko‘rsatadi?	
+====
+#qog‘oz o‘lchamlarini,  o‘lchov birligini 	
+====
+ishchi varoqning kitob yoki albom ko‘rinishida ekanligini	
+====
+fayl tarkibidagi boshqa varoqlarning bir xil yoki turli xil ekanligin	
+====
+javoblarning barchasi to‘g‘ri
+++++
+Text - Change case (registr) nima vazifani bajaradi?	
+====
+#matnni yozuvdan egri chiziqlarga o‘tkazish	
+====
+matndagi bosh va kichik xarflar orasidagi munosabatni o‘rnatish	
+====
+matndagi satrlararo intervalni o‘rnatish	
+====
+matndagi so‘zlar orasidagi masofani o‘rnatish
+++++
+Convert to curve (Ctrl+Q) nima vazifani bajaradi?	
+====
+#matnni yozuvdan egri chiziqlarga (rasm xoliga) o‘tkazish	
+====
+matndagi bosh va kichik xarflar orasidagi munosabatni o‘rnatish
+====
+matndagi satrlararo intervalni o‘rnatish	
+====
+matndagi so‘zlar orasidagi masofani o‘rnatish
+++++
+Text - Paragraph Formatting – Line buyrug‘i nima vazifani bajaradi?	
+====
+#matnni yozuvdan egri chiziqlarga o‘tkazish	
+====
+matndagi bosh va kichik xarflar orasidagi munosabatni o‘rnatish	
+====
+matndagi satrlararo intervalni o‘rnatish	
+====
+matndagi so‘zlar orasidagi masofani o‘rnatish
+++++
+Text - Paragraph Formatting – Word buyrug‘i nima vazifani bajaradi?	
+====
+#matnni yozuvdan egri chiziqlarga o‘tkazish	
+====
+matndagi bosh va kichik xarflar orasidagi munosabatni o‘rnatish	
+====
+matndagi satrlararo intervalni o‘rnatish	
+====
+matndagi so‘zlar orasidagi masofani o‘rnatish
+++++
+Text - Fit text to path buyrug‘i nima vazifani bajaradi?	
+====
+#matnni traektoriya bo‘ylab joylashtirish	
+====
+matndagi bosh va kichik xarflar orasidagi munosabatni 
+====
+o‘rnatish	matndagi satrlararo intervalni o‘rnatish	
+====
+matndagi xarflar orasidagi masofani o‘rnatish
+++++
+Text - Paragraph Formatting –Character  buyrug‘i nima vazifani bajaradi?	
+====
+#matnni yozuvdan egri chiziq bo‘ylab joylashtirish	
+====
+matndagi bosh va kichik xarflar orasidagi munosabatni 
+====
+o‘rnatish	matndagi satrlararo intervalni o‘rnatish	
+====
+matndagi xarflar orasidagi masofani o‘rnatish
+++++
+Auto CAD dasturida qaysi panel chizish uskunalarini o‘z ichiga oladi?	
+====
+#Tools	
+====
+Modify	
+====
+Draw	
+====
+Standart
+++++
+Auto CAD dasturida qaysi panel uch o‘lchamli ob’ektlarni chizish imkonini beradi?	
+====
+#Draw	
+====
+Dimension 	
+====
+Shade	
+====
+Solid
+++++
+Auto CAD dasturida qaysi panel chiziq xususiyatlarini o‘rnatadi?	
+====
+#Properties	
+====
+Render	
+====
+Layer	
+====
+Styles
+++++
+Barcha grafik dasturlarda Align paneli nima vazifani bajaradi? 	
+====
+#ob’ektlarning ustma-ust joylashish tartibini belgilaydi	
+====
+ob’ektlarni bir-biriga nisbatan tekislash	
+====
+ob’ektlar nusxasini bir tartibda joylashtirish	
+====
+ob’ektlarni topish
+++++
+Corel DRAW dasturida varoqqa *.jpg formatdagi rasmni joylashtirish uchun ...	
+====
+#File – Export	 
+====
+File – Import	
+====
+File – Import to library 	
+====
+File – Paste Spesial
+++++
+Adobe Photoshop dasturida faylni HTML formatda saqlash uchun . . . 	
+====
+#File – Export	
+====
+File – Import	
+====
+File – Save as 	
+====
+File – Save for Web
+++++
+Macromedia Flash dasturida       quyidagilarining qay biri qatlam bo‘la olmaydi?	
+====
+#Layer	
+====
+Mask	
+====
+Motion Guid	
+====
+Symbol
++++
+Auto CAD dasturida Polyline uskunasi ishlayotganda aylana chizish uchun…
+====
+#klaviaturadan A tugmasini bosib, keyin probelni bosish kerak
+====
+Tools panelidan Arc ni tanlash kerak
+====
+Draw panelidan Arc ni tanlash kerak
+====
+xamma javoblar to‘g‘ri
+++++
+RGB rang modelida asosiy ranglar qaysilar?
+====
+#qizil, yashil, ko‘k
+====
+sariq, qora, oq
+====
+zangori, sariq, qora
+====
+qizil, sariq, qora
+++++
+Rastrli grafikada asosiy element nima hisoblanadi?
+====
+#piksel
+====
+vektor
+====
+chiziq
+====
+nuqta massivi
+++++
+Vektorli grafikada tasvirlar qanday saqlanadi?
+====
+#matematik formulalar orqali
+====
+piksel orqali
+====
+ranglar orqali
+====
+qatlamlar orqali
+++++
+Grafik fayl formatlaridan qaysi biri rastrli hisoblanadi?
+====
+#JPEG
+====
+SVG
+====
+AI
+====
+CDR
+++++
+Qaysi format vektorli grafika hisoblanadi?
+====
+#SVG
+====
+PNG
+====
+BMP
+====
+GIF
+++++
+Piksel nima?
+====
+#tasvirning eng kichik elementi
+====
+rang modeli
+====
+grafik dastur
+====
+format turi
+++++
+Monitor ekranidagi tasvir qanday modelda ishlaydi?
+====
+#RGB
+====
+CMYK
+====
+HSB
+====
+Lab
+++++
+Printerlar asosan qaysi rang modelida ishlaydi?
+====
+#CMYK
+====
+RGB
+====
+HSB
+====
+Lab
+++++
+Grafik muharrir nima?
+====
+#tasvirlarni yaratish va tahrirlash dasturi
+====
+operatsion tizim
+====
+brauzer
+====
+kompilyator
+++++
+GIF formatining asosiy xususiyati nima?
+====
+#animatsiyani qo‘llab-quvvatlaydi
+====
+faqat oq-qora
+====
+vektorli
+====
+3D
+++++
+PNG formatining afzalligi nima?
+====
+#fon shaffofligini qo‘llaydi
+====
+faqat 256 rang
+====
+vektorli
+====
+faqat oq-qora
+++++
+BMP formatining kamchiligi nima?
+====
+#hajmi katta
+====
+rangsiz
+====
+vektorli
+====
+siqilgan
+++++
+Grafik planshet nima uchun ishlatiladi?
+====
+#rasm chizish uchun
+====
+matn yozish uchun
+====
+video ko‘rish uchun
+====
+hisoblash uchun
+++++
+3D grafika nima?
+====
+#uch o‘lchamli tasvirlar
+====
+ikki o‘lchamli tasvirlar
+====
+faqat chiziqlar
+====
+faqat ranglar
+++++
+Render nima?
+====
+#3D tasvirni yakuniy ko‘rinishga keltirish
+====
+rasmni o‘chirish
+====
+rangni o‘zgartirish
+====
+faylni ochish
+++++
+Animatsiya nima?
+====
+#harakatlanuvchi tasvirlar ketma-ketligi
+====
+rasmni kattalashtirish
+====
+rangni o‘zgartirish
+====
+formatni o‘zgartirish
+++++
+Layer (qatlam) nima?
+====
+#tasvirning alohida qismi
+====
+rang modeli
+====
+piksel turi
+====
+format
+++++
+Resolution nima?
+====
+#tasvir aniqligi
+====
+rang turi
+====
+fayl hajmi
+====
+qatlam soni
+++++
+DPI nimani bildiradi?
+====
+#nuqtalar zichligi
+====
+rang modeli
+====
+piksel turi
+====
+fayl formati
+++++
+Antialiasing nima?
+====
+#qirralarni silliqlash
+====
+rangni o‘zgartirish
+====
+tasvirni kesish
+====
+faylni saqlash
+++++
+Gradient nima?
+====
+#ranglar o‘tishi
+====
+qatlam
+====
+format
+====
+piksel
+++++
+Fill nima?
+====
+#rang bilan to‘ldirish
+====
+kesish
+====
+o‘chirish
+====
+chizish
+++++
+Crop nima?
+====
+#rasmni kesish
+====
+rang berish
+====
+kattalashtirish
+====
+saqlash
+++++
+Zoom nima?
+====
+#kattalashtirish/kichraytirish
+====
+rangni o‘zgartirish
+====
+saqlash
+====
+chizish
+++++
+Brush nima?
+====
+#chizish vositasi
+====
+kesish vositasi
+====
+rang modeli
+====
+format
+++++
+Eraser nima?
+====
+#o‘chirgich
+====
+rang berish
+====
+kesish
+====
+saqlash
+++++
+Selection nima?
+====
+#tanlash vositasi
+====
+rang berish
+====
+saqlash
+====
+chizish
+++++
+Maska nima?
+====
+#tasvirni qisman yashirish
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Opacity nima?
+====
+#shaffoflik darajasi
+====
+rang turi
+====
+o‘lcham
+====
+format
+++++
+Hue nima?
+====
+#rang turi
+====
+shaffoflik
+====
+yorqinlik
+====
+kontrast
+++++
+Saturation nima?
+====
+#rang to‘yinganligi
+====
+yorqinlik
+====
+kontrast
+====
+shaffoflik
+++++
+Brightness nima?
+====
+#yorqinlik
+====
+rang
+====
+piksel
+====
+format
+++++
+Contrast nima?
+====
+#ranglar farqi
+====
+yorqinlik
+====
+piksel
+====
+format
+++++
+Vector grafikada sifat nimaga bog‘liq?
+====
+#matematik formulaga
+====
+pikselga
+====
+rangga
+====
+formatga
+++++
+Rastr grafikada sifat nimaga bog‘liq?
+====
+#piksel soniga
+====
+formulaga
+====
+qatlamga
+====
+formatga
+++++
+Qaysi dastur 3D grafika uchun ishlatiladi?
+====
+#Maya
+====
+Paint
+====
+Notepad
+====
+Word
+++++
+Qaysi dastur rastrli grafika uchun?
+====
+#Photoshop
+====
+CorelDraw
+====
+Illustrator
+====
+AutoCAD
+++++
+Qaysi dastur vektorli grafika uchun?
+====
+#CorelDraw
+====
+Photoshop
+====
+Paint
+====
+Maya
+++++
+AutoCAD dasturi nima uchun?
+====
+#chizmalar yaratish
+====
+rasm chizish
+====
+video ko‘rish
+====
+o‘yin o‘ynash
+++++
+Fraktal grafika nimaga asoslanadi?
+====
+#matematik formulalarga
+====
+pikselga
+====
+rangga
+====
+qatlamga
+++++
+3D model nima?
+====
+#uch o‘lchamli obyekt
+====
+2D rasm
+====
+piksel
+====
+rang
+++++
+Tekstura nima?
+====
+#yuzaga berilgan qoplama
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Polygon nima?
+====
+#ko‘p burchakli shakl
+====
+rang
+====
+piksel
+====
+format
+++++
+Wireframe nima?
+====
+#skelet ko‘rinish
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Shading nima?
+====
+#soyalash
+====
+kesish
+====
+rangni o‘chirish
+====
+saqlash
+++++
+Lighting nima?
+====
+#yoritish
+====
+kesish
+====
+rangni o‘chirish
+====
+saqlash
+++++
+Perspective nima?
+====
+#masofa tasviri
+====
+rang
+====
+piksel
+====
+format
+++++
+Bitmap nima?
+====
+#rastrli tasvir
+====
+vektorli tasvir
+====
+3D model
+====
+animatsiya
+++++
+TIFF formati nima?
+====
+#yuqori sifatli rastr format
+====
+vektorli
+====
+3D
+====
+animatsiya
+++++
+EPS formati nima?
+====
+#vektorli format
+====
+rastrli
+====
+3D
+====
+animatsiya
+++++
+AI formati nima?
+====
+#Adobe Illustrator formati
+====
+rastr
+====
+video
+====
+audio
+++++
+CDR formati nima?
+====
+#CorelDraw formati
+====
+rastr
+====
+video
+====
+audio
+++++
+PSD formati nima?
+====
+#Photoshop formati
+====
+video
+====
+audio
+====
+matn
+++++
+Layers panel nima?
+====
+#qatlamlarni boshqarish
+====
+rang berish
+====
+kesish
+====
+saqlash
+++++
+History nima?
+====
+#amallar tarixini saqlash
+====
+rang
+====
+format
+====
+piksel
+++++
+Filter nima?
+====
+#tasvir effektlari
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Transform nima?
+====
+#o‘lcham va shaklni o‘zgartirish
+====
+rangni o‘zgartirish
+====
+saqlash
+====
+kesish
+++++
+Rotate nima?
+====
+#aylantirish
+====
+kesish
+====
+rang berish
+====
+saqlash
+++++
+Flip nima?
+====
+#aks ettirish
+====
+kesish
+====
+rang berish
+====
+saqlash
+++++
+Clone tool nima?
+====
+#nusxa olish vositasi
+====
+kesish
+====
+rang berish
+====
+saqlash
+++++
+Blur nima?
+====
+#xiralashtirish
+====
+aniqlashtirish
+====
+kesish
+====
+saqlash
+++++
+Sharpen nima?
+====
+#aniqlashtirish
+====
+xiralashtirish
+====
+kesish
+====
+Saqlash
+++++
+3D grafika tizimida koordinatalar o‘qlari nechta bo‘ladi?
+====
+#3
+====
+2
+====
+4
+====
+5
+++++
+3D fazoda o‘qlar qanday belgilanadi?
+====
+#X, Y, Z
+====
+A, B, C
+====
+R, G, B
+====
+U, V, W
+++++
+Poligon nima?
+====
+#ko‘p burchakli shakl
+====
+bitta nuqta
+====
+to‘g‘ri chiziq
+====
+egri chiziq
+++++
+Vertex nima?
+====
+#cho‘qqi nuqta
+====
+rang modeli
+====
+tekstura
+====
+piksel
+++++
+Edge nima?
+====
+#qirra
+====
+nuqta
+====
+rang
+====
+tekstura
+++++
+Face nima?
+====
+#yuzasi
+====
+qirra
+====
+nuqta
+====
+rang
+++++
+3D modelda mesh nima?
+====
+#poligonlar to‘plami
+====
+ranglar to‘plami
+====
+teksturalar
+====
+nur
+++++
+Rendering jarayonida qaysi hisob-kitob bajariladi?
+====
+#yorug‘lik va soya
+====
+matn yozish
+====
+audio yozish
+====
+fayl saqlash
+++++
+Z-bufer usuli nimani aniqlaydi?
+====
+#chuqurlikni
+====
+rangni
+====
+teksturani
+====
+harakatni
+++++
+Back-face culling nima?
+====
+#ko‘rinmaydigan yuzalarni olib tashlash
+====
+rangni o‘zgartirish
+====
+tasvirni kattalashtirish
+====
+animatsiya qilish
+++++
+Projection nima?
+====
+#3D dan 2D ga o‘tkazish
+====
+rangni o‘zgartirish
+====
+kesish
+====
+saqlash
+++++
+Orthographic projection nima?
+====
+#parallel proyeksiya
+====
+perspektiv proyeksiya
+====
+rang modeli
+====
+tekstura
+++++
+Perspective projection nima?
+====
+#masofaga qarab kichrayish
+====
+parallel chizish
+====
+rang o‘zgartirish
+====
+tekstura
+++++
+Transformatsiya turlariga qaysilar kiradi?
+====
+#siljitish, aylantirish, masshtablash
+====
+faqat kesish
+====
+faqat rang berish
+====
+faqat saqlash
+++++
+Translation nima?
+====
+#siljitish
+====
+aylantirish
+====
+kattalashtirish
+====
+kesish
+++++
+Rotation nima?
+====
+#aylantirish
+====
+siljitish
+====
+kesish
+====
+rang berish
+++++
+Scaling nima?
+====
+#o‘lchamni o‘zgartirish
+====
+siljitish
+====
+kesish
+====
+rang berish
+++++
+Viewport nima?
+====
+#ko‘rish oynasi
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Clipping nima?
+====
+#ortiqcha qismlarni kesish
+====
+rang berish
+====
+saqlash
+====
+chizish
+++++
+Ray tracing nima?
+====
+#nurlarni kuzatish usuli
+====
+rangni o‘zgartirish
+====
+kesish
+====
+saqlash
+++++
+Rasterization nima?
+====
+#vektorni pikselga aylantirish
+====
+rang berish
+====
+kesish
+====
+saqlash
+++++
+Shader nima?
+====
+#yorug‘likni hisoblash dasturi
+====
+matn yozish
+====
+audio yozish
+====
+fayl saqlash
+++++
+Texture mapping nima?
+====
+#teksturani yuzaga joylash
+====
+rangni o‘chirish
+====
+kesish
+====
+saqlash
+++++
+UV mapping nima?
+====
+#tekstura koordinatalari
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Normal vektor nima?
+====
+#yuzaga perpendikulyar vektor
+====
+rang
+====
+piksel
+====
+format
+++++
+Lighting modeli nima?
+====
+#yoritish modeli
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Phong modeli nima?
+====
+#yorug‘lik modeli
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Gouraud shading nima?
+====
+#interpolatsiyalangan soyalash
+====
+kesish
+====
+saqlash
+====
+rang berish
+++++
+Ambient light nima?
+====
+#atrof muhit yorug‘ligi
+====
+nuqta yorug‘lik
+====
+yo‘nalgan yorug‘lik
+====
+spot yorug‘lik
+++++
+Point light nima?
+====
+#nuqta yorug‘lik manbai
+====
+atrof yorug‘lik
+====
+yo‘nalgan yorug‘lik
+====
+rang modeli
+++++
+Directional light nima?
+====
+#yo‘nalgan yorug‘lik
+====
+nuqta yorug‘lik
+====
+atrof yorug‘lik
+====
+tekstura
+++++
+Spot light nima?
+====
+#yo‘naltirilgan nur
+====
+nuqta yorug‘lik
+====
+atrof yorug‘lik
+====
+rang modeli
+++++
+Frame nima?
+====
+#kadr
+====
+rang
+====
+piksel
+====
+format
+++++
+FPS nima?
+====
+#sekundiga kadrlar soni
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Keyframe nima?
+====
+#asosiy kadr
+====
+oddiy kadr
+====
+rang
+====
+piksel
+++++
+Interpolation nima?
+====
+#oraliq qiymatlarni hisoblash
+====
+kesish
+====
+saqlash
+====
+rang berish
+++++
+Rigging nima?
+====
+#skelet yaratish
+====
+rang berish
+====
+kesish
+====
+saqlash
+++++
+Skinning nima?
+====
+#modelni skeletga bog‘lash
+====
+rang berish
+====
+kesish
+====
+saqlash
+++++
+Collision nima?
+====
+#to‘qnashuv
+====
+rang
+====
+piksel
+====
+format
+++++
+Physics engine nima?
+====
+#fizikani hisoblash tizimi
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+LOD nima?
+====
+#detallanish darajasi
+====
+rang
+====
+piksel
+====
+format
+++++
+Billboard nima?
+====
+#doimo kameraga qaragan obyekt
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Sprite nima?
+====
+#2D obyekt
+====
+3D obyekt
+====
+rang modeli
+====
+format
+++++
+Alpha channel nima?
+====
+#shaffoflik kanali
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Depth test nima?
+====
+#chuqurlikni tekshirish
+====
+rangni tekshirish
+====
+formatni tekshirish
+====
+pikselni tekshirish
+++++
+Scene nima?
+====
+#3D sahna
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Camera nima?
+====
+#ko‘rish nuqtasi
+====
+rang modeli
+====
+format
+====
+piksel
+++++
+Field of view nima?
+====
+#ko‘rish burchagi
+====
+rang
+====
+piksel
+====
+format
+++++
+Near plane nima?
+====
+#yaqin kesish tekisligi
+====
+uzoq tekislik
+====
+rang modeli
+====
+piksel
+++++
+Far plane nima?
+====
+#uzoq kesish tekisligi
+====
+yaqin tekislik
+====
+rang modeli
+====
+piksel
+++++
+Viewport transform nima?
+====
+#koordinatani ekranga moslash
+====
+rang berish
+====
+kesish
+====
+saqlash
+++++

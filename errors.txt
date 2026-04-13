@@ -1,0 +1,84 @@
+[Block 60 | Line 593] ❌ Multiple correct answers: ['(R,G,B) = (1,0,1);', 'qora']
+RGB rang modelining qaysi koeffitsientlari qora ranga mos?
+====
+#(R,G,B) = (1,0,1);	
+====
+(R,G,B) = (1,1,1);	
+====
+(R,G,B) = (1,1,0);	
+====
+birortasiga
+++++
+(0,0.5,0.5)CMY  rangi RGB rang modelidagi   qaysi rangiga mos?
+====
+#qora	
+====
+(0.5,0,0)RGB	
+====
+(0,0.5,0.5)RGB	
+====
+(0,1.5,1.5)RGB
+
+[Block 85 | Line 853] ❌ Multiple correct answers: ['Select>New Channels', 'View>Show>GriD']
+Yangi kanal yaratish uchun quyidagilarni bajarish mumkin:	
+====
+#Select>New Channels       	
+====
+Layer>New>Cresate Channels    	
+====
+Ctrl+Shift+C                      	
+====
+View>Channels  
+++++
+Setkani  kursatish-yashirish kuyidagi buyruk orkali bajarilishi mumkin:	
+====
+#View>Show>GriD                     	
+====
+View>Rules                     	
+====
+WinDow>GriD                             	
+====
+WinDow>Show Rules
+
+[Block 116 | Line 1184] ❌ Multiple correct answers: ['Ob’ektlarning aralashib ketmasligi uchun.', 'ob’ektlar katlamlashadi']
+Group buyrugi vazifasi ?	
+==== 
+#Ob’ektlarning aralashib ketmasligi uchun.	
+====
+ajratilganlardan bita ob’ekt yaratish uchun ishlatiladi 	
+====
+Xama ob’ektlarni bittaga  uzgartirish uchun	
+====
+Ob’ektlarni o‘chirish uchun
+++++
+Combine birlashtirish operatsiyasidan keyin nima buladi?	
+==== 
+#ob’ektlar katlamlashadi 	
+====
+Ob’ektlar bir biri ustiga joylashadi	
+====
+Ob’ektlar uz individuallik funksiyasini yukatishadi .	
+====
+ob’ektlar o‘chiriladi
+
+[Block 165 | Line 1684] ❌ Multiple correct answers: ['Layer', 'klaviaturadan A tugmasini bosib, keyin probelni bosish kerak']
+Macromedia Flash dasturida       quyidagilarining qay biri qatlam bo‘la olmaydi?	
+====
+#Layer	
+====
+Mask	
+====
+Motion Guid	
+====
+Symbol
+++++
+Auto CAD dasturida Polyline uskunasi ishlayotganda aylana chizish uchun…
+====
+#klaviaturadan A tugmasini bosib, keyin probelni bosish kerak
+====
+Tools panelidan Arc ni tanlash kerak
+====
+Draw panelidan Arc ni tanlash kerak
+====
+xamma javoblar to‘g‘ri
+

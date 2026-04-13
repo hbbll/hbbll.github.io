@@ -1,199 +1,275 @@
-Barcha javoblar to'g'ri
-Yarim avtomatlashtirilgan
-Iqtisodiy
-Mavhum
-Haqiqiy
-Konkret
-Oddiy
-Murakkab
-Abstrakt
-Yopiq tizim
-Ochiq tizim
-Aloqa
-Mavjud tizimlarni tahlil qiladi
-Element
-Tirik, ichki
-Tizim
-Mahalliy, global
-Ko'p mezonlilik
-Elementlarni o'zaro bog'lanishi ko'pligi
-Ko'p o'lchovlilik
-Modellash
-Barchasi to'g'ri
-Barchasi to'g'ri
-Sintaktik
-Semantik
-Pragmatik
-Statistik
-Dinamik
-Yagonalik
-Taqribiylik
-Cheklilik
-Adekvatlik
-Aniqlilik
-Translyatsiya
-Hodisa uchun
-Barcha javoblar to'g'ri
-Loyihalashni kuzatish
-Platforma konsepsiyasi
-Loyihalashni kuzatish
-Texnologik masala echimi
-Ma'lum texnologiya va tizimlarni o'rganish
-Platforma konsepsiyasi
-Platforma konsepsiyasi
-Logik loyihalash
-Platforma konsepsiyasi
-Mavjud javoblar to'g'ri
-Texnologik masala echimi
-Texnologik masala echimi
-Barcha javoblar to'g'ri
-Logik loyihalash
-Logik loyihalash
-Logik loyihalash
-Logik loyihalash
-Yuzaki semantik
-Yuqori semantik
-Muloqot
-Muloqot
-Barcha javoblar to'g'ri
-Barcha javoblar to'g'ri
-Barcha javoblar to'g'ri
-Model
-Javoblar to'g'ri
-Qoidalar asosida
-Muloqot asosida
-Markov modeli
-Barcha javoblar to'g'ri
-Determinanlik
-Uzluksizlik
-Korelyasiya
-4 qism
-Barchasi to'g'ri
-2 ta daraja
-Barcha javob to'g'ri
-Dastaki
-Avtomatlashgan
-Mexanizatsiyalashgan
-Avtomatlashtirilgan
-2 tur
-Barchasi mavjud
-Tabiiy
-Tashkiliy tizim
-Tizimni aniqlash
-Barchasi mavjud
-3 xil
-3 xil
-Ichki va tashqi
-3 xil
-Nuqta va chiziqlar orqali
-3 ta unsur
-Mutaxassislar, texnik vositalar, axborotlar
-2 guruh
-3 qism
-Ikkala javob to'g'ri
-Axborot ta'minoti
-Stoxastik
-Masala formallashtiriladi
-Texnologik ta'minot
-Lingvistik ta'minot
-Ergonomik ta'minot
-Texnik ta'minot
-Mutaxassislik ta'minoti
-6 bosqich
-Maqsadni aniqlash
-Texnologiya qurollari turlari
-2 shakl
-Dalillar va qoidalar
-Dalillar
-6 xil maqsad
-Ekspert tizim
-Muammoga yo'naltirilgan amaliy dasturlar paketi
-Kritik vaqtni topish mumkin
-Manbadan chiquvchi yoylar oqimini yig'ish
-Butun sonli dasturlashtirish
-Chiziqli dasturlashtirish
-Elementlar majmuasini bir butunlikda ko'rishga
-Asosiy va muhim masalalardan biri
-Maqsadli axborotni tayyorlash va yig'ish
-Atrof muhit bilan zaxiralar almashishi
-Tuzilmasi, elementlari, muhiti
-Atrof muhit bilan almashish imkoni yo'qligi
-Shart emas
-Taqchil emas
-n=2 bo'lganda
-Qavariq ko'pyoqli
-Tayanch rejani
-Shart
-Hamma vaqt yechimga ega
-Istemol tuguniga teng
-Mumkin
-Hamma vaqt mavjud
-Manba
-Boshlang'ich reja
-Boshlang'ich reja
-Mumkin emas
-Optimal reja
-Musbat
-Ikkala javob ham to'g'ri
-Butun birlikda tasavvur qilish
-Elementlar guruhlariga ajratish
-Qismlarga ajratish
-Hamma elementlar bog'liqligini saqlagan tuzilma
-Determinirlangan
-Real konfliktli holat matematik modeli
-Harakat variantini tanlash qoidalar majmuasi
-Strategiyalar chekli bo'lsa
-Kamida bitta yechimga ega
-Minimaks tamoyili
-Qaytariluvchi bo'lmagan strategiyalar bo'lmasa
-O'yinchi strategiyasi
-Tizimli muammo
-Murakkab nazariy yoki amaliy vaziyat
-Sharhlash, izohlash, talqin qilish
-Ob'yektni tizim sifatida o'rganish metodologiyasi
-Koalision o'yin
-Maksiminli strategiya
-Minimaksli strategiya
-O'yin quyi bahosidan kam bo'lmagan
-Umumiy qiymati
-Optimal strategiyalar va sof baho
-Bo'lishi mumkin
-Manfiymas
-Takrorlanuvchi va shubhasiz befoyda
-Dekompozitsiya, analiz, sintez
-Yagona maqsadga yo'naltirilgan elementlar majmuasi
-Yaxlit majmua sifatida o'rganish metodologiyasi
-Inson ishtirokida tashkil etilgan tizim
-Kibernetika, matematika, sinergetika
-Yaxshi tashkillashtirilgan
-Ochiq, yopiq, aralash
-Murakkab masalalarni tahliliy vositalar bilan
-Barqaror, rivojlanayotgan
-Tabiatan mavjud bo'lgan tizim
-Minimal kesimga teng
-Maksimal oqim optimal plani topiladi
-Maksimal oqim masalasi
-O'yinchining strategiyasi
-Teskari
-Oddiy, murakkab va gipermurakkab
-Koalitsion
-Maksiminli strategiya
-Minimaksli strategiya
-O'yin quyi bahosidan kam bo'lmagan
-Optimal strategiyalar va sof baho
-Tuzilmaviylik, dinamiklik, fanlararo aloqadorlik
-Aloqadorlik darajasi
-Murakkab ishlab chiqarish va texnologik sohalarda
-Kritik yo'l
-Kontur bo'lmasligi kerak
-Yopiq marshrut
-Texnologik yoki resurs bog'liqligi
-Faqat vaqt
-Ko'p maqsadli
-Ergodik
-Boshlang'ichdan tugallovchigacha
-Maksimal
-Kiruvchi oqim → navbat → xizmat → chiqish
-Kiruvchi operasiyalar
-Chiquvchi operasiyalar
-Yoylar bilan tutashtiriladi
++ kompyuter ekranida	  
+Skaner;
+barcha javoblar tug’ri
+WINDOWS operatsion tizimi;
+a,b javob to’g’ri
+Paint dasturi;
+1951 yilda . Forrester tomonidan
+1962 yilda A. Sazerlend tomonidan+ arxitektura,meditsina, dizayn
+kompyuter va foydalanuvchi o’rtasida muloqot o’rnatuvchi vosita
+3 turga
+nukta(piksel)lar yordamida tashkil etildai
+chiziklardan yordamida tashkil topadi
+rastrli, vektorli
+nuqta
+barcha javoblar to’g’ri
+gif, jpeg, bmp, eps, psd
+gif
+jpg
+swf
+to’g’ri javob berilmagan
+3D Studio Max, Maya
+qora
+yorug’lik to’lqin uzunligi va enrgiyasi
+rang modellari
+additiv, subtraktiv, persepsion, kolorimetrik
+qizil, yashil, ko’k
+qizil, yashil, ko’k
+zangori, qirmizi, sariq
+qirmizi, sariq, zangori, qora
+HSB
+Lab
+256^3
+tasvirlash imkoniyati
+a va b jaboblar to’gri
+vektorli
+rastrli
+fraktal
+4
+rastrli
+Adobe Photoshop,+ Flash, Corel Draw
+Fayl (Файл)
+Tasvir bilan ishlash (Изображение)
+Qatlamlar bilan ishlash (Слои)
+Tasvir bilan ishlash (Изображение)
+Belgilash (Выделение)
+Filtr(Фильтр)
+Amallar (Operatsii) palitrasi yordamida
+skaner
+rastrli;+ nuqta;
+piksel;
+rastr;
+tasvir
+avtomatik tarjima algoritmlari
+A. Sazerlend
+grafik displey ishini boshqaruvchi vosita;
+piksel;
+(R,G,B) = (1,0,1);++++ qora
+rastrli
+fraktal
+RGB
+PSD
+PSD
+GIF
+TAB
+Window> WinDow>Hide
+Layer>New>Layer
+Layer>Delete>Layer
+Layer>Arrange>*Send to back
+Lock All
+Layer>New>Layer Set
+Xa
+Layer>Add Layer Mask>Hide All
+Opasity
+Pattern Overlay
+Single Column MArquee Tool
+fayllari mashina xotirasidan kam joy egallashi
+Color Range Lasso
+Corel  Draw
+View
+Similar
+Yexrand
+Select>New Channels++++ View>Show>GriD
+Polyar
+Edit>Transform
+Pen
+Stroke path
+LoCk All
+Satin
+Style
+Stroke path
+selection
+Qavariq ko‘pburchak
+2, 3, 4, 5
+tugriburchakli parallelepiped+ 2, 4, 5
+tverdotelnoy
+yuza
+pikselda kurinadigan qirra
+AutoLISP5
+poligonal vektorli
+uzilishga ega bulgan tur
+berilgan va keyingi kadrda kurinadigan kirralar
+ob’ektlar kutubxonasida joylashgan
+avtomatlashtirilganligi
+vershina
+Xamma tugunlarni
+Kesilgan kismlar uzaro boglik bulib koladi
+Auto Reduce On Erase knopkasi bosilgan xolda uchiriladi
+Pero eni o‘zgarmaydi
+Unlock, Unlock All lardan tashkari xama xarakatlarni blokirovka kiladi.
+Reverse Order
+Xozir biz ishlayotgan katlam.
+Ob’ektlarning aralashib ketmasligi uchun.
+ob’ektlar katlamlashadi
+Qora
+yashil
+rastrli  grafika
+nuqta dyuymga (dpi)
+rasm yaratish va tahrirlash  uchun
+moviy, purpur, sariq qora
+qizil, yashil, ko‘k
+qizil
+Paint
+100 ga
+Fonovыy lastik
+Shtamp
+Elliptik sohani belgilash
+chiziq
+Adobe Photoshop
+Tasvirning xotirada qancha joy egallashini belgilovchi kattalik
+RGB
+72dpi
+ekranning panellar soxasida sichqonchaning o‘ng tugmasini bosib, palitralar ro‘yxatidan tanlash orqali
+besh xil: bir xil rang bilan, gradientli, ikki rangli naqshlar bilan, teksturali, standart naqshlar bilan
+chiziq qalinligi, rangi
+chizilgan ob’ekt shaklini o‘zgartirish
+*.cdr, File, Export
+bazada mavjud shakllarni ko‘rsatadi
+ko‘rish kattaligi (masshtab)ni belgilaydi, varoqning bir qismidan ikkinchi qismiga tez o‘tish imkonini beradi
+ko‘rish kattaligi (masshtab)ni belgilaydi, varoqning bir qismidan ikkinchi qismiga tez o‘tish imkonini beradi
+ko‘rish kattaligi (masshtab)ni belgilaydi, varoqning bir qismidan ikkinchi qismiga tez o‘tish imkonini beradi
+rang bo‘yicha belgilash buyrug‘i
+Layers
+ob’ektga tashqi soya berish
+ob’ektga tashqi soya berish
+ob’ektga rang jilolarini berish
+ob’ektga rang jilolarini berish
+ob’ekt shaffoflik darajasini o‘rnatish buyrug‘i
+Layers
+qog‘oz o‘lchamlarini,  o‘lchov birligini
+matnni yozuvdan egri chiziqlarga o‘tkazish
+matnni yozuvdan egri chiziqlarga (rasm xoliga) o‘tkazish
+matnni yozuvdan egri chiziqlarga o‘tkazish
+matnni yozuvdan egri chiziqlarga o‘tkazish
+matnni traektoriya bo‘ylab joylashtirish
+matnni yozuvdan egri chiziq bo‘ylab joylashtirish
+Tools
+Draw
+Properties
+ob’ektlarning ustma-ust joylashish tartibini belgilaydi
+File – Export
+File – Export
+Layer++++ klaviaturadan A tugmasini bosib, keyin probelni bosish kerak
+qizil, yashil, ko‘k
+piksel
+matematik formulalar orqali
+JPEG
+SVG
+tasvirning eng kichik elementi
+RGB
+CMYK
+tasvirlarni yaratish va tahrirlash dasturi
+animatsiyani qo‘llab-quvvatlaydi
+fon shaffofligini qo‘llaydi
+hajmi katta
+rasm chizish uchun
+uch o‘lchamli tasvirlar
+3D tasvirni yakuniy ko‘rinishga keltirish
+harakatlanuvchi tasvirlar ketma-ketligi
+tasvirning alohida qismi
+tasvir aniqligi
+nuqtalar zichligi
+qirralarni silliqlash
+ranglar o‘tishi
+rang bilan to‘ldirish
+rasmni kesish
+kattalashtirish/kichraytirish
+chizish vositasi
+o‘chirgich
+tanlash vositasi
+tasvirni qisman yashirish
+shaffoflik darajasi
+rang turi
+rang to‘yinganligi
+yorqinlik
+ranglar farqi
+matematik formulaga
+piksel soniga
+Maya
+Photoshop
+CorelDraw
+chizmalar yaratish
+matematik formulalarga
+uch o‘lchamli obyekt
+yuzaga berilgan qoplama
+ko‘p burchakli shakl
+skelet ko‘rinish
+soyalash
+yoritish
+masofa tasviri
+rastrli tasvir
+yuqori sifatli rastr format
+vektorli format
+Adobe Illustrator formati
+CorelDraw formati
+Photoshop formati
+qatlamlarni boshqarish
+amallar tarixini saqlash
+tasvir effektlari
+o‘lcham va shaklni o‘zgartirish
+aylantirish
+aks ettirish
+nusxa olish vositasi
+xiralashtirish
+aniqlashtirish
+3
+X, Y, Z
+ko‘p burchakli shakl
+cho‘qqi nuqta
+qirra
+yuzasi
+poligonlar to‘plami
+yorug‘lik va soya
+chuqurlikni
+ko‘rinmaydigan yuzalarni olib tashlash
+3D dan 2D ga o‘tkazish
+parallel proyeksiya
+masofaga qarab kichrayish
+siljitish, aylantirish, masshtablash
+siljitish
+aylantirish
+o‘lchamni o‘zgartirish
+ko‘rish oynasi
+ortiqcha qismlarni kesish
+nurlarni kuzatish usuli
+vektorni pikselga aylantirish
+yorug‘likni hisoblash dasturi
+teksturani yuzaga joylash
+tekstura koordinatalari
+yuzaga perpendikulyar vektor
+yoritish modeli
+yorug‘lik modeli
+interpolatsiyalangan soyalash
+atrof muhit yorug‘ligi
+nuqta yorug‘lik manbai
+yo‘nalgan yorug‘lik
+yo‘naltirilgan nur
+kadr
+sekundiga kadrlar soni
+asosiy kadr
+oraliq qiymatlarni hisoblash
+skelet yaratish
+modelni skeletga bog‘lash
+to‘qnashuv
+fizikani hisoblash tizimi
+detallanish darajasi
+doimo kameraga qaragan obyekt
+2D obyekt
+shaffoflik kanali
+chuqurlikni tekshirish
+3D sahna
+ko‘rish nuqtasi
+ko‘rish burchagi
+yaqin kesish tekisligi
+uzoq kesish tekisligi
+koordinatani ekranga moslash

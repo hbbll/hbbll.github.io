@@ -1,1095 +1,275 @@
-++++
-....bu orginal-ob'ektlar xossalarini ob'ekt-modellarining mos xossalarini tadkik kilish vositasida o'rganish usulidan iborat jarayondir.
-====
-#modellashtirish
-====
-++++
-Original ob'ektni model ob'ekt bilan almashtirish va ob'ektlar xossalarini ularning modellari yordamida tadkik kilishga ........ deyiladi.
-====
-#modellashtirish nazariyasi
-====
-++++
-Modellar esa modellashtirish nazariyasining ....... tashkil etadi.
-====
-#predmetini
-====
-++++
-Ilmiy tadkikotlar tarixida dastlabki modellashtirish usullaridan biri .......... usulidir.
-====
-#o'xshashlik
-====
-++++
-Modellashtirish jarayoni ..... ta elementni o'z ichiga oladi
-====
-#3
-====
-++++
-.......  deb, odatda, orginalga ekvivalent yoki o'xshash, ammo boshqa  fizik tabiatga ega sistemaga ataladi.
-====
-#Fizik model
-====
-++++
-Abstrakt modellar jumlasiga modellashtirish ob'ektining  tavsiflaydigan ..... ifodalar kiritilishi mumkin. Ular ..... modellar sinfiga tegishli.
-====
-#matematik , matematik
-====
-++++
-....... berilgan ob'ektning muayyan  xossalarini o'rganish maksadida uning tadqiqotchi-sub'ekt tomonidan qandaydir formal (matematik) sistema yordamida quriladigan  obrazidir.
-====
-#Matematik model
-====
-++++
-........ bu real (moddiy) tadqiq etilayotgan sistemalar(maketlar, tajriba nusxalar). Ular orginal bilan to'liq  adekvatlik(moslik) xususiyatiga ega, ammo qimmat.
-====
-#Natural model
-====
-++++
-........ natural va matematik modellar majmuasidan iborat. Bunday ko'rinishdagi modellardan  sistema kismining modelini, uning tavsifi murakkab bo'lgani uchun, matematik ifodalab bo'lmagan holda(inson operator modeli) yoki sistemaning bir qismi boshka qismlari bilan o'zaro bog'lanishda tadkik kilinishi kerak bo'lib, ammo ular hali mavjud emas yoki  ularni qo'llash kimmatga tushadigan xolda foydanaliladi (xisoblash poligonlari, boshkaruvning avtomatlashtirilgan tizimi).
-====
-#Kvazinatural modellar
-====
-++++
-....... fizik tabiati orginal kabi bo'lgan, lekin undan masshtabi bilan farklanadigan sistemalardir(kichiklashtirilgan ob'ektlar,  ob'ektlarning harakatlanuvchi modellari).
-====
-#Masshtabli modellar
-====
-++++
-...... deb orginaldan farq qiladigan fizik tabiatga ega bo'lgan, lekin faoliyat jarayoni bilan orginalga o'xshash sistemalarga aytiladi.
-====
-#Analogli modellar
-====
-++++
-Matematik modellar klasifikatsiyasi asosan necha sinfga ajratiladi.
-====
-#2
-====
-++++
-Amaliy masalalar bir nechta paketlarga bo'linib, kompyuter algebrasi deb ataluvchi bir necha dasturiy ta'minotlar tarkibiga kiritilgan. Bularga quydagilar kiritiladi.
-====
-#Merkury, Maple, Mathematika,   Matsad , Matlab
-====
-++++
-Little Mathworks kompaniyasi xodimi tomonidan  Matlabning 4-avlod EHM ga mo'ljallangan PC Matlab versiyasi ishlab chiqildi
-====
-#80-yillar o'rtalarida
-====
-++++
-Matlab dasturi kim tomonidan yaratilgan - ?
-====
-#Moler
-====
-++++
-Matlab dasturi qachon tomonidan yaratilgan - ?
-====
-#80-yillar oxirid
-====
-++++
-70-yillar oxirida yaratilgan Matlab dasturi asosan nechanchi avlod EHM larida ishlash uchun mo'ljallangan edi.
-====
-#III-avlod
-====
-++++
-Bugungi kunda zamonaviy kompyuterlarda Matlabning 4,5,6 va 7 versiyalarni ko'rish mumkin.
-====
-#4,5,6,7
-====
-++++
-Matlabning qaysi versiyasida 16 bit va 24 bitli RGB ranglar bilan ishlash, yuqori o'lchamli matritsalar bilan ishlash, fazoviy figuralarni chizish faqat sonlar bilan emas, balki matematik formulalar bilan ishlash imkoniyatlari kiritilgan.
-====
-#4-versiyasida
-====
-++++
-Matlab dasturi ishga tushirilganda unda asosan nechta oyna ko'rinadi:
-====
-#3
-====
-++++
-.... oynasi MATLAB dagi barcha buyruqlarni paketlarni va kutubxonalani e'lon qilish oynasi hisoblanadi.
-====
-#Asosiy buyruql
-====
-++++
-....oynasi dastur tarkibida e'lon qilingan o'zgaruvchilarni daraxt ko'rinishida ifodalab boradi.
-====
-#O'zgaruvchilar
-====
-++++
-....oynasida esa dasturda bajarilayotgan buyruqlar ketma-ketligi saqlanib qoladi.
-====
-#Buyruqlar tarixi
-====
-++++
-Matlabda ...(saqlash) komandasi bu - ?
-====
-#Save
-====
-++++
-Matlabda ...(yuklash) komandasi bu - ?
-====
-#Load
-====
-++++
-Matlabda ...(kundalik) komandasi bu -
-====
-#Diary
-====
-++++
-Ekranni tozalaydi va kursorni bo'sh ekranning yuqori chap qismiga joylashtiradi;
-====
-#clc
-====
-++++
-Kursorni ekranning yuqori chap qismiga qaytaradi.
-====
-#home
-====
-++++
-Kompleks sonning butun qismini qaysi funksiya hisoblab beradi.
-====
-#real (z)
-====
-++++
-Kompleks sonning mavxum qismini qaysi funksiya hisoblab beradi.
-====
-#image(z)
-====
-++++
-Kompleks sonning modulini (kattaligini) qaysi funksiya hisoblab beradi.
-====
-#abs(z)
-====
-++++
-Barcha aniqlangan o'zgaruvchilarni yo'qotish qaysi funksiya bajaradi.
-====
-#clear
-====
-++++
-Matlabda ma'lumotlar faqat bir shaklda, ya'ni ... shaklida tashkil qilinadi.
-====
-#Matritsa
-====
-++++
-inf - bu ...
-====
-#mashina cheksizlik qiymati
-====
-++++
-NaN - bu ...
-====
-#ma'lumotni sonli tavsifga ega emasligini ko'rsatuvchi o'zgaruvchi
-====
-++++
-ans - bu ...
-====
-#qiymati boshqa o'zgaruvchiga o'zlashtirilmagan amalning natijasini saqlovchi o'zgaruvchi
-====
-++++
-Ma'lumki,  ko'p xollarda tartiblangan sonlar ketma-ketligini shakllantirish zarurati tug'iladi. Bunday ketma-ketliklar grafik chizishda, jadval yaratishda kerak bo'ladi. Ularni xosil qilish uchun matlabda ..... komandasidan (operatoridan) foydalaniladi.
-====
-#(:) ikki nuqta
-====
-++++
-Matnli izoxlar quyidagi qaysi belgidan keyin yozish mumkin bo'ladi.
-====
-#%
-====
-++++
-Matlabda ma'lumotlar faqat matritsa shaklida tashkil qilinadi ,buning necha usuli bor.
-====
-#3
-====
-++++
-Biror A matritsani transponirlash deganda nima tushuniladi.
-====
-#uni mos qatorlarini ustunlarga almashtirish tushuniladi
-====
-++++
-Matlabda bir nechta matritsalarni birlashtirish uchun qaysi komandadan foydalanamiz.
-====
-#V= cat (<o'lchov> A1, A2, ... )
-====
-++++
-Qaysi komanda A matritsani chapdan o'ngga 180 gradusga ustunlarini almashtirish yo'nalishida buradi.
-====
-#fliplr (A)
-====
-++++
-Qaysi komanda A matritsani pastdan yuqoriga 180 gradusga qatorlarini almashtirish yo'nalishida buradi.
-====
-#flipud (A)
-====
-++++
-Berilgan matritsani soat strelkasiga qarshi 900 ga buruvchi komanda bu...
-====
-#rot90(A)
-====
-++++
-Asosiy diagonalda 1, qolgan elementlari 0 bo'lgan (m*n) matritsa xosil qilish.
-====
-#eye (m,n)
-====
-++++
-Elementlari faqat 1 dan iborat bo'lgan  (m*n) matritsani xosil qilish
-====
-#ones (m, n)
-====
-++++
-Elementlari (0, 1) oraliqda tekis taqsimlangan tasodifiy miqdorlar bo'lgan (m*n) matritsani xosil qilish.
-====
-#rand (m, n)
-====
-++++
-(m*n) o'lchovli faqat nollardan tuzilgan matritsani xosil qilish
-====
-#zeros (m, n)
-====
-++++
-A matritsaning o'lchovi;
-====
-#size (A)
-====
-++++
-A vektor uzunligi (elementlar soni) aniqlash funksiyasi.
-====
-#length (A)
-====
-++++
-A matritsa o'lchovlari soni aniqlash funksiyasi ko'rsating?
-====
-#ndims (A)
-====
-isempty (A)
-====
-length (A)
-====
-size (A)
-++++
-A matritsa  bo'sh bo'lsa 1, aks xolda 0 qiymatni beradi.
-====
-#isempty (A)
-====
-++++
-...berilgan matritsaning diagonaildan yuqori qismini elementlarini 0 bilan almashtirish.
-====
-#tril(A)
-====
-++++
-...komandasi esa matritsaning diagonalidan pastki qismini nollarga aylantiradi:
-====
-#triu(A)
-====
-++++
-...komandasi  berilgan  matritsaning  diagonalida  turgan elementlarni ekranga chiqaradi:
-====
-#diag(A)
-====
-++++
-...Masssiv elementlarini nollardan iborat qilib tuzish.
-====
-#ZEROS
-====
-++++
-...Masssiv elementlarini birlardan iborat qilib tuzish.
-====
-#ONES
-====
-++++
-... Matrisa o'lchamini o'zgartish.
-====
-#RESHAPE
-====
-++++
-Matlabda Vector ko'paytma.
-====
-#CROSS
-====
-++++
-...tenzorli ko'paytmani hosil qilish.
-====
-#KRON
-====
-++++
-...teng munosabatli tugunlar chiziqli massivini    hosil qilish.
-====
-#LINSPACE
-====
-++++
-... logarifmik to'rli tugunlarni hosil qilish.
-====
-#LOGSPACE
-====
-++++
-... ikki o'lchamli va uch o'lchamli to'rlar tugunlarini hosil  qilish.
-====
-#MESHGRID
-====
-++++
-CHiziqli tenglamalar sistemasini echishning aniq usullaridan keng qo'llaniladigan usullar  .......
-====
-#Gauss, Kramer va teskari matritsa
-====
-++++
-CHiziqli tenglamalar sistemasini echishning taqribiy usullariga quyidagilar kiradi.
-====
-#iteratsiyalar (ketma-ket yaqinlashish), Zeydel va kichik kvadratlar
-====
-++++
-CHiziqli tenglamalar sistemasini echishda iteratsiyalar(ketma-ket yaqinlashish ), Zeydel va kichik kvadratlar usullari qanday usullar hisoblanadi?
-====
-#taqribiy usullar
-====
-++++
-CHiziqli tenglamalar sistemasini echishda Gauss, Kramer va teskari matritsa usullari qanday usullar hisoblanadi?
-====
-#aniq usullar
-====
-++++
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B)-Ax=B qanday usul hisoblanadi?
-====
-#kichik kvadratlar usuli bilan echadi
-====
-++++
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B,x0) qanday usul hisoblanadi?
-====
-#aniq berilgan nomanfiy boshlang'ich qiymatlarda echib beradi
-====
-++++
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida [x,w]=isqnonneg(...) qanday usul hisoblanadi?
-====
-#echim bilan birga qoldiqlar vektori kvadrati ikkinchi normasini qaytaradi
-====
-++++
-[x,w,w1]=isqnonneg(...) buyrug'ining vazifasi
-====
-#qoldiqlar vektori w1ni qaytaradi
-====
-++++
-Lagranj  interpolyatsion  ko'phadi  .......  hisoblanadi.
-====
-#Universal  va  sodda
-====
-++++
-Lagranj  interpolyatsion  ko'phadi  universal  va  sodda  bo'lishi  bilan  ayrim kamchiliklarga ham ega. Interpolyatsion ko'pxadi bo'yicha funksiya  qiymatini  hisoblash  uchun  bajarilishi  kerak  bo'lgan  amallar  ......
-====
-#juda  ko'p
-====
-++++
-Lagranj  interpolyatsion  ko'phadida funksiya qiymatlar jadvaliga yana bir qiymat qo'shilsa barcha  ishni  qaytadan  bajarish  kerak  bo'ladi.
-====
-#(xn+1;f(xn))
-====
-++++
-Kamchiliklardan  xoli  bo'lgan interpolyatsion  ko'phad  kim  tomonidan  kashf  qilingan?
-====
-#Nyuton
-====
-++++
-spline(X,Y,Xi) funksiya nima yordamida interpolyatsiyani amalga oshiradi?
-====
-#kubik splaynlar
-====
-++++
-Qaysi  funksiya  kubik  splaynlar  bilan  interpolyatsiyani  amalga  oshiradi?
-====
-#spline(X,Y,Xi)
-====
-++++
-Ma'lumotlarni interpolyatsiyalash uchun qanday protsedurasidan foydalaniladi?
-====
-#interp1
-====
-++++
-Ma'lumotlarni ......  uchun interp1 protsedurasidan foydalaniladi?
-====
-#Interpolyatsiyalash
-====
-++++
-interp1 protsedurasiga qanday murojaat qilinadi.
-====
-#Yi = interp1 (X,Y,X1, '<metod>')
-====
-++++
-'nearest' metodi qanday interpolyatsiya metodi hisoblanadi?
-====
-#pog'onali
-====
-++++
-'linear' metodi qanday interpolyatsiya metodi hisoblanadi?
-====
-#chiziqli
-====
-++++
-'cubic' metodi qanday interpolyatsiya metodi hisoblanadi?
-====
-#Kubik
-====
-++++
-'spline' metodi qanday interpolyatsiya metodi hisoblanadi?
-====
-#Kubik splaynerlar
-====
-++++
-X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  ......    aniqlash  masalasi  approksimatsiya  masalasi deyiladi.
-====
-#Y=P(x)
-====
-++++
-X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  Y=P(x)    aniqlash  masalasi  .......   masalasi deyiladi.
-====
-#Approksimatsiya
-====
-++++
-Ma'lumotlarni polinomial approksimatsiya qilish uchun ....... protsedurasidan foydalaniladi.
-====
-#polyfit (x,y,n)
-====
-++++
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x  .......
-====
-#argumentlar vektori
-====
-++++
-Approksimatsiyalash natijasida uzunligi ..... bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat vektor  hosil bo'ladi.
-====
-#(n+1)
-====
-++++
-Ma'lumotlarni .........  qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi.
-====
-#polinomial approksimatsiya
-====
-++++
-Sesions layer - bu  qanaqa  sath?
-====
-#taqdimlash  sathi;
-====
-++++
-Kvadratik parabola  bilan approksimatsiyalash
-====
-#" polyfit (x,y,2)
-====
-++++
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda y- ........
-====
-#natijalar vektori
-====
-++++
-Kubik parabola bilan approksimatsiyalash
-====
-#" polyfit (x,y,3)
-====
-++++
-Qaysi  nazariya  imkoniyatlarining  birligi  yuqori    samaradorlik    va  aniqlik talablariga  javob  bera  oladigan,  yangi  singnalni  qayta  ishlash  va  tiklash algoritmlarni  ishlab  chiqish  imkoniyatini  beradi?
-====
-#Bazisli splaynlar  va spektral usullar
-====
-++++
-Yaqinlashtirish    usuli  bo'yicha  qanday ishlatiladi.?
-====
-#interpolyatsion  va  siliqlovchi splaynlar
-====
-++++
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x - argumentlar vektori , y- natijalar vektori va n-  ......
-====
-#approksimatsiyalovchi polinomning tartibi
-====
-++++
-Approksimatsiyalash natijasida uzunligi (n+1) bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat.....  hosil bo'ladi.
-====
-#Vektor
-====
-++++
-To'rtinchi darajali parabola bilan approksimatsiyalash
-====
-#"polyfit (x,y,4)
-====
-++++
-Tasvirlash turi  bo'yicha qanday splaynlar ishlatiladi?
-====
-#polinomial va bazisli splaynlar
-====
-++++
-.....  metodlari  asosida  singnallarni  tiklash  koefsentlarini hisoblanadi.
-====
-#Splayn-funksiyalar
-====
-++++
-....  asosida tiklash koefsentlarini hisoblash modellari va algoritmlari ishlab  chiqiladi
-====
-#Kubik splaynlar
-====
-++++
-....   asosida  parallel   hisoblash  strukturasi ishlab  chiqiladi
-====
-#Kubik  bazisli  splayn
-====
-++++
-Eng  kichik  kvadratlar  usuli  yordamida  signallarni  approksimatsiyalash jarayonini  Matlab  tizimining  ........   funksiyasini  qo'llagan  holda aniqlaymiz
-====
-#Polyfit
-====
-++++
-......  funksiyasini qo'llagan holda natijani vizuallashtirish va yaqinlashish xatoligini aniqlaymiz.
-====
-#Polyval
-====
-++++
-Matlab dasturida kerakli algoritmni .......  oynasiga tashlaymiz
-====
-#Editor-Untitlet
-====
-++++
-Kiruvchi  signallarni  identifikatsiyalashda Interpolyatsiyalash oralig'i qanday keltiriladi.
-====
-#a=0.0; b=1.0;
-====
-++++
-Kiruvchi  signallarni  identifikatsiyalashda Vektor interpolyatsiyalash nuqtalarini qanday aniqlaymiz?
-====
-#x=[0 0.1 0.2 0.3 0.35 0.6 0.7 0.9 0.95 1];
-====
-++++
-....bu orginal-ob'ektlar xossalarini ob'ekt-modellarining mos xossalarini tadkik kilish vositasida o'rganish usulidan iborat jarayondir.
-====
-#modellashtirish
-====
-++++
-Original ob'ektni model ob'ekt bilan almashtirish va ob'ektlar xossalarini ularning modellari yordamida tadkik kilishga ........ deyiladi.
-====
-#modellashtirish nazariyasi
-====
-++++
-Modellar esa modellashtirish nazariyasining ....... tashkil etadi.
-====
-#predmetini
-====
-++++
-Ilmiy tadkikotlar tarixida dastlabki modellashtirish usullaridan biri .......... usulidir.
-====
-#o'xshashlik
-====
-++++
-Modellashtirish jarayoni ..... ta elementni o'z ichiga oladi
-====
-#3
-====
-++++
-.......  deb, odatda, orginalga ekvivalent yoki o'xshash, ammo boshqa  fizik tabiatga ega sistemaga ataladi.
-====
-#Fizik model
-====
-++++
-Abstrakt modellar jumlasiga modellashtirish ob'ektining  tavsiflaydigan ..... ifodalar kiritilishi mumkin. Ular ..... modellar sinfiga tegishli.
-====
-#matematik , matematik
-====
-++++
-....... berilgan ob'ektning muayyan  xossalarini o'rganish maksadida uning tadqiqotchi-sub'ekt tomonidan qandaydir formal (matematik) sistema yordamida quriladigan  obrazidir.
-====
-#Matematik model
-====
-++++
-........ bu real (moddiy) tadqiq etilayotgan sistemalar(maketlar, tajriba nusxalar). Ular orginal bilan to'liq  adekvatlik(moslik) xususiyatiga ega, ammo qimmat.
-====
-#Natural model
-====
-++++
-........ natural va matematik modellar majmuasidan iborat. Bunday ko'rinishdagi modellardan  sistema kismining modelini, uning tavsifi murakkab bo'lgani uchun, matematik ifodalab bo'lmagan holda(inson operator modeli) yoki sistemaning bir qismi boshka qismlari bilan o'zaro bog'lanishda tadkik kilinishi kerak bo'lib, ammo ular hali mavjud emas yoki  ularni qo'llash kimmatga tushadigan xolda foydanaliladi (xisoblash poligonlari, boshkaruvning avtomatlashtirilgan tizimi).
-====
-#Kvazinatural modellar
-====
-++++
-....... fizik tabiati orginal kabi bo'lgan, lekin undan masshtabi bilan farklanadigan sistemalardir(kichiklashtirilgan ob'ektlar,  ob'ektlarning harakatlanuvchi modellari).
-====
-#Masshtabli modellar
-====
-++++
-...... deb orginaldan farq qiladigan fizik tabiatga ega bo'lgan, lekin faoliyat jarayoni bilan orginalga o'xshash sistemalarga aytiladi.
-====
-#Analogli modellar
-====
-++++
-Matematik modellar klasifikatsiyasi asosan necha sinfga ajratiladi.
-====
-#2
-====
-++++
-Amaliy masalalar bir nechta paketlarga bo'linib, kompyuter algebrasi deb ataluvchi bir necha dasturiy ta'minotlar tarkibiga kiritilgan. Bularga quydagilar kiritiladi.
-====
-#Merkury, Maple, Mathematika,   Matsad , Matlab
-====
-++++
-Little Mathworks kompaniyasi xodimi tomonidan  Matlabning 4-avlod EHM ga mo'ljallangan PC Matlab versiyasi ishlab chiqildi
-====
-#80-yillar o'rtalarida
-====
-++++
-Matlab dasturi kim tomonidan yaratilgan - ?
-====
-#Moler
-====
-++++
-Matlab dasturi qachon tomonidan yaratilgan - ?
-====
-#80-yillar oxirid
-====
-++++
-70-yillar oxirida yaratilgan Matlab dasturi asosan nechanchi avlod EHM larida ishlash uchun mo'ljallangan edi.
-====
-#III-avlod
-====
-++++
-Bugungi kunda zamonaviy kompyuterlarda Matlabning 4,5,6 va 7 versiyalarni ko'rish mumkin.
-====
-#4,5,6,7
-====
-++++
-Matlabning qaysi versiyasida 16 bit va 24 bitli RGB ranglar bilan ishlash, yuqori o'lchamli matritsalar bilan ishlash, fazoviy figuralarni chizish faqat sonlar bilan emas, balki matematik formulalar bilan ishlash imkoniyatlari kiritilgan.
-====
-#4-versiyasida
-====
-++++
-Matlab dasturi ishga tushirilganda unda asosan nechta oyna ko'rinadi:
-====
-#3
-====
-++++
-.... oynasi MATLAB dagi barcha buyruqlarni paketlarni va kutubxonalani e'lon qilish oynasi hisoblanadi.
-====
-#Asosiy buyruql
-====
-++++
-....oynasi dastur tarkibida e'lon qilingan o'zgaruvchilarni daraxt ko'rinishida ifodalab boradi.
-====
-#O'zgaruvchilar
-====
-++++
-....oynasida esa dasturda bajarilayotgan buyruqlar ketma-ketligi saqlanib qoladi.
-====
-#Buyruqlar tarixi
-====
-++++
-Matlabda ...(saqlash) komandasi bu - ?
-====
-#Save
-====
-++++
-Matlabda ...(yuklash) komandasi bu - ?
-====
-#Load
-====
-++++
-Matlabda ...(kundalik) komandasi bu -
-====
-#Diary
-====
-++++
-Ekranni tozalaydi va kursorni bo'sh ekranning yuqori chap qismiga joylashtiradi;
-====
-#clc
-====
-++++
-Kursorni ekranning yuqori chap qismiga qaytaradi.
-====
-#home
-====
-++++
-Kompleks sonning butun qismini qaysi funksiya hisoblab beradi.
-====
-#real (z)
-====
-++++
-Kompleks sonning mavxum qismini qaysi funksiya hisoblab beradi.
-====
-#image(z)
-====
-++++
-Kompleks sonning modulini (kattaligini) qaysi funksiya hisoblab beradi.
-====
-#abs(z)
-====
-++++
-Barcha aniqlangan o'zgaruvchilarni yo'qotish qaysi funksiya bajaradi.
-====
-#clear
-====
-++++
-Matlabda ma'lumotlar faqat bir shaklda, ya'ni ... shaklida tashkil qilinadi.
-====
-#Matritsa
-====
-++++
-inf - bu ...
-====
-#mashina cheksizlik qiymati
-====
-++++
-NaN - bu ...
-====
-#ma'lumotni sonli tavsifga ega emasligini ko'rsatuvchi o'zgaruvchi
-====
-++++
-ans - bu ...
-====
-#qiymati boshqa o'zgaruvchiga o'zlashtirilmagan amalning natijasini saqlovchi o'zgaruvchi
-====
-++++
-Ma'lumki,  ko'p xollarda tartiblangan sonlar ketma-ketligini shakllantirish zarurati tug'iladi. Bunday ketma-ketliklar grafik chizishda, jadval yaratishda kerak bo'ladi. Ularni xosil qilish uchun matlabda ..... komandasidan (operatoridan) foydalaniladi.
-====
-#(:) ikki nuqta
-====
-++++
-Matnli izoxlar quyidagi qaysi belgidan keyin yozish mumkin bo'ladi.
-====
-#%
-====
-++++
-Matlabda ma'lumotlar faqat matritsa shaklida tashkil qilinadi ,buning necha usuli bor.
-====
-#3
-====
-++++
-Biror A matritsani transponirlash deganda nima tushuniladi.
-====
-#uni mos qatorlarini ustunlarga almashtirish tushuniladi
-====
-++++
-Matlabda bir nechta matritsalarni birlashtirish uchun qaysi komandadan foydalanamiz.
-====
-#V= cat (<o'lchov> A1, A2, ... )
-====
-++++
-Qaysi komanda A matritsani chapdan o'ngga 180 gradusga ustunlarini almashtirish yo'nalishida buradi.
-====
-#fliplr (A)
-====
-++++
-Qaysi komanda A matritsani pastdan yuqoriga 180 gradusga qatorlarini almashtirish yo'nalishida buradi.
-====
-#flipud (A)
-====
-++++
-Berilgan matritsani soat strelkasiga qarshi 900 ga buruvchi komanda bu...
-====
-#rot90(A)
-====
-++++
-Asosiy diagonalda 1, qolgan elementlari 0 bo'lgan (m*n) matritsa xosil qilish.
-====
-#eye (m,n)
-====
-++++
-Elementlari faqat 1 dan iborat bo'lgan  (m*n) matritsani xosil qilish
-====
-#ones (m, n)
-====
-++++
-Elementlari (0, 1) oraliqda tekis taqsimlangan tasodifiy miqdorlar bo'lgan (m*n) matritsani xosil qilish.
-====
-#rand (m, n)
-====
-++++
-(m*n) o'lchovli faqat nollardan tuzilgan matritsani xosil qilish
-====
-#zeros (m, n)
-====
-++++
-A matritsaning o'lchovi;
-====
-#size (A)
-====
-++++
-A vektor uzunligi (elementlar soni) aniqlash funksiyasi.
-====
-#length (A)
-====
-++++
-A matritsa o'lchovlari soni aniqlash funksiyasi ko'rsating?
-====
-#ndims (A)
-====
-++++
-A matritsa  bo'sh bo'lsa 1, aks xolda 0 qiymatni beradi.
-====
-#isempty (A)
-====
-++++
-...berilgan matritsaning diagonaildan yuqori qismini elementlarini 0 bilan almashtirish.
-====
-#tril(A)
-====
-++++
-...komandasi esa matritsaning diagonalidan pastki qismini nollarga aylantiradi:
-====
-#triu(A)
-====
-++++
-...komandasi  berilgan  matritsaning  diagonalida  turgan elementlarni ekranga chiqaradi:
-====
-#diag(A)
-====
-++++
-...Masssiv elementlarini nollardan iborat qilib tuzish.
-====
-#ZEROS
-====
-++++
-...Masssiv elementlarini birlardan iborat qilib tuzish.
-====
-#ONES
-====
-++++
-... Matrisa o'lchamini o'zgartish.
-====
-#RESHAPE
-====
-++++
-Matlabda Vector ko'paytma.
-====
-#CROSS
-====
-++++
-...tenzorli ko'paytmani hosil qilish.
-====
-#KRON
-====
-++++
-...teng munosabatli tugunlar chiziqli massivini    hosil qilish.
-====
-#LINSPACE
-====
-++++
-... logarifmik to'rli tugunlarni hosil qilish.
-====
-#LOGSPACE
-====
-++++
-... ikki o'lchamli va uch o'lchamli to'rlar tugunlarini hosil  qilish.
-====
-#MESHGRID
-====
-++++
-CHiziqli tenglamalar sistemasini echishning aniq usullaridan keng qo'llaniladigan usullar  .......
-====
-#Gauss, Kramer va teskari matritsa
-====
-++++
-CHiziqli tenglamalar sistemasini echishning taqribiy usullariga quyidagilar kiradi.
-====
-#iteratsiyalar (ketma-ket yaqinlashish), Zeydel va kichik kvadratlar
-====
-++++
-Ma'lumotlarni polinomial approksimatsiya qilish uchun ....... protsedurasidan foydalaniladi.
-====
-#polyfit (x,y,n)
-====
-++++
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x  .......
-====
-#argumentlar vektori
-====
-++++
-Approksimatsiyalash natijasida uzunligi ..... bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat vektor  hosil bo'ladi.
-====
-#(n+1)
-====
-++++
-Ma'lumotlarni .........  qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi.
-====
-#polinomial approksimatsiya
-====
-++++
-Sesions layer - bu  qanaqa  sath?
-====
-#taqdimlash  sathi;
-====
-++++
-Kvadratik parabola  bilan approksimatsiyalash
-====
-#" polyfit (x,y,2)
-====
-++++
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda y- ........
-====
-#natijalar vektori
-====
-++++
-Kubik parabola bilan approksimatsiyalash
-====
-#" polyfit (x,y,3)
-====
-++++
-Qaysi  nazariya  imkoniyatlarining  birligi  yuqori    samaradorlik    va  aniqlik talablariga  javob  bera  oladigan,  yangi  singnalni  qayta  ishlash  va  tiklash algoritmlarni  ishlab  chiqish  imkoniyatini  beradi?
-====
-#Bazisli splaynlar  va spektral usullar
-====
-++++
-Yaqinlashtirish    usuli  bo'yicha  qanday ishlatiladi.?
-====
-#interpolyatsion  va  siliqlovchi splaynlar
-====
-++++
-Ma'lumotlarni polinomial approksimatsiya qilish uchun polyfit (x,y,n) protsedurasidan foydalaniladi. Bu yerda x - argumentlar vektori , y- natijalar vektori va n-  ......
-====
-#approksimatsiyalovchi polinomning tartibi
-====
-++++
-Approksimatsiyalash natijasida uzunligi (n+1) bo'lgan va approksimatsiyalovchi polinomal koeffistientlaridan iborat.....  hosil bo'ladi.
-====
-#Vektor
-====
-++++
-To'rtinchi darajali parabola bilan approksimatsiyalash
-====
-#"polyfit (x,y,4)
-====
-++++
-Tasvirlash turi  bo'yicha qanday splaynlar ishlatiladi?
-====
-#polinomial va bazisli splaynlar
-====
-++++
-.....  metodlari  asosida  singnallarni  tiklash  koefsentlarini hisoblanadi.
-====
-#Splayn-funksiyalar
-====
-++++
-....  asosida tiklash koefsentlarini hisoblash modellari va algoritmlari ishlab  chiqiladi
-====
-#Kubik splaynlar
-====
-++++
-....   asosida  parallel   hisoblash  strukturasi ishlab  chiqiladi
-====
-#Kubik  bazisli  splayn
-====
-++++
-Eng  kichik  kvadratlar  usuli  yordamida  signallarni  approksimatsiyalash jarayonini  Matlab  tizimining  ........   funksiyasini  qo'llagan  holda aniqlaymiz
-====
-#Polyfit
-====
-++++
-......  funksiyasini qo'llagan holda natijani vizuallashtirish va yaqinlashish xatoligini aniqlaymiz.
-====
-#Polyval
-====
-++++
-Matlab dasturida kerakli algoritmni .......  oynasiga tashlaymiz
-====
-#Editor-Untitlet
-====
-++++
-Kiruvchi  signallarni  identifikatsiyalashda Interpolyatsiyalash oralig'i qanday keltiriladi.
-====
-#a=0.0; b=1.0;
-====
-++++
-Kiruvchi  signallarni  identifikatsiyalashda Vektor interpolyatsiyalash nuqtalarini qanday aniqlaymiz?
-====
-#x=[0 0.1 0.2 0.3 0.35 0.6 0.7 0.9 0.95 1];
-====
-++++
-CHiziqli tenglamalar sistemasini echishda iteratsiyalar(ketma-ket yaqinlashish ), Zeydel va kichik kvadratlar usullari qanday usullar hisoblanadi?
-====
-#taqribiy usullar
-====
-++++
-CHiziqli tenglamalar sistemasini echishda Gauss, Kramer va teskari matritsa usullari qanday usullar hisoblanadi?
-====
-#aniq usullar
-====
-++++
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B)-Ax=B qanday usul hisoblanadi?
-====
-#kichik kvadratlar usuli bilan echadi
-====
-++++
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida x=isqnonneg(A,B,x0) qanday usul hisoblanadi?
-====
-#aniq berilgan nomanfiy boshlang'ich qiymatlarda echib beradi
-====
-++++
-CHiziqli tenglamalar sistemasini echishning Matlab usullarida [x,w]=isqnonneg(...) qanday usul hisoblanadi?
-====
-#echim bilan birga qoldiqlar vektori kvadrati ikkinchi normasini qaytaradi
-====
-++++
-[x,w,w1]=isqnonneg(...) buyrug'ining vazifasi
-====
-#qoldiqlar vektori w1ni qaytaradi
-====
-++++
-Lagranj  interpolyatsion  ko'phadi  .......  hisoblanadi.
-====
-#Universal  va  sodda
-====
-++++
-Lagranj  interpolyatsion  ko'phadi  universal  va  sodda  bo'lishi  bilan  ayrim kamchiliklarga ham ega. Interpolyatsion ko'pxadi bo'yicha funksiya  qiymatini  hisoblash  uchun  bajarilishi  kerak  bo'lgan  amallar  ......
-====
-#juda  ko'p
-====
-++++
-Lagranj  interpolyatsion  ko'phadida funksiya qiymatlar jadvaliga yana bir qiymat qo'shilsa barcha  ishni  qaytadan  bajarish  kerak  bo'ladi.
-====
-#(xn+1;f(xn))
-====
-++++
-Kamchiliklardan  xoli  bo'lgan interpolyatsion  ko'phad  kim  tomonidan  kashf  qilingan?
-====
-#Nyuton
-====
-++++
-spline(X,Y,Xi) funksiya nima yordamida interpolyatsiyani amalga oshiradi?
-====
-#kubik splaynlar
-====
-++++
-Qaysi  funksiya  kubik  splaynlar  bilan  interpolyatsiyani  amalga  oshiradi?
-====
-#spline(X,Y,Xi)
-====
-++++
-Ma'lumotlarni interpolyatsiyalash uchun qanday protsedurasidan foydalaniladi?
-====
-#interp1
-====
-++++
-Ma'lumotlarni ......  uchun interp1 protsedurasidan foydalaniladi?
-====
-#Interpolyatsiyalash
-====
-++++
-interp1 protsedurasiga qanday murojaat qilinadi.
-====
-#Yi = interp1 (X,Y,X1, '<metod>')
-====
-++++
-'nearest' metodi qanday interpolyatsiya metodi hisoblanadi?
-====
-#pog'onali
-====
-++++
-'linear' metodi qanday interpolyatsiya metodi hisoblanadi?
-====
-#chiziqli
-====
-++++
-'cubic' metodi qanday interpolyatsiya metodi hisoblanadi?
-====
-#Kubik
-====
-++++
-'spline' metodi qanday interpolyatsiya metodi hisoblanadi?
-====
-#Kubik splaynerlar
-====
-++++
-X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  Y=P(x)    aniqlash  masalasi  .......   masalasi deyiladi.
-====
-#Approksimatsiya
-====
-++++
-X  va  U    o'zgaruvchilar  orasidagi funksional  bog'lanishni  ......    aniqlash  masalasi  approksimatsiya  masalasi deyiladi.
-====
-#Y=P(x)
-====
++ kompyuter ekranida	  
++ Skaner;
++ barcha javoblar tug’ri
++ WINDOWS operatsion tizimi;
++ a,b javob to’g’ri
++ Paint dasturi;
++ 1951 yilda . Forrester tomonidan
++ 1962 yilda A. Sazerlend tomonidan+ arxitektura,meditsina, dizayn
++ kompyuter va foydalanuvchi o’rtasida muloqot o’rnatuvchi vosita
++ 3 turga
++ nukta(piksel)lar yordamida tashkil etildai
++ chiziklardan yordamida tashkil topadi
++ rastrli, vektorli
++ nuqta
++ barcha javoblar to’g’ri
++ gif, jpeg, bmp, eps, psd
++ gif
++ jpg
++ swf
++ to’g’ri javob berilmagan
++ 3D Studio Max, Maya
++ qora
++ yorug’lik to’lqin uzunligi va enrgiyasi
++ rang modellari
++ additiv, subtraktiv, persepsion, kolorimetrik
++ qizil, yashil, ko’k
++ qizil, yashil, ko’k
++ zangori, qirmizi, sariq
++ qirmizi, sariq, zangori, qora
++ HSB
++ Lab
++ 256^3
++ tasvirlash imkoniyati
++ a va b jaboblar to’gri
++ vektorli
++ rastrli
++ fraktal
++ 4
++ rastrli
++ Adobe Photoshop,+ Flash, Corel Draw
++ Fayl (Файл)
++ Tasvir bilan ishlash (Изображение)
++ Qatlamlar bilan ishlash (Слои)
++ Tasvir bilan ishlash (Изображение)
++ Belgilash (Выделение)
++ Filtr(Фильтр)
++ Amallar (Operatsii) palitrasi yordamida
++ skaner
++ rastrli;+ nuqta;
++ piksel;
++ rastr;
++ tasvir
++ avtomatik tarjima algoritmlari
++ A. Sazerlend
++ grafik displey ishini boshqaruvchi vosita;
++ piksel;
++ (R,G,B) = (1,0,1);++++ qora
++ rastrli
++ fraktal
++ RGB
++ PSD
++ PSD
++ GIF
++ TAB
++ Window> WinDow>Hide
++ Layer>New>Layer
++ Layer>Delete>Layer
++ Layer>Arrange>*Send to back
++ Lock All
++ Layer>New>Layer Set
++ Xa
++ Layer>Add Layer Mask>Hide All
++ Opasity
++ Pattern Overlay
++ Single Column MArquee Tool
++ fayllari mashina xotirasidan kam joy egallashi
++ Color Range Lasso
++ Corel  Draw
++ View
++ Similar
++ Yexrand
++ Select>New Channels++++ View>Show>GriD
++ Polyar
++ Edit>Transform
++ Pen
++ Stroke path
++ LoCk All
++ Satin
++ Style
++ Stroke path
++ selection
++ Qavariq ko‘pburchak
++ 2, 3, 4, 5
++ tugriburchakli parallelepiped+ 2, 4, 5
++ tverdotelnoy
++ yuza
++ pikselda kurinadigan qirra
++ AutoLISP5
++ poligonal vektorli
++ uzilishga ega bulgan tur
++ berilgan va keyingi kadrda kurinadigan kirralar
++ ob’ektlar kutubxonasida joylashgan
++ avtomatlashtirilganligi
++ vershina
++ Xamma tugunlarni
++ Kesilgan kismlar uzaro boglik bulib koladi
++ Auto Reduce On Erase knopkasi bosilgan xolda uchiriladi
++ Pero eni o‘zgarmaydi
++ Unlock, Unlock All lardan tashkari xama xarakatlarni blokirovka kiladi.
++ Reverse Order
++ Xozir biz ishlayotgan katlam.
++ Ob’ektlarning aralashib ketmasligi uchun.
++ ob’ektlar katlamlashadi
++ Qora
++ yashil
++ rastrli  grafika
++ nuqta dyuymga (dpi)
++ rasm yaratish va tahrirlash  uchun
++ moviy, purpur, sariq qora
++ qizil, yashil, ko‘k
++ qizil
++ Paint
++ 100 ga
++ Fonovыy lastik
++ Shtamp
++ Elliptik sohani belgilash
++ chiziq
++ Adobe Photoshop
++ Tasvirning xotirada qancha joy egallashini belgilovchi kattalik
++ RGB
++ 72dpi
++ ekranning panellar soxasida sichqonchaning o‘ng tugmasini bosib, palitralar ro‘yxatidan tanlash orqali
++ besh xil: bir xil rang bilan, gradientli, ikki rangli naqshlar bilan, teksturali, standart naqshlar bilan
++ chiziq qalinligi, rangi
++ chizilgan ob’ekt shaklini o‘zgartirish
++ *.cdr, File, Export
++ bazada mavjud shakllarni ko‘rsatadi
++ ko‘rish kattaligi (masshtab)ni belgilaydi, varoqning bir qismidan ikkinchi qismiga tez o‘tish imkonini beradi
++ ko‘rish kattaligi (masshtab)ni belgilaydi, varoqning bir qismidan ikkinchi qismiga tez o‘tish imkonini beradi
++ ko‘rish kattaligi (masshtab)ni belgilaydi, varoqning bir qismidan ikkinchi qismiga tez o‘tish imkonini beradi
++ rang bo‘yicha belgilash buyrug‘i
++ Layers
++ ob’ektga tashqi soya berish
++ ob’ektga tashqi soya berish
++ ob’ektga rang jilolarini berish
++ ob’ektga rang jilolarini berish
++ ob’ekt shaffoflik darajasini o‘rnatish buyrug‘i
++ Layers
++ qog‘oz o‘lchamlarini,  o‘lchov birligini
++ matnni yozuvdan egri chiziqlarga o‘tkazish
++ matnni yozuvdan egri chiziqlarga (rasm xoliga) o‘tkazish
++ matnni yozuvdan egri chiziqlarga o‘tkazish
++ matnni yozuvdan egri chiziqlarga o‘tkazish
++ matnni traektoriya bo‘ylab joylashtirish
++ matnni yozuvdan egri chiziq bo‘ylab joylashtirish
++ Tools
++ Draw
++ Properties
++ ob’ektlarning ustma-ust joylashish tartibini belgilaydi
++ File – Export
++ File – Export
++ Layer++++ klaviaturadan A tugmasini bosib, keyin probelni bosish kerak
++ qizil, yashil, ko‘k
++ piksel
++ matematik formulalar orqali
++ JPEG
++ SVG
++ tasvirning eng kichik elementi
++ RGB
++ CMYK
++ tasvirlarni yaratish va tahrirlash dasturi
++ animatsiyani qo‘llab-quvvatlaydi
++ fon shaffofligini qo‘llaydi
++ hajmi katta
++ rasm chizish uchun
++ uch o‘lchamli tasvirlar
++ 3D tasvirni yakuniy ko‘rinishga keltirish
++ harakatlanuvchi tasvirlar ketma-ketligi
++ tasvirning alohida qismi
++ tasvir aniqligi
++ nuqtalar zichligi
++ qirralarni silliqlash
++ ranglar o‘tishi
++ rang bilan to‘ldirish
++ rasmni kesish
++ kattalashtirish/kichraytirish
++ chizish vositasi
++ o‘chirgich
++ tanlash vositasi
++ tasvirni qisman yashirish
++ shaffoflik darajasi
++ rang turi
++ rang to‘yinganligi
++ yorqinlik
++ ranglar farqi
++ matematik formulaga
++ piksel soniga
++ Maya
++ Photoshop
++ CorelDraw
++ chizmalar yaratish
++ matematik formulalarga
++ uch o‘lchamli obyekt
++ yuzaga berilgan qoplama
++ ko‘p burchakli shakl
++ skelet ko‘rinish
++ soyalash
++ yoritish
++ masofa tasviri
++ rastrli tasvir
++ yuqori sifatli rastr format
++ vektorli format
++ Adobe Illustrator formati
++ CorelDraw formati
++ Photoshop formati
++ qatlamlarni boshqarish
++ amallar tarixini saqlash
++ tasvir effektlari
++ o‘lcham va shaklni o‘zgartirish
++ aylantirish
++ aks ettirish
++ nusxa olish vositasi
++ xiralashtirish
++ aniqlashtirish
++ 3
++ X, Y, Z
++ ko‘p burchakli shakl
++ cho‘qqi nuqta
++ qirra
++ yuzasi
++ poligonlar to‘plami
++ yorug‘lik va soya
++ chuqurlikni
++ ko‘rinmaydigan yuzalarni olib tashlash
++ 3D dan 2D ga o‘tkazish
++ parallel proyeksiya
++ masofaga qarab kichrayish
++ siljitish, aylantirish, masshtablash
++ siljitish
++ aylantirish
++ o‘lchamni o‘zgartirish
++ ko‘rish oynasi
++ ortiqcha qismlarni kesish
++ nurlarni kuzatish usuli
++ vektorni pikselga aylantirish
++ yorug‘likni hisoblash dasturi
++ teksturani yuzaga joylash
++ tekstura koordinatalari
++ yuzaga perpendikulyar vektor
++ yoritish modeli
++ yorug‘lik modeli
++ interpolatsiyalangan soyalash
++ atrof muhit yorug‘ligi
++ nuqta yorug‘lik manbai
++ yo‘nalgan yorug‘lik
++ yo‘naltirilgan nur
++ kadr
++ sekundiga kadrlar soni
++ asosiy kadr
++ oraliq qiymatlarni hisoblash
++ skelet yaratish
++ modelni skeletga bog‘lash
++ to‘qnashuv
++ fizikani hisoblash tizimi
++ detallanish darajasi
++ doimo kameraga qaragan obyekt
++ 2D obyekt
++ shaffoflik kanali
++ chuqurlikni tekshirish
++ 3D sahna
++ ko‘rish nuqtasi
++ ko‘rish burchagi
++ yaqin kesish tekisligi
++ uzoq kesish tekisligi
++ koordinatani ekranga moslash

@@ -1,199 +1,275 @@
-Tizim turlari to‘g‘ri ko‘rsatilgan qatorni belgilang
-Texnikaviy vosita va inson ishtirokidan iborat tizim?
-Tug‘ilish va o‘lim bilan bog‘liq tizim?
-Tizim elementi tasavvurdan iborat bo‘lsa bu tizim...
-Tug‘ilish, o‘lim va qayta ishlab chiqarishga bog‘liq tizim?
-Mavjud tizimni kamida ikki ob’yekti bo‘lsa bu tizim…
-Ichki bir xil turdagi element va ular orasidagi aloqadorlikdan iborat tizim?
-Ichki har xil turdagi element va ular orasidagi aloqadorlikdan iborat tizim?
-Tizim turlari to‘g‘ri ko‘rsatilmagan qatorni belgilang.
-Tizim atrofidagi biror muhit bilan bog‘lanmasa...
-Tizim atrofidagi biror muhit bilan bog‘lansa…
-Element va energiya orasidagi bog‘liqlik?
-Tizimli tahlil  fani shug‘ullanadigan soha.
-Tizimning bo‘linmaydigan asosiy qismi.
-Element turlari to‘g‘ri ko‘rsatilgan qator.
-Bir biri bilan to‘g‘ridan to‘g‘ri bog‘langan elementlar to‘lami…
-Murakkab tizim qismlari.
-Tizimga bog‘liq bo‘lgan xususiyat keltirilgan qator.
-Tizimga bog‘liq bo‘lgan xususiyat keltirilgan qator.
-Tizimga bog‘liq bo‘lgan xususiyat keltirilgan qator.
-Bir abstrakt strukturani boshqa struktura orqali ifodalash bu...
-Model turlari to‘g‘ri keltirilgan qatoni ko‘rsating.
-Model turlari to‘g‘ri keltirilgan qatoni ko‘rsating.
-Belgilar orasidagi munosabat?
-Belgilarni asl ma’nosini o‘rganadigan munosabat.
-Xotiradagi belgilarni ishlatish uchun ishlatiluvchi munosabat.
-Tizimning strukturaviy modeli.
-Tizimning funktsional modeli.
-Ob’yekt o‘zining xossalari va boshqa ob’yekt bilan bog‘liqligi.
-Modelning aniq va soddaligi
-Modellarning son qiymatlari bilan farqlanishi.
-Qo‘yilgan muammoni to‘liq hal qiladigan model.
-Modelning konkret ifodalanishi.
-Kremniylik komplyasiya qanday usulda quriladi?
-Kremniylik komplyasiya nima uchun zarur?
-Loyihalashni kuzatishda bajariladigan ishlar.
-Ishlash rejasini echish qaysi bosqichda amalga oshiriladi?
-Platformaga talab qaysi bosqichda aniqlanadi?
-Hisobotni rasmiylashtirish bosqichi.
-Ishlab chiqarishda masalalarni to‘plash bosqichi.
-Platforma konsepsiyasini ishlab chiqish jarayonlari berilgan qator.
-Platformani asosiy talablarini hal qilish bosqichi.
-Ma’lum texnologiya va tizimlarni o‘rganish jarayoni.
-Loyihalash jarayonining logik ko‘rinishini ishlab chiqish bosqichi.
-Natijani umumlashtirish va loyihalash jarayonini tayyorlash.
-Texnologik masalani ishlab chiqarish.
-Tizimning texnologik masalasini ishlab chiqish jarayoni.
-Logik loyihani ishlab chiqarish.
-Qo‘llaniladigan interfeysni ishlash chiqarish bosqichi.
-Ma’lumotlarni logik strukturasini ishlab chiqarish bosqichi.
-Logik sxemalar ishlab chiqarish bosqichi.
-Interfeyslar ishlab chiqarish bosqichi.
-Semantikada matnni ko‘rinishini tushunish.
-Semantikada matnni ayni ma’nosini tushunish.
-Semantikada matnni keng ma’noda ma’nosini to‘liq tushunish.
-Semantikada matn orqali fikr almashishni tushunish.
-Foydalanuvchi interfeysini yaratish uslublari to‘g‘ri keltirilgan qator.
-Foydalanuvchi interfeysini yaratish uslublari to‘g‘ri keltirilgan qator
-Foydalanuvchi interfeysini yaratish uslublari to‘g‘ri keltirilgan qator.
-Mavjud ob’yektni tasvirlash usuli.
-Foydalanuvchi interfeyslari ko‘rinishi berilgan qator.
-Alfavit  raqamli interfeys qurilish usuli.
-Grafik interfeys qurilish usuli
-Har qanday t  vaqt mobaynida ixtiyoriy tizim holatining ehtimoli kelajakda faqat o‘z holatiga bog‘liq bo‘lsa...
-Markov hodisasiga tegishli hususiyatlarni belgilang
-Tizimning bir holatdan ikkinchi holatiga o‘tishi oldindan ma’lum bo‘lsa bu hususiyat...
-Tizimni bir holatdan ikkinchi bir holatga o‘tishi nodiskret vaqt davomida amalga oshsa bu hususiyat...
-Juft qiymatlar yoki bir necha qiymatlar orasidagi bog‘lanish bu...
-Tizim asosan necha qismdan iborat?
-Tizimning asosiy qismlari keltirilgan qatorni belgilang.
-Axborot tizimlarini texnik darajasi bo‘yicha necha qismga ajratish mumkin?
-Axborot tizimlarini texnik darajalari ko‘rsatilgan qator
-Ishlov berish jarayonini barchasi qo‘lda bajarilsa bunday tizim...
-Ma’lumotlarni qidirish, ishlov berish, saqlash va to‘plash kompyuterda bajarilsa bunday tizim...
-Ishlov berish jarayoni mexanik vositalar yordamida bajarilsa bunday tizim...
-Ma’lumotlarni qidirish, ishlov berish, saqlash va to‘plash kompyuterda bajarilsa bunday tizim...
-Atrof-muhit sektorlari necha turga bo‘linadi?
-Atrof – muhit sektorlari keltirilgan qator
-Agar standart fizikaviy yoki tabiiy fanlar tizimida ifodalangan bo‘lsa bunday standart...
-Tizimda raxbariyat tomondan qabul qilingan qarorlar, rejalar, maqsadga yo‘naltiruvchi talablar mavjud bo‘lsa bu...
-Tizim yaratishda bir necha talablar orasidan eng muhimini ajratib olish.
-Maksimal texnik tizim ko‘rsatkichlari keltirilgan qator.
-Murakkab texnik tizim hususiyatlari necha xil?
-Tizim bog‘lanishlari ko‘rinishlari necha xil?
-Tizim bog‘lanishlari ko‘rinishlari keltirilgan qator.
-Dasturiy modellashtirishning asosiy prinsiplari necha xil?
-Karkas modellashtirish ifodalangan javob.
-Axborot tizimini shakllanishi uchun necha xil unsur mavjud  bo‘lishi shart?
-Axborot tizimini rivojlantiruvchi unsurlar.
-Axborot tizimlarini asosan necha guruxga ajratish mumkin?
-Maqsadli faoliyat ko‘rsatuvchi tizim necha qismdan iborat?
-Foydalanuvchi tomonidan berilgan talabga mos ravishda axborotlarni saqlash va ma’lumot berishga asoslangan tizim.
-Boo‘qarish sub’ekti faoliyatida xizmat qiluvchi barcha ma’lumotlar to‘plami.
-Aniqmaslik sharoitida ishlab chiqilgan tizim modeli ... deb aytiladi
-Tizimning matematik modelini qurish jarayonida
-To‘plangan ma’lumotlarni qayta ishlash jarayoni.
-Axborotlarni ifodalashda tegishli belgi va ifodalar to‘plami.
-Axborotli texnologiyalarning faoliyati uchun tegishli shart-sharoitlarni mavjudligi.
-Avtomatlarni qayta ishlashda mos holda tegishli vositalar bilan ta’minlash.
-Axborot texnologiyalari tizimlari bilan ta’minlash.
-Axborot tizimlarini rivojlanishi necha bosqichda amalga oshgan?
-Qaror qabul qilish va uni tayyorlashning birinchi bosqichi.
-Axborot texnologiyalarining bo‘linish belgisi nima?
-Bilimlarni ekspert tizimda necha shakli mavjud?
-Bilimlarni ekspert tizimga taqdim etishda kerakli shakllari.
-Hodisa va jarayonlarni sifat ko‘rsatkichlari bu...
-Ekspert tizimlar necha xil maqsadda foydalaniladi?
-Foydalanuvchilar qarorlarini tayyorlashning tor ixtisoslashtirilgan sohasida bilimlarni qayta ishlash tizimi.
-Aniq bir funktsional sohada biror vazifani hal etish uchun mo'ljallangan dasturiy maxsulotlar.
-Operasiyalar kompleksining tarmoq grafigida operasiyalar davomiyligi berilgan bo’lsa …
-Tarmoqdagi oqim miqdorini aniqlash uchun … zarur.
-Tayinlash haqidagi masala … bir turi hisoblanadi.
-Tayinlash haqidagi ixtiyoriy masala  … usullari bilan eychiladi.
-Tizimli tahlilning birinchi tamoili … qaratilgan talabPervыm prinsipom  sistemnogo analiza  yavlyaetsya trebovanie, napravlennoe
-Tizimli tahlil masalalarida maqsadlarni muvofiqlashtirish … hisoblanadi.
-Amaliy masalalarni hal qilish uchun tizimli tahlil proseduralari to’g’ri ko’rsatilgan ro’yxatni ko’rsating
-Ochiq tizimlar … xarakterlanadi.
-Tizim traektoriyasi uning … bilan aniqlanadi.
-Yopiq tizimlar … xarakterlanadi.
-Agar chiziqli dasturlashtirish masalasining maqsadli funksiyasi maksi-mumga intilsa, masalaning optimal rejasining rejalar to’plamida quyidan chegaralanganligi
-Agar chiziqli dasturlashtirish masalasining tengsizlik ko’rinishidagi biror sharti qat’iy tengsizlik bo’lib bajarilsa, u holda bu shartga mos resurs
-Chiziqli dasturlashtirish masalasini geometrik usul bilan yechish faqat … qo’llash mumkin.
-Chiziqli dasturlashtirish masalasining bo’sh bo’lmagan yechimlar to’plami  … tashkil etadi
-Ko’p yoqlining har bir uchi … ifodalaydi.
-Agar chiziqli dasturlashtirish masalasining  maqsadli funksiyasi minimumga intilsa, masalaning optimal rejasining rejalar to’plamida quyidan chegaralanganligi
-Transport masalasining yopiq modeli
-Maksimal oqim haqidagi masalada manbadan istemol tuguniga yo’nalgan maksimal oqim qiymati
-Ko’p manbalari va qo’yilmalari bo’lgan tarmoqda maksimal oqimni  aniqlash masalasini  bitta manba va bitta qo’yilmasi bo’lgan masalasiga keltirish …
-Transport masalasining optimal rejasi
-Agar maksimal oqim to’g’risidagi masalada tarmog’ning  biror bir tuguni noldan katta intensivlikga ega bo’lsa u ... bo’ladi.
-Transport masalasi uchun minimal xarajatlar yordamida ... aniqlanadi.
-Transport masalasi uchun shimoliy-g’arbiy burchak  yordamida ... aniqlanadi.
-Mashinalar soni ikkitadan katta bo’lganda ishlarni taqsimlash masalasini Djonson algoritmi yordamida yechish
-Transport masalasi uchun potensiallar usuli yordamida  ... aniqlanadi.
-Chiziqli dasturlashtirish masalasini simplek-usul yordamida yechganda hal qiluvchi element hamma vaqt ... bo’ladi.
-Tizimning tahlili - bu
-Tizimning sintezi – bu
-Tizimning tuzilmasi – bu
-Tizimning dekompozisiyasi – bu
-Tizim iyerarxiyasi – bu
-Aniqlik sharoitida ishlab chiqilgan tizim modeli ... deb aytiladi.
-O’yinlar nazariyasiga asosan o’yin bu -
-O’yinchi strategiyasi bu –
-O’yin chekli deyiladi agar
-O’yinlar nazariyasining asosiy teoremasiga ko’ra nol yig’indili ikki o’yinchining ixtiyoriy chekli o’yini
-Agar nol yig’indili ikki o’yinchi o’yininig matrisasi egar nuqtani o’z ichida saqlasa, u holda yechim ... tamoili bilan topiladi
-Nol yig’indili ikki o’yinchi o’yininig matrisasini soddalashtirish
-O’yin jarayonida vujudga kelgan holatga bog’liq ravishda o’yinchining  har yurishida harakat variantini aniqlovchi qoidalar majmuasinima deb ataladi?
-Tizimning joriy holati bilan kutilayotgan holati oʻrtasidagi farq nima deb ataladi?
-Muammo, bu-
-Asosiy tushunchalarni interpretasiyalash nima?
-Tizimli yondashuv nima?
-Agar o’yinchilar qandaydir guruhlar tashkil qila olsalar o’yin nima deb ataladi?
-Nol yig’indili o’yinda o’yin quyi bahosini ta’minlovchi strategiya qanday ataladi?
-Nol yig’indili o’yinda o’yin yuqori bahosini ta’minlovchi strategiya qanday ataladi?
-Nol yig’indili o’yinda agar o’yinchi o’zining maksminli strategiyasini qo’llasa raqibining ixtiyoriy yurishida, unga ...  yutuq kafolatlangan
-Egar nuqtaga ega bo’lgan nol yig’indili o’yinda o’yinning sof bahosi - bu
-Egar nuqtasiga ega bo’lgan nol yig’indili o’yin yechimi ... dan iborat.
-Nol yig’indili ikki shaxs o’yining to’lov matrisasi  bittadan ortiq egar nuqtasiga ega
-Tabiat bilan o’yin tavakkal matrisasi elementlari  ... bo’ladi.
-Matrisali o’yinni soddalash-tirish uchun to’lov matrisasidan ...  strategiya-larga mos keluvchi satrlar va/yoki qatorlarni olib tashlash kerak.
-Tizimli tahlil strukturasi qanday?
-Tizim tushunchasi qaysi javobda toʻg’ri koʻrsatilgan?
-Tizimli yondashuvning ta’rifi qaysi oʻrinda toʻg’ri koʻrsatilgan?
-Sun’iy tizim nima?
-Tizimli tahlil qaysi fanlar negizida vujudga kelgan?
-Tashkillashtirilganlik darajasiga koʻra tizimlar turlari qanday?
-Tashqi muhit bilan aloqasiga koʻra tizimlar turlari qanday?
-Tizimli tahlilga toʻg’ri va toʻliq berilgan ta’rifini koʻrsating
-Rivojlanish tabiatiga koʻra tizimlar turlari qanday?
-Tabiiy tizim?
-Tarmoqdagi oqimning maksimal … teng bo’ladi.
-Ford usuli yordamida
-Ford-Falkerson teoremasi yordamida qaysi masala yechiladi?
-Ikki o’yinchining nol yig’indili matrisaviy o’yinida o’yinchining har bir shaxsiy yurishida o’yin jarayonida yuz bergan vaziyatdan kelib chiqib tadbir variantini tanlash yo’lini belgilovchi qoidalar majmui nima deb ataladi?
-Maksimal oqim haqidagi masalada, agar biror zanjir yoyning yo’nalishi shu zanjirdagi harakat yo’nali-shiga mos kelmasa, u holda bu yoy nima deb ataladi?
-Murakkablik darajasiga koʻra tizimlar turlari?
-Tarmoqdagi oqimning maksimal … teng bo’ladi.
-Agar o’yin qatnashchilari qandaydir guruhlar tashkil qila olsalar o’yin qanday ataladi?
-Nol yig’indili o’yinda o’yin quyi bahosini ta’minlovchi strategiya qanday ataladi?
-Nol yig’indili o’yinda o’yin yuqori bahosini ta’minlovchi strategiya qanday ataladi?
-Nol yig’indili o’yinda agar o’yinchi o’zining maksminli strategiyasini qo’llasa raqibining ixtiyoriy yurishida, unga ...  yutuq kafolatlangan
-Ikki o’yinchining nol yig’indili o’yinida egar nuqta mavjud bo’lsa, uning yechimi … bo’ladi.
-Tizimli tahlilning asosiy tamoyillari?
-Tahlilga berilgan qaysi ta’rif toʻg’ri?
-Tizimli tahlil dastlab qaysi sohalarda qoʻllanilgan?
-Tarmoq grafigidagi vaqt bo’yicha eng uzun yo’l nima deb ataladi?
-Operasiyalar kompleksining tarmoq grafigida
-Operasiyalar kompleksining tarmoq grafigida kontur – bu
-Tarmoq grafigida soxta operasiya (yoki mantiqiy bog’lanish)
-Tarmoq grafigida kutish operasiyasi – bu quyidagilarni sarflashni talab qiladi
-Bittadan ko’p yakunlovchi hodisaga ega tarmoq grafigi nima deb ataladi?
-Agar Markov zanjirida har bir holatga ixtiyoriy holatdan chekli sondagi qadamda o’tish mumkin bo’lsa, u holda bu Markov zanjiri nima deb ataladi?
-Tarmoq grafigidagi to’la yo’l – bu shunday yo’lki, uning
-Operasiyalar kompleksining tarmoq grafigini rejalashtirishda kritik yo’l – bu uzunligi vaqt bo’yicha quyidagicha bo’lgan yo’ldir
-Ommaviy xizmat ko’rsatish sistemasi uchun asosiy tarkibiy elementlarining to’g’ri ketma -ketligi quyidagilardir
-Operasiyalar kompleksining tarmoq grafigida muayyan bir hodisaning sodir bo’lishiga olib keluvchi operasiyalar nima deb ataladi?
-Operasiyalar kompleksining tarmoq grafigida muayyan bir hodisa sodir bo’lishi bilan boshlanishi mumkin bo’lgan  operasiyalar nima deb ataladi?
-Operasiyalar kompleksining tarmoq grafigida uchlarning ixtiyoriy ikkitasi
+RGB rang modeli qaerda ishlatiladi
+Axborotlarni kompyuterning diskiga grafikli axborot sifatida ko’chiradigan kurilmaning nomini aniqlang
+Monitor kurilmasining grafikli rejimdagi koordinata nuqtalar soni qaysi javobda tug’ri ko’rsatilgan?
+Qaysi operatsion tizimni grafikli operatsion tizim deb atash mumkin?
+“Ruhsat” turlari
+Windows operatsion tizimining standart dasturlaridan kaysi bir dastur grafiklar bilan ishlash imkoniyatini beradi?
+Nechanchi yilda  kim tomonidan birinchi kompyuter uchun displey yaratilgan.
+Nechanchi yilda  kim tomonidan   «Bloknot» nomli kompyuter grafikasi dasturi yaratildi.? Kompyuter grafikasining qo’llanilish soxalari qaysi bandda to’liq ko’rsatilgan
+Grafik interfeys-……..
+Kompyuter grafikasi necha turga bo’linadi.
+Rastrli grafikada tasvirlar……….
+Vektorli grafikada tasvirlar……..
+Raqamli tasvirlarning ko’rinishlari berilgan javobni aniqlang?
+Rastrli grafikada tasvir tashkil etuvchilari berilgan javoni aniqlang?
+Vektorli grafikada tasvir tashkil etuvchilari berilgan javoni aniqlang?
+Grafik fayllarning formatlari berilgan javobni aniqlang ?
+O’zida 256 xil rangni jamlovchi animasion grafik tasvirlarni saqlovchi format ko’rsatilgan javobni aniqlang?
+O’zida milliondan ortiq rangni jamlovchi grafik tasvirlarni saqlovchi format ko’rsatilgan javobni aniqlang?
+Animasiya tasvirlarni saqlovchi format ko’rsatilgan javobni aniqlang?
+Photoshop hujjati formati ko’rsatilgan javobni aniqlang?
+3 o’lchovli grafika yaratish dasturlari berilgan javobni aniqlang?
+Quyidagi ranglardan qaysi biri oq rang tarkibida yo’q?
+Ranglarning xarakterlovchi parametrlar qaysi javobda berilgan?
+Ranglarni nazariy va miqdoriy tavsiflash tizimiga nima deb ataladi?
+Rang modellari berilgan javobni aniqlang?
+Additiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?
+RGB rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?
+Subtraktiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?
+CMYK subtraktiv rang modelida qaysi ranglar asosiy ranglar sifatida ishlatiladi?
+Ravshanlik va ranglilikka qarab ranglarni aniqlash modellari berilgan javobni aniqlang?
+Ravshanlik va ranglilikni ikki o’lchovi asosida ranglarni aniqlash modellari berilgan javobni aniqlang?
+RGB rang modelida necha xil rangni hosil qilish mumkin?
+Tasvirni ekranda aks ettirish imkoniyati yoki qog’ozda bosmalashda sifatini aniqlovchi ko’rsatgichga nima deyiladi?
+Tasvirning o’lchamini o’zgartirish uchun qanday almashtirishlar amalga oshiriladi?
+Rasmni kattalashtirganda ham uning sifati o’zgarmaydigan grafika turiga …grafika deyiladi?
+Rasmni kattalashtirganda zinapoyasimon qirralar paydo bo’lishi bilan farqlanadigan grafika turiga …grafika deyiladi?
+Matematik tenglamalar bilan hosil qilinadigan grafika turiga …grafika deyiladi?
+Bez’e egri chizig’ini yasash uchun nechta nuqta olish lozim?
+Skaner, raqamli fotoapparat, videokamera yordamida hosil qilinadigan grafika turi qaysi javobda berilgan?
+Rastrli grafika hosil qilish dasturlarini aniqlang?? Vektroli grafika hosil qilish dasturlarini aniqlang?
+Photoshop dasturida tashqi fayllarni import (qabul) qilish menyuning qaysi bandi orqali amalga oshiriladi?
+Photoshop dasturida tasvir o’lchamini o’zgartirish menyuning qaysi bandi orqali amalga oshiriladi?
+Photoshop dasturida tasvir qatlamlarini birlashtirish menyuning qaysi bandi orqali amalga oshiriladi?
+Photoshop dasturida tasvir ranglarini to’g’rilash menyuning qaysi bandi orqali amalga oshiriladi?
+Photoshop dasturida tasvir qismlarini belgilash menyuning qaysi bandi orqali amalga oshiriladi?
+Photoshop dasturida tasvirga turli effektlar qo’llash menyuning qaysi bandi orqali amalga oshiriladi?
+Photoshop dasturida amallar ketma –ketligini avtomatlashtirish qaysi buyruq yordamida amalga oshiriladi?
+Qog’oz hujjatlarni elektron shaklga o’tkazish qurilmasi qaysi javobda berilgan?
+Nuqtalar majmuasi ko‘rinishida tasvirlanadigan grafika qanday ataladi?? Rangli displey ekranidagi piksel nima sifatida tasvirlanadi?
+Ekran displeyining nuqtali elementi deb-
+Ekranda piksellar gorizontal va vertikal ustunlardan tashkillashtirilgan to‘r qanday ataladi
+Kompyuter  grafikasi vositalarining oxirgi natijasi qo‘yidagi hisoblanadi:
+Qaysi soha kompyuter  grafikasi tadbiqi bilan bog‘lanmagan?
+Ekranda chizish imkonini beradigan grafik dasturning birinchi avtori kim?
+Videoadapter – bu
+Rastr elementi -bu
+RGB rang modelining qaysi koeffitsientlari qora ranga mos?? (0,0.5,0.5)CMY  rangi RGB rang modelidagi   qaysi rangiga mos?
+Adobe Photoshop kanday grafikani taxrirlash redaktori xisoblanadi?
+Adobe Photoshop dasturi kaysi grafika turlari bilan  ishlamaydi?.
+Adobe Photoshop dasturi kaysi rang modelari bilan ishlaydi
+Adobe Photoshop fayl kengaytmasi:
+Adobe Photoshop dasturinin kaysi fayl turlarida History, Action, sloi, kanalы saklanadi  ?
+Web sahifada  kaysi grafik fayl formatlari ishlatiladi?
+Xamma palitralarni yashirish uchun kuyidagi klavish kombinatsiyusini bosish zarur:
+Instrumentlar palitrasini yashirish uchun kuyidagi xarakatlarni bajarish zarur:
+Yangi katlamni  kushish uchun kuyidagi buyruklarni bajarish zarur:
+Katlam kuyidagicha uchiriladi:
+Katlamni yukoriga siljitish uchun kuyidagi xarakatlarni bajarish zarur:
+Adobe Photoshop dasturidagi mumkin bulgan blokirovka turlarini kursating:
+Bir necha qatlamlar  quyidagicha yaratiladi:
+Adobe Photoshop dasturida bog‘langan qatlamlarini yaratish imkoniyati mavjudmi?
+Qatlam maskasini quyidagicha yaratish mumkin:
+Qatlam shaffofsizligi qatlam palitrasidagi silgitgich yordamida boshkariladi
+Adobe Photoshop dasturi qaysi sloy stillari bilan ishlaydi.
+Kengligi 1 piksel bo‘lgan satrni qaysi instrumentlar belgilashga imkon beradi?
+Vektorli grafikaning yutuklari
+Quyida keltirilgan instrumentlardan qaysilari Lasso guruhiga  taaluqli emas?
+Vektorli grafikaning redaktorlari
+Kaysi menyu yordamida  ekran kurinishini  tiklash mumkin?
+Kaysi bandlar  Select  menyusi tarkibiga qarashli emas :
+Kaysi bandlar  Modify menyusida mavjud emas?
+Yangi kanal yaratish uchun quyidagilarni bajarish mumkin:? Setkani  kursatish-yashirish kuyidagi buyruk orkali bajarilishi mumkin:
+Adobe Photoshop dasturi quyidagi kursor ko‘rinishlari bilan ishlashga imkoniyat bermaydi:
+Tasvirni deformatsiyalash uchun quyidagi harakatlarni bajarish kerak:
+Konturga bog‘lanish nuqtalarini qo‘shish uchun quyidagi instrumentdan foydalaniladi:
+Konturni ta’kidlash (obvodka) uchun quyidagi buyruqni tanlash zarur:
+Adobe Photoshop dasturi qaysi blokirovka ko‘rinishlari bilan ishlamaydi:
+Adobe Photoshop dasturida keltirilgan stillarni qaysilari mavjud emas
+Quyida keltirilgan parametrlardan qaysilari Rectangular Marquee Tool instrumentiga taaluqli emas?
+Ishchi  konturni begilangan maydon chegarasiga aylantirish uchun kontekst menyudagi  Path palitrasida quyidagi buyruqni tanlash zarur:
+Adobe Photoshop dasturida qaysi palitra yo‘q?
+Roberts  algoritmida  har bir qirra quyidagicha bo‘lishi talab etiladi
+Vektor-poligonal modelning bazoviy elementi sifatida ketirilganlardan: 
+Qirralarni  taqqoslash uchun ko‘pincha cheklangan tana sifatida quyidagi ishlatiladi
+Kompyuter grafikasida ob’ektni quyidagi modellar ko‘rinishida tasvirlash mumkin: ? Kompyuter grafikasida hajmli model quyidagicha ham ataladi
+Kompyuter grafikasida poligonal model quyidagicha  ataladi
+s-bufer usulida har bir ekran satri uchun har bir pikselga beriladigan ro‘yxat qo‘llanadi
+AutoCAD sistemasiga quyidagi dasturlash tili kiritilgan
+Uch o‘lchovli kompyuter grafikasining zamonaviy sistemalarida keng tarqalgan model
+Vektorli poligonal model va teng o‘lchovli (ravnomernaya) to‘r -setka model xillari hisoblanishi mumkin
+Vaktinchalik  kogerentlik bu :
+Poser bazaviy figuralarning hammasi...
+Geometrik modellashtirish konstruksiyalashning yadrosini nima tashkil etadi
+Vektor-poligonal modelning bosh bazaviy elementi :
+Shape instrumenti bilan chuzish, kisish va burashlarni amalga oshirish uchun nechta tugunni  ajratish lozim?
+Knife instrmenti bilan ob’ektni kesishda nima sodir buladi?
+Eraser instrumenti ob’ektning kismini uchira oladimi ?
+Smude instrumentining  Add dryout schetchigining kanday kiymatida pero eni uzgarmaydi?
+Look Objekt buyrugi kanday ishlaydi?
+Ob’ektlarning joylashish tartibini Arrange menyusining kaysi buyrugi bilan  invertatsiya kilish mumkin ?
+Kaysi katlamlar Master Page  ni saklaydi ?
+Group buyrugi vazifasi ?
+Combine birlashtirish operatsiyasidan keyin nima buladi?
+RGB rang modelida  kuyidagi parametrlar urnatilgan: 255,0, 0. Bu parametrlarga kanaka rang mos keladi ?
+RGB rang modelida quyidagi   parametrlar: 0, 255, 0  o‘rnatilgan.  Bu parametrlarga qanaqa rang mos tushadi?
+Faylning katta o‘lchamligi kaysi grafikaning kamchiliklaridan biri
+Tasvirning fizik o‘lchovi  nimalarda ifodalanadi
+Rastrli grafik redaktor  nima uchun mo‘ljallangan
+CMYK modeli komponentalarining asosiy ranglari  sifatida  kanaka ranglar qabul qilingan
+RGB modeli komponentalarining asosiy ranglari  sifatida  kanaka ranglar qabul qilingan
+RGB modelida quyidagi parametrlar: 255,255, 0-o‘rnatilgan. Bu parametrlarga qanaqa rang mos tushadi?
+Qaysi grafik redaktor rastrli?
+JPEG algoritmi bo‘yicha rastrli grafik fayllarni siqish jarayonida, odatda uning informatsion hajmi kanchaga qisqaradi.
+Qaysi  instrument oldingi plandagi ob’eklarga zarar yetkazmasdan fonni o‘chirishga imkon beradi?
+Qaysi  instrument  piksellarni bir sohadan ikkinchisiga nusxa olish uchun ishlatiladi?
+"Овалная област"  instrumenti qanaqa belgilashga imkon beradi:
+Rastr grafikasida tasvir nima asosida quriladi?
+Quyidagi dasturlardan qaysi biri pikselli grafika bilan ishlaydi?
+Resolution  nima?
+Chop etiladigan tasvirlar uchun qaysi rang palitrasi tavsiya qilinadi?
+Internet fayllari uchun Resolution ni qancha qilib olish tavsiya qilinadi?
+CorelDRAW dasturida rang panellarni ekranga chiqarish qanday amalga oshiriladi?
+CorelDRAW dasturida ob’ektni bo‘yyashning necha xil usullari bor?
+CorelDRAW dasturida chiziq xususiyatlari deganda qanday parametrlar tushuniladi?
+CorelDRAW dasturida interaktiv uskunalar qanday vazifani bajaradi?
+CorelDRAW dasturida yaratilgan fayllar odatda qanday formatga ega bo‘ladi va ularni boshqa formatga o‘tkazish qanday amalga oshiriladi?
+Adobe Photoshop dasturida Layers paneli qanday vazifani bajaradi?
+Adobe Photoshop dasturida Navigator paneli nima vazifani bajaradi?
+Adobe Photoshop dasturida Styles paneli nima vazifani bajaradi?
+Adobe Photoshop dasturida  History paneli nima vazifani bajaradi?
+Adobe Photoshop dasturida Feather nima?
+Adobe Photoshop dasturida matndagi satrlararo interval qaysi paneldan o‘rnatiladi?
+Blending Options oynasi Drop Shadow buyrug‘i nima vazifani bajaradi?
+Blending Options oynasi Inner Glow buyrug‘i nima vazifani bajaradi?
+Blending Options oynasi Bevel and Emboss buyrug‘i nima vazifani bajaradi?
+Blending Options oynasi Stroke buyrug‘i nima vazifani bajaradi?
+Adobe Photoshop dasturida Opacity  nima?
+Adobe Photoshop dasturida matnlarni satr usti va ostida joylashtirish qaysi paneldan amalga oshiriladi?
+CorelDRAW dasturida Properties paneli xech qanday ob’ekt belgilanmagan xolda qanday parametrlarni ko‘rsatadi?
+Text - Change case (registr) nima vazifani bajaradi?
+Convert to curve (Ctrl+Q) nima vazifani bajaradi?
+Text - Paragraph Formatting – Line buyrug‘i nima vazifani bajaradi?
+Text - Paragraph Formatting – Word buyrug‘i nima vazifani bajaradi?
+Text - Fit text to path buyrug‘i nima vazifani bajaradi?
+Text - Paragraph Formatting –Character  buyrug‘i nima vazifani bajaradi?
+Auto CAD dasturida qaysi panel chizish uskunalarini o‘z ichiga oladi?
+Auto CAD dasturida qaysi panel uch o‘lchamli ob’ektlarni chizish imkonini beradi?
+Auto CAD dasturida qaysi panel chiziq xususiyatlarini o‘rnatadi?
+Barcha grafik dasturlarda Align paneli nima vazifani bajaradi?
+Corel DRAW dasturida varoqqa *.jpg formatdagi rasmni joylashtirish uchun ...
+Adobe Photoshop dasturida faylni HTML formatda saqlash uchun . . .
+Macromedia Flash dasturida       quyidagilarining qay biri qatlam bo‘la olmaydi?? Auto CAD dasturida Polyline uskunasi ishlayotganda aylana chizish uchun…
+RGB rang modelida asosiy ranglar qaysilar?
+Rastrli grafikada asosiy element nima hisoblanadi?
+Vektorli grafikada tasvirlar qanday saqlanadi?
+Grafik fayl formatlaridan qaysi biri rastrli hisoblanadi?
+Qaysi format vektorli grafika hisoblanadi?
+Piksel nima?
+Monitor ekranidagi tasvir qanday modelda ishlaydi?
+Printerlar asosan qaysi rang modelida ishlaydi?
+Grafik muharrir nima?
+GIF formatining asosiy xususiyati nima?
+PNG formatining afzalligi nima?
+BMP formatining kamchiligi nima?
+Grafik planshet nima uchun ishlatiladi?
+3D grafika nima?
+Render nima?
+Animatsiya nima?
+Layer (qatlam) nima?
+Resolution nima?
+DPI nimani bildiradi?
+Antialiasing nima?
+Gradient nima?
+Fill nima?
+Crop nima?
+Zoom nima?
+Brush nima?
+Eraser nima?
+Selection nima?
+Maska nima?
+Opacity nima?
+Hue nima?
+Saturation nima?
+Brightness nima?
+Contrast nima?
+Vector grafikada sifat nimaga bog‘liq?
+Rastr grafikada sifat nimaga bog‘liq?
+Qaysi dastur 3D grafika uchun ishlatiladi?
+Qaysi dastur rastrli grafika uchun?
+Qaysi dastur vektorli grafika uchun?
+AutoCAD dasturi nima uchun?
+Fraktal grafika nimaga asoslanadi?
+3D model nima?
+Tekstura nima?
+Polygon nima?
+Wireframe nima?
+Shading nima?
+Lighting nima?
+Perspective nima?
+Bitmap nima?
+TIFF formati nima?
+EPS formati nima?
+AI formati nima?
+CDR formati nima?
+PSD formati nima?
+Layers panel nima?
+History nima?
+Filter nima?
+Transform nima?
+Rotate nima?
+Flip nima?
+Clone tool nima?
+Blur nima?
+Sharpen nima?
+3D grafika tizimida koordinatalar o‘qlari nechta bo‘ladi?
+3D fazoda o‘qlar qanday belgilanadi?
+Poligon nima?
+Vertex nima?
+Edge nima?
+Face nima?
+3D modelda mesh nima?
+Rendering jarayonida qaysi hisob-kitob bajariladi?
+Z-bufer usuli nimani aniqlaydi?
+Back-face culling nima?
+Projection nima?
+Orthographic projection nima?
+Perspective projection nima?
+Transformatsiya turlariga qaysilar kiradi?
+Translation nima?
+Rotation nima?
+Scaling nima?
+Viewport nima?
+Clipping nima?
+Ray tracing nima?
+Rasterization nima?
+Shader nima?
+Texture mapping nima?
+UV mapping nima?
+Normal vektor nima?
+Lighting modeli nima?
+Phong modeli nima?
+Gouraud shading nima?
+Ambient light nima?
+Point light nima?
+Directional light nima?
+Spot light nima?
+Frame nima?
+FPS nima?
+Keyframe nima?
+Interpolation nima?
+Rigging nima?
+Skinning nima?
+Collision nima?
+Physics engine nima?
+LOD nima?
+Billboard nima?
+Sprite nima?
+Alpha channel nima?
+Depth test nima?
+Scene nima?
+Camera nima?
+Field of view nima?
+Near plane nima?
+Far plane nima?
+Viewport transform nima?
